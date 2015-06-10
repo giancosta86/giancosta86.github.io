@@ -1,0 +1,28 @@
+# Site settings
+title: Gianluca Costa's Creations
+description: "Gianluca Costa's website"
+url: "http://gianlucacosta.info"
+author:
+  name: "Gianluca Costa"
+  url: "http://gianlucacosta.info"
+
+# Build settings
+baseurl: /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "7.5"
