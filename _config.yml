@@ -25,4 +25,4 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "7.5"
+version: "8.0"
