@@ -1,6 +1,6 @@
 # Site settings
 title: Gianluca Costa's Creations
-description: "Gianluca Costa's website"
+description: "Gianluca Costa - Code & Poetry"
 url: "http://gianlucacosta.info"
 author:
   name: "Gianluca Costa"
@@ -9,6 +9,11 @@ author:
 # Build settings
 baseurl: /
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 source: .
 destination: ./_site
 permalink: /:title
@@ -25,4 +30,4 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "8.0"
+version: "8.1"
