@@ -9,7 +9,7 @@ Of course, this is just one of many possible configurations, but it should enabl
 The instructions are for Unix systems, but Windows users can easily customize the steps just by employing - in lieu of the mentioned *shell scripts* - the corresponding *.bat* files.
 
 
-## Objectives
+## Outline
 
 * Installing WildFly
 
