@@ -232,9 +232,9 @@ Unfortunately, neither of the above methods will work correctly.
 
 The 2 simplest solutions are perhaps:
 
-1. Employ a proxy *EJB lite*:
+1. Employ a proxy *CDI bean*:
 
-    0. Create a **@SessionScoped** EJB Lite *in the web project* - named, for example, *CounterClient*
+    0. Create a **@SessionScoped** CDI bean *in the web project* - named, for example, *CounterClient*
 
     0. Inject the counter EJB into it - via **@Inject** or **@EJB** - in order to keep the reference to the counter EJB for the life of the HTTP session
 
@@ -244,7 +244,7 @@ The 2 simplest solutions are perhaps:
 
       * you do not need to perform explicit lookups if the web tier is in the same **ear** as the EJB tier - thus supporting local injection
 
-      * the client EJB Lite can add logic to simplify the interface of the wrapped EJB - or it can just expose the original bean via a getter, or introduce a mixed approach
+      * the client bean can add logic to simplify the interface of the wrapped EJB - or it can just expose the original bean via a getter, or introduce a mixed approach
 
       * finally, by using **@Named**, you can easily integrate it into other technologies, such as Java Server Faces.
 
