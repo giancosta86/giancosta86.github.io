@@ -8,12 +8,12 @@ title: Magellan - A clustering tutorial with WildFly, nginx, Scala(FX) and Gradl
 
 * there should *not* be significant delays as the number of simultaneous requests increases
 
-* in case of a hardware or software failure, the website should continue working
+* in case of a hardware or software failure, the website should continue to work
 
 * there should be a way to *dynamically adjust* the capabilities of the infrastructure
 
 
-From our WildFly-oriented point of view, a **cluster** can be defined as a set of server instances (named *nodes*) that behave as a single network component serving requests; it effectively addresses the above issues:
+From our WildFly-oriented point of view, a **cluster** can be defined as a set of server instances (*nodes*) that behave as a single network component serving requests; it effectively addresses the above issues:
 
 * all the nodes in the cluster are equivalent and can reside on any machine; usually, a client is able to address *any node* and receive *the very same response*, thanks to *state replication*
 
@@ -38,11 +38,11 @@ While playing with clustering, we'll deal with a wide range of modern technologi
 
 * [WildFly](http://wildfly.org/) 9, the latest stable version of the robust and advanced WildFly Java EE server - and the project has been tested with the upcoming WildFly 10 as well
 
-* The beautiful [Scala](http://scala-lang.org/) language, which proved to be effective and a pleasure to use in the [Java EE](http://docs.oracle.com/javaee/) domain as well
+* The beautiful [Scala](http://scala-lang.org/) language, which proved effective and a pleasure to use in the [Java EE](http://docs.oracle.com/javaee/) domain as well
 
 * [Java JDK](http://www.oracle.com/technetwork/java/javase/overview/index.html) 8, providing a rich ecosystem for a variety of languages and frameworks
 
-* The concise and efficient [Nginx](http://nginx.org/) server for load balancing
+* The concise and efficient [nginx](http://nginx.org/) server for load balancing
 
 * [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - wrapped by the outstanding [ScalaFX](http://www.scalafx.org/) library - to create a rich client running in a Java SE virtual machine
 
@@ -61,21 +61,21 @@ With regard to clustering, WildFly supports two distinct *operating modes*:
 
   * **standalone**: each server instance is configured independently. Despite the easy inital setup, it requires dedicated deployment and configuration for *every* single enterprise artifact (applications, EJB-jars, WARs, JDBC drivers, ...) on *every* single WildFly instance
 
-  * **domain**: the nodes share a common management interface: deployment and configuration are performed via a unique interface, automatically replicating artifacts and settings to every node in the cluster
+  * **domain**: the nodes share a common management interface - deployed artifacts and configuration are automatically replicated to every node in the cluster
 
-Despite the fundamental differences, both clustering modes support state replication; therefore, for the sake of simplicity, in this article we'll see how to create a cluster of *two standalone servers* on the same machine - but several ideas and concepts apply to domains as well.
+Despite the fundamental differences, both clustering modes support state replication; therefore, for the sake of simplicity, in this article we'll learn how to create a cluster of *two standalone servers* on the same machine - but several ideas and concepts apply to domains as well.
 
 
 
 ## Creating a standalone cluster
 
-First of all, we need to start two different instances (*nodes*) of WildFly:
+First of all, we'll start two different instances (*nodes*) of WildFly:
 
 0. Download the latest stable version of WildFly from its [download page](http://wildfly.org/downloads/) and extract the zip twice, creating two identical directory trees - let's assume they are named **wildfly-alpha** and **wildfly-beta**
 
 0. In a terminal, **cd** to *wildfly-alpha/bin* and run the command:
 
-    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.0 -Djboss.node.name=alpha -Djboss.socket.binding.port-offset=1
+    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=alpha -Djboss.socket.binding.port-offset=1
 
     Where:
 
@@ -88,7 +88,7 @@ First of all, we need to start two different instances (*nodes*) of WildFly:
 
 0. In another terminal (or, better, another terminal tab), **cd** to *wildfly-beta/bin* and run:
 
-    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.0 -Djboss.node.name=beta -Djboss.socket.binding.port-offset=2
+    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=beta -Djboss.socket.binding.port-offset=2
 
     Compared to the previous server invocation:
 
@@ -140,7 +140,7 @@ On the other hand, your web application *must* include the **distributable** tag
 
 ## Load balancing with nginx
 
-While verifying that our virtual nodes compose a cluster, we noticed that contacting either of them is equivalent; however, an inconvenience arises: we *always* need to know their own network address. Not only: should a node crash, we'd have to remember the address of the *other* node - and what if our cluster includes thousands of nodes?
+While verifying that our virtual nodes compose a cluster, we noticed that contacting either of them is equivalent; however, an inconvenience arises: we *always* need to know their network address. Not only: should a node crash, we'd have to remember the address of the *other* node - and what if our cluster includes thousands of nodes?
 
 *Load balancing* is the natural solution to the problem; a *load balancer* is a network component that:
 
@@ -169,7 +169,7 @@ What's more, a few solutions also provide *replication*, not to make the load ba
 In this tutorial, we'll employ [nginx](http://nginx.org/) - an elegant, minimalist and fast server, providing fine-grained load balancing with just a few lines of configuration; another idea could be *mod_cluster*, a module for Apache HTTP server dedicated to WildFly.
 
 
-The steps are fairly straightforward:
+The steps are quite straightforward:
 
 0. Install nginx. It should be available as a binary package for most operating systems. On Linux, in particular, you can also:
 
@@ -228,7 +228,7 @@ Here comes the tricky part; one might think to:
 
   * resolve the EJB by instantiating **InitialContext** in the **doGet()** servlet method and consequently call **lookup()**
 
-Unfortunately, none of the above methods will work correctly.
+Unfortunately, neither of the above methods will work correctly.
 
 The 2 simplest solutions are perhaps:
 
@@ -240,7 +240,7 @@ The 2 simplest solutions are perhaps:
 
     0. Inject CounterClient (via **@Inject**) into the servlet
 
-    The advantage of such approach are:
+    The advantages of such approach are:
 
       * you do not need to perform explicit lookups if the web tier is in the same **ear** as the EJB tier - thus supporting local injection
 
@@ -277,7 +277,7 @@ ScalaFX is a simple and elegant library providing Scala bindings and new syntax 
 
 The suggested way to run the example is [MoonDeploy](https://github.com/giancosta86/moondeploy), an open source deployment tool similar to Java Web Start: if MoonDeploy is installed, just click on **App.moondeploy** in Magellan's [latest release](https://github.com/giancosta86/magellan/releases/latest) file list and open it with MoonDeploy - the application will be downloaded and started.
 
-By clicking on the two buttons provided by the JavaFX user interface, you'll actually interact with the session bean on the server.
+By clicking on the two buttons shown in the JavaFX user interface, you'll actually interact with the session bean on the server.
 
 
 ## Highlights of the ScalaFX client
