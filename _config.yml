@@ -38,5 +38,5 @@ motto: "Elegance always matters"
 
 # Options
 custom_header: true
-custom_nav_footer: false
+custom_nav_footer: true
 reverse: true

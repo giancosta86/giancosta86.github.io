@@ -21,6 +21,34 @@
       color: darken($main-color, 20%);
     }
   }
+
+  overflow: hidden;
+}
+
+
+#socialIcons {
+  display: flex;
+  justify-content: space-between;
+
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1.5em;
+
+  a {
+    width: 32px;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+
+    &.needsContrast {
+      border-radius: 13px;
+      background: lighten($main-color, 10%);
+    }
+
+    &.needsContrast:hover {
+      border-radius: 0;
+    }
+  }
 }
 
 
