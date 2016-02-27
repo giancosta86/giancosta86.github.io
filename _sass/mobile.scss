@@ -1,0 +1,11 @@
+@media (orientation: portrait) {
+  #header:after {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  #nav-menu-left {
+    left: 1em;
+    top: 1.5em;
+  }
+}

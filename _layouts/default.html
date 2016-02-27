@@ -10,19 +10,25 @@
 	  	{% include menu.html %}
     
     <!-- Icon menu -->
-	  <a href="#" id="nav-menu">
+	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
 	  	<div id="menu"></div>
 	  </a>
 
       <!-- Header -->
-	    {% include header.html %}
+      {% if site.custom_header == true %}
+        {% include header-custom.html %}
+      {% else %}
+        {% include header.html %}
+      {% endif %}
 
     <!-- Main content -->
 	  <div id="container">
 		  
 		<main>
+
 			{{ content }}
-	  	</main>
+
+	  </main>
 		
 		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}

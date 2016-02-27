@@ -1,9 +1,10 @@
 # Site settings
-title: Gianluca Costa's Creations
+title: "Gianluca Costa's Creations"
 description: "Gianluca Costa - Code & Poetry"
 url: "http://gianlucacosta.info"
 author:
   name: "Gianluca Costa"
+  email: "gianluca@gianlucacosta.info"
   url: "http://gianlucacosta.info"
 
 # Build settings
@@ -13,6 +14,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+gems: [jekyll-paginate]
 
 source: .
 destination: ./_site
@@ -30,4 +33,10 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "8.1"
+version: "9.0"
+motto: "Elegance always matters"
+
+# Options
+custom_header: true
+custom_nav_footer: false
+reverse: true
