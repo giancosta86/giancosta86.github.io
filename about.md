@@ -10,9 +10,11 @@ I am a software architect and developer, fond of *technology*, *linguistics*, *m
 
 After building up a strong background in **OOP** (Java, C#, Python, Delphi, ...) over more than 15 years, I am now extremely interested in **Functional Programming**, trying to borrow ideas and techniques from both worlds - which is why I'm definitely fond of **Scala**, a language that allows to elegantly and flexibly *blend* them; I'm also studying **Haskell** and **Elm** to have a broader vision on FP - and I really enjoy them as well.
 
-To play and learn with such concepts, I have created [EighthBridge](https://github.com/giancosta86/EighthBridge), *a hybrid OOP-FP ScalaFX library* for graph modeling and rendering, which is the very core of open source applications such as [GraphsJ](https://github.com/giancosta86/GraphsJ) and [KnapScal](https://github.com/giancosta86/KnapScal).
+To play and learn with such concepts, I have created [EighthBridge](https://github.com/giancosta86/EighthBridge), *a hybrid OOP-FP ScalaFX library* for graph modeling and rendering, which is the very core of open source applications - in particular, [GraphsJ](https://github.com/giancosta86/GraphsJ) and [KnapScal](https://github.com/giancosta86/KnapScal).
 
 Considering that software should be not only *useful* but also *elegant* and *robust*, I value production improvements via *well-crafted architectures*, *refactoring* and *agile methodologies*. Modern *build systems* - especially **Gradle** and *Maven* - are, in my opinion, essential for software development and maintenance.
+
+Another field which is considerably attracting my interest - and that I am studying in great detail because of its architectural ideas and its outstanding potential - is **data networking** - primarily in Master's courses such as *Distributed Systems M* and *Mobile Systems M*.
 
 After graduating with honours in Computer Engineering from the University of Bologna, I worked for about 5 years in the IT industry, proactively focusing on innovation; now, I am about to achieve the subsequent Master's degree, always maintaining a practical approach by dedicating time to a wide range of open source projects.
 
