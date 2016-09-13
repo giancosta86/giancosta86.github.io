@@ -1,11 +1,60 @@
-@media (orientation: portrait) {
-  #header:after {
-    margin-bottom: 0;
-    padding-bottom: 0;
+@media (max-width: 768px) {
+  .home {
+    hr {
+      width: 95%;
+    }
+
+
+    .homeBanner {
+      h1 {
+        font-size: 3em;
+      }
+    }
   }
 
-  #nav-menu-left {
-    left: 1em;
-    top: 1.5em;
+
+  article {
+    width: 95%;
+
+    margin-bottom: 1em;
+
+
+    header {
+      margin-bottom: 2em;
+    }
+
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+
+    .content {
+      line-height: 1.4em;
+      font-size: 1.2em;
+
+      h2 {
+        margin-top: 1.2em;
+        margin-bottom: 0.4em;
+      }
+
+      h3 {
+        margin-top: 1.3em;
+        margin-bottom: 0.5em;
+      }
+    }
+  }
+
+  .intro {
+    .content {
+
+      .iconBox {
+        margin-bottom: 1em;
+      }
+
+      .row {
+        margin-bottom: 2em;
+      }
+    }
   }
 }

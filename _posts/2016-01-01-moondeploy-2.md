@@ -1,5 +1,8 @@
 ---
 title: MoonDeploy 2.0 is ready!
+
+tags:
+  - MoonDeploy
 ---
 
 I have always been fond of **Java Web Start** - I love the idea of clicking on a link in the web browser and having an application downloaded and run by a dedicated tool.

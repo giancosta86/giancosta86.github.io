@@ -1,5 +1,12 @@
 ---
 title: Installing Android Studio 2 on 64-bit Ubuntu
+
+tags:
+  - Android
+  - SDK
+  - Android Studio
+  - Ubuntu
+  - setup
 ---
 
 Android Studio 2 is definitely a brilliant, modern and interesting technology! ^\_\_^
@@ -17,9 +24,9 @@ sudo apt-get install lib32z1 lib32ncurses5 lib32stdc++6
 
 ## Install mesa-utils
 
-It seems that the Android SDK employs *glxinfo*; if it is not available, you might notice errors when starting the emulator.
+It seems that the Android SDK employs `glxinfo`; if it is not available, you might notice errors when starting the emulator.
 
-To install *glxinfo* and other tools, run:
+To install `glxinfo` and other tools, run:
 
 ```bash
 sudo apt-get install mesa-utils
@@ -30,13 +37,14 @@ sudo apt-get install mesa-utils
 
 The Android emulator crashed on startup - more precisely, the issue was due to *hardware rendering*; however, in lieu of switching to *software rendering* (which is slower and might not completely address the problem), these steps are suggested:
 
-0. Edit $HOME/.profile
+0. Edit `$HOME/.profile`
 
 0. Add the following line:
 
    ```bash
    export ANDROID_EMULATOR_USE_SYSTEM_LIBS=1
    ```
+
 0. To quickly and globally apply the changes, you could log out of the desktop environment and re-log
 
 
@@ -48,7 +56,7 @@ The Android emulator crashed on startup - more precisely, the issue was due to *
 
 0. Extract it to a target directory of your choice
 
-0. Add its **bin** subdirectory to your **PATH** environment variable
+0. Add its `bin` subdirectory to your `PATH` environment variable
 
 0. Now, to start the setup process, you should run:
 
@@ -59,7 +67,7 @@ The Android emulator crashed on startup - more precisely, the issue was due to *
    and follow the user-friendly wizard.
 
 
-Finally, once the IDE is up and running, you may want to select the menu item *Tools* -> *Create Desktop Entry...* to integrate Android Studio into your desktop environment.
+Finally, once the IDE is up and running, you may want to select the menu item `Tools -> Create Desktop Entry...` to integrate Android Studio into your desktop environment.
 
 
 And now, you can enjoy creating Android apps! ^\_\_^

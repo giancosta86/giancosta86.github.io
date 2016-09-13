@@ -1,32 +1,48 @@
 ---
 title: Installing Jekyll on Xubuntu
+
+tags:
+  - Jekyll
+  - Xubuntu
+  - setup
 ---
 
 [Jekyll](http://jekyllrb.com/) is a brilliant tool for static website creation, and installing its latest version on my Xubuntu 15 machine was definitely easy:
 
-1. Open a root shell by running:
 
-	> sudo -i
+0. Open a root shell by running:
 
-	and typing your password
+   ```bash
+   sudo -i
+   ```
+	 and typing your password
 
-2. Execute: 
+0. Execute:
 
-	> apt-get install ruby ruby-dev nodejs
+   ```bash
+   apt-get install ruby ruby-dev nodejs
+   ```
 
-	and confirm
+	 and confirm
 
-3. Run: 
+0. Run:
 
-	> gem install jekyll
+   ```bash
+   gem install jekyll
+   ```
 
-4. Exit the root shell
+0. Exit the root shell:
+
+   ```bash
+   exit
+   ```
+
 
 
 And that's all! ^\_\_^! Jekyll is now ready!
 
 
-### Further references
+## Further references
 
 * [Jekyll website](http://jekyllrb.com/)
 * [Markdown syntax](http://daringfireball.net/projects/markdown/)

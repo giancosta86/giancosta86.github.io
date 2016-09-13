@@ -1,5 +1,15 @@
 ---
 title: WildFly 9 - A JMS-oriented tutorial
+
+tags:
+  - WildFly
+  - JMS
+  - Java
+  - HornetQ
+  - tutorial
+  - servlet
+  - Message-driven
+  - EJB
 ---
 
 Java Message Service (JMS) is a simple and elegant API abstracting message-oriented middleware; in this tutorial, we'll see how to easily set up a new instance of the WildFly 9 application server with JMS support.
@@ -29,25 +39,29 @@ The instructions are for Unix systems, but Windows users can easily customize th
 
 ## Adding a management user
 
-1. Download and install a copy of WildFly from [its website](http://wildfly.org/)
+0. Download and install a copy of WildFly from [its website](http://wildfly.org/)
 
-2. Go to its **bin** directory, and run:
+0. Go to its `bin` directory, and run:
 
-    > ./add-user.sh
+   ```bash
+   ./add-user.sh
+   ```
 
-    this script will request a few parameters. You should provide:
+   this script will request a few parameters. You should provide:
 
-    * **Type of user**: *Management User*
-    * **Username**: *your private username*
-    * **Password**: *your private password*
-    * **Groups**: *can be left empty*
-    * **Used for one AS process to connect to another AS process?**: *yes*
+   * **Type of user**: *Management User*
+   * **Username**: *your private username*
+   * **Password**: *your private password*
+   * **Groups**: *can be left empty*
+   * **Used for one AS process to connect to another AS process?**: *yes*
 
-3. We'll need to start, from the **bin** directory, the *Full* server profile, as the default profile does not include HornetQ:
+0. We'll need to start, from the `bin` directory, the **Full** server profile, as the default profile does not include HornetQ:
 
-    > ./standalone.sh \-\-server-config=standalone-full.xml
+   ```bash
+   ./standalone.sh --server-config=standalone-full.xml
+   ```
 
-4. Open your favorite web browser, navigate to the [WildFly management web app](http://localhost:9990) and input your credentials chosen at step 2.
+0. Open your favorite web browser, navigate to the [WildFly management web app](http://localhost:9990) and input your credentials chosen at step 2.
 
 Good! ^\_\_^ WildFly is ready, and can be employed for your JavaEE applications!
 
@@ -57,63 +71,63 @@ Good! ^\_\_^ WildFly is ready, and can be employed for your JavaEE applications!
 
 Now, we must create a **ConnectionFactory** and a **Destination** - for now, we'll just employ a *Queue*.
 
-1. Go to the *Configuration* tab of the [Management web app](http://localhost:9990) and click on:
+0. Go to the *Configuration* tab of the [Management web app](http://localhost:9990) and click on:
 
-    > Subsystems --> Messaging (HornetQ) --> View
+   `Subsystems -> Messaging (HornetQ) -> View`
 
-2. Click on **default**, then **Destinations**
+0. Click on `default`, then `Destinations`
 
-3. In *Queues/Topics --> Queues*,  click **Add** and provide just these parameters:
+0. In `Queues/Topics -> Queues`,  click `Add` and provide just these parameters:
 
-    * **Name**: *MyQueue*
-    * **JNDI Names**: *java:/myJmsTest/MyQueue*
-    * **Durable**: *yes*
+   * **Name**: `MyQueue`
+   * **JNDI Names**: `java:/myJmsTest/MyQueue`
+   * **Durable**: `yes`
 
-4. In the *Connection Factories* tab, click **Add** and input these settings:
+0. In the `Connection Factories` tab, click `Add` and input these settings:
 
-    * **Name**: *MyConnectionFactory*
-    * **JNDI Names**: *java:/myJmsTest/MyConnectionFactory*
-    * **Connector**: *in-vm* **or** *http-connector*
+   * **Name**: `MyConnectionFactory`
+   * **JNDI Names**: `java:/myJmsTest/MyConnectionFactory`
+   * **Connector**: `in-vm` or `http-connector`
 
-    *in-vm* is the easier choice, as it doesn't require user authentication - but works only in the context of the very same JVM running the server; *http-connector* can be accessed by a remote client, but always requires authentication.
+   `in-vm` is the easier choice, as it doesn't require user authentication - but works only in the context of the very same JVM running the server; `http-connector` can be accessed by a remote client, but always requires authentication.
 
-5. Finally, *if* you have chosen *http-connector* in the step above, open the *Security Settings* tab, click **Add** and provide these values:
+0. Finally, *if* you have chosen `http-connector` in the step above, open the `Security Settings` tab, click `Add` and provide these values:
 
-    * **Pattern**: *#*
-    * **Role**: *myJmsGroup*
-    * **Send?**: *yes*
-    * **Consume?**: *yes*
-    * **Manage?**: *yes*
+   * **Pattern**: `#`
+   * **Role**: `myJmsGroup`
+   * **Send?**: `yes`
+   * **Consume?**: `yes`
+   * **Manage?**: `yes`
 
 
 ## Adding an application user
 
-If you have chosen *http-connector* for the client factory, we need to configure an application user, required by HornetQ authentication. Therefore:
+If you have chosen `http-connector` for the client factory, we need to configure an application user, required by HornetQ authentication. Therefore:
 
-1. Go to WildFly's **bin** directory and run again:
+0. Go to WildFly's `bin` directory and run again:
 
-    > ./add-user.sh
+   ```bash
+   ./add-user.sh
+   ```
 
-2. This time, choose the following parameters:
+0. This time, choose the following parameters:
 
-    * **Type of user**: *Application User*
-    * **Username**: *arbitrary, but in this example we'll employ* **myJmsUser**
-    * **Password**: *arbitrary, but in this example we'll employ* **myJmsPassword**
-    * **Groups**: *arbitrary, or "guest", but in this example we'll employ* **myJmsGroup**
-    * **Used for one AS process to connect to another AS process?**: *yes*
+   * **Type of user**: `Application User`
+   * **Username**: *arbitrary, but in this example we'll employ* `myJmsUser`
+   * **Password**: *arbitrary, but in this example we'll employ* `myJmsPassword`
+   * **Groups**: *arbitrary, or "guest", but in this example we'll employ* `myJmsGroup`
+   * **Used for one AS process to connect to another AS process?**: `yes`
 
 
 ## Writing a producer servlet
 
 To test the infrastructure, we are going to develop a servlet that, when invoked, will send a message to our queue.
 
-**NOTE**: the call *connectionFactory.createConnection()* must receive username and password if the connection factory is based on *http-connector*; it *can* (and, actually, *should*) receive no parameters when using *in-vm*.
+**NOTE**: the call `connectionFactory.createConnection()` must receive username and password if the connection factory is based on `http-connector`; it *can* (and, actually, *should*) receive no parameters when using `in-vm`.
 
 A simple code example might be:
 
-
-
-~~~java
+```java
 package info.gianlucacosta.jmstest.web;
 
 import javax.annotation.Resource;
@@ -188,21 +202,21 @@ public class MyJmsServlet extends HttpServlet {
         }
     }
 }
-~~~
+```
 
-1. Compile this servlet and package it into a *.war* archive (a web application) - using your favorite development tools
+0. Compile this servlet and package it into a `.war` archive (a web application) - using your favorite development tools
 
-2. Copy the *.war* file into the **standalone/deployments** directory in WildFly's directory. You don't need to shut down the server
+0. Copy the `.war` file into the `standalone/deployments` directory in WildFly's directory. You don't need to shut down the server
 
-3. Invoke the servlet, remembering that it's mapped to the **/send** path of its web application
+0. Invoke the servlet, remembering that it's mapped to the `/send` path of its web application
 
-4. If the servlet was successful, try returning to the Management web app and navigating to:
+0. If the servlet was successful, try returning to the Management web app and navigating to:
 
-    > Runtime --> Standalone Server --> Subsystems --> JMS Destinations --> View
+   `Runtime -> Standalone Server -> Subsystems -> JMS Destinations -> View`
 
-5. In the new page appeared, click on the **View** link next to *default*
+0. In the new page appeared, click on the **View** link next to `default`
 
-6. After clicking on *MyQueue*, you should see **Message Count:	1** !
+0. After clicking on `MyQueue`, you should see `Message Count:	1` !
 
 
 
@@ -212,7 +226,7 @@ Our message is now in the queue, ready to be consumed - let's create a message-d
 
 Its code might be:
 
-~~~java
+```java
 package info.gianlucacosta.jmstest.beans;
 
 import javax.ejb.ActivationConfigProperty;
@@ -246,13 +260,13 @@ public class ReceivingMdb implements MessageListener {
         }
     }
 }
-~~~
+```
 
-1. Compile this class and package it into an *ejb-jar*, using your favorite build tools
+0. Compile this class and package it into an *ejb-jar*, using your favorite build tools
 
-2. Copy the archive file into the **standalone/deployments** directory in WildFly's directory
+0. Copy the archive file into the `standalone/deployments` directory in WildFly's directory
 
-3. Check the console: you should see the bean's output!
+0. Check the console: you should see the bean's output!
 
 
 
@@ -264,7 +278,7 @@ In this brief tutorial we have seen:
 
 * how to setup *management* and *application* users
 
-* how to create a *ConnectionFactory* and a *Queue* in HornetQ
+* how to create a `ConnectionFactory` and a `Queue` in HornetQ
 
 * how to write a toy servlet sending a message to the queue, and a message-driven bean consuming it
 

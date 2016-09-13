@@ -1,5 +1,17 @@
 ---
 title: Magellan - A clustering tutorial with WildFly, nginx, Scala(FX) and Gradle
+tags:
+  - networking
+  - clustering
+  - WildFly
+  - nginx
+  - Scala
+  - ScalaFX
+  - Gradle
+  - MoonDeploy
+  - EJB
+  - JNDI
+  - tutorial
 ---
 
 ## Introduction
@@ -73,28 +85,32 @@ First of all, we'll start two different instances (*nodes*) of WildFly:
 
 0. Download the latest stable version of WildFly from its [download page](http://wildfly.org/downloads/) and extract the zip twice, creating two identical directory trees - let's assume they are named **wildfly-alpha** and **wildfly-beta**
 
-0. In a terminal, **cd** to *wildfly-alpha/bin* and run the command:
+0. In a terminal, `cd` to `wildfly-alpha/bin` and run the command:
 
-    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=alpha -Djboss.socket.binding.port-offset=1
+   ```bash
+   ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=alpha -Djboss.socket.binding.port-offset=1
+   ```
 
     Where:
 
-    * **-u** declares *the multicast address shared by all the server instances in the cluster*
+    * `-u` declares *the multicast address shared by all the server instances in the cluster*
 
-    * **-Djboss.node.name** introduces a *node name*; every server instance must have its *unique* node name
+    * `-Djboss.node.name` introduces a *node name*; every server instance must have its **unique** node name
 
-    * **-Djboss.socket.binding.port-offset** adds the given offset to every default port number defined by the server instance - especially convenient when starting multiple nodes on the same machine
+    * `-Djboss.socket.binding.port-offset` adds the given offset to every default port number defined by the server instance - especially convenient when starting multiple nodes on the same machine
 
 
-0. In another terminal (or, better, another terminal tab), **cd** to *wildfly-beta/bin* and run:
+0. In another terminal (or, better, another terminal tab), `cd` to `wildfly-beta/bin` and run:
 
-    > ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=beta -Djboss.socket.binding.port-offset=2
+   ```bash
+   ./standalone.sh -c standalone-ha.xml -u 230.0.0.4 -Djboss.node.name=beta -Djboss.socket.binding.port-offset=2
+   ```
 
-    Compared to the previous server invocation:
+   Compared to the previous server invocation:
 
-    * The *multicast address* is the very same
+   * The *multicast address* is the very same
 
-    * The *node name* and the *port offset* are different
+   * The *node name* and the *port offset* are different
 
 
 The cluster is ready! To test its capabilities, we are going to deploy Magellan, our Java EE application.
@@ -104,8 +120,7 @@ The cluster is ready! To test its capabilities, we are going to deploy Magellan,
 
 0. Download the **.ear** archive from the [latest release page](https://github.com/giancosta86/magellan/releases/latest)
 
-0. Copy it to the **standalone/deployments/** subdirectory, *for both WildFly instances*
-
+0. Copy it to the `standalone/deployments` subdirectory, *for both WildFly instances*
 
 Incidentally, please consider that Magellan is a standard Java Enterprise application, so it could be deployed to other Java EE servers, such as GlassFish, to study high availability.
 
@@ -127,7 +142,7 @@ Incidentally, please consider that Magellan is a standard Java Enterprise applic
 
 You might wonder what special classes are employed by the servlet to achieve session replication: luckily, the answer is *none* - clustering is completely transparent to the source code of Java EE components.
 
-On the other hand, your web application *must* include the **distributable** tag in its **web.xml** descriptor: were it missing, both pages would see their counter *reset to 0* whenever you switch from one page to the other!
+On the other hand, your web application *must* include the `<distributable>` tag in its `web.xml` descriptor: were it missing, both pages would see their counter *reset to 0* whenever you switch from one page to the other!
 
 
 #### Reference files
@@ -175,17 +190,17 @@ The steps are quite straightforward:
 
     0. Download and extract the source code archive
 
-    0. Open a terminal and **cd** to the extracted directory
+    0. Open a terminal and `cd` to the extracted directory
 
     0. Run the usual set of commands:
 
+       ```bash
+       ./configure --prefix="<where you want to install nginx, for example $HOME/nginx>"
 
-        > ./configure \-\-prefix="<where you want to install nginx, for example $HOME/nginx>"
+       make
 
-        > make
-
-        > make install
-
+       make install
+       ```
 
     0. Add its **sbin** directory to your **PATH** environment variable
 
@@ -193,9 +208,9 @@ The steps are quite straightforward:
 
 0. Run:
 
-    ```
-    nginx -c "<path to the configuration file>"
-    ```
+   ```bash
+   nginx -c "<path to the configuration file>"
+   ```
 
 0. Navigate to [http://localhost:8080/magellan](http://localhost:8080/magellan) and refresh the page a few times
 
@@ -207,9 +222,9 @@ The steps are quite straightforward:
 
 ## Creating a stateful session bean
 
-Stateful session beans are transparently replicated; should you need to deploy them to less recent server versions, you can mark them via the **@Clustered** annotation and/or specific tags in the **jboss-ejb3.xml** descriptor.
+Stateful session beans are transparently replicated; should you need to deploy them to less recent server versions, you can mark them via the `@Clustered` annotation and/or specific tags in the `jboss-ejb3.xml` descriptor.
 
-For consistency, we'll expand the "counter" example by implementing a basic EJB counter, in **magellan-ejb**.
+For consistency, we'll expand the "counter" example by implementing a basic EJB counter, in `magellan-ejb`.
 
 
 #### Reference files
@@ -224,9 +239,9 @@ Now, we want to create a servlet showing the value of our EJB counter for the cu
 
 Here comes the tricky part; one might think to:
 
-  * employ **@EJB** to locally or remotely inject the bean into the servlet
+  * employ `@EJB` to locally or remotely inject the bean into the servlet
 
-  * resolve the EJB by instantiating **InitialContext** in the **doGet()** servlet method and consequently call **lookup()**
+  * resolve the EJB by instantiating `InitialContext` in the `doGet()` servlet method and consequently call `lookup()`
 
 Unfortunately, neither of the above methods will work correctly.
 
@@ -234,11 +249,11 @@ The 2 simplest solutions are perhaps:
 
 1. Employ a proxy *CDI bean*:
 
-    0. Create a **@SessionScoped** CDI bean *in the web project* - named, for example, *CounterClient*
+    0. Create a `@SessionScoped` CDI bean *in the web project* - named, for example, `CounterClient`
 
-    0. Inject the counter EJB into it - via **@Inject** or **@EJB** - in order to keep the reference to the counter EJB for the life of the HTTP session
+    0. Inject the counter EJB into it - via `@Inject` or `@EJB` - in order to keep the reference to the counter EJB for the life of the HTTP session
 
-    0. Inject CounterClient (via **@Inject**) into the servlet
+    0. Inject `CounterClient` (via `@Inject`) into the servlet
 
     The advantages of such approach are:
 
@@ -246,9 +261,10 @@ The 2 simplest solutions are perhaps:
 
       * the client bean can add logic to simplify the interface of the wrapped EJB - or it can just expose the original bean via a getter, or introduce a mixed approach
 
-      * finally, by using **@Named**, you can easily integrate it into other technologies, such as Java Server Faces.
+      * finally, by using `@Named`, you can easily integrate it into other technologies, such as Java Server Faces.
 
-2. Call HttpSession's **getAttribute()** method to retrieve the EJB handle, looking it up via **InitialContext** only if it was not found. A drawback is that such approach would require an explicit naming operation even for resolving a local interface.
+2. Call HttpSession's `getAttribute()` method to retrieve the EJB handle, looking it up via `InitialContext` only if it was not found. A drawback is that such approach would require an explicit naming operation even for resolving a local interface.
+
 
 #### Reference files
 
@@ -275,7 +291,7 @@ What if we want to access a stateful EJB from a *rich UI client*? In this exampl
 
 ScalaFX is a simple and elegant library providing Scala bindings and new syntax constructs for the modern JavaFX GUI toolkit.
 
-The suggested way to run the example is [MoonDeploy](https://github.com/giancosta86/moondeploy), an open source deployment tool similar to Java Web Start: if MoonDeploy is installed, just click on **App.moondeploy** in Magellan's [latest release](https://github.com/giancosta86/magellan/releases/latest) file list and open it with MoonDeploy - the application will be downloaded and started.
+The suggested way to run the example is [MoonDeploy](https://github.com/giancosta86/moondeploy), an open source deployment tool similar to Java Web Start: if MoonDeploy is installed, just click on `App.moondeploy` in Magellan's [latest release](https://github.com/giancosta86/magellan/releases/latest) file list and open it with MoonDeploy - the application will be downloaded and started.
 
 By clicking on the two buttons shown in the JavaFX user interface, you'll actually interact with the session bean on the server.
 
@@ -284,17 +300,17 @@ By clicking on the two buttons shown in the JavaFX user interface, you'll actual
 
 The core of the program is the interaction with the stateful EJB - which is **not** a standard, portable process; in the case of WildFly, a few basic steps are required:
 
-0. Reference **org.wildfly:wildfly-ejb-client-bom:WILDFLY_VERSION** as a dependency in the Gradle build script - where **WILDFLY_VERSION** could be, for example, *9.0.2.Final*
+0. Reference `org.wildfly:wildfly-ejb-client-bom:WILDFLY_VERSION` as a dependency in the Gradle build script - where `WILDFLY_VERSION` could be, for example, `9.0.2.Final`
 
-0. Reference the **client interface library** provided by the EJB developer - in this case, as the Gradle projects share the same root project, we just employed **project(":magellan-common")**
+0. Reference the **client interface library** provided by the EJB developer - in this case, as the Gradle projects share the same root project, we just employed `project(":magellan-common")`
 
 0. Perform an *almost* standard JNDI lookup:
 
-    0. Instantiate an **InitialContext** with no constructor parameters
+    0. Instantiate an `InitialContext` with no constructor parameters
 
-    0. Call its **lookup()** method, passing the portable JNDI name *without the* **java:global/** *prefix*, then casting the result to the remote interface; in the example, the reduced JNDI name is:
+    0. Call its `lookup()` method, passing the portable JNDI name *without the* `java:global/` *prefix*, then casting the result to the remote interface; in the example, the reduced JNDI name is:
 
-        **Magellan/magellan-ejb/CounterBean!info.gianlucacosta.clustering.magellan.ejb.CounterRemote**
+        `Magellan/magellan-ejb/CounterBean!info.gianlucacosta.clustering.magellan.ejb.CounterRemote`
 
         whose components are:
 
@@ -305,9 +321,9 @@ The core of the program is the interaction with the stateful EJB - which is **no
 
     0. Just call the methods of the remote interface, as if it were a local object
 
-0. Create a **jndi.properties** file in **src/main/resources**, required to correctly instantiate the **InitialContext** in the above steps; alternatively, you might choose to pass a *Hashtable* to *InitialContext*'s constructor, especially in case of dynamic parameters.
+0. Create a `jndi.properties` file in `src/main/resources`, required to correctly instantiate the `InitialContext` in the above steps; alternatively, you might choose to pass a *Hashtable* to *InitialContext*'s constructor, especially in case of dynamic parameters.
 
-0. **jndi.properties** must include at least the following lines:
+0. `jndi.properties` must include at least the following lines:
 
     * **java.naming.factory.initial**=*org.jboss.naming.remote.client.InitialContextFactory*
     to declare the provider employed by JNDI so as to connect to the server

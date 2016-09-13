@@ -1,17 +1,65 @@
 ---
 layout: default
+bodyClass: home
+description: "Home page"
 ---
-<!-- Posts -->
-<ul id="posts">
 
-	{% for post in paginator.posts %}
+<div class="homeBanner text-center">
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
+  <h1>Gianluca Costa</h1>
 
-    {% endfor %}
+  <div class="portrait gianPortrait"></div>
 
-</ul>
+  <h2 class="motto">Elegance always matters! ^_^</h2>
+
+  <div class="buttons">
+
+    <div class="btn-group">
+      <button type="button" class="btn btn-info btn-lg dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About me <span class="caret"></span></button>
+
+      {% include aboutMenu.html %}
+    </div>
+
+
+    <div class="btn-group">
+      <button type="button" class="btn btn-info btn-lg dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contacts <span class="caret"></span></button>
+
+      {% include contactsMenu.html %}
+    </div>
+  </div>
+</div>
+
+<hr />
+
+{% include paginator.html %}
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="panel panel-primary postEntry">
+    <div class="panel-heading">
+      <h3 class="panel-title">
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date: "%-d %B %Y" }}</time>
+      </h3>
+    </div>
+    <div class="panel-body">
+      <h3 class="postTitle">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title| escape }}</a>
+      </h3>
+
+      <p class="postPreview">
+        {{ post.content | strip_html | truncatewords:50 }}
+      </p>
+
+      <div class="container">
+        <div class="row">
+          <a class="btn btn-info btn-sm col-md-1 col-md-offset-11 col-xs-offset-8 readPost" role="button" href="{{ post.url | prepend: site.baseurl }}">
+            Read post <span class="glyphicon glyphicon-chevron-right"></span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+  {% include paginator.html %}
+</div>

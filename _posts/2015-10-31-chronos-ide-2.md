@@ -1,5 +1,9 @@
 ---
 title: Chronos IDE 2.0 is ready!
+
+tags:
+  - Chronos
+  - Chronos IDE
 ---
 
 [Chronos](https://github.com/giancosta86/Chronos), my didactic programming language dedicated to *Discrete Event Simulation* (DES), has now reached version 2; it has definitely been a *valuable* and *formative* experience, as it is based on my very first *context-free grammar*.
@@ -9,7 +13,7 @@ Furthermore, while working on the project I have studied [Scala](http://scala-la
 Chronos borrows ideas and constructs from SIMSCRIPT, Python, Scala and JavaScript, and it's especially suitable for students of Operations Research, as well as for anyone needing to *quickly prototype* a simulation in a didactic context.
 
 
-### Suggested links
+## Suggested links
 
 * [Chronos IDE](https://github.com/giancosta86/Chronos-IDE) - edit and run Chronos programs in a friendly visual environment
 

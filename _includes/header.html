@@ -1,6 +1,49 @@
-<header id="header">
-	<a href="{{ site.baseurl }}">
-		<img src="{{ "img/emerald.svg" | prepend: site.baseurl }}" alt="Emerald Logo">
-	  <h1>emerald</h1>
-	</a>
+<header class="siteHeader">
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarCollapse" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="nav navbar-nav">
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span> About me <span class="caret"></span></a>
+
+            {% include aboutMenu.html %}
+          </li>
+
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-console"></span> Projects <span class="caret"></span></a>
+
+            {% include projectsMenu.html %}
+          </li>
+
+
+          <li>
+            <a href="{{ site.baseurl }}/tags.html"><span class="glyphicon glyphicon-th-list"></span> Blog index</a>
+          </li>
+
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-globe"></span> Contacts <span class="caret"></span></a>
+
+            {% include contactsMenu.html %}
+          </li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="{{ site.baseurl }}/atom.xml"><span class="glyphicon glyphicon-bullhorn"></span> News feed</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 </header>

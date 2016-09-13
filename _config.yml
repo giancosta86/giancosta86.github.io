@@ -1,29 +1,32 @@
-# Site settings
-title: "Gianluca Costa's Creations"
-description: "Gianluca Costa - Code & Poetry"
-url: "http://gianlucacosta.info"
-author:
-  name: "Gianluca Costa"
-  email: "gianluca@gianlucacosta.info"
-  url: "http://gianlucacosta.info"
+title: Gianluca Costa's Creations
+description: Website of code & poetry
+url: http://gianlucacosta.info
 
-# Build settings
-baseurl: /
+baseurl: ""
+
+author:
+  name: Gianluca Costa
+  email: gianluca@gianlucacosta.info
+  url: http://gianlucacosta.info
+
 markdown: kramdown
 
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+ input: GFM
+ syntax_highlighter: rouge
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
+paginate: 7
 paginate_path: /page:num/
 
-# Default values
+encoding: utf-8
+
 defaults:
   -
     scope:
@@ -31,12 +34,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-# Custom variables
-version: "9.0"
-motto: "Elegance always matters"
-
-# Options
-custom_header: true
-custom_nav_footer: true
-reverse: true

@@ -1,6 +1,11 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
+@charset "utf-8";
 
-//Import
-@import "variables", "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss", "fontFaces.scss", "mobile.scss";
+
+@import
+        "fontFaces",
+        "syntax-highlighting",
+        "website",
+        "mobile"
+;

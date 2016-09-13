@@ -1,20 +1,22 @@
+---
+---
 <!DOCTYPE html>
 <html>
-	<head>			   
+	<head>
 		<meta charset="utf-8" />
 
-		<title>Gianluca Costa's Creations</title>
+		<title>Gianluca Costa's Creations - Page not found</title>
 
-		<link rel="icon" href="/favicon.ico" />		  
+		<link rel="icon" href="/favicon.ico" />
 
-		<meta name="author" content="Gianluca Costa" />													  
+		<meta name="author" content="Gianluca Costa" />
 
 		<style type="text/css">
 			body {
 				padding: 15px;
-				margin: 0px;		
+				margin: 0px;
 				font-family: "Courier New", courier;
-			}		  
+			}
 
 			h1,
 			h2 {
@@ -22,9 +24,15 @@
 			}
 
 
-			h1 {				
+			h1 {
 				text-align: center;
 				font-size: 36px;
+			}
+
+			a,
+			a:visited {
+				color: blue;
+				text-decoration: none;
 			}
 
 
@@ -34,7 +42,7 @@
 			}
 
 
-			#message {
+			.message {
 				border: 1px solid black;
 				padding: 20px;
 
@@ -42,9 +50,9 @@
 				margin-right: 20px;
 
 
-				-moz-border-radius: 220px;	
+				-moz-border-radius: 220px;
 				-webkit-border-radius: 20px;
-				-o-border-radius: 20px;		
+				-o-border-radius: 20px;
 				border-radius: 20px;
 
 
@@ -54,9 +62,9 @@
 
 				background: #faffc0;
 
-				background: -moz-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);	
-				background: -webkit-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);	
-				background: -o-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);	
+				background: -moz-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);
+				background: -webkit-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);
+				background: -o-linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);
 				background: linear-gradient(left, #ffc8bf, #ffe2bf, #fcffbf, #c0ffbf, #bff9ff, #bfcbff, #d1bfff);
 			}
 
@@ -65,18 +73,18 @@
 
 	<body>
 
-		<h1>Gianluca Costa's Creations</h1>
+		<a href="{{ site.baseurl }}/"><h1>Gianluca Costa's Creations</h1></a>
 
 		<h2>Page or file not found</h2>
 
-		<div id="message">
-			
+		<div class="message">
+
 			<p>
 				It seems that the requested page or file is not available...
 			</p>
 
 			<p>
-				Please check that you have typed the correct address in the 
+				Please check that you have typed the correct address in the
 				navigation bar of your browser.
 			</p>
 
@@ -87,4 +95,3 @@
 		</div>
 	</body>
 </html>
-

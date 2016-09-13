@@ -1,0 +1,252 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Signika';
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+
+.content,
+.postEntry {
+  font-family: 'Source Sans Pro';
+}
+
+
+.portrait {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 1em auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-border-radius: 99em;
+  -moz-border-radius: 99em;
+  border-radius: 99em;
+  border: 5px solid #eee;
+  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+.gianPortrait {
+  background-image: url("/images/gian.jpg")
+}
+
+article {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4em;
+
+  h1 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+  }
+
+
+  time {
+    text-align: center;
+    display: block;
+    font-size: 1.2em;
+  }
+
+
+  header {
+    margin-bottom: 4em;
+  }
+
+
+  .content {
+    line-height: 1.6em;
+    font-size: 1.4em;
+
+
+    h2 {
+      margin-top: 1.7em;
+      margin-bottom: 0.8em;
+
+      font-size: 1.8em;
+    }
+
+
+    h3 {
+      margin-top: 1.6em;
+      margin-bottom: 0.6em;
+      font-size: 1.3em;
+    }
+
+    .panel {
+      h3 {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.1em;
+      }
+    }
+
+
+    li {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+
+
+    .highlighter-rouge {
+      margin-top: 1em;
+      margin-bottom: 1em;
+
+      .highlight {
+        font-size: 0.8em;
+      }
+    }
+  }
+}
+
+
+.siteFooter {
+  border-top: 1px solid beige;
+
+  margin-top: 2em;
+
+  display: flex;
+  height: 3em;
+
+  align-items: center;
+  justify-content: center;
+
+  padding: 1em;
+
+  & > * {
+    margin: 1em;
+  }
+}
+
+
+.home {
+  .homeBanner {
+    background: white;
+    margin-top: 2em;
+    margin-bottom: 4em;
+
+
+    h1 {
+      font-size: 4.5em;
+      font-weight: bold;
+    }
+
+    .motto {
+      font-family: 'Great Vibes';
+      font-size: 2em;
+    }
+
+    .buttons {
+      margin-top: 2em;
+    }
+  }
+
+
+  hr {
+    width: 90%;
+  }
+
+
+  .postEntry {
+    box-shadow: 5px 5px 8px #b9bcff;
+
+    margin-bottom: 4em;
+    margin-left: auto;
+    margin-right: auto;
+
+    max-width: 90%;
+
+    .postTitle {
+      font-size: 2em;
+      margin-bottom: 1em;
+    }
+
+    .postPreview {
+      font-size: 1.3em;
+      margin-bottom: 2em;
+    }
+  }
+}
+
+
+.intro {
+  .content {
+    font-size: 1.3em;
+
+
+    .panel {
+      box-shadow: 5px 5px 8px #c7d2d5;
+    }
+
+    .basicInfo ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .row {
+      margin-bottom: 3em;
+    }
+
+
+    li {
+      margin: 0.5em;
+    }
+
+
+    .iconBox {
+      height: 10em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+
+.tag {
+  background: #f1feff;
+
+  font-size: 1em;
+  line-height: 1em;
+
+  border: 1px solid blue;
+  padding: 0.2em;
+  border-radius: 5px;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  display: inline-block;
+
+  .glyphicon {
+    margin-right: 0.33em;
+  }
+}
+
+
+.post {
+  .tags {
+    margin-top: 3.3em;
+    text-align: right;
+
+    font-size: 1.2em;
+
+    .tag {
+      padding: 0.4em;
+    }
+  }
+}
+
+
+.tagsPage {
+  ul {
+    list-style-type: none;
+  }
+}

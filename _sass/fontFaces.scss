@@ -1,4 +1,25 @@
 /*
+ * -------
+ * Signika
+ * -------
+*/
+
+@font-face {
+    font-family: 'Signika';
+    src: url("/fonts/signika/Signika-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Signika';
+    src: url("/fonts/signika/Signika-Semibold.otf");
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+/*
  * ---------------
  * Source Sans Pro
  * ---------------
@@ -7,7 +28,7 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url("/css/fonts/source-sans-pro/SourceSansPro-Regular.otf");
+    src: url("/fonts/source-sans-pro/SourceSansPro-Regular.otf");
     font-weight: normal;
     font-style: normal;
 }
@@ -15,7 +36,7 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url("/css/fonts/source-sans-pro/SourceSansPro-Bold.otf");
+    src: url("/fonts/source-sans-pro/SourceSansPro-Bold.otf");
     font-weight: bold;
     font-style: normal;
 }
@@ -23,7 +44,7 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url("/css/fonts/source-sans-pro/SourceSansPro-It.otf");
+    src: url("/fonts/source-sans-pro/SourceSansPro-It.otf");
     font-weight: normal;
     font-style: italic;
 }
@@ -31,7 +52,7 @@
 
 @font-face {
     font-family: 'Source Sans Pro';
-    src: url("/css/fonts/source-sans-pro/SourceSansPro-BoldIt.otf");
+    src: url("/fonts/source-sans-pro/SourceSansPro-BoldIt.otf");
     font-weight: bold;
     font-style: italic;
 }
@@ -39,25 +60,14 @@
 
 
 /*
- * -------
- * Signika
- * -------
+ * -----------
+ * Great vibes
+ * -----------
 */
 
-
 @font-face {
-    font-family: 'Signika';
-    src: url("/css/fonts/signika/Signika-Regular.otf");
+    font-family: 'Great Vibes';
+    src: url("/fonts/great-vibes/GreatVibes-Regular.otf");
     font-weight: normal;
     font-style: normal;
 }
-
-
-@font-face {
-    font-family: 'Signika';
-    src: url("/css/fonts/signika/Signika-Semibold.otf");
-    font-weight: bold;
-    font-style: normal;
-}
-
-
