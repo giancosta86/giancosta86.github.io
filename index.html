@@ -50,9 +50,9 @@ description: "Home page"
         {{ post.content | strip_html | truncatewords:50 }}
       </p>
 
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
-          <a class="btn btn-info btn-sm col-md-1 col-md-offset-11 col-xs-offset-8 readPost" role="button" href="{{ post.url | prepend: site.baseurl }}">
+          <a class="btn btn-info btn-sm col-xs-5 col-xs-offset-7 col-sm-2 col-sm-offset-10 col-lg-1 col-lg-offset-11 readPost" role="button" href="{{ post.url | prepend: site.baseurl }}">
             Read post <span class="glyphicon glyphicon-chevron-right"></span>
           </a>
         </div>
