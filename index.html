@@ -8,24 +8,7 @@ description: "Home page"
 
   <h1>Gianluca Costa</h1>
 
-  <div class="portrait gianPortrait"></div>
+  <object id="indexSvg" data="index.svg" type="image/svg+xml" />
 
-  <h2 class="motto">Elegance always matters! ^_^</h2>
-
-  <div class="buttons">
-
-    <div class="btn-group">
-      <button type="button" class="btn btn-info btn-lg dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About me <span class="caret"></span></button>
-
-      {% include aboutMenu.html %}
-    </div>
-
-
-    <div class="btn-group">
-      <button type="button" class="btn btn-info btn-lg dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contacts <span class="caret"></span></button>
-
-      {% include contactsMenu.html %}
-    </div>
-  </div>
-</div>
+  <script type="text/javascript" src="{{ site.baseurl }}/js/indexSvg.js"></script>
 </div>

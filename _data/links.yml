@@ -1,25 +1,93 @@
 #
+# ABOUT
+#
+
+introduction: "/introduction.html"
+
+downloadCV: "/cv_costa_en.pdf"
+
+email: "mailto:gianluca@gianlucacosta.info"
+
+
+#
+# GitHub
+#
+
+gitHub: "https://github.com/giancosta86"
+
+
+#
+# KNOWLEDGE SHARING
+#
+
+slideShare: "https://www.slideshare.net/giancosta86"
+
+blog: "/blog/"
+
+farbigesDeutsch: "http://gianlucacosta.info/FarbigesDeutsch/"
+
+arcadia: "http://gianlucacosta.info/Arcadia/"
+
+
+#
 # SOCIAL NETWORKS
 #
 
-github: https://github.com/giancosta86
+linkedIn: "https://www.linkedin.com/in/giancosta86"
 
-hephaestus: https://bintray.com/giancosta86/Hephaestus
+xing: "https://www.xing.com/profile/Gianluca_Costa2"
 
-twitter: https://twitter.com/giancosta86
+twitter: "https://twitter.com/giancosta86"
 
-linkedin: https://www.linkedin.com/in/giancosta86
+youTube: "https://www.youtube.com/user/giancosta86info"
 
-duolingo: https://www.duolingo.com/giancosta86
+duolingo: "https://www.duolingo.com/giancosta86"
 
-slideshare: http://www.slideshare.net/giancosta86
-
-youtube: https://www.youtube.com/user/giancosta86info
 
 #
-# GITHUB PROJECTS
+# ARTIFACTS
 #
 
-eighthbridge: https://github.com/giancosta86/EighthBridge
+hephaestus: "https://bintray.com/giancosta86/Hephaestus"
 
-aurora: https://github.com/giancosta86/Aurora
+dockerHub: "https://hub.docker.com/u/giancosta86/"
+
+
+#
+# HIGHLIGHTED PROJECTS
+#
+
+twoBinPack: "http://gianlucacosta.info/TwoBinPack/"
+
+graphsJ: "http://gianlucacosta.info/GraphsJ/"
+
+chronos: "http://gianlucacosta.info/Chronos-IDE/"
+
+moonDeploy: "http://gianlucacosta.info/moondeploy/"
+
+historyMark: "http://gianlucacosta.info/HistoryMark/"
+
+knapScal: "http://gianlucacosta.info/KnapScal/"
+
+solvenius: "http://gianlucacosta.info/solvenius/"
+
+
+#
+# TIMELINE
+#
+
+timeline: "/timeline.html"
+
+
+#
+# BLOG TAGS
+#
+
+blogTags: "/tags.html"
+
+
+#
+# NEWS FEED
+#
+
+newsFeed: "/atom.xml"
