@@ -1,188 +1,103 @@
 <header class="siteHeader">
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarCollapse" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
-      </div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="{{ site.baseurl }}/">Gianluca Costa's Creations</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav navbar-nav">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              <span class="glyphicon glyphicon-user"></span> About me
-              <span class="caret"></span>
-            </a>
-
-            <ul class="dropdown-menu">
-              <li>
-                <a href="{{ site.data.links.introduction }}">Introduction</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.downloadCV }}">Download CV</a>
-              </li>
-
-              <li>
-                  <a href="{{ site.data.links.email }}">
-                    <span class="glyphicon glyphicon-envelope"></span> E-mail
-                  </a>
-                </li>
-            </ul>
-          </li>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About me
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.introduction }}">Introduction</a>
+            <a class="dropdown-item" href="{{ site.data.links.downloadCV }}">Download CV</a>
+            <a class="dropdown-item" href="{{ site.data.links.email }}">E-mail</a>
+          </div>
+        </li>
 
 
-          <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                <span class="glyphicon glyphicon-console"></span> Open source
-                <span class="caret"></span>
-              </a>
-
-              <ul class="dropdown-menu">
-                <li>
-                  <a href="{{ site.data.links.gitHub }}">GitHub (60+ projects)</a>
-                </li>
-              </ul>
-            </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Open source
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.gitHub }}">GitHub (60+ projects)</a>
+          </div>
+        </li>
 
 
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              <span class="glyphicon glyphicon-education"></span> Knowledge sharing
-              <span class="caret"></span>
-            </a>
-
-            <ul class="dropdown-menu">
-              <li>
-                <a href="{{ site.data.links.slideShare }}">SlideShare</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.blog }}">Blog</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.farbigesDeutsch }}">Farbiges Deutsch</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.arcadia }}">Arcadia</a>
-              </li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Knowledge sharing
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.slideShare }}">SlideShare</a>
+            <a class="dropdown-item" href="{{ site.data.links.blog }}">Blog</a>
+            <a class="dropdown-item" href="{{ site.data.links.farbigesDeutsch }}">Farbiges Deutsch</a>
+            <a class="dropdown-item" href="{{ site.data.links.arcadia }}">Arcadia</a>
+          </div>
+        </li>
 
 
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              <span class="glyphicon glyphicon-globe"></span> Social
-              <span class="caret"></span>
-            </a>
-
-            <ul class="dropdown-menu">
-              <li>
-                <a href="{{ site.data.links.linkedIn }}">LinkedIn</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.xing }}">XING</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.twitter }}">Twitter</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.youTube }}">YouTube</a>
-              </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Social
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.linkedIn }}">LinkedIn</a>
+            <a class="dropdown-item" href="{{ site.data.links.xing }}">XING</a>
+            <a class="dropdown-item" href="{{ site.data.links.twitter }}">Twitter</a>
+            <a class="dropdown-item" href="{{ site.data.links.youTube }}">YouTube</a>
+            <a class="dropdown-item" href="{{ site.data.links.duolingo }}">Duolingo</a>
+          </div>
+        </li>
 
 
-              <li>
-                <a href="{{ site.data.links.duolingo }}">Duolingo</a>
-              </li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Highlights
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.twoBinPack }}">TwoBinPack</a>
+            <a class="dropdown-item" href="{{ site.data.links.graphsJ }}">GraphsJ</a>
+            <a class="dropdown-item" href="{{ site.data.links.chronos }}">Chronos</a>
+            <a class="dropdown-item" href="{{ site.data.links.moonDeploy }}">MoonDeploy</a>
+            <a class="dropdown-item" href="{{ site.data.links.historyMark }}">HistoryMark</a>
+            <a class="dropdown-item" href="{{ site.data.links.knapScal }}">KnapScal</a>
+            <a class="dropdown-item" href="{{ site.data.links.solvenius }}">Solvenius</a>
+          </div>
+        </li>
 
 
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              <span class="glyphicon glyphicon-heart"></span> Highlights
-              <span class="caret"></span>
-            </a>
-
-            <ul class="dropdown-menu">
-              <li>
-                <a href="{{ site.data.links.twoBinPack }}">TwoBinPack</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.graphsJ }}">GraphsJ</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.chronos }}">Chronos</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.moonDeploy }}">MoonDeploy</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.historyMark }}">HistoryMark</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.knapScal }}">KnapScal</a>
-              </li>
-
-              <li>
-                <a href="{{ site.data.links.solvenius }}">Solvenius</a>
-              </li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Artifacts
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.data.links.hephaestus }}">Hephaestus (Gradle/Maven)</a>
+            <a class="dropdown-item" href="{{ site.data.links.dockerHub }}">Docker Hub</a>
+          </div>
+        </li>
 
 
-          <li>
-            <a href="{{ site.data.links.blogTags }}">
-              <span class="glyphicon glyphicon-th-list"></span> Tags</a>
-          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.data.links.timeline }}">Timeline</a>
+        </li>
 
 
-          <li>
-              <a href="{{ site.data.links.timeline }}">
-                <span class="glyphicon glyphicon-film"></span> Timeline</a>
-            </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.data.links.blogTags }}">Tags</a>
+        </li>
 
 
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              <span class="glyphicon glyphicon-gift"></span> Artifacts
-              <span class="caret"></span>
-            </a>
-
-            <ul class="dropdown-menu">
-                <li>
-                  <a href="{{ site.data.links.hephaestus }}">Hephaestus (Gradle/Maven)</a>
-                </li>
-
-                <li>
-                  <a href="{{ site.data.links.dockerHub }}">Docker Hub</a>
-                </li>
-              </ul>
-          </li>
-        </ul>
-
-        <ul class="nav navbar-nav navbar-right">
-          <li>
-            <a href="{{ site.links.newsFeed }}">
-              <span class="glyphicon glyphicon-bullhorn"></span> News</a>
-          </li>
-        </ul>
-      </div>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.data.links.newsFeed }}">News</a>
+        </li>
+      </ul>
     </div>
   </nav>
 </header>

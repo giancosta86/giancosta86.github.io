@@ -8,6 +8,11 @@ h6 {
 }
 
 
+header {
+  margin-bottom: 2.5em;
+}
+
+
 a:hover {
   text-decoration: none;
 }
@@ -58,11 +63,6 @@ article {
   }
 
 
-  header {
-    margin-bottom: 4em;
-  }
-
-
   .content {
     line-height: 1.6em;
     font-size: 1.4em;
@@ -82,7 +82,7 @@ article {
       font-size: 1.3em;
     }
 
-    .panel {
+    .card {
       h3 {
         margin-top: 0;
         margin-bottom: 0;
@@ -155,7 +155,7 @@ article {
     font-size: 1.3em;
 
 
-    .panel {
+    .card {
       box-shadow: 5px 5px 8px #c7d2d5;
     }
 

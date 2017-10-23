@@ -296,6 +296,12 @@ webTechnologies = [
         content: "React",
         start: "2017-4-15",
         end: today
+    },
+
+    {
+        content: "Bootstrap",
+        start: "2016-9-1",
+        end: today
     }
 ]
 
