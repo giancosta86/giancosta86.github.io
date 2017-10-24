@@ -8,14 +8,14 @@ description: "Blog"
 
 <div class="posts">
   {% for post in paginator.posts %}
-  
-  <div class="panel panel-primary postEntry">
-    <div class="panel-heading">
-      <h3 class="panel-title">
+
+  <div class="card postEntry">
+    <div class="card-header">
+      <h3 class="card-title">
         <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date: "%-d %B %Y" }}</time>
       </h3>
     </div>
-    <div class="panel-body">
+    <div class="card-body">
       <h3 class="postTitle">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title| escape }}</a>
       </h3>
@@ -27,11 +27,11 @@ description: "Blog"
       <div class="container-fluid">
         <div class="row">
           <a class="btn btn-info btn-sm col-xs-5 col-xs-offset-7 col-sm-2 col-sm-offset-10 col-lg-1 col-lg-offset-11 readPost" role="button" href="{{ post.url | prepend: site.baseurl }}">
-            Read post <span class="glyphicon glyphicon-chevron-right"></span>
+            Read post
           </a>
         </div>
       </div>
-    </div>    
+    </div>
   </div>
 
   {% endfor %}

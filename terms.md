@@ -29,6 +29,8 @@ Gianluca Costa has the right to modify at any time the website, its terms of use
 
 * [Bootstrap](http://getbootstrap.com)
 
+* [Popper.js](https://popper.js.org/)
+
 * [vis.js](http://visjs.org/)
 
 * [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)

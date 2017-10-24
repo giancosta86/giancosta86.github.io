@@ -42,7 +42,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 
 <div class="tags">
 {% for tag in tags %}
-	<a class="tag" href="#{{ tag | slugify }}"><span class="glyphicon glyphicon-tag"></span>{{ tag | escape }}</a>
+	<a class="tag" href="#{{ tag | slugify }}">{{ tag | escape }}</a>
 {% endfor %}
 </div>
 
@@ -67,7 +67,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 			 <div class="tags">
 				 <b>Tags</b>:
 				 {% for tag in post.tags %}
-					 <a class="tag" href="#{{ tag | slugify }}"><span class="glyphicon glyphicon-tag"></span>{{ tag | escape }}</a>
+					 <a class="tag" href="#{{ tag | slugify }}">{{ tag | escape }}</a>
 				 {% endfor %}
 	 		</div>
 		</li>

@@ -23,6 +23,14 @@ a:hover {
 }
 
 
+.card-title,
+.card-title * {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1em;
+}
+
+
 .portrait {
   display: block;
   width: 150px;
@@ -68,7 +76,7 @@ article {
     font-size: 1.4em;
 
 
-    h2 {
+    > h2 {
       margin-top: 1.7em;
       margin-bottom: 0.8em;
 
@@ -76,18 +84,10 @@ article {
     }
 
 
-    h3 {
+    > h3 {
       margin-top: 1.6em;
       margin-bottom: 0.6em;
       font-size: 1.3em;
-    }
-
-    .card {
-      h3 {
-        margin-top: 0;
-        margin-bottom: 0;
-        font-size: 1.1em;
-      }
     }
 
 
@@ -159,7 +159,7 @@ article {
       box-shadow: 5px 5px 8px #c7d2d5;
 
       .card-header {
-        background: linear-gradient(to bottom, #98bede 0%,#deefff 100%);
+        background: linear-gradient(to bottom, #add9e4 0%,#d9edf2 60%,#f7fbfc 100%);
       }
     }
 
@@ -200,10 +200,6 @@ article {
   margin-right: 0.5em;
   margin-bottom: 0.5em;
   display: inline-block;
-
-  .glyphicon {
-    margin-right: 0.33em;
-  }
 }
 
 
@@ -225,4 +221,9 @@ article {
   ul {
     list-style-type: none;
   }
+}
+
+
+.pageNumber {
+  color: black !important;
 }
