@@ -20,13 +20,25 @@ Gianluca Costa has the right to modify at any time the website, its terms of use
 
 
 
-## Visual elements
+## Technologies
 
-Several visual elements are provided by:
+
+* [Jekyll](https://jekyllrb.com/)
+
+* [jQuery](https://jquery.com/)
 
 * [Bootstrap](http://getbootstrap.com)
 
-* [Glyphicons](http://glyphicons.com/)
+* [vis.js](http://visjs.org/)
+
+* [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
+* [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+This website is kindly hosted by [GitHub](https://github.com/).
+
+
+## Icons
 
 * [Crystal Project](https://www.iconfinder.com/iconsets/crystalproject) icon set, by [Everaldo Coelho](http://www.everaldo.com/)
 
@@ -36,7 +48,6 @@ Several visual elements are provided by:
 
 This website also employs the following free fonts:
 
-* [Great Vibes](https://www.fontsquirrel.com/fonts/great-vibes)
 * [Signika](http://www.fontsquirrel.com/fonts/signika)
 * [Source Sans Pro](http://www.fontsquirrel.com/fonts/source-sans-pro)
 
@@ -46,6 +57,6 @@ They are all licensed under the [SIL OPEN FONT LICENSE](http://scripts.sil.org/O
 
 ## Code snippets
 
-* The [tags page]({{ site.baseurl }}/tags) is based on a brilliant online [tutorial](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
+* The [tags page]({{ site.links.blogTags }}) is based on a brilliant online [tutorial](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
 
 * The rounded portrait image is based on a dedicated [article](https://ctrlq.org/code/19282-css-round-images)
