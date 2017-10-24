@@ -14,9 +14,9 @@ description: Gianluca Costa - Introduction
     </div>
 
     <div class="col-sm-9">
-      <div class="card basicInfo">
+      <div class="card overview">
         <div class="card-header">
-          <h3 class="card-title">Basic info</h3>
+          <h3 class="card-title">Overview</h3>
         </div>
         <div class="card-body">
           <ul>
@@ -26,10 +26,6 @@ description: Gianluca Costa - Introduction
 
             <li>
               <b>Last name</b>: Costa
-            </li>
-
-            <li>
-              <b>Gender</b>: M
             </li>
 
             <li>
@@ -45,12 +41,17 @@ description: Gianluca Costa - Introduction
             </li>
 
             <li>
-              <b>GitHub portfolio (more than 50 open source projects)</b>:
-              <a href="https://github.com/giancosta86">https://github.com/giancosta86</a>
+              <b>Experience</b>: <a href="{{ site.data.links.timeline }}">Interactive timeline</a>
             </li>
 
             <li>
-              <b>Maven repository</b>: <a href="https://bintray.com/giancosta86/Hephaestus">https://bintray.com/giancosta86/Hephaestus</a>
+              <b>GitHub portfolio</b>:
+              <a href="{{ site.data.links.gitHub }}">https://github.com/giancosta86</a>
+            </li>
+
+            <li>
+              <b>Gradle/Maven repository</b>:
+              <a href="{{ site.data.links.hephaestus}}">https://bintray.com/giancosta86/Hephaestus</a>
             </li>
 
             <li>
@@ -78,22 +79,22 @@ description: Gianluca Costa - Introduction
           <p>
             Over the years, I have created software mainly in
             <b>Object-Oriented Programming</b>
-            (<i>Java</i>, <i>Delphi</i>, <i>C#</i>, <i>Python</i>, ...), especially in
-            the context of <i>Domain-Driven Design</i>; however,
+            (<i>Java</i>, <i>Delphi</i>, <i>C#</i>, <i>Python</i>, ...), gradually learning
+            the principles of <i>Domain-Driven Design</i>; however,
             since 2015, I have been passionately focusing on
             <strong>Functional Programming</strong> as well,
             as I believe it revises and extends
             the best ideas of other methodologies, leading to
             <em>more effective design and development</em>, with fewer bugs
             and cleaner code: an example is
-            <a href="{{ site.data.links.eighthbridge }}">EighthBridge</a>, my
+            <a href="{{ site.data.links.eighthBridge }}">EighthBridge</a>, my
             hybrid OOP-FP library dedicated to <i>graph modeling</i> and <i>interactive
               rendering</i> - inspired by Elm.
             </p>
 
           <p>
             Currently, my favorite languages are <strong>Java 8</strong> and
-            <strong>Scala</strong>, as they
+            <strong>Scala</strong>, because they
             enable <em>a smooth transition</em> to the concepts of Functional
             Programming while <em>supporting previous investments</em> in OOP and in
             the huge Java ecosystem.
@@ -102,16 +103,21 @@ description: Gianluca Costa - Introduction
 
           <p>
             <b>Build tools</b> are another domain I am keen on - especially
-            <b>Gradle</b>, although I employed Maven and Ant as well,
-            also writing plugins which you can still find among my
-            <a href="{{ site.data.links.github }}">GitHub projects</a>.
-            My plugin for Gradle is
+            <b>Gradle</b>, although I employed Maven and Ant too, creating
+            custom plugins: my plugin for Gradle is
             <a href="{{ site.data.links.aurora }}">Aurora</a>, designed to be
             the core of every modern open source application or library I have released for
             the JVM (Java, Scala, Groovy), greatly simplifying software distribution;
             you are also invited to visit
             <a href="{{ site.data.links.hephaestus }}">Hephaestus</a>,
             my Gradle/Maven repository.
+          </p>
+
+          <p>
+            More generally, I enjoy applying patterns and ideas to several
+            sectors and different problem kinds - as <b>it fosters creativity</b>; to see
+            a range of examples, please refer to my
+            <a href="{{ site.data.links.gitHub }}">GitHub profile</a>.
           </p>
         </div>
       </div>
@@ -151,21 +157,22 @@ description: Gianluca Costa - Introduction
             In 2015 I decided to begin learning my 4th language - <b>Dutch</b> - and
             the result was quite positive. Therefore, in July 2016,
             I also started <b>German</b>, getting <i>Goethe Zertifikat B1</i>
-            about 10 months later, in May 2017.
+            about 10 months later, in June 2017.
           </p>
 
           <p>
-            I am actively maintaining a website named
-            <a href="http://gianlucacosta.info/FarbigesDeutsch/">Farbiges Deutsch</a>,
+            I have created a website named
+            <a href="{{ site.data.links.farbigesDeutsch }}">Farbiges Deutsch</a>,
             describing German grammar via both theoretical rules and statistical rules
             inferred by performing Data Mining on a German linguistic corpus; Farbiges Deutsch
             is part of a wider project of mine -
-            <a href="https://github.com/giancosta86/Asgard">Project Asgard</a>,
-            dedicated to the German language.
+            <a href="{{ site.data.links.asgard }}">Project Asgard</a>,
+            dedicated to the German language; I'm also planning to extend it
+            to more languages in the future.
           </p>
 
           <p>
-            From time to time I like approaching new languages
+            From time to time I like approaching new languages!
             For example, I studied a bit of <b>Spanish</b> - and I am currently
             learning a bit of <b>Chinese</b>! ^__^
           </p>
@@ -183,9 +190,9 @@ description: Gianluca Costa - Introduction
         </div>
         <div class="card-body">
           <p>
-            My first award dates back to 2003: I was among the winners of a competition,
-            held by <a href="http://www.accademia-rubiconia-filop.org/">Rubiconia Accademia dei Filopatridi</a>,
-            consisting in the translation of a speech composed by the <b>Latin orator Cicero</b>.
+            In 2003 I was among the winners of a competition,
+            held by <b>Rubiconia Accademia dei Filopatridi</b>,
+            consisting in the translation of a speech composed by the Latin orator Cicero.
           </p>
 
           <p>
@@ -195,7 +202,7 @@ description: Gianluca Costa - Introduction
 
           <p>
             After <strong>graduating with honours in Computer Engineering</strong> at the
-            University of Bologna in 2009, I spent about <b>4 years</b> in
+            University of Bologna in 2009, I spent more than <b>4 years</b> in
             the IT industry, working on a few different activities:
           </p>
 
@@ -229,8 +236,9 @@ description: Gianluca Costa - Introduction
 
           <p>
             For details on my work experience, please consult my
-            <a href="https://www.xing.com/profile/Gianluca_Costa2">XING</a> or
-            <a href="{{ site.data.links.linkedin }}">LinkedIn</a> profile.
+            <a href="{{ site.data.links.xing }}">XING</a> or
+            <a href="{{ site.data.links.linkedIn }}">LinkedIn</a> profile;
+            <a href="{{ site.data.links.timeline}}">my timeline</a> sums up my technical experience.
           </p>
 
           <p>
@@ -245,9 +253,9 @@ description: Gianluca Costa - Introduction
             definitely satisfied about my choice in terms of acquired skills; furthermore, I worked hard to delve into
             <b>Functional Programming</b>, releasing didactic hybrid (OOP-FP) Scala projects -
             for the most part dedicated to <b>Operations Research</b> and <b>Artificial Intelligence</b> - such as
-            <a href="{{ site.data.areas.knapscal }}">KnapScal</a>,
-            <a href="{{ site.data.areas.chronoside }}">Chronos</a> and
-            <a href="{{ site.data.areas.graphsj }}">GraphsJ</a>.
+            <a href="{{ site.data.links.knapScal }}">KnapScal</a>,
+            <a href="{{ site.data.links.chronos }}">Chronos</a> and
+            <a href="{{ site.data.links.graphsJ }}">GraphsJ</a>.
           </p>
 
           <p>
@@ -278,14 +286,18 @@ description: Gianluca Costa - Introduction
           <p>I adore music - from classical (Mozart, Chopin, Bach, ...)
             to opera (Rossini, Donizetti, Verdi, Bellini, ...), up to
             modern (Édith Piaf, Queen, Dschinghis Khan, ...) and contemporary
-            music (Jörn Schlönvoigt, Lady Gaga, ...).
+            music (Jörn Schlönvoigt, ...).
           </p>
 
           <p>
             In particular, I'm fond of modern arrangements of classical pieces,
-            such as <b>David Garrett's violin masterpieces</b> and some <b>symphonic metal</b>
-            (Nightwish, Dark Moor, Rhapsody, ...), as I think they brilliantly combine classical
-            style with modern sound and technology.
+            such as <b>David Garrett's violin masterpieces</b> and some <b>symphonic metal</b>,
+            as I think they brilliantly combine classical style with modern sound and technology.
+          </p>
+
+          <p>
+            I can play the piano (although not fluently) and, since mid-2017, I've studied a bit more of
+            Music and harmony theory.
           </p>
         </div>
       </div>
@@ -382,64 +394,6 @@ description: Gianluca Costa - Introduction
           </ul>
         </div>
       </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-10">
-      <div class="card">
-        <div class="card-header">
-          <h3 class="card-title">About elegance</h3>
-        </div>
-        <div class="card-body">
-          <p>
-            <cite>Elegance always matters</cite>... but, apart from
-            the artistic, creative aspect I want to underline in the process of software development, what does it mean?
-          </p>
-
-          <p>
-            Unfortunately, <i>elegance</i> is a concept really difficult to define, which should
-            always be inscribed in a context; however, we can take a different approach and
-            name a few misconceptions about elegance:
-          </p>
-
-          <ol>
-            <li>
-              <blockquote>
-                Elegance is <strong>not</strong> "any set of practices just slowing down software development"
-              </blockquote>
-
-              <p>
-                This is perhaps the worst misconception and the most expensive one,
-                easily leading to unmaintainable, buggy and frustrating blobs of <i>spaghetti code</i>.
-              </p>
-
-              <p>
-                Indeed, perfection is almost impossible and projects are usually assigned a budget in terms
-                of resources such as time and money - but I think it is paramount to strive for achieving
-                <em>the clearest and most maintainable code structure among the feasible ones</em>.
-                Well, this might actually be a good definition of <i>elegance</i> in software engineering! ^__^!
-              </p>
-            </li>
-
-            <li>
-              <blockquote>
-                Elegance is <strong>not</strong> necessarily <i>wearing formal or expensive garments</i>
-              </blockquote>
-
-                <p>
-                  Needless to say - this aspect might contribute to overall elegance, but I believe that what
-                  matters first are <em>concepts</em>, <em>principles</em>,
-                  <em>skills</em> and <strong>ideas</strong>.
-                </p>
-            </li>
-          </ol>
-        </div>
-      </div>
-    </div>
-
-    <div class="iconBox hidden-xs col-sm-2">
-      <img src="{{ site.baseurl }}/images/art.png" alt="Elegance" />
     </div>
   </div>
 

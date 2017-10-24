@@ -157,9 +157,13 @@ article {
 
     .card {
       box-shadow: 5px 5px 8px #c7d2d5;
+
+      .card-header {
+        background: linear-gradient(to bottom, #98bede 0%,#deefff 100%);
+      }
     }
 
-    .basicInfo ul {
+    .overview ul {
       list-style: none;
       padding: 0;
     }

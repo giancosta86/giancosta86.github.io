@@ -91,3 +91,14 @@ blogTags: "/tags.html"
 #
 
 newsFeed: "/atom.xml"
+
+
+#
+# FURTHER LINKS
+#
+
+aurora: "https://github.com/giancosta86/Aurora"
+
+eighthBridge: "https://github.com/giancosta86/EighthBridge"
+
+asgard: "https://github.com/giancosta86/Asgard"
