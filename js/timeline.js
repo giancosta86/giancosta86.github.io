@@ -80,27 +80,27 @@ function createGroups() {
 
     {
       id: "programmingLanguages",
-      content: "Programming languages",
+      content: "Software<br/>languages",
     },
 
     {
       id: "databaseTechnologies",
-      content: "Database technologies",
+      content: "Databases",
     },
 
     {
       id: "webTechnologies",
-      content: "Web technologies",
+      content: "Web",
     },
 
     {
       id: "systemAdministration",
-      content: "System administration",
+      content: "Sysadmin",
     },
 
     {
       id: "otherFrameworks",
-      content: "Other frameworks"
+      content: "Other<br/>frameworks"
     }
   ]
 
