@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="407.90701mm"
+   width="404.71524mm"
    height="250.95956mm"
-   viewBox="0 0 1445.3398 889.22679"
+   viewBox="0 0 1434.0304 889.22679"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -432,6 +432,17 @@
        r="57.307812"
        gradientTransform="matrix(0.39261662,0,0,0.37310895,3971.9878,-1694.0291)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4329"
+       id="radialGradient4327-3-7-3"
+       cx="613.86139"
+       cy="126.61965"
+       fx="613.86139"
+       fy="126.61965"
+       r="57.307812"
+       gradientTransform="matrix(0.39261662,0,0,0.37310895,3971.9878,-1694.0291)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -441,10 +452,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70737048"
-     inkscape:cx="623.67247"
-     inkscape:cy="375.40183"
+     inkscape:cx="1041.7367"
+     inkscape:cy="668.03492"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="artifactsGroup"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="715"
@@ -918,7 +929,8 @@
     </g>
     <g
        id="artifactsGroup"
-       inkscape:label="#g5627">
+       inkscape:label="#g5627"
+       transform="translate(-11.309491,-36.639468)">
       <g
          inkscape:label="#g5375"
          id="hephaestus">
@@ -949,7 +961,8 @@
       </g>
       <g
          inkscape:label="#g5381"
-         id="dockerHub">
+         id="dockerHub"
+         transform="translate(22.273727,-6.3521431)">
         <ellipse
            style="fill:url(#radialGradient4327-3-7-8);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path3338-7-53-30-1"
@@ -969,6 +982,35 @@
              x="4248.5723"
              y="-1557.8156"
              style="font-size:25px">Docker Hub</tspan></text>
+      </g>
+      <g
+         transform="translate(0,145.62973)"
+         inkscape:label="#g5375"
+         id="googlePlay">
+        <ellipse
+           style="fill:url(#radialGradient4327-3-7-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path3338-7-53-30-3"
+           cx="4213"
+           cy="-1646.7789"
+           ry="21.240917"
+           rx="22.35886" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4343.4883"
+           y="-1655.507"
+           id="text3558-78-5"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan4898-2"
+             sodipodi:role="line"
+             x="4343.4883"
+             y="-1655.507"
+             style="font-size:25px;text-align:center;text-anchor:middle">Google Play</tspan><tspan
+             sodipodi:role="line"
+             x="4343.4883"
+             y="-1624.257"
+             style="font-size:25px;text-align:center;text-anchor:middle"
+             id="tspan4360">(Android apps)</tspan></text>
       </g>
     </g>
     <g
