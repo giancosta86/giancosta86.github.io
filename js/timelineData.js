@@ -277,7 +277,7 @@ webTechnologies = [
     {
         content: "Spring 4",
         start: "2017-6-1",
-        end: today
+        end: "2017-10-16"
     },
 
     {
@@ -302,7 +302,13 @@ webTechnologies = [
         content: "Bootstrap",
         start: "2016-9-1",
         end: today
-    }
+    },
+
+    {
+        content: "Java EE",
+        start: "2017-10-1",
+        end: today
+    },
 ]
 
 
