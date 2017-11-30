@@ -211,7 +211,7 @@
        fx="613.86139"
        fy="126.61965"
        r="57.307812"
-       gradientTransform="matrix(0.39261662,0,0,0.37310895,2909.118,-1748.2189)"
+       gradientTransform="matrix(0.39261662,0,0,0.37310895,2947.118,-1748.2189)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -452,10 +452,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70737048"
-     inkscape:cx="807.06476"
-     inkscape:cy="325.92282"
+     inkscape:cx="168.09745"
+     inkscape:cy="436.19036"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="knowledgeSharingGroup"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="715"
@@ -704,11 +704,11 @@
       <g
          inkscape:label="#g4830"
          transform="translate(20,0)"
-         id="slideShare">
+         id="speakerDeck">
         <ellipse
            style="fill:url(#radialGradient4327-3-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path3338-7-53-3"
-           cx="3150.1301"
+           cx="3188.1301"
            cy="-1700.9688"
            ry="21.240917"
            rx="22.35886" />
@@ -723,12 +723,12 @@
              id="tspan3560-6"
              x="2978.333"
              y="-1691.6487"
-             style="font-size:25px">SlideShare</tspan></text>
+             style="font-size:25px">Presentations</tspan></text>
       </g>
       <g
          inkscape:label="#g4835"
-         transform="translate(-16,0)"
-         id="blog">
+         id="blog"
+         transform="translate(18,0)">
         <ellipse
            style="fill:url(#radialGradient4327-3-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path3338-7-53-7"
@@ -751,7 +751,7 @@
       </g>
       <g
          inkscape:label="#g4844"
-         transform="translate(-16,0)"
+         transform="translate(-12,0)"
          id="farbigesDeutsch">
         <ellipse
            style="fill:url(#radialGradient4327-3-36);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
