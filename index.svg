@@ -271,17 +271,6 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4353"
-       id="radialGradient4327-3-0"
-       cx="613.86139"
-       cy="126.61965"
-       fx="613.86139"
-       fy="126.61965"
-       r="57.307812"
-       gradientTransform="matrix(0.39261662,0,0,0.37310895,2909.1178,-1402.8306)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4353"
        id="radialGradient4327-3-20"
        cx="613.86139"
        cy="126.61965"
@@ -443,6 +432,17 @@
        r="57.307812"
        gradientTransform="matrix(0.39261662,0,0,0.37310895,3971.9878,-1694.0291)"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4345"
+       id="radialGradient4327-3-2-3"
+       cx="613.86139"
+       cy="126.61965"
+       fx="613.86139"
+       fy="126.61965"
+       r="57.307812"
+       gradientTransform="matrix(0.39261662,0,0,0.37310895,2967.1179,-1678.0589)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -452,10 +452,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70737048"
-     inkscape:cx="168.09745"
-     inkscape:cy="436.19036"
+     inkscape:cx="1189.0493"
+     inkscape:cy="656.72543"
      inkscape:document-units="px"
-     inkscape:current-layer="knowledgeSharingGroup"
+     inkscape:current-layer="gitHub"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="715"
@@ -703,7 +703,7 @@
        inkscape:label="#g5586">
       <g
          inkscape:label="#g4830"
-         transform="translate(20,0)"
+         transform="translate(18,0)"
          id="speakerDeck">
         <ellipse
            style="fill:url(#radialGradient4327-3-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -728,7 +728,7 @@
       <g
          inkscape:label="#g4835"
          id="blog"
-         transform="translate(18,0)">
+         transform="translate(-12,58)">
         <ellipse
            style="fill:url(#radialGradient4327-3-2);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="path3338-7-53-7"
@@ -751,7 +751,7 @@
       </g>
       <g
          inkscape:label="#g4844"
-         transform="translate(-12,0)"
+         transform="translate(18,58)"
          id="farbigesDeutsch">
         <ellipse
            style="fill:url(#radialGradient4327-3-36);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -780,7 +780,7 @@
       </g>
       <g
          inkscape:label="#g4850"
-         transform="translate(20,0)"
+         transform="translate(56,60)"
          id="arcadia">
         <ellipse
            style="fill:url(#radialGradient4327-3-9);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -802,13 +802,37 @@
              y="-1481.1688"
              style="font-size:25px">Arcadia</tspan></text>
       </g>
+      <g
+         inkscape:label="#g4835"
+         id="marianne"
+         transform="translate(-40,-7.813204)">
+        <ellipse
+           style="fill:url(#radialGradient4327-3-2-3);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path3338-7-53-7-3"
+           cx="3208.1301"
+           cy="-1630.8088"
+           ry="21.240917"
+           rx="22.35886" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="3055.2515"
+           y="-1621.4888"
+           id="text3558-0-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3560-9-6"
+             x="3055.2515"
+             y="-1621.4888"
+             style="font-size:25px">Marianne</tspan></text>
+      </g>
     </g>
     <g
        id="socialNetworksGroup"
        inkscape:label="#g5605">
       <g
          inkscape:label="#g4855"
-         transform="translate(138,0)"
+         transform="translate(118,56)"
          id="linkedIn">
         <ellipse
            style="fill:url(#radialGradient4327-3-8);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -855,32 +879,8 @@
              style="font-size:25px">Twitter</tspan></text>
       </g>
       <g
-         inkscape:label="#g4860"
-         transform="translate(106,0)"
-         id="xing">
-        <ellipse
-           style="fill:url(#radialGradient4327-3-0);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="path3338-7-53-0"
-           cx="3150.1301"
-           cy="-1355.5806"
-           ry="21.240917"
-           rx="22.35886" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3049.6709"
-           y="-1346.2605"
-           id="text3558-6"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan3560-3"
-             x="3049.6709"
-             y="-1346.2605"
-             style="font-size:25px">XING</tspan></text>
-      </g>
-      <g
          inkscape:label="#g4870"
-         transform="translate(106,0)"
+         transform="translate(84,0)"
          id="youTube">
         <ellipse
            style="fill:url(#radialGradient4327-3-20);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.28228059px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1288,20 +1288,15 @@
         <text
            sodipodi:linespacing="125%"
            id="text3558-78-44"
-           y="-1654.5548"
+           y="-1639.882"
            x="4343.4883"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
-             style="font-size:25px;text-align:center;text-anchor:middle"
-             y="-1654.5548"
-             x="4343.4883"
-             sodipodi:role="line"
-             id="tspan4898-6">GitHub portfolio</tspan><tspan
              id="tspan5941"
              style="font-size:25px;text-align:center;text-anchor:middle"
-             y="-1623.3048"
+             y="-1639.882"
              x="4343.4883"
-             sodipodi:role="line">(60+ projects)</tspan></text>
+             sodipodi:role="line">GitHub portfolio</tspan></text>
       </g>
     </g>
   </g>
