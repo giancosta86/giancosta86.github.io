@@ -7,7 +7,7 @@ baseurl: ""
 author:
   name: Gianluca Costa
   email: gianluca@gianlucacosta.info
-  url: http://gianlucacosta.info
+  url: https://gianlucacosta.info
 
 markdown: kramdown
 
