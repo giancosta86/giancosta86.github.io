@@ -2,8 +2,6 @@
 # ABOUT
 #
 
-introduction: "/introduction.html"
-
 downloadCV: "/cv_costa_en.pdf"
 
 email: "mailto:gianluca@gianlucacosta.info"
@@ -22,13 +20,13 @@ gitHub: "https://github.com/giancosta86"
 
 speakerDeck: "https://speakerdeck.com/giancosta86"
 
-marianne: "http://gianlucacosta.info/Marianne/"
+marianne: "https://gianlucacosta.info/Marianne/"
 
 blog: "/blog/"
 
-farbigesDeutsch: "http://gianlucacosta.info/FarbigesDeutsch/"
+farbigesDeutsch: "https://gianlucacosta.info/FarbigesDeutsch/"
 
-arcadia: "http://gianlucacosta.info/Arcadia/"
+arcadia: "https://gianlucacosta.info/Arcadia/"
 
 
 #
@@ -59,26 +57,19 @@ googlePlay: "https://play.google.com/store/apps/developer?id=Gianluca%20Costa"
 # HIGHLIGHTED PROJECTS
 #
 
-twoBinPack: "http://gianlucacosta.info/TwoBinPack/"
+twoBinPack: "https://gianlucacosta.info/TwoBinPack/"
 
-graphsJ: "http://gianlucacosta.info/GraphsJ/"
+graphsJ: "https://gianlucacosta.info/GraphsJ/"
 
-chronos: "http://gianlucacosta.info/Chronos-IDE/"
+chronos: "https://gianlucacosta.info/Chronos-IDE/"
 
-moonDeploy: "http://gianlucacosta.info/moondeploy/"
+moonDeploy: "https://gianlucacosta.info/moondeploy/"
 
-historyMark: "http://gianlucacosta.info/HistoryMark/"
+historyMark: "https://gianlucacosta.info/HistoryMark/"
 
-knapScal: "http://gianlucacosta.info/KnapScal/"
+knapScal: "https://gianlucacosta.info/KnapScal/"
 
-solvenius: "http://gianlucacosta.info/solvenius/"
-
-
-#
-# TIMELINE
-#
-
-timeline: "/timeline.html"
+solvenius: "https://gianlucacosta.info/solvenius/"
 
 
 #
