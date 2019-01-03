@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Website terms of use
 description: Website terms of use
 ---
