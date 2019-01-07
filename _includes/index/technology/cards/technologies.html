@@ -1,0 +1,21 @@
+<div class="card mb-4">
+  <div class="card-header">
+    <i class="far fa-compass"></i> Comprehensive experience
+  </div>
+
+  <div class="card-body">
+    <p class="card-text">Over the years, I've learnt a wide variety of <strong>languages</strong>, <strong>frameworks</strong> and <strong>patterns</strong>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn btn-primary btn-sm collapsed" type="button" data-toggle="collapse" data-target="#technologies-details">
+      <i class="fas fa-code"></i> Main languages
+    </button>
+  </div>
+
+  <div id="technologies-details" class="collapse">
+    <div class="card-body">
+      {% include badge-list.html items=site.data.itLanguages %}
+    </div>
+  </div>
+</div>

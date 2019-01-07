@@ -1,10 +1,14 @@
 ---
 title: Writing custom rulesets for EasyPmd
+
 tags:
   - EasyPmd
   - PMD
   - Java
   - ruleset
+
+redirect_from:
+  - "easypmd-custom-rulesets"
 ---
 When parsing your Java code, EasyPmd internally calls PMD, so you can create your custom sets of rules (that is, *rulesets*), in addition to - or instead of - the predefined ones, for maximum flexibility.
 

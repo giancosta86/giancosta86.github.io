@@ -1,0 +1,66 @@
+<div>
+  <h1>Featured projects</h1>
+
+  <div id="featured-projects-carousel" class="carousel ml-lg-5 mr-lg-5 slide mt-4" data-ride="carousel">
+    <ol class="carousel-indicators">
+      {% for project in site.data.featuredProjects %}
+        {% assign index = forloop.index | minus: 1 %}
+
+        {% if index == 0 %}
+          <li data-target="#featured-projects-carousel" data-slide-to="{{ index }}" class="active"></li>
+        {% else %}
+          <li data-target="#featured-projects-carousel" data-slide-to="{{ index }}"></li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+
+    <div class="carousel-inner">
+      {% for project in site.data.featuredProjects %}
+        {% assign index = forloop.index | minus: 1 %}
+
+        {% if index == 0 %}
+          <div class="carousel-item active">
+        {% else %}
+          <div class="carousel-item">
+        {% endif %}
+          {% if project.title != nil %}
+            {% assign title = project.title %}
+          {% else %}
+            {% assign title = project.gitHubName %}
+          {% endif %}
+
+
+          {% if project.screenshotExtension != nil %}
+            {% assign screenshotExtension = project.screenshotExtension %}
+          {% else %}
+            {% assign screenshotExtension = "png" %}
+          {% endif %}
+
+
+          <img src="{{ site.baseurl }}/images/screenshots/{{ project.gitHubName }}.{{ screenshotExtension }}" class="d-block" alt="Screenshot of {{ title | escape }}">
+
+          <div class="carousel-caption">
+
+        <h5>{{ title | escape }}</h5>
+
+        <p>{{ project.descriptionMarkup }}</p>
+
+        {% if project.hasWebsite != nil %}
+          {% assign hasWebsite = project.hasWebsite %}
+        {% else %}
+          {% assign hasWebsite = true %}
+        {% endif %}
+
+        <div class="buttons">
+          {% if hasWebsite %}
+            <a href="https://gianlucacosta.info/{{ project.gitHubName }}/" class="btn btn-primary btn-sm mr-2"><i class="fas fa-globe"></i> Website</a>
+          {% endif %}
+
+            <a href="https://github.com/giancosta86/{{ project.gitHubName }}" class="btn btn-success btn-sm"><i class="fab fa-github"></i> GitHub</a>
+        </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>

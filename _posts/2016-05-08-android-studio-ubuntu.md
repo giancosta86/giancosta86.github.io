@@ -7,6 +7,9 @@ tags:
   - Android Studio
   - Ubuntu
   - setup
+
+redirect_from:
+  - "/android-studio-ubuntu"
 ---
 
 Android Studio 2 is definitely a brilliant, modern and interesting technology! ^\_\_^

@@ -3,6 +3,9 @@ title: MoonDeploy 2.0 is ready!
 
 tags:
   - MoonDeploy
+
+redirect_from:
+  - "/moondeploy-2"
 ---
 
 I have always been fond of **Java Web Start** - I love the idea of clicking on a link in the web browser and having an application downloaded and run by a dedicated tool.

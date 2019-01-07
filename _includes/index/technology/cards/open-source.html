@@ -1,0 +1,22 @@
+<div class="card mb-4">
+  <div class="card-header">
+    <i class="fab fa-github"></i> Open source developer
+  </div>
+
+  <div class="card-body">
+    <p class="card-text">I love putting my <strong>knowledge into practice</strong>: my GitHub account consists
+      of more than <strong>70 projects</strong></p>
+  </div>
+
+  <div class="card-footer">
+    <button class="btn btn-primary btn-sm collapsed" type="button" data-toggle="collapse" data-target="#open-source-details">
+      <i class="far fa-lightbulb"></i> Explore solutions
+    </button>
+  </div>
+
+  <div id="open-source-details" class="collapse">
+    <div class="card-body">
+      {% include badge-list.html items=site.data.solutions %}
+    </div>
+  </div>
+</div>

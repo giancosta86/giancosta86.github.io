@@ -1,0 +1,15 @@
+- iconMarkup: <i class="fab fa-linux"></i>
+  text: Linux
+  badgeMarkup: since 2004
+
+- iconMarkup: <i class="fab fa-windows"></i>
+  text: Windows
+  badgeMarkup: since 1998
+
+- iconMarkup: <i class="fab fa-android"></i>
+  text: Android
+  badgeMarkup: since 2012
+
+- iconMarkup: <i class="fab fa-raspberry-pi"></i>
+  text: Raspbian
+  badgeMarkup: since 2016

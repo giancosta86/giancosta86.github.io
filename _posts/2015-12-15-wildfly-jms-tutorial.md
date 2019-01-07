@@ -10,6 +10,9 @@ tags:
   - servlet
   - Message-driven
   - EJB
+
+redirect_from:
+  - "/wildfly-jms-tutorial"
 ---
 
 Java Message Service (JMS) is a simple and elegant API abstracting message-oriented middleware; in this tutorial, we'll see how to easily set up a new instance of the WildFly 9 application server with JMS support.

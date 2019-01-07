@@ -1,0 +1,50 @@
+<ul class="list-group badge-list">
+  {% for item in include.items %}
+    <li class="list-group-item d-flex justify-content-start align-items-center">
+      {% if item.iconMarkup != nil %}
+      <div class="icon d-flex justify-content-center">
+      {{ item.iconMarkup }}
+      </div>
+      {% endif %}
+
+      {% if item.urlKey != nil %}
+        {% if item.urlKey contains 'Path' %}
+        <a href="{{ site.baseurl }}{{ site.data.links[item.urlKey] }}">{{ item.text | escape }}</a>
+        {% else %}
+        <a href="{{ site.data.links[item.urlKey] }}">{{ item.text | escape }}</a>
+        {% endif %}
+      {% elsif item.url != nil %}
+        <a href="{{ item.url }}">{{ item.text | escape }}</a>
+      {% else %}
+        {{ item.text | escape }}
+      {% endif %}
+
+
+      {% if item.stars != nil %}
+        {% assign badgeMarkup = "" %}
+
+        {% assign integerStars = item.stars | floor %}
+
+        {% for i in (1..integerStars) %}
+          {% assign badgeMarkup = badgeMarkup | append: '<i class="fas fa-star"></i> ' %}
+        {% endfor %}
+
+        {% if item.stars > integerStars %}
+          {% assign badgeMarkup = badgeMarkup | append: '<i class="fas fa-star-half-alt"></i>' %}
+        {% endif %}
+      {% elsif item.badgeMarkup != nil %}
+          {% assign badgeMarkup = item.badgeMarkup %}
+      {% else %}
+          {% assign badgeMarkup = nil %}
+      {% endif %}
+
+      {% if badgeMarkup != nil %}
+        <div class="flex-1 d-flex justify-content-end align-items-center">
+          <div class="badge {{ include.badgeColor | default: 'badge-primary' }} badge-pill">
+          {{ badgeMarkup }}
+          </div>
+        </div>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

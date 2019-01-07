@@ -1,6 +1,22 @@
 ---
-layout: default
+layout: basic
 bodyClass: home
 ---
 
 
+<div id="cover" class="d-flex justify-content-center align-items-center min-height-100">
+  {% include index/cover/main.html %}
+</div>
+
+<section id="technology" class="min-height-100">
+    {% include index/technology/main.html %}
+</section>
+
+<section id="humanism" class="min-height-100">
+  {% include index/humanism/main.html %}
+</section>
+
+
+<section id="featured-projects" class="min-height-100">
+  {% include index/featured-projects/main.html %}
+</section>

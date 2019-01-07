@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Website terms of use
 description: Website terms of use
 ---
@@ -22,7 +21,6 @@ Gianluca Costa has the right to modify at any time the website, its terms of use
 
 ## Technologies
 
-
 * [Jekyll](https://jekyllrb.com/)
 
 * [jQuery](https://jquery.com/)
@@ -31,34 +29,34 @@ Gianluca Costa has the right to modify at any time the website, its terms of use
 
 * [Popper.js](https://popper.js.org/)
 
-* [vis.js](http://visjs.org/)
+* [HTML 5](https://www.w3.org/TR/html/)
 
-* [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
-* [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+* [CSS 3](https://www.w3.org/standards/techs/css)
 
 This website is kindly hosted by [GitHub](https://github.com/).
 
 
 ## Icons
 
-* [Crystal Project](https://www.iconfinder.com/iconsets/crystalproject) icon set, by [Everaldo Coelho](http://www.everaldo.com/)
+* [Font Awesome](https://fontawesome.com/)
 
+
+## CSS tools
+
+* [CSSmatic](https://www.cssmatic.com/)
 
 
 ## Fonts
 
 This website also employs the following free fonts:
 
-* [Signika](http://www.fontsquirrel.com/fonts/signika)
-* [Source Sans Pro](http://www.fontsquirrel.com/fonts/source-sans-pro)
+* [Charm](https://fonts.google.com/specimen/Charm)
 
+* [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 
-They are all licensed under the [SIL OPEN FONT LICENSE](http://scripts.sil.org/OFL).
+* [Signika](https://fonts.google.com/specimen/Signika)
 
 
 ## Code snippets
 
-* The [tags page]({{ site.links.blogTags }}) is based on a brilliant online [tutorial](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
-
-* The rounded portrait image is based on a dedicated [article](https://ctrlq.org/code/19282-css-round-images)
+* The [tags page]({{ site.baseurl }}{{ site.data.links.blogTagsPath }}) is based on a brilliant online [tutorial](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)

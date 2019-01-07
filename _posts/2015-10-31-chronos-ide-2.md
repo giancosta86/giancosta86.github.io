@@ -4,6 +4,9 @@ title: Chronos IDE 2.0 is ready!
 tags:
   - Chronos
   - Chronos IDE
+
+redirect_from:
+  - "/chronos-ide-2"
 ---
 
 [Chronos](https://github.com/giancosta86/Chronos), my didactic programming language dedicated to *Discrete Event Simulation* (DES), has now reached version 2; it has definitely been a *valuable* and *formative* experience, as it is based on my very first *context-free grammar*.

@@ -1,97 +1,71 @@
 #
-# ABOUT
+# INTERNAL PATHS
 #
 
-downloadCV: "/cv_costa_en.pdf"
+cvPath: "/cv_costa_en.pdf"
 
-email: "mailto:gianluca@gianlucacosta.info"
+blogPath: "/blog/"
 
+blogTagsPath: "/blog/tags"
 
-#
-# GitHub
-#
+newsFeedPath: "/atom.xml"
 
-gitHub: "https://github.com/giancosta86"
+termsPath: "/terms"
 
+privacyPath: "/privacy"
 
-#
-# KNOWLEDGE SHARING
-#
-
-speakerDeck: "https://speakerdeck.com/giancosta86"
-
-marianne: "https://gianlucacosta.info/Marianne/"
-
-blog: "/blog/"
-
-farbigesDeutsch: "https://gianlucacosta.info/FarbigesDeutsch/"
-
-arcadia: "https://gianlucacosta.info/Arcadia/"
 
 
 #
-# SOCIAL NETWORKS
+# CONTACTS
 #
 
 linkedIn: "https://www.linkedin.com/in/giancosta86"
 
 twitter: "https://twitter.com/giancosta86"
 
-youTube: "https://www.youtube.com/user/giancosta86info"
+email: "mailto:gianluca@gianlucacosta.info"
 
-duolingo: "https://www.duolingo.com/giancosta86"
 
 
 #
 # ARTIFACTS
 #
 
+gitHub: "https://github.com/giancosta86"
+
+googlePlay: "https://play.google.com/store/apps/developer?id=Gianluca%20Costa"
+
 hephaestus: "https://bintray.com/giancosta86/Hephaestus"
 
 dockerHub: "https://hub.docker.com/u/giancosta86/"
 
-googlePlay: "https://play.google.com/store/apps/developer?id=Gianluca%20Costa"
+pypi: "https://pypi.org/user/giancosta86/"
 
+speakerDeck: "https://speakerdeck.com/giancosta86"
 
-#
-# HIGHLIGHTED PROJECTS
-#
-
-twoBinPack: "https://gianlucacosta.info/TwoBinPack/"
-
-graphsJ: "https://gianlucacosta.info/GraphsJ/"
-
-chronos: "https://gianlucacosta.info/Chronos-IDE/"
-
-moonDeploy: "https://gianlucacosta.info/moondeploy/"
-
-historyMark: "https://gianlucacosta.info/HistoryMark/"
-
-knapScal: "https://gianlucacosta.info/KnapScal/"
-
-solvenius: "https://gianlucacosta.info/solvenius/"
 
 
 #
-# BLOG TAGS
+# REFERENCES
 #
 
-blogTags: "/tags.html"
+cloudIntro: https://speakerdeck.com/giancosta86/introduction-to-cloud-computing-and-aws
 
+machineLearningIntro: https://speakerdeck.com/giancosta86/introduction-to-machine-learning
 
-#
-# NEWS FEED
-#
+twoBinPack: https://gianlucacosta.info/TwoBinPack/
 
-newsFeed: "/atom.xml"
+graphsJ: https://gianlucacosta.info/GraphsJ/
 
+easyPmdInterview: https://dzone.com/articles/nb-easypmd4-1
 
-#
-# FURTHER LINKS
-#
+erlangIntro: https://speakerdeck.com/giancosta86/introduction-to-erlang
 
-aurora: "https://github.com/giancosta86/Aurora"
+onlineCourses: https://drive.google.com/open?id=15OFBQyIOpjL9AugfBDkasefdgVO3PWd2
 
-eighthBridge: "https://github.com/giancosta86/EighthBridge"
+arcadia: "https://gianlucacosta.info/Arcadia/"
 
-asgard: "https://github.com/giancosta86/Asgard"
+youTube: "https://www.youtube.com/user/giancosta86info"
+
+duolingo: "https://www.duolingo.com/giancosta86"

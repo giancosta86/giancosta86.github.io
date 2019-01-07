@@ -1,0 +1,33 @@
+- iconMarkup: <i class="fas fa-server"></i>
+  text: Backend
+  stars: 4
+
+- iconMarkup: <i class="fas fa-globe"></i>
+  text: Frontend
+  stars: 3.5
+
+- iconMarkup: <i class="fas fa-desktop"></i>
+  text: Desktop apps
+  stars: 4
+
+- iconMarkup: <i class="fas fa-users-cog"></i>
+  text: DevOps
+  stars: 3.5
+
+- iconMarkup: <i class="fas fa-database"></i>
+  text: Relational DBMS
+  stars: 3.5
+
+- iconMarkup: <i class="fas fa-leaf"></i>
+  text: NoSQL
+  stars: 2.5
+
+- iconMarkup: <i class="fas fa-cloud"></i>
+  urlKey: cloudIntro
+  text: Cloud & AWS
+  stars: 2.5
+
+- iconMarkup: <i class="far fa-chart-bar"></i>
+  urlKey: machineLearningIntro
+  text: Data Science
+  stars: 2

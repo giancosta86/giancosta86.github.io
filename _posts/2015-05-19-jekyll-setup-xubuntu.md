@@ -5,6 +5,9 @@ tags:
   - Jekyll
   - Xubuntu
   - setup
+
+redirect_from:
+  - "/jekyll-setup-xubuntu"
 ---
 
 [Jekyll](http://jekyllrb.com/) is a brilliant tool for static website creation, and installing its latest version on my Xubuntu 15 machine was definitely easy:

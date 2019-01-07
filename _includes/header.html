@@ -1,0 +1,48 @@
+<nav class="site-nav navbar navbar-expand-md navbar-light bg-light p-0 pl-md-2 pr-1">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
+    <img src="{{ site.baseurl }}/favicon.ico" alt="Website icon">
+  </button>
+
+  <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <div class="d-flex align-items-center">
+      <img class="d-none d-md-inline mr-2" src="{{ site.baseurl }}/favicon.ico" alt="Website icon">
+      <span class="font-italic">Gianluca Costa's Creations</span>
+    </div>
+  </a>
+
+  <div class="collapse navbar-collapse" id="navbarMenu">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+      </li>
+
+      <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/#technology">Technology</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/#humanism">Humanism</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/#featured-projects">Projects</a></li>
+
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+          Blog
+        </a>
+        {% include blog-menu.html %}
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+          Website
+        </a>
+
+        {% include website-menu.html %}
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+          Contacts
+        </a>
+
+        {% include contacts-menu.html %}
+      </li>
+    </ul>
+  </div>
+</nav>

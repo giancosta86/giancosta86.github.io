@@ -1,5 +1,6 @@
 ---
 title: Magellan - A clustering tutorial with WildFly, nginx, Scala(FX) and Gradle
+
 tags:
   - networking
   - clustering
@@ -12,6 +13,9 @@ tags:
   - EJB
   - JNDI
   - tutorial
+
+redirect_from:
+  - "/wildfly-clustering"
 ---
 
 ## Introduction

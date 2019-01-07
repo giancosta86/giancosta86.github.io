@@ -10,6 +10,9 @@ tags:
   - msys2
   - MinGW
   - setup
+
+redirect_from:
+  - "/go-gui-apps-on-windows"
 ---
 
 

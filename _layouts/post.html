@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: basic
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header>
+<article class="post p-2 p-lg-3" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="mb-4 mb-md-5">
     <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    <p><time
+    <time class="d-block text-center annotation"
       datetime="{{ page.date | date_to_xmlschema }}"
-      itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time></p>
+      itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>
   </header>
 
   <div class="content" itemprop="articleBody">
@@ -15,16 +14,8 @@ layout: default
   </div>
 
   {% if page.tags %}
+    <hr class="mt-3 mb-4">
 
-    {% assign sortedTags = page.tags | sort %}
-
-  <section class="tags">
-    <h3>Tags:</h3>
-
-    {% for tag in sortedTags %}
-    <a class="tag" href="{{ site.baseurl }}/tags#{{ tag | slugify }}"></span>{{ tag | escape }}</a>
-    {% endfor %}
-  </section>
+    {% include tag-labels.html tags=page.tags %}
   {% endif %}
-
 </article>

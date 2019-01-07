@@ -1,6 +1,6 @@
 title: Gianluca Costa's Creations
-description: Website of code & poetry
-url: http://gianlucacosta.info
+description: Website of technology & humanism
+url: https://gianlucacosta.info
 
 baseurl: ""
 
@@ -8,6 +8,8 @@ author:
   name: Gianluca Costa
   email: gianluca@gianlucacosta.info
   url: https://gianlucacosta.info
+
+motto: "Elegance always matters"
 
 markdown: kramdown
 
@@ -21,7 +23,7 @@ plugins:
 
 source: .
 destination: ./_site
-permalink: /:title
+permalink: /blog/:title
 
 paginate: 7
 paginate_path: /blog/page:num
@@ -29,9 +31,14 @@ paginate_path: /blog/page:num
 encoding: utf-8
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

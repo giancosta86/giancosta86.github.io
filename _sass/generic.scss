@@ -1,0 +1,95 @@
+h1 {
+  font-family: 'Signika', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+article {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.1rem;
+
+  .content {
+    h2 {
+      font-weight: bold;
+      margin-top: 2.2rem;
+      margin-bottom: 1rem;
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+     margin-top: 1.6rem;
+     margin-bottom: 1rem;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    ul,
+    ol,
+    dl {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
+
+
+a {
+  text-decoration: none !important;
+}
+
+
+a,
+button {
+  &.btn-primary {
+    box-shadow: 1px 1px 5px 0px rgba(0,41,82,1);
+  }
+
+  &.btn-success {
+    box-shadow: 1px 1px 5px 0px rgba(3,31,5,1);
+  }
+
+  &.btn-info {
+    box-shadow: 1px 1px 5px 0px rgba(14,56,56,1);
+  }
+}
+
+
+.min-height-100 {
+  min-height: 100%;
+}
+
+
+.flex-1 {
+  flex: 1;
+}
+
+
+.badge-list {
+  .icon {
+    min-width: 2rem;
+  }
+}
+
+
+.site-nav {
+  border-bottom: 1px solid darkgrey;
+
+  .navbar-brand {
+    font-family: 'Charm', cursive;
+  }
+}
+
+.site-footer {
+  font-size: 0.7rem;
+}
+
+
+.annotation {
+  font-size: 0.95rem;
+  color: darkgrey;
+}
