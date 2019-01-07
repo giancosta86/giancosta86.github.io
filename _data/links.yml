@@ -8,7 +8,7 @@ blogPath: "/blog/"
 
 blogTagsPath: "/blog/tags"
 
-newsFeedPath: "/atom.xml"
+atomFeedPath: "/atom.xml"
 
 termsPath: "/terms"
 

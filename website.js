@@ -1,6 +1,6 @@
 $(() => {
   const blankTargetRegex =
-    /^https?|\.pdf$/
+    /^https?|\.pdf$|\.xml$/
 
 
   setupHyperlinksTarget()
