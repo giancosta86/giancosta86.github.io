@@ -5,27 +5,27 @@
   stars: 4
 
 - text: HTML 5
-  stars: 3.5
+  stars: 4
 
 - text: CSS 3
-  stars: 3.5
+  stars: 4
 
 - text: Scala
+  stars: 3.5
+
+- text: Python
+  stars: 3.5
+
+- text: SQL
   stars: 3.5
 
 - text: C#
   stars: 3
 
-- text: Python
-  stars: 3
-
-- text: SQL
+- text: C
   stars: 3
 
 - text: Go
-  stars: 2
-
-- text: C
   stars: 2
 
 - text: C++
@@ -37,5 +37,3 @@
 
 - text: Elm
   stars: 1.5
-
-

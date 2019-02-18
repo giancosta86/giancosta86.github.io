@@ -20,7 +20,7 @@
 
 - iconMarkup: <i class="fas fa-leaf"></i>
   text: NoSQL
-  stars: 2.5
+  stars: 3
 
 - iconMarkup: <i class="fas fa-cloud"></i>
   urlKey: cloudIntro
