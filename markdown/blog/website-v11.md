@@ -14,7 +14,7 @@ It features:
 
 - **Bootstrap 4** (still in beta version!)
 
-- **vis.js**, to restore my [timeline]({{ site.data.links.timeline }}) - which is much more beautiful than the one I included in older versions of this website
+- **vis.js**, to restore my [timeline](/) - which is much more beautiful than the one I included in older versions of this website
 
 - **Popper.js**, referenced by Bootstrap
 

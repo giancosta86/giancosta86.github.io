@@ -3,6 +3,7 @@ import ExpandableCard from "../ExpandableCard"
 import BadgedItems from "../../BadgedItems"
 import SmartIcon from "../../SmartIcon"
 import { StaticQuery, graphql } from "gatsby"
+import links from "../../../data/links.json"
 
 export default () => (
   <StaticQuery
@@ -58,10 +59,7 @@ export default () => (
           </section>
 
           <div className="d-flex justify-content-center mt-4">
-            <a
-              href="{{ site.baseurl }}{{ site.data.links.cvPath }}"
-              className="btn-primary btn-sm"
-            >
+            <a href={links.cvPath} className="btn-primary btn-sm">
               <SmartIcon icon="fas/file-download" />
               Download CV
             </a>

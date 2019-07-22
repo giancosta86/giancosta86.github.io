@@ -28,8 +28,8 @@ And now comes the 10th version of the website! It features:
 
 - A brand-new layout, based on [Bootstrap](http://getbootstrap.com/)
 
-- [Tags]({{ site.baseurl }}{{ site.data.links.blogTagsPath }}), to keep the posts organized and easy to reach
+- [Tags](/blog/tags), to keep the posts organized and easy to reach
 
-- A [redesigned CV]({{ site.baseurl }}/cv_costa_en.pdf)
+- A [redesigned CV](/cv_costa_en.pdf)
 
 - Custom [Jekyll](https://jekyllrb.com/) project structure

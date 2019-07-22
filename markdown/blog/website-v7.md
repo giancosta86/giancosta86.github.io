@@ -20,4 +20,4 @@ Therefore, Hephaestus's new official URL is: [https://bintray.com/giancosta86/He
 
 Last but not least, the _News_ area has been superseded by [my Twitter account](https://twitter.com/giancosta86): you are all invited to follow it! ^\_\_^
 
-If you are new to this website, please visit my [introduction]({{ site.baseurl }}/about.html)! ^\_\_^
+If you are new to this website, please visit my [introduction](/)! ^\_\_^
