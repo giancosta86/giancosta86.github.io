@@ -1,0 +1,19 @@
+.post {
+  border-radius: 2em;
+
+  .post-title {
+    a {
+      font-weight: bold;
+      font-size: 1.6rem;
+
+      &:active,
+      &:visited {
+        color: #17a2b8 !important;
+      }
+
+      &:hover {
+        color: red;
+      }
+    }
+  }
+}

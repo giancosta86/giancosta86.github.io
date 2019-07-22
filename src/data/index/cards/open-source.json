@@ -1,0 +1,43 @@
+[
+  {
+    "icon": "fab/github-alt",
+    "text": "GitHub projects",
+    "urlKey": "gitHub"
+  },
+
+  {
+    "icon": "fab/google-play",
+    "text": "Google Play apps",
+    "urlKey": "googlePlay"
+  },
+
+  {
+    "icon": "fab/npm",
+    "text": "JavaScript packages on NPM",
+    "urlKey": "npm"
+  },
+
+  {
+    "icon": "fas/cubes",
+    "text": "Hephaestus - Maven repository",
+    "urlKey": "hephaestus"
+  },
+
+  {
+    "icon": "fab/docker",
+    "text": "DockerHub containers",
+    "urlKey": "dockerHub"
+  },
+
+  {
+    "icon": "fab/python",
+    "text": "Python libraries",
+    "urlKey": "pypi"
+  },
+
+  {
+    "icon": "fas/chalkboard-teacher",
+    "text": "Presentations on SpeakerDeck",
+    "urlKey": "speakerDeck"
+  }
+]

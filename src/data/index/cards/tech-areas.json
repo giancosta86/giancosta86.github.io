@@ -1,0 +1,49 @@
+[
+  {
+    "icon": "fas/server",
+    "text": "Backend",
+    "stars": 4
+  },
+
+  {
+    "icon": "fas/globe",
+    "text": "Frontend",
+    "stars": 4
+  },
+
+  {
+    "icon": "fas/desktop",
+    "text": "Desktop",
+    "stars": 4
+  },
+
+  {
+    "icon": "fas/users-cog",
+    "text": "DevOps",
+    "stars": 3.5
+  },
+
+  {
+    "icon": "fas/database",
+    "text": "Relational DBMS",
+    "stars": 3.5
+  },
+
+  {
+    "icon": "fas/leaf",
+    "text": "NoSQL",
+    "stars": 3
+  },
+
+  {
+    "icon": "fas/cloud",
+    "text": "Cloud & AWS",
+    "stars": 2.5
+  },
+
+  {
+    "icon": "far/chart-bar",
+    "text": "Data Science",
+    "stars": 2
+  }
+]

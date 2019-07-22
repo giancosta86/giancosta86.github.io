@@ -1,0 +1,229 @@
+{
+  "Technology": {
+    "Computer Science": {
+      "Ecosystems": {
+        "Flutter": [
+          {
+            "title": "Flutter: The Big Picture",
+            "completionDate": "2019-05-29",
+            "minutes": 73,
+            "url": "https://www.pluralsight.com/courses/flutter-big-picture",
+            "certificateUrl": ""
+          },
+
+          {
+            "title": "Learn Dart Programming for Flutter",
+            "completionDate": "2019-05-17",
+            "minutes": 270,
+            "url": "https://www.udemy.com/learn-dart-programming/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-1U050CW8/"
+          },
+          {
+            "title": "The Complete Flutter App Development Course for Android, iOS",
+            "completionDate": "2019-05-16",
+            "minutes": 270,
+            "url": "https://www.udemy.com/the-complete-flutter-app-development-course-for-android-ios/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-99IY0RTE/"
+          }
+        ]
+      },
+
+      "Software Design": {
+        "Architecture": [
+          {
+            "title": "Clean Architecture: Patterns, Practices and Principles",
+            "completionDate": "2019-05-24",
+            "minutes": 141,
+            "url": "https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "Cloud & Virtualization": {
+        "Network Principles": [
+          {
+            "title": "Learn Socket Programming in C from Scratch",
+            "completionDate": "2019-05-28",
+            "minutes": 90,
+            "url": "https://www.udemy.com/learn-socket-programming-in-c-from-scratch/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-XTMOKPHL/"
+          }
+        ],
+        "Amazon Web Services": [
+          {
+            "title": "AWS Developer: The Big Picture",
+            "completionDate": "2019-05-25",
+            "minutes": 94,
+            "url": "https://www.pluralsight.com/courses/aws-developer-big-picture",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "Web Frontend": {
+        "React": [
+          {
+            "title": "React: The Big Picture",
+            "completionDate": "2019-06-01",
+            "minutes": 71,
+            "url": "https://www.pluralsight.com/courses/react-big-picture",
+            "certificateUrl": ""
+          },
+
+          {
+            "title": "React: Getting Started",
+            "completionDate": "2019-06-09",
+            "minutes": 241,
+            "url": "https://www.pluralsight.com/courses/react-js-getting-started",
+            "certificateUrl": ""
+          },
+
+          {
+            "title": "Styling React Components",
+            "completionDate": "2019-06-18",
+            "minutes": 83,
+            "url": "https://www.pluralsight.com/courses/react-styling-components",
+            "certificateUrl": ""
+          }
+        ],
+        "CSS": [
+          {
+            "title": "Building Websites with Bulma",
+            "completionDate": "2019-07-11",
+            "minutes": 102,
+            "url": "https://www.pluralsight.com/courses/building-websites-bulma",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "Web Backend": {
+        "NodeJS": [
+          {
+            "title": "GatsbyJS: Getting Started",
+            "completionDate": "2019-06-17",
+            "minutes": 120,
+            "url": "https://www.pluralsight.com/courses/gatsbyjs-getting-started",
+            "certificateUrl": ""
+          },
+
+          {
+            "title": "Building Scalable APIs with GraphQL",
+            "completionDate": "2019-06-20",
+            "minutes": 130,
+            "url": "https://www.pluralsight.com/courses/graphql-scalable-apis",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "DevOps": {
+        "Build Automation": [
+          {
+            "title": "NPM Playbook",
+            "completionDate": "2019-06-24",
+            "minutes": 58,
+            "url": "https://www.pluralsight.com/courses/npm-playbook",
+            "certificateUrl": ""
+          }
+        ],
+        "Remote Control": [
+          {
+            "title": "Deploying .NET Applications with Octopus Deploy",
+            "completionDate": "2019-05-27",
+            "minutes": 73,
+            "url": "https://www.pluralsight.com/courses/octopus-deploy-dot-net-applications",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "Testing": {
+        ".NET": [
+          {
+            "title": "Introduction to .NET Testing with NUnit 3",
+            "completionDate": "2019-05-31",
+            "minutes": 126,
+            "url": "https://www.pluralsight.com/courses/nunit-3-dotnet-testing-introduction",
+            "certificateUrl": ""
+          },
+
+          {
+            "title": "Improving Unit Tests with Fluent Assertions",
+            "completionDate": "2019-06-01",
+            "minutes": 40,
+            "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests",
+            "certificateUrl": ""
+          }
+        ]
+      }
+    }
+  },
+
+  "Humanism": {
+    "Psychology": {
+      "Principles": [
+        {
+          "title": "Introduction to Emotional Intelligence",
+          "completionDate": "2019-06-01",
+          "minutes": 128,
+          "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction",
+          "certificateUrl": ""
+        }
+      ]
+    },
+
+    "Art": {
+      "Visual": {
+        "Design": [
+          {
+            "title": "Introduction to Presentation Design",
+            "completionDate": "2019-06-03",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/presentation-design-introduction",
+            "certificateUrl": ""
+          }
+        ],
+
+        "Color Theory": [
+          {
+            "title": "Color Theory for Today's Creative Professionals",
+            "completionDate": "2019-05-28",
+            "minutes": 72,
+            "url": "https://www.pluralsight.com/courses/color-theory-todays-creative-professionals-1021",
+            "certificateUrl": ""
+          }
+        ]
+      },
+
+      "Music": [
+        {
+          "title": "Make Your First Melody/Jingle - No Music Experience Needed!",
+          "completionDate": "2019-05-22",
+          "minutes": 34,
+          "url": "https://www.udemy.com/makeamelody/",
+          "certificateUrl": "https://www.udemy.com/certificate/UC-SYGNLZB0/"
+        }
+      ]
+    },
+
+    "Law": {
+      "National Laws": [
+        {
+          "title": "General introduction to D.Lgs. 81/2008 (Health & Safety)",
+          "completionDate": "2019-04-08",
+          "minutes": 240
+        }
+      ],
+
+      "International Treaties": [
+        {
+          "title": "General introduction to GDPR",
+          "completionDate": "2019-04-22",
+          "minutes": 240
+        }
+      ]
+    }
+  }
+}

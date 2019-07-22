@@ -1,0 +1,143 @@
+{
+  "Technology": {
+    "Computer Science": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [],
+          "F#": [],
+          "Platform": []
+        },
+
+        "Java": [],
+
+        "Scala": [],
+
+        "JavaScript": {
+          "ECMAScript": [],
+          "TypeScript": [],
+          "Electron": [],
+          "Chrome": [],
+          "Ionic": []
+        },
+
+        "Bash": [],
+
+        "DSL": {
+          "Regular Expressions": [],
+          "Markdown": []
+        },
+
+        "Flutter": [],
+
+        "Go": [],
+
+        "Ruby": [],
+
+        "Unity": []
+      },
+
+      "Software Design": {
+        "Architecture": [],
+        "Clean Code": [],
+        "Design Patterns": []
+      },
+
+      "Cloud & Virtualization": {
+        "Network Principles": [],
+        "Amazon Web Services": [],
+        "Containers": []
+      },
+
+      "Web Frontend": {
+        "Principles": [],
+        "React": [],
+        "Angular": [],
+        "jQuery": [],
+        "CSS": []
+      },
+
+      "Web Backend": {
+        "Generic": [],
+        ".NET": [],
+        "Java": [],
+        "Scala": [],
+        "NodeJS": [],
+        "Ruby": [],
+        "Python": []
+      },
+
+      "DevOps": {
+        "Principles": [],
+        "Build Automation": [],
+        "Versioning": [],
+        "Remote Control": []
+      },
+
+      "Testing": {
+        "Principles": [],
+        "Web Frontend": [],
+        "Gherkin": [],
+        ".NET": [],
+        "Tools": []
+      },
+
+      "Data science": {
+        "Principles": [],
+        "Big data": []
+      },
+
+      "Relational DBMS": {
+        "Principles": [],
+        "Java Access": [],
+        "SQL Server": []
+      },
+
+      "NoSQL": {
+        "MongoDB": [],
+        "Redis": []
+      },
+
+      "IDEs and tools": [],
+
+      "Blockchain": [],
+
+      "Parallelism": {
+        ".NET": [],
+        "Java": [],
+        "JavaScript": [],
+        "RabbitMQ": []
+      }
+    },
+
+    "Processes": {
+      "Company Regulations": [],
+
+      "Quality Assurance": []
+    }
+  },
+
+  "Humanism": {
+    "Psychology": {
+      "Principles": [],
+      "Personal Development": [],
+      "Human Interactions": []
+    },
+
+    "Art": {
+      "Visual": {
+        "Computer Graphics": [],
+
+        "Design": [],
+
+        "Color Theory": []
+      },
+
+      "Music": []
+    },
+
+    "Law": {
+      "National Laws": [],
+      "International Treaties": []
+    }
+  }
+}
