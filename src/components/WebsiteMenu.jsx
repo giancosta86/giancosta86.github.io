@@ -17,9 +17,9 @@ export default () => (
 
     <div className="dropdown-divider"></div>
 
-    <Link className="dropdown-item" to={links.newsFeedPath}>
+    <a className="dropdown-item" href={links.newsFeedPath}>
       <SmartIcon icon="fas/rss" />
       Json news
-    </Link>
+    </a>
   </div>
 )

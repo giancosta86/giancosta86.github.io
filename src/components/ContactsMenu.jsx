@@ -1,6 +1,5 @@
 import React from "react"
 import links from "../data/links.json"
-import { Link } from "gatsby"
 import SmartIcon from "./SmartIcon.jsx"
 
 export default () => (
@@ -17,10 +16,10 @@ export default () => (
 
     <div className="dropdown-divider"></div>
 
-    <Link className="dropdown-item" to={links.cvPath}>
+    <a className="dropdown-item" href={links.cvPath}>
       <SmartIcon icon="id-card" />
       Download CV
-    </Link>
+    </a>
 
     <div className="dropdown-divider"></div>
 
