@@ -2,6 +2,30 @@
   "Technology": {
     "Computer Science": {
       "Ecosystems": {
+        ".NET": {
+          "Platform": [
+            {
+              "title": "Getting Started Building Windows Services with Topshelf",
+              "completionDate": "2019-07-19",
+              "minutes": 100,
+              "url": "https://www.pluralsight.com/courses/topshelf-getting-started-building-windows-services",
+              "certificateUrl": ""
+            }
+          ]
+        },
+
+        "JavaScript": {
+          "Transpilers & Shims": [
+            {
+              "title": "Babel: Get Started",
+              "completionDate": "2019-07-21",
+              "minutes": 123,
+              "url": "https://www.pluralsight.com/courses/babel-get-started",
+              "certificateUrl": ""
+            }
+          ]
+        },
+
         "Flutter": [
           {
             "title": "Flutter: The Big Picture",

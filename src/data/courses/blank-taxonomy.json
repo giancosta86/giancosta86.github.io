@@ -17,7 +17,8 @@
           "TypeScript": [],
           "Electron": [],
           "Chrome": [],
-          "Ionic": []
+          "Ionic": [],
+          "Transpilers & Shims": []
         },
 
         "Bash": [],
