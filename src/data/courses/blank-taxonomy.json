@@ -34,6 +34,8 @@
 
         "Ruby": [],
 
+        "Micorosft Office": [],
+
         "Unity": []
       },
 
@@ -113,7 +115,21 @@
     "Processes": {
       "Company Regulations": [],
 
-      "Quality Assurance": []
+      "Quality Assurance": [],
+
+      "Leadership": [],
+
+      "Management": [],
+
+      "Innovation": [],
+
+      "Human Resources": [],
+
+      "Marketing": [],
+
+      "Negotiation": [],
+
+      "Safety": []
     }
   },
 
@@ -121,7 +137,8 @@
     "Psychology": {
       "Principles": [],
       "Personal Development": [],
-      "Human Interactions": []
+      "Human Interactions": [],
+      "Diversity & Inclusion": []
     },
 
     "Art": {
@@ -136,9 +153,13 @@
       "Music": []
     },
 
+    "Languages": {
+      "English": []
+    },
+
     "Law": {
       "National Laws": [],
-      "International Treaties": []
+      "International Agreements": []
     }
   }
 }

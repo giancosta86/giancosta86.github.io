@@ -100,6 +100,7 @@
               "certificateUrl": ""
             }
           ],
+
           "F#": [
             {
               "title": "Building F# Applications",
@@ -109,6 +110,7 @@
               "certificateUrl": ""
             }
           ],
+
           "Platform": [
             {
               "title": "Modern .NET Ecosystem and .NET Core",
@@ -162,6 +164,7 @@
             "url": "https://www.packtpub.com/eu/application-development/scala-intermediate-recipes-video",
             "certificateUrl": ""
           },
+
           {
             "title": "Scala Expert Recipes",
             "completionDate": "2019-01-15",
@@ -205,6 +208,7 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-CMTPQ39N/"
             }
           ],
+
           "TypeScript": [
             {
               "title": "Understanding TypeScript",
@@ -214,6 +218,7 @@
               "certificateUrl": ""
             }
           ],
+
           "Electron": [
             {
               "title": "Building Electron Applications",
@@ -231,6 +236,7 @@
               "certificateUrl": ""
             }
           ],
+
           "Chrome": [
             {
               "title": "Chrome Extensions: Develop 5 Chrome extensions from scratch",
@@ -240,6 +246,7 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-XU9HHKHK/"
             }
           ],
+
           "Ionic": [
             {
               "title": "Create a CRUD Application with Ionic 3 and Firebase",
@@ -271,6 +278,7 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-GH3SD9UZ/"
             }
           ],
+
           "Markdown": [
             {
               "title": "Markdown Mastery: Simple yet Powerful Writing Format",
@@ -331,6 +339,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Clean Code": [
           {
             "title": "C# Refactoring | Powerful code optimization",
@@ -348,6 +357,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-KMRJRCFN/"
           }
         ],
+
         "Design Patterns": [
           {
             "title": "Solid&Design Patterns in C#",
@@ -356,6 +366,7 @@
             "url": "https://www.udemy.com/solidanddesignpatternstutorial/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-FJHF990Z/"
           },
+
           {
             "title": "Design Patterns in C# and .NET",
             "completionDate": "2019-04-09",
@@ -384,6 +395,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-UDR3E8LI/"
           }
         ],
+
         "Amazon Web Services": [
           {
             "title": "AWS Concepts",
@@ -401,6 +413,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-U411T69B/"
           }
         ],
+
         "Containers": [
           {
             "title": "Docker Mastery: The Complete Toolset From a Docker Captain",
@@ -446,6 +459,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-VBV5PG6K/"
           }
         ],
+
         "Angular": [
           {
             "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
@@ -471,6 +485,7 @@
             "certificateUrl": ""
           }
         ],
+
         "jQuery": [
           {
             "title": "Up and Running with jQuery",
@@ -480,6 +495,7 @@
             "certificateUrl": ""
           }
         ],
+
         "CSS": [
           {
             "title": "The Complete Flexbox Tutorial: Learn CSS3 Flexbox in 2018",
@@ -541,6 +557,7 @@
             "certificateUrl": ""
           }
         ],
+
         ".NET": [
           {
             "title": "The complete ASP.NET MVC Core 2.0 Course",
@@ -566,6 +583,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Java": [
           {
             "title": "The Complete Apache Tomcat Web Server Course",
@@ -601,6 +619,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Ruby": [
           {
             "title": "Jekyll: make fast, secure static sites and blogs with Jekyll",
@@ -610,6 +629,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Python": [
           {
             "title": "Flask Tutorial Step by Step",
@@ -631,6 +651,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Build Automation": [
           {
             "title": "Jenkins Bootcamp: Fully Automate Builds Through Deployment",
@@ -671,6 +692,7 @@
             "url": "https://www.udemy.com/learn-webpack-2-from-scratch/",
             "certificateUrl": ""
           },
+
           {
             "title": "Maven Crash Course",
             "completionDate": "2018-10-29",
@@ -687,6 +709,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Versioning": [
           {
             "title": "Git Complete: The definitive, step-by-step guide to Git",
@@ -716,6 +739,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Web Frontend": [
           {
             "title": "Getting Started With Test Automation Using Selenium",
@@ -733,6 +757,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-QJ9V6ABD/"
           }
         ],
+
         "Gherkin": [
           {
             "title": "BDD in C# - Using Specflow (Cucumber) to Develop a REST API and Automate Software Testing",
@@ -750,6 +775,7 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-A3K1LQX6/"
           }
         ],
+
         ".NET": [
           {
             "title": "Beginners Guide to Unit Testing with NUnit and C#",
@@ -757,15 +783,6 @@
             "minutes": 90,
             "url": "https://www.udemy.com/unit-testing-intro/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-FXVAO9OP/"
-          }
-        ],
-        "Tools": [
-          {
-            "title": "Learn JIRA in less than an hour with Agile Methodology",
-            "completionDate": "2019-05-01",
-            "minutes": 60,
-            "url": "https://www.udemy.com/learn-jira-in-less-than-a-hour-with-agile-methodology/",
-            "certificateUrl": "https://www.udemy.com/certificate/UC-XKA6VOGH/"
           }
         ]
       },
@@ -780,6 +797,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Big data": [
           {
             "title": "Scala and Spark for Big Data and Machine Learning",
@@ -809,6 +827,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Java Access": [
           {
             "title": "Java Persistence: Hibernate and JPA Fundamentals",
@@ -826,6 +845,7 @@
             "certificateUrl": ""
           }
         ],
+
         "SQL Server": [
           {
             "title": "An 18 Hour SQL / SQL Server 2014 / Visual Studio 2017 Course",
@@ -846,6 +866,7 @@
             "url": "https://university.mongodb.com/courses/M001/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/3cd5c8c7-077c-4d8b-aea1-6620513d"
           },
+
           {
             "title": "M103: Basic Cluster Administration",
             "completionDate": "2019-01-31",
@@ -853,6 +874,7 @@
             "url": "https://university.mongodb.com/courses/M103/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/6d64e394-16a5-42c2-8c45-84d5aebb"
           },
+
           {
             "title": "M121: The MongoDB Aggregation Framework",
             "completionDate": "2019-01-31",
@@ -860,6 +882,7 @@
             "url": "https://university.mongodb.com/courses/M121/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/6a00ced1-8104-417f-9cf1-c0cc5e8f"
           },
+
           {
             "title": "M201: MongoDB Performance",
             "completionDate": "2019-01-31",
@@ -867,6 +890,7 @@
             "url": "https://university.mongodb.com/courses/M201/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/0d9a26cb-dfe0-4457-a924-1686050e"
           },
+
           {
             "title": "M220J: MongoDB for Java Developers",
             "completionDate": "2019-03-07",
@@ -874,6 +898,7 @@
             "url": "https://university.mongodb.com/courses/M220J/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/cea863a2-03f1-4508-9c35-f3d4d5e4"
           },
+
           {
             "title": "M220JS: MongoDB for JavaScript Developers",
             "completionDate": "2019-03-07",
@@ -881,6 +906,7 @@
             "url": "https://university.mongodb.com/courses/M220JS/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/c25269f0-3ffa-48b6-a855-d35c02f6"
           },
+
           {
             "title": "M220P: MongoDB for Python Developers",
             "completionDate": "2019-01-31",
@@ -888,6 +914,7 @@
             "url": "https://university.mongodb.com/courses/M220P/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/8ee76f3d-e7d8-4aff-a581-54fc27c6"
           },
+
           {
             "title": "M310: MongoDB Security",
             "completionDate": "2019-01-31",
@@ -895,6 +922,7 @@
             "url": "https://university.mongodb.com/courses/M310/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/4f808855-2d69-490f-8434-b91a07a9"
           },
+
           {
             "title": "M312: Diagnostics and Debugging",
             "completionDate": "2019-01-31",
@@ -902,6 +930,7 @@
             "url": "https://university.mongodb.com/courses/M312/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/21be4f40-4afd-4d98-ac5b-3d249026"
           },
+
           {
             "title": "M040: New Features and Tools in MongoDB 4.0",
             "completionDate": "2019-02-07",
@@ -918,6 +947,7 @@
             "certificateUrl": ""
           }
         ],
+
         "Redis": [
           {
             "title": "Learn Redis from Scratch",
@@ -1049,29 +1079,39 @@
           "url": "https://www.udemy.com/six-sigma-white-belt/",
           "certificateUrl": ""
         }
-      ]
-    }
-  },
+      ],
 
-  "Humanism": {
-    "Psychology": {
-      "Principles": [
+      "Management": [
+        {
+          "title": "Learn JIRA in less than an hour with Agile Methodology",
+          "completionDate": "2019-05-01",
+          "minutes": 60,
+          "url": "https://www.udemy.com/learn-jira-in-less-than-a-hour-with-agile-methodology/",
+          "certificateUrl": "https://www.udemy.com/certificate/UC-XKA6VOGH/"
+        }
+      ],
+
+      "Innovation": [
         {
           "title": "Acumen Presents: Adam Grant on Developing Original Ideas",
           "completionDate": "2018-11-04",
           "minutes": 40,
           "url": "https://www.udemy.com/acumen-presents-adam-grant-on-developing-original-ideas/",
           "certificateUrl": ""
-        },
-
-        {
-          "title": "Navigate Diversity",
-          "completionDate": "2018-07-08",
-          "minutes": 60,
-          "url": "https://www.udemy.com/navigate-diversity/",
-          "certificateUrl": ""
         }
       ],
+
+      "Safety": [
+        {
+          "title": "General Health and Safety course",
+          "minutes": 480
+        }
+      ]
+    }
+  },
+
+  "Humanism": {
+    "Psychology": {
       "Personal Development": [
         {
           "title": "Radiate Confidence: How to Create a 1000 Watt Presence",
@@ -1081,6 +1121,7 @@
           "certificateUrl": ""
         }
       ],
+
       "Human Interactions": [
         {
           "title": "Six steps to leading productive meetings",
@@ -1097,6 +1138,7 @@
           "url": "https://www.udemy.com/powerful-speaking/",
           "certificateUrl": ""
         },
+
         {
           "title": "Soft Skills: The 11 Essential Career Soft Skills",
           "completionDate": "2018-09-12",
@@ -1104,6 +1146,7 @@
           "url": "https://www.udemy.com/soft-skills-the-11-essential-career-soft-skills/",
           "certificateUrl": ""
         },
+
         {
           "title": "Networking for Introverts: Overcoming Nervousness",
           "completionDate": "2018-07-05",
@@ -1111,6 +1154,7 @@
           "url": "",
           "certificateUrl": ""
         },
+
         {
           "title": "Assert Yourself - Master the benefits of assertive behaviour",
           "completionDate": "2018-10-25",
@@ -1150,6 +1194,16 @@
           "url": "https://www.udemy.com/listening-skills-the-ultimate-workplace-soft-skills/",
           "certificateUrl": ""
         }
+      ],
+
+      "Diversity & Inclusion": [
+        {
+          "title": "Navigate Diversity",
+          "completionDate": "2018-07-08",
+          "minutes": 60,
+          "url": "https://www.udemy.com/navigate-diversity/",
+          "certificateUrl": ""
+        }
       ]
     },
 
@@ -1176,7 +1230,7 @@
         }
       ],
 
-      "International Treaties": [
+      "International Agreements": [
         {
           "title": "The EU GDPR - An Introduction",
           "completionDate": "2018-12-15",
