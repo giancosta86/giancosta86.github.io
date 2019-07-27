@@ -38,7 +38,7 @@ export default props => (
 
           <link
             rel="alternate"
-            type="application/atom+xml"
+            type="application/json"
             title={links.newsFeedPath}
           />
         </Helmet>
