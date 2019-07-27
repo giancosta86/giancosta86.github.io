@@ -7,7 +7,11 @@ export default ({ data, bodyClass, children }) => {
   const { frontmatter, html } = markdownRemark
 
   return (
-    <ArticlePage title={frontmatter.title} bodyClass={bodyClass}>
+    <ArticlePage
+      title={frontmatter.title}
+      bodyClass={bodyClass}
+      dateTime={frontmatter.date}
+    >
       <div dangerouslySetInnerHTML={{ __html: html }} />
 
       {children}
@@ -20,6 +24,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $nodeId }) {
       frontmatter {
         title
+        date
       }
       html
     }
