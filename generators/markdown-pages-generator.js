@@ -16,8 +16,8 @@ export const generateMarkdownPages = (graphql, createPage) => {
       }`
   ).then(data =>
     data.allMarkdownRemark.nodes.forEach(node => {
-      let pageTemplate = resolvePageTemplate(node)
       let pagePath = getPagePath(node)
+      let pageTemplate = resolvePageTemplate(node)
 
       createPage({
         path: pagePath,
