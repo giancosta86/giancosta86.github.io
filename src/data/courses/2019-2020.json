@@ -620,6 +620,11 @@
           "minutes": 1,
           "url": "",
           "certificateUrl": ""
+        },
+
+        {
+          "title": "Health and Safety in the IT context",
+          "minutes": 240
         }
       ]
     }
