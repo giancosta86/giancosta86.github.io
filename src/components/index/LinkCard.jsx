@@ -7,8 +7,7 @@ export default ({ icon, title, description, buttonText, buttonClass, url }) => (
   <Card icon={icon} title={title} description={description}>
     <div className="card-footer text-center">
       <a href={url} className={classNames("btn btn-sm", buttonClass)}>
-        {buttonText}
-        <SmartIcon icon="fas/arrow-circle-right" className="spaced" />
+        {buttonText} <SmartIcon icon="fas/arrow-circle-right" />
       </a>
     </div>
   </Card>

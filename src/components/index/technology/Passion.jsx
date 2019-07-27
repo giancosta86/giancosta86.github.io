@@ -60,8 +60,7 @@ export default () => (
 
           <div className="d-flex justify-content-center mt-4">
             <a href={links.cvPath} className="btn-primary btn-sm">
-              <SmartIcon icon="fas/file-download" />
-              Download CV
+              <SmartIcon icon="fas/file-download" /> Download CV
             </a>
           </div>
         </div>
