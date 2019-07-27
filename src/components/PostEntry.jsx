@@ -6,7 +6,7 @@ import css from "./PostEntry.module.scss"
 import classNames from "classnames"
 
 export default ({ post }) => (
-  <div className={classNames(css.post, "card mb-4 border-info")}>
+  <div className={classNames("card mb-4 border-info", css.post)}>
     <div className="card-body">
       <time className="annotation" dateTime={post.date}>
         {formatDate(post.date)}
