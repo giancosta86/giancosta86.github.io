@@ -7,12 +7,21 @@ module.exports = {
   },
 
   plugins: [
+    "gatsby-plugin-react-helmet",
+
     "gatsby-plugin-sass",
 
     {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/markdown`
+      }
+    },
+
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/src/data`
       }
     },
 
@@ -27,15 +36,6 @@ module.exports = {
       }
     },
 
-    "gatsby-transformer-json",
-
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        path: `${__dirname}/src/data`
-      }
-    },
-
-    "gatsby-plugin-react-helmet"
+    "gatsby-transformer-json"
   ]
 }
