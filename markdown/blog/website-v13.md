@@ -1,6 +1,7 @@
 ---
 title: The 13th version of my website is online!
 date: "2019-07-22"
+description: "Announcement of the 13th edition"
 
 tags:
   - website

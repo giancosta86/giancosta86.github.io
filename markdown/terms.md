@@ -1,6 +1,10 @@
 ---
 title: Website terms of use
 description: Website terms of use
+tags:
+  - website
+  - terms
+  - technologies
 ---
 
 ## License

@@ -3,8 +3,8 @@ import MarkdownPage from "./MarkdownPage"
 import TagLabels from "../components/TagLabels"
 import { graphql } from "gatsby"
 
-export default ({ data }) => (
-  <MarkdownPage data={data}>
+export default ({ data, bodyClass }) => (
+  <MarkdownPage data={data} bodyClass={bodyClass}>
     <hr className="mt-3 mb-4" />
 
     <TagLabels tags={data.markdownRemark.frontmatter.tags} showHeading={true} />
@@ -17,6 +17,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date
+        description
         tags
       }
       html

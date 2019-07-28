@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet"
 import links from "../data/links.json"
 import { StaticQuery, graphql } from "gatsby"
 
-export default props => (
+export default ({ title, description, keywords }) => (
   <StaticQuery
     query={graphql`
       query {
@@ -19,22 +19,21 @@ export default props => (
       let siteTitle = data.site.siteMetadata.title
       let siteDescription = data.site.siteMetadata.description
 
-      let title = props.title ? `${props.title} - ${siteTitle}` : siteTitle
-      let description = props.description ? props.description : siteDescription
+      let actualTitle = title ? `${title} - ${siteTitle}` : siteTitle
+
+      let actualDescription = description ? description : siteDescription
 
       return (
         <Helmet>
-          <title>{title}</title>
+          <title>{actualTitle}</title>
 
-          <meta name="description" content={description} />
+          <meta name="description" content={actualDescription} />
 
           <meta name="author" content="Gianluca Costa" />
 
           <link rel="icon" href={"/favicon.ico"} />
 
-          {props.tags && (
-            <meta name="keywords" content={props.tags.join(", ")} />
-          )}
+          {keywords && <meta name="keywords" content={keywords.join(", ")} />}
 
           <link
             rel="alternate"

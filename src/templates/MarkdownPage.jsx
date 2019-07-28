@@ -9,6 +9,8 @@ export default ({ data, bodyClass, children }) => {
   return (
     <ArticlePage
       title={frontmatter.title}
+      description={frontmatter.description}
+      keywords={frontmatter.tags}
       bodyClass={bodyClass}
       dateTime={frontmatter.date}
     >
@@ -25,6 +27,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date
+        description
+        tags
       }
       html
     }
