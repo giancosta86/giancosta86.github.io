@@ -21,7 +21,7 @@ export default () => (
         title="Comprehensive experience"
         description={
           <>
-            Over the years, I've learnt a wide!!! variety of{" "}
+            Over the years, I've learnt a wide variety of{" "}
             <strong>languages</strong>, <strong>frameworks</strong> and{" "}
             <strong>patterns</strong>
           </>
