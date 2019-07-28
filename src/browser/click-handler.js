@@ -1,4 +1,4 @@
-const BlankTargetRegex = /^https?:\/\/(?!localhost|gianlucacosta.info).*$|\.(?:pdf|json)$/
+const BlankTargetRegex = /^https?:\/\/(?!localhost|0.0.0.0|gianlucacosta.info).*$|\.(?:pdf|json)$/
 
 document.addEventListener("click", event => {
   let clickedElement = event.target
