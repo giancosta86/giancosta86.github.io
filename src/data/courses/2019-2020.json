@@ -3,7 +3,41 @@
     "Computer Science": {
       "Ecosystems": {
         ".NET": {
+          "C#": [
+            {
+              "title": "C# Fundamentals",
+              "completionDate": "2019-08-02",
+              "minutes": 365,
+              "url": "https://www.pluralsight.com/courses/csharp-fundamentals-dev",
+              "certificateUrl": ""
+            },
+
+            {
+              "title": "LINQ Fundamentals",
+              "completionDate": "2019-08-03",
+              "minutes": 290,
+              "url": "https://www.pluralsight.com/courses/linq-fundamentals",
+              "certificateUrl": ""
+            },
+
+            {
+              "title": "Working with Nulls in C#",
+              "completionDate": "2019-08-03",
+              "minutes": 85,
+              "url": "https://www.pluralsight.com/courses/csharp-nulls-working",
+              "certificateUrl": ""
+            }
+          ],
+
           "Platform": [
+            {
+              "title": "Dates and Times in .NET",
+              "completionDate": "2019-08-04",
+              "minutes": 81,
+              "url": "https://www.pluralsight.com/courses/dotnet-dates-times",
+              "certificateUrl": ""
+            },
+
             {
               "title": "Getting Started Building Windows Services with Topshelf",
               "completionDate": "2019-07-19",
@@ -15,6 +49,16 @@
         },
 
         "JavaScript": {
+          "Functional": [
+            {
+              "title": "Writing Functional JavaScript Using Ramda",
+              "completionDate": "2019-08-06",
+              "minutes": 128,
+              "url": "https://www.pluralsight.com/courses/javascript-ramda-functional",
+              "certificateUrl": ""
+            }
+          ],
+
           "Transpilers & Shims": [
             {
               "title": "Babel: Get Started",
@@ -171,6 +215,14 @@
             "minutes": 58,
             "url": "https://www.pluralsight.com/courses/npm-playbook",
             "certificateUrl": ""
+          },
+
+          {
+            "title": "Building and Deploying Applications with Cake",
+            "completionDate": "2019-08-04",
+            "minutes": 236,
+            "url": "https://www.pluralsight.com/courses/cake-applications-deploying-building",
+            "certificateUrl": ""
           }
         ],
 
@@ -201,6 +253,18 @@
             "minutes": 40,
             "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests",
             "certificateUrl": ""
+          }
+        ]
+      },
+
+      "NoSQL": {
+        "MongoDB": [
+          {
+            "title": "M320: Data Modeling",
+            "completionDate": "2019-08-04",
+            "minutes": 153,
+            "url": "https://university.mongodb.com/courses/M320/about",
+            "certificateUrl": "https://university.mongodb.com/course_completion/fa848574-c34f-4ac0-b149-987a9d5cb887"
           }
         ]
       }
