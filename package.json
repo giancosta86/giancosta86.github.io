@@ -36,7 +36,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "@giancosta86/omnicourse": "^1.0.0",
+    "@giancosta86/omnicourse": "^1.1.0",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "gatsby": "^2.13.31",
