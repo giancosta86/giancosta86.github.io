@@ -49,6 +49,16 @@
         },
 
         "JavaScript": {
+          "Chrome": [
+            {
+              "title": "Creating a Chrome Extension",
+              "minutes": 160,
+              "url": "https://www.pluralsight.com/courses/creating-chrome-extensions",
+              "completionDate": "2019-08-09",
+              "certificateUrl": null
+            }
+          ],
+
           "Functional": [
             {
               "title": "Writing Functional JavaScript Using Ramda",
@@ -215,6 +225,14 @@
             "minutes": 58,
             "url": "https://www.pluralsight.com/courses/npm-playbook",
             "certificateUrl": ""
+          },
+
+          {
+            "title": "Introduction to NPM as a Build Tool",
+            "minutes": 97,
+            "url": "https://www.pluralsight.com/courses/npm-build-tool-introduction",
+            "completionDate": "2019-08-07",
+            "certificateUrl": null
           },
 
           {
@@ -482,6 +500,14 @@
           "minutes": 2,
           "url": "",
           "certificateUrl": ""
+        },
+
+        {
+          "title": "JIRA Fundamentals",
+          "minutes": 131,
+          "url": "https://www.pluralsight.com/courses/jira-fundamentals-update",
+          "completionDate": "2019-08-07",
+          "certificateUrl": null
         }
       ],
 
@@ -640,6 +666,14 @@
           "minutes": 15,
           "url": "",
           "certificateUrl": ""
+        },
+
+        {
+          "title": "Marketing to Humans",
+          "minutes": 27,
+          "url": "https://www.linkedin.com/learning/marketing-to-humans",
+          "completionDate": "2019-08-10",
+          "certificateUrl": null
         }
       ],
 
