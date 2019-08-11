@@ -8,24 +8,21 @@
               "title": "C# Fundamentals",
               "completionDate": "2019-08-02",
               "minutes": 365,
-              "url": "https://www.pluralsight.com/courses/csharp-fundamentals-dev",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/csharp-fundamentals-dev"
             },
 
             {
               "title": "LINQ Fundamentals",
               "completionDate": "2019-08-03",
               "minutes": 290,
-              "url": "https://www.pluralsight.com/courses/linq-fundamentals",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/linq-fundamentals"
             },
 
             {
               "title": "Working with Nulls in C#",
               "completionDate": "2019-08-03",
               "minutes": 85,
-              "url": "https://www.pluralsight.com/courses/csharp-nulls-working",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/csharp-nulls-working"
             }
           ],
 
@@ -34,16 +31,14 @@
               "title": "Dates and Times in .NET",
               "completionDate": "2019-08-04",
               "minutes": 81,
-              "url": "https://www.pluralsight.com/courses/dotnet-dates-times",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/dotnet-dates-times"
             },
 
             {
               "title": "Getting Started Building Windows Services with Topshelf",
               "completionDate": "2019-07-19",
               "minutes": 100,
-              "url": "https://www.pluralsight.com/courses/topshelf-getting-started-building-windows-services",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/topshelf-getting-started-building-windows-services"
             }
           ]
         },
@@ -54,8 +49,7 @@
               "title": "Creating a Chrome Extension",
               "minutes": 160,
               "url": "https://www.pluralsight.com/courses/creating-chrome-extensions",
-              "completionDate": "2019-08-09",
-              "certificateUrl": null
+              "completionDate": "2019-08-09"
             }
           ],
 
@@ -64,8 +58,7 @@
               "title": "Writing Functional JavaScript Using Ramda",
               "completionDate": "2019-08-06",
               "minutes": 128,
-              "url": "https://www.pluralsight.com/courses/javascript-ramda-functional",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/javascript-ramda-functional"
             }
           ],
 
@@ -74,8 +67,7 @@
               "title": "Babel: Get Started",
               "completionDate": "2019-07-21",
               "minutes": 123,
-              "url": "https://www.pluralsight.com/courses/babel-get-started",
-              "certificateUrl": ""
+              "url": "https://www.pluralsight.com/courses/babel-get-started"
             }
           ]
         },
@@ -85,8 +77,7 @@
             "title": "Flutter: The Big Picture",
             "completionDate": "2019-05-29",
             "minutes": 73,
-            "url": "https://www.pluralsight.com/courses/flutter-big-picture",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/flutter-big-picture"
           },
 
           {
@@ -110,17 +101,13 @@
           {
             "title": "Start Using Excel",
             "completionDate": "2019-06-03",
-            "minutes": 16,
-            "url": "",
-            "certificateUrl": ""
+            "minutes": 16
           },
 
           {
             "title": "Sharepoint Overview",
             "completionDate": "2019-06-15",
-            "minutes": 15,
-            "url": "",
-            "certificateUrl": ""
+            "minutes": 15
           }
         ]
       },
@@ -131,8 +118,7 @@
             "title": "Clean Architecture: Patterns, Practices and Principles",
             "completionDate": "2019-05-24",
             "minutes": 141,
-            "url": "https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles"
           }
         ]
       },
@@ -153,8 +139,7 @@
             "title": "AWS Developer: The Big Picture",
             "completionDate": "2019-05-25",
             "minutes": 94,
-            "url": "https://www.pluralsight.com/courses/aws-developer-big-picture",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/aws-developer-big-picture"
           }
         ]
       },
@@ -165,24 +150,21 @@
             "title": "React: The Big Picture",
             "completionDate": "2019-06-01",
             "minutes": 71,
-            "url": "https://www.pluralsight.com/courses/react-big-picture",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/react-big-picture"
           },
 
           {
             "title": "React: Getting Started",
             "completionDate": "2019-06-09",
             "minutes": 241,
-            "url": "https://www.pluralsight.com/courses/react-js-getting-started",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/react-js-getting-started"
           },
 
           {
             "title": "Styling React Components",
             "completionDate": "2019-06-18",
             "minutes": 83,
-            "url": "https://www.pluralsight.com/courses/react-styling-components",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/react-styling-components"
           }
         ],
 
@@ -191,8 +173,7 @@
             "title": "Building Websites with Bulma",
             "completionDate": "2019-07-11",
             "minutes": 102,
-            "url": "https://www.pluralsight.com/courses/building-websites-bulma",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/building-websites-bulma"
           }
         ]
       },
@@ -203,16 +184,14 @@
             "title": "GatsbyJS: Getting Started",
             "completionDate": "2019-06-17",
             "minutes": 120,
-            "url": "https://www.pluralsight.com/courses/gatsbyjs-getting-started",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/gatsbyjs-getting-started"
           },
 
           {
             "title": "Building Scalable APIs with GraphQL",
             "completionDate": "2019-06-20",
             "minutes": 130,
-            "url": "https://www.pluralsight.com/courses/graphql-scalable-apis",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/graphql-scalable-apis"
           }
         ]
       },
@@ -223,24 +202,21 @@
             "title": "NPM Playbook",
             "completionDate": "2019-06-24",
             "minutes": 58,
-            "url": "https://www.pluralsight.com/courses/npm-playbook",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/npm-playbook"
           },
 
           {
             "title": "Introduction to NPM as a Build Tool",
             "minutes": 97,
             "url": "https://www.pluralsight.com/courses/npm-build-tool-introduction",
-            "completionDate": "2019-08-07",
-            "certificateUrl": null
+            "completionDate": "2019-08-07"
           },
 
           {
             "title": "Building and Deploying Applications with Cake",
             "completionDate": "2019-08-04",
             "minutes": 236,
-            "url": "https://www.pluralsight.com/courses/cake-applications-deploying-building",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/cake-applications-deploying-building"
           }
         ],
 
@@ -249,8 +225,7 @@
             "title": "Deploying .NET Applications with Octopus Deploy",
             "completionDate": "2019-05-27",
             "minutes": 73,
-            "url": "https://www.pluralsight.com/courses/octopus-deploy-dot-net-applications",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/octopus-deploy-dot-net-applications"
           }
         ]
       },
@@ -261,16 +236,14 @@
             "title": "Introduction to .NET Testing with NUnit 3",
             "completionDate": "2019-05-31",
             "minutes": 126,
-            "url": "https://www.pluralsight.com/courses/nunit-3-dotnet-testing-introduction",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/nunit-3-dotnet-testing-introduction"
           },
 
           {
             "title": "Improving Unit Tests with Fluent Assertions",
             "completionDate": "2019-06-01",
             "minutes": 40,
-            "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests"
           }
         ]
       },
@@ -293,33 +266,25 @@
         {
           "title": "Setting SMART Objectives",
           "completionDate": "2019-06-10",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Performance - Goal Setting",
           "completionDate": "2019-05-23",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Embedding Organizational Culture",
           "completionDate": "2019-05-22",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Compiling Employee Satisfaction Data",
           "completionDate": "2019-06-03",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         }
       ],
 
@@ -327,113 +292,85 @@
         {
           "title": "The Mindful Leader",
           "completionDate": "2019-06-15",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
 
         {
           "title": "Lead by Listening",
           "completionDate": "2019-06-16",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Leadership in Times of Change",
           "completionDate": "2019-06-10",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Coach Your Team to Success with GROW",
           "completionDate": "2019-06-10",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Getting a Decision Fast",
           "completionDate": "2019-06-10",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Become an Effective Leader, Part Two",
           "completionDate": "2019-06-09",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Leadership vs Management",
           "completionDate": "2019-06-04",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Becoming a Coaching Manager - Part A",
           "completionDate": "2019-06-03",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
 
         {
           "title": "LEAD NOW!: Delegating",
           "completionDate": "2019-06-01",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Persuade, Inspire and Communicate with Storytelling",
           "completionDate": "2019-05-28",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Motivating Your People and Being a Positive Role Model",
           "completionDate": "2019-05-25",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         },
 
         {
           "title": "A Motivator's Tool Kit",
           "completionDate": "2019-05-23",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Build Your Team",
           "completionDate": "2019-05-23",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Leading Team Meetings",
           "completionDate": "2019-05-27",
-          "minutes": 10,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 10
         }
       ],
 
@@ -441,73 +378,56 @@
         {
           "title": "Discover Agile Project Management",
           "completionDate": "2019-06-10",
-          "minutes": 9,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 9
         },
 
         {
           "title": "How to Lead a Global Team",
           "completionDate": "2019-06-10",
-          "minutes": 9,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 9
         },
 
         {
           "title": "Keep Your Projects on Track",
           "completionDate": "2019-06-10",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Using SWOT Analysis to Boost Understanding of Your Business",
           "completionDate": "2019-06-06",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "How to Delegate",
           "completionDate": "2019-06-05",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Project management: mobilizing team members",
           "completionDate": "2019-05-25",
-          "minutes": 10,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 10
         },
 
         {
           "title": "Remote Management: effective ways to communicate with team members",
           "completionDate": "2019-05-25",
-          "minutes": 10,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 10
         },
 
         {
           "title": "Managing Projects",
           "completionDate": "2019-06-14",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "JIRA Fundamentals",
           "minutes": 131,
           "url": "https://www.pluralsight.com/courses/jira-fundamentals-update",
-          "completionDate": "2019-08-07",
-          "certificateUrl": null
+          "completionDate": "2019-08-07"
         }
       ],
 
@@ -515,33 +435,25 @@
         {
           "title": "10 Habits of a Successful Change Communicator",
           "completionDate": "2019-06-14",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "The Emotional Cycle of Change",
           "completionDate": "2019-06-10",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Making Change Happen",
           "completionDate": "2019-06-10",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Creating Solutions Through Problem Solving Meetings",
           "completionDate": "2019-06-18",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         }
       ],
 
@@ -549,57 +461,43 @@
         {
           "title": "Introducing Human Resource Management",
           "completionDate": "2019-05-27",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Human Resources: The Cornerstone of Successful Organizations",
           "completionDate": "2019-06-03",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         },
 
         {
           "title": "Designing a Performance Appraisal System",
           "completionDate": "2019-06-16",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         },
 
         {
           "title": "The U.S. Legal Environment in Human Resources",
           "completionDate": "2019-06-09",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Pay Types and Considerations",
           "completionDate": "2019-06-03",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Selecting New Employees - Types of Interviews and Interview Questions",
           "completionDate": "2019-05-25",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Hiring Employees",
           "completionDate": "2019-05-25",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         }
       ],
 
@@ -607,73 +505,56 @@
         {
           "title": "Improving Your Personal Brand",
           "completionDate": "2019-06-10",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Essential KPIs for the Modern Marketer",
           "completionDate": "2019-06-05",
-          "minutes": 20,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 20
         },
 
         {
           "title": "Identifying Stakeholders to Increase Your Influence",
           "completionDate": "2019-06-04",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "How to Influence Decisions",
           "completionDate": "2019-06-05",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Handling Objections in Sales",
           "completionDate": "2019-06-16",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
 
         {
           "title": "Find Your Brand Voice with Killer Content Marketing",
           "completionDate": "2019-06-16",
-          "minutes": 14,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 14
         },
 
         {
           "title": "Maintaining Customer Focus",
           "completionDate": "2019-06-14",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Customer relationship: creating commitment",
           "completionDate": "2019-06-03",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
 
         {
           "title": "Marketing to Humans",
           "minutes": 27,
           "url": "https://www.linkedin.com/learning/marketing-to-humans",
-          "completionDate": "2019-08-10",
-          "certificateUrl": null
+          "completionDate": "2019-08-10"
         }
       ],
 
@@ -681,25 +562,19 @@
         {
           "title": "Conducting the negotiation process - Level 3",
           "completionDate": "2019-06-09",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Tips for Better Negotiating",
           "completionDate": "2019-05-25",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "Understanding Successful Negotiation",
           "completionDate": "2019-05-23",
-          "minutes": 18,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 18
         }
       ],
 
@@ -707,17 +582,13 @@
         {
           "title": "Hazard and Risk",
           "completionDate": "2019-06-15",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "First Aid",
           "completionDate": "2019-06-09",
-          "minutes": 1,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 1
         },
 
         {
@@ -735,32 +606,25 @@
           "title": "Introduction to Emotional Intelligence",
           "completionDate": "2019-06-01",
           "minutes": 128,
-          "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction",
-          "certificateUrl": ""
+          "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction"
         },
 
         {
           "title": "Emotional Intelligence Essentials",
           "completionDate": "2019-06-10",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Are you a giver or taker?",
           "completionDate": "2019-06-09",
-          "minutes": 14,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 14
         },
 
         {
           "title": "Group Dynamics",
           "completionDate": "2019-06-16",
-          "minutes": 18,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 18
         }
       ],
 
@@ -768,89 +632,65 @@
         {
           "title": "Managing Time Efficiently and Effectively",
           "completionDate": "2019-05-28",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "6 Ways to Progress Your Career",
           "completionDate": "2019-06-14",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Improving Your Self-Management",
           "completionDate": "2019-05-25",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Assertiveness - know your profile - Part B",
           "completionDate": "2019-05-25",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
         {
           "title": "Assertiveness: toolkit - Part A",
           "completionDate": "2019-05-25",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
         {
           "title": "Develop your assertiveness - Level 1",
           "completionDate": "2019-05-25",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
         {
           "title": "Healthy Eating at Work",
           "completionDate": "2019-06-13",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
         {
           "title": "Time Management: Tips for Success",
           "completionDate": "2019-06-09",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
         {
           "title": "Lone Working",
           "completionDate": "2019-06-16",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
         {
           "title": "Stop Procrastinating",
           "completionDate": "2019-05-26",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
         {
           "title": "Boosting Your Confidence",
           "completionDate": "2019-05-24",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
         {
           "title": "Improving Your Self-Awareness",
           "completionDate": "2019-05-23",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         }
       ],
 
@@ -858,137 +698,103 @@
         {
           "title": "The three pillars of interpersonal excellence",
           "completionDate": "2019-06-24",
-          "minutes": 15,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 15
         },
 
         {
           "title": "Speaking and Listening",
           "completionDate": "2019-06-16",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Decoding Indirect and Direct Messages",
           "completionDate": "2019-06-16",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Communication and Channels",
           "completionDate": "2019-06-16",
-          "minutes": 19,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 19
         },
 
         {
           "title": "Master Effective Communication",
           "completionDate": "2019-06-14",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Feedback and Non-Verbal Communication",
           "completionDate": "2019-05-23",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Solving Problems Through Feedback",
           "completionDate": "2019-05-28",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Use Active Listening to Build Understanding",
           "completionDate": "2019-05-28",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Asking for feedback",
           "completionDate": "2019-05-27",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Giving positive and constructive feedback",
           "completionDate": "2019-06-04",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Giving Bad News",
           "completionDate": "2019-06-04",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Communication and Ethics",
           "completionDate": "2019-05-25",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Public Speaking: Managing the Q&A",
           "completionDate": "2019-05-25",
-          "minutes": 10,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 10
         },
 
         {
           "title": "Time Management: Dealing with Urgent Requests",
           "completionDate": "2019-05-24",
-          "minutes": 10,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 10
         },
 
         {
           "title": "Giving Tough Feedback",
           "completionDate": "2019-05-24",
-          "minutes": 2,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 2
         },
 
         {
           "title": "Welcome well-formulated OR awkward criticism",
           "completionDate": "2019-05-23",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         },
 
         {
           "title": "Good Communication",
           "completionDate": "2019-06-03",
-          "minutes": 7,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 7
         }
       ],
 
@@ -996,25 +802,19 @@
         {
           "title": "What is Diversity and Inclusion",
           "completionDate": "2019-05-22",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         },
 
         {
           "title": "Identifying Diversity in Others",
           "completionDate": "2019-06-13",
-          "minutes": 3,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 3
         },
 
         {
           "title": "Overcoming Barriers to Workplace Communication",
           "completionDate": "2019-06-09",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         }
       ]
     },
@@ -1026,8 +826,7 @@
             "title": "Introduction to Presentation Design",
             "completionDate": "2019-06-03",
             "minutes": 66,
-            "url": "https://www.pluralsight.com/courses/presentation-design-introduction",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/presentation-design-introduction"
           }
         ],
 
@@ -1036,8 +835,7 @@
             "title": "Color Theory for Today's Creative Professionals",
             "completionDate": "2019-05-28",
             "minutes": 72,
-            "url": "https://www.pluralsight.com/courses/color-theory-todays-creative-professionals-1021",
-            "certificateUrl": ""
+            "url": "https://www.pluralsight.com/courses/color-theory-todays-creative-professionals-1021"
           }
         ]
       },
@@ -1058,81 +856,61 @@
         {
           "title": "Proper Grammar - Articles, Determiners, Quantifiers, Interjections",
           "completionDate": "2019-06-15",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Proper Grammar - Nouns",
           "completionDate": "2019-06-15",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Proper Grammar - Adjectives",
           "completionDate": "2019-06-15",
-          "minutes": 9,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 9
         },
 
         {
           "title": "Proper Grammar: Advanced Pronouns",
           "completionDate": "2019-06-15",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Proper Grammar - Advanced Verbs",
           "completionDate": "2019-06-15",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Proper Grammar: Introduction to Adverbs",
           "completionDate": "2019-06-15",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Proper Grammar: Advanced Adverbs",
           "completionDate": "2019-06-15",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         },
 
         {
           "title": "Proper Grammar - Prepositions",
           "completionDate": "2019-06-15",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         },
 
         {
           "title": "Common Word Usage Errors",
           "completionDate": "2019-06-15",
-          "minutes": 4,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 4
         },
 
         {
           "title": "Advanced Uses of the Comma",
           "completionDate": "2019-06-16",
-          "minutes": 5,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 5
         }
       ]
     },
@@ -1156,17 +934,13 @@
         {
           "title": "International Law for Expatriates in the U.S.",
           "completionDate": "2019-06-09",
-          "minutes": 8,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 8
         },
 
         {
           "title": "PCI-DSS Compliance Standards",
           "completionDate": "2019-06-09",
-          "minutes": 6,
-          "url": "",
-          "certificateUrl": ""
+          "minutes": 6
         }
       ]
     }
