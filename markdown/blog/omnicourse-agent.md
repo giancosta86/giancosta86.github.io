@@ -44,7 +44,7 @@ However, even though OmniCourse automates most of the mathematical work, it can 
 
 ## Exploring advanced JavaScript
 
-OmniCourse-Agent is a browser extension devoted to _learning_, but it was a veritable **learning experience** by itself:
+OmniCourse-Agent is an _open-source_ browser extension devoted to _learning_, but it was a veritable **learning experience** by itself:
 
 - **browser APIs** - for both _Chrome_ and _Firefox_ - were a totally unexplored field for me. Consequently, I had to revise my architecture a few times - in particular, to achieve _elegant message passing_ between the extension components
 
