@@ -76,4 +76,4 @@ However, I'm considering the idea of deploying OmniCourse-Agent to the official 
 
 - [OmniCourse-Agent](https://github.com/giancosta86/OmniCourse-Agent)
 
-* [OmniCourse](https://github.com/giancosta86/OmniCourse)
+- [OmniCourse](https://github.com/giancosta86/OmniCourse)
