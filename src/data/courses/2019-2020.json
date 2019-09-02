@@ -43,6 +43,22 @@
           ]
         },
 
+        "Groovy": [
+          {
+            "title": "Groovy: Getting Started",
+            "minutes": 79,
+            "url": "https://www.pluralsight.com/courses/groovy-getting-started",
+            "completionDate": "2019-08-26"
+          },
+
+          {
+            "title": "Groovy Fundamentals",
+            "minutes": 218,
+            "url": "https://www.pluralsight.com/courses/groovy-fundamentals",
+            "completionDate": "2019-08-28"
+          }
+        ],
+
         "JavaScript": {
           "Chrome": [
             {
@@ -174,6 +190,13 @@
             "completionDate": "2019-07-11",
             "minutes": 102,
             "url": "https://www.pluralsight.com/courses/building-websites-bulma"
+          },
+
+          {
+            "title": "Modern Web Layout with Flexbox and CSS Grid",
+            "minutes": 75,
+            "url": "https://www.pluralsight.com/courses/modern-web-layout-flexbox-css-grid",
+            "completionDate": "2019-08-12"
           }
         ]
       },
@@ -217,6 +240,13 @@
             "completionDate": "2019-08-04",
             "minutes": 236,
             "url": "https://www.pluralsight.com/courses/cake-applications-deploying-building"
+          },
+
+          {
+            "title": "Maven Fundamentals",
+            "minutes": 145,
+            "url": "https://www.pluralsight.com/courses/maven-fundamentals",
+            "completionDate": "2019-08-13"
           }
         ],
 
@@ -501,17 +531,11 @@
         }
       ],
 
-      "Marketing": [
+      "Personal branding": [
         {
           "title": "Improving Your Personal Brand",
           "completionDate": "2019-06-10",
           "minutes": 3
-        },
-
-        {
-          "title": "Essential KPIs for the Modern Marketer",
-          "completionDate": "2019-06-05",
-          "minutes": 20
         },
 
         {
@@ -521,21 +545,36 @@
         },
 
         {
+          "title": "Find Your Brand Voice with Killer Content Marketing",
+          "completionDate": "2019-06-16",
+          "minutes": 14
+        },
+
+        {
           "title": "How to Influence Decisions",
           "completionDate": "2019-06-05",
           "minutes": 2
         },
 
         {
-          "title": "Handling Objections in Sales",
-          "completionDate": "2019-06-16",
-          "minutes": 15
+          "title": "Learning Personal Branding",
+          "minutes": 48,
+          "url": "https://www.linkedin.com/learning/learning-personal-branding-2",
+          "completionDate": "2019-09-01"
+        }
+      ],
+
+      "Marketing": [
+        {
+          "title": "Essential KPIs for the Modern Marketer",
+          "completionDate": "2019-06-05",
+          "minutes": 20
         },
 
         {
-          "title": "Find Your Brand Voice with Killer Content Marketing",
+          "title": "Handling Objections in Sales",
           "completionDate": "2019-06-16",
-          "minutes": 14
+          "minutes": 15
         },
 
         {
