@@ -1,6 +1,6 @@
 {
-  "Technology": {
-    "Computer Science": {
+  "Science": {
+    "Information Technology": {
       "Ecosystems": {
         ".NET": {
           "C#": [],
@@ -77,6 +77,7 @@
         "Principles": [],
         "Build Automation": [],
         "Versioning": [],
+        "Security": [],
         "Remote Control": []
       },
 
@@ -90,7 +91,7 @@
 
       "Data science": {
         "Principles": [],
-        "Big data": []
+        "Big Data": []
       },
 
       "Relational DBMS": {
@@ -113,41 +114,40 @@
         "Java": [],
         "JavaScript": [],
         "RabbitMQ": []
-      },
-
-      "Security": []
+      }
     },
 
-    "Processes": {
-      "Company Regulations": [],
-
-      "Quality Assurance": [],
-
-      "Leadership": [],
+    "Enterprise Processes": {
+      "Human Resources": [],
 
       "Management": [],
 
-      "Innovation": [],
-
-      "Human Resources": [],
-
-      "Personal branding": [],
+      "Quality Assurance": [],
 
       "Marketing": [],
 
       "Negotiation": [],
+
+      "Company Regulations": [],
 
       "Safety": []
     }
   },
 
   "Humanism": {
-    "Psychology": {
-      "Principles": [],
-      "Personal Development": [],
-      "Human Interactions": [],
-      "Diversity & Inclusion": []
-    },
+    "Psychology": [],
+
+    "Personal Development": [],
+
+    "Human Interactions": [],
+
+    "Diversity & Inclusion": [],
+
+    "Leadership": [],
+
+    "Personal branding": [],
+
+    "Innovation": [],
 
     "Art": {
       "Visual": {

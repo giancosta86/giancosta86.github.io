@@ -1,6 +1,6 @@
 {
-  "Technology": {
-    "Computer Science": {
+  "Science": {
+    "Information Technology": {
       "Ecosystems": {
         ".NET": {
           "C#": [
@@ -738,7 +738,7 @@
           }
         ],
 
-        "Big data": [
+        "Big Data": [
           {
             "title": "Scala and Spark for Big Data and Machine Learning",
             "completionDate": "2018-11-14",
@@ -994,16 +994,7 @@
       }
     },
 
-    "Processes": {
-      "Quality Assurance": [
-        {
-          "title": "Six Sigma White Belt",
-          "completionDate": "2018-11-09",
-          "minutes": 60,
-          "url": "https://www.udemy.com/six-sigma-white-belt/"
-        }
-      ],
-
+    "Enterprise Processes": {
       "Management": [
         {
           "title": "Learn JIRA in less than an hour with Agile Methodology",
@@ -1014,101 +1005,108 @@
         }
       ],
 
-      "Innovation": [
+      "Quality Assurance": [
         {
-          "title": "Acumen Presents: Adam Grant on Developing Original Ideas",
-          "completionDate": "2018-11-04",
-          "minutes": 40,
-          "url": "https://www.udemy.com/acumen-presents-adam-grant-on-developing-original-ideas/"
+          "title": "Six Sigma White Belt",
+          "completionDate": "2018-11-09",
+          "minutes": 60,
+          "url": "https://www.udemy.com/six-sigma-white-belt/"
         }
       ]
     }
   },
 
   "Humanism": {
-    "Psychology": {
-      "Personal Development": [
-        {
-          "title": "Radiate Confidence: How to Create a 1000 Watt Presence",
-          "completionDate": "2018-11-03",
-          "minutes": 270,
-          "url": "https://www.udemy.com/1000-watt-presence/"
-        }
-      ],
+    "Personal Development": [
+      {
+        "title": "Radiate Confidence: How to Create a 1000 Watt Presence",
+        "completionDate": "2018-11-03",
+        "minutes": 270,
+        "url": "https://www.udemy.com/1000-watt-presence/"
+      }
+    ],
 
-      "Human Interactions": [
-        {
-          "title": "Six steps to leading productive meetings",
-          "completionDate": "2018-07-05",
-          "minutes": 30,
-          "url": "https://www.udemy.com/leading-productive-meetings/"
-        },
+    "Human Interactions": [
+      {
+        "title": "Six steps to leading productive meetings",
+        "completionDate": "2018-07-05",
+        "minutes": 30,
+        "url": "https://www.udemy.com/leading-productive-meetings/"
+      },
 
-        {
-          "title": "Powerful speaking",
-          "completionDate": "2018-11-09",
-          "minutes": 90,
-          "url": "https://www.udemy.com/powerful-speaking/"
-        },
+      {
+        "title": "Powerful speaking",
+        "completionDate": "2018-11-09",
+        "minutes": 90,
+        "url": "https://www.udemy.com/powerful-speaking/"
+      },
 
-        {
-          "title": "Soft Skills: The 11 Essential Career Soft Skills",
-          "completionDate": "2018-09-12",
-          "minutes": 60,
-          "url": "https://www.udemy.com/soft-skills-the-11-essential-career-soft-skills/"
-        },
+      {
+        "title": "Soft Skills: The 11 Essential Career Soft Skills",
+        "completionDate": "2018-09-12",
+        "minutes": 60,
+        "url": "https://www.udemy.com/soft-skills-the-11-essential-career-soft-skills/"
+      },
 
-        {
-          "title": "Networking for Introverts: Overcoming Nervousness",
-          "completionDate": "2018-07-05",
-          "minutes": 60
-        },
+      {
+        "title": "Networking for Introverts: Overcoming Nervousness",
+        "completionDate": "2018-07-05",
+        "minutes": 60
+      },
 
-        {
-          "title": "Assert Yourself - Master the benefits of assertive behaviour",
-          "completionDate": "2018-10-25",
-          "minutes": 32,
-          "url": "https://www.udemy.com/assert-yourself/"
-        },
+      {
+        "title": "Assert Yourself - Master the benefits of assertive behaviour",
+        "completionDate": "2018-10-25",
+        "minutes": 32,
+        "url": "https://www.udemy.com/assert-yourself/"
+      },
 
-        {
-          "title": "Acumen Presents: Chris Anderson on Public Speaking",
-          "completionDate": "2018-05-30",
-          "minutes": 60,
-          "url": "https://www.udemy.com/chris-anderson-on-public-speaking/"
-        },
+      {
+        "title": "Acumen Presents: Chris Anderson on Public Speaking",
+        "completionDate": "2018-05-30",
+        "minutes": 60,
+        "url": "https://www.udemy.com/chris-anderson-on-public-speaking/"
+      },
 
-        {
-          "title": "Communication Fundamentals: How To Communicate Better",
-          "completionDate": "2018-09-13",
-          "minutes": 90,
-          "url": "https://www.udemy.com/communication-fundamentals-how-to-communicate-better/"
-        },
+      {
+        "title": "Communication Fundamentals: How To Communicate Better",
+        "completionDate": "2018-09-13",
+        "minutes": 90,
+        "url": "https://www.udemy.com/communication-fundamentals-how-to-communicate-better/"
+      },
 
-        {
-          "title": "The Secrets of Body Language",
-          "completionDate": "2018-07-08",
-          "minutes": 120,
-          "url": "https://www.udemy.com/the-secrets-of-body-language-webinar/"
-        },
+      {
+        "title": "The Secrets of Body Language",
+        "completionDate": "2018-07-08",
+        "minutes": 120,
+        "url": "https://www.udemy.com/the-secrets-of-body-language-webinar/"
+      },
 
-        {
-          "title": "Listening Skills - The Ultimate Workplace Soft Skills",
-          "completionDate": "2018-11-04",
-          "minutes": 60,
-          "url": "https://www.udemy.com/listening-skills-the-ultimate-workplace-soft-skills/"
-        }
-      ],
+      {
+        "title": "Listening Skills - The Ultimate Workplace Soft Skills",
+        "completionDate": "2018-11-04",
+        "minutes": 60,
+        "url": "https://www.udemy.com/listening-skills-the-ultimate-workplace-soft-skills/"
+      }
+    ],
 
-      "Diversity & Inclusion": [
-        {
-          "title": "Navigate Diversity",
-          "completionDate": "2018-07-08",
-          "minutes": 60,
-          "url": "https://www.udemy.com/navigate-diversity/"
-        }
-      ]
-    },
+    "Diversity & Inclusion": [
+      {
+        "title": "Navigate Diversity",
+        "completionDate": "2018-07-08",
+        "minutes": 60,
+        "url": "https://www.udemy.com/navigate-diversity/"
+      }
+    ],
+
+    "Innovation": [
+      {
+        "title": "Acumen Presents: Adam Grant on Developing Original Ideas",
+        "completionDate": "2018-11-04",
+        "minutes": 40,
+        "url": "https://www.udemy.com/acumen-presents-adam-grant-on-developing-original-ideas/"
+      }
+    ],
 
     "Art": {
       "Visual": {

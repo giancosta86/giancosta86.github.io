@@ -1,6 +1,6 @@
 {
-  "Technology": {
-    "Computer Science": {
+  "Science": {
+    "Information Technology": {
       "Ecosystems": {
         ".NET": {
           "C#": [
@@ -37,13 +37,6 @@
               "minutes": 206,
               "url": "https://www.pluralsight.com/courses/csharp-collections-beginning",
               "completionDate": "2019-09-03"
-            },
-
-            {
-              "title": "Getting Started with Asynchronous Programming in .NET",
-              "minutes": 142,
-              "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
-              "completionDate": "2019-09-10"
             }
           ],
 
@@ -398,6 +391,15 @@
           }
         ],
 
+        "Security": [
+          {
+            "title": "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)",
+            "minutes": 144,
+            "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction",
+            "completionDate": "2019-11-03"
+          }
+        ],
+
         "Remote Control": [
           {
             "title": "Deploying .NET Applications with Octopus Deploy",
@@ -418,6 +420,15 @@
           }
         ],
 
+        "Gherkin": [
+          {
+            "title": "Automated Acceptance Testing with SpecFlow and Gherkin",
+            "minutes": 172,
+            "url": "https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin",
+            "completionDate": "2019-10-22"
+          }
+        ],
+
         ".NET": [
           {
             "title": "Introduction to .NET Testing with NUnit 3",
@@ -431,13 +442,6 @@
             "completionDate": "2019-06-01",
             "minutes": 40,
             "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests"
-          },
-
-          {
-            "title": "Automated Acceptance Testing with SpecFlow and Gherkin",
-            "minutes": 172,
-            "url": "https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin",
-            "completionDate": "2019-10-22"
           }
         ]
       },
@@ -471,126 +475,60 @@
         }
       ],
 
-      "Security": [
-        {
-          "title": "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)",
-          "minutes": 144,
-          "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction",
-          "completionDate": "2019-11-03"
-        }
-      ]
+      "Parallelism": {
+        ".NET": [
+          {
+            "title": "Getting Started with Asynchronous Programming in .NET",
+            "minutes": 142,
+            "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+            "completionDate": "2019-09-10"
+          }
+        ]
+      }
     },
 
-    "Processes": {
-      "Company Regulations": [
+    "Enterprise Processes": {
+      "Human Resources": [
         {
-          "title": "Setting SMART Objectives",
-          "completionDate": "2019-06-10",
-          "minutes": 2
-        },
-
-        {
-          "title": "Performance - Goal Setting",
-          "completionDate": "2019-05-23",
-          "minutes": 6
-        },
-
-        {
-          "title": "Embedding Organizational Culture",
-          "completionDate": "2019-05-22",
-          "minutes": 5
-        },
-
-        {
-          "title": "Compiling Employee Satisfaction Data",
-          "completionDate": "2019-06-03",
-          "minutes": 4
-        }
-      ],
-
-      "Leadership": [
-        {
-          "title": "The Mindful Leader",
-          "completionDate": "2019-06-15",
-          "minutes": 15
-        },
-
-        {
-          "title": "Lead by Listening",
-          "completionDate": "2019-06-16",
-          "minutes": 6
-        },
-
-        {
-          "title": "Leadership in Times of Change",
-          "completionDate": "2019-06-10",
-          "minutes": 3
-        },
-
-        {
-          "title": "Coach Your Team to Success with GROW",
-          "completionDate": "2019-06-10",
-          "minutes": 2
-        },
-
-        {
-          "title": "Getting a Decision Fast",
-          "completionDate": "2019-06-10",
-          "minutes": 3
-        },
-
-        {
-          "title": "Become an Effective Leader, Part Two",
-          "completionDate": "2019-06-09",
-          "minutes": 8
-        },
-
-        {
-          "title": "Leadership vs Management",
-          "completionDate": "2019-06-04",
-          "minutes": 6
-        },
-
-        {
-          "title": "Becoming a Coaching Manager - Part A",
-          "completionDate": "2019-06-03",
-          "minutes": 15
-        },
-
-        {
-          "title": "LEAD NOW!: Delegating",
-          "completionDate": "2019-06-01",
-          "minutes": 8
-        },
-
-        {
-          "title": "Persuade, Inspire and Communicate with Storytelling",
-          "completionDate": "2019-05-28",
-          "minutes": 2
-        },
-
-        {
-          "title": "Motivating Your People and Being a Positive Role Model",
-          "completionDate": "2019-05-25",
-          "minutes": 4
-        },
-
-        {
-          "title": "A Motivator's Tool Kit",
-          "completionDate": "2019-05-23",
-          "minutes": 5
-        },
-
-        {
-          "title": "Build Your Team",
-          "completionDate": "2019-05-23",
-          "minutes": 8
-        },
-
-        {
-          "title": "Leading Team Meetings",
+          "title": "Introducing Human Resource Management",
           "completionDate": "2019-05-27",
-          "minutes": 10
+          "minutes": 7
+        },
+
+        {
+          "title": "Human Resources: The Cornerstone of Successful Organizations",
+          "completionDate": "2019-06-03",
+          "minutes": 4
+        },
+
+        {
+          "title": "Designing a Performance Appraisal System",
+          "completionDate": "2019-06-16",
+          "minutes": 4
+        },
+
+        {
+          "title": "The U.S. Legal Environment in Human Resources",
+          "completionDate": "2019-06-09",
+          "minutes": 6
+        },
+
+        {
+          "title": "Pay Types and Considerations",
+          "completionDate": "2019-06-03",
+          "minutes": 7
+        },
+
+        {
+          "title": "Selecting New Employees - Types of Interviews and Interview Questions",
+          "completionDate": "2019-05-25",
+          "minutes": 8
+        },
+
+        {
+          "title": "Hiring Employees",
+          "completionDate": "2019-05-25",
+          "minutes": 7
         }
       ],
 
@@ -651,109 +589,6 @@
         }
       ],
 
-      "Innovation": [
-        {
-          "title": "10 Habits of a Successful Change Communicator",
-          "completionDate": "2019-06-14",
-          "minutes": 2
-        },
-
-        {
-          "title": "The Emotional Cycle of Change",
-          "completionDate": "2019-06-10",
-          "minutes": 2
-        },
-
-        {
-          "title": "Making Change Happen",
-          "completionDate": "2019-06-10",
-          "minutes": 8
-        },
-
-        {
-          "title": "Creating Solutions Through Problem Solving Meetings",
-          "completionDate": "2019-06-18",
-          "minutes": 2
-        }
-      ],
-
-      "Human Resources": [
-        {
-          "title": "Introducing Human Resource Management",
-          "completionDate": "2019-05-27",
-          "minutes": 7
-        },
-
-        {
-          "title": "Human Resources: The Cornerstone of Successful Organizations",
-          "completionDate": "2019-06-03",
-          "minutes": 4
-        },
-
-        {
-          "title": "Designing a Performance Appraisal System",
-          "completionDate": "2019-06-16",
-          "minutes": 4
-        },
-
-        {
-          "title": "The U.S. Legal Environment in Human Resources",
-          "completionDate": "2019-06-09",
-          "minutes": 6
-        },
-
-        {
-          "title": "Pay Types and Considerations",
-          "completionDate": "2019-06-03",
-          "minutes": 7
-        },
-
-        {
-          "title": "Selecting New Employees - Types of Interviews and Interview Questions",
-          "completionDate": "2019-05-25",
-          "minutes": 8
-        },
-
-        {
-          "title": "Hiring Employees",
-          "completionDate": "2019-05-25",
-          "minutes": 7
-        }
-      ],
-
-      "Personal branding": [
-        {
-          "title": "Improving Your Personal Brand",
-          "completionDate": "2019-06-10",
-          "minutes": 3
-        },
-
-        {
-          "title": "Identifying Stakeholders to Increase Your Influence",
-          "completionDate": "2019-06-04",
-          "minutes": 3
-        },
-
-        {
-          "title": "Find Your Brand Voice with Killer Content Marketing",
-          "completionDate": "2019-06-16",
-          "minutes": 14
-        },
-
-        {
-          "title": "How to Influence Decisions",
-          "completionDate": "2019-06-05",
-          "minutes": 2
-        },
-
-        {
-          "title": "Learning Personal Branding",
-          "minutes": 48,
-          "url": "https://www.linkedin.com/learning/learning-personal-branding-2",
-          "completionDate": "2019-09-01"
-        }
-      ],
-
       "Marketing": [
         {
           "title": "Essential KPIs for the Modern Marketer",
@@ -807,6 +642,32 @@
         }
       ],
 
+      "Company Regulations": [
+        {
+          "title": "Setting SMART Objectives",
+          "completionDate": "2019-06-10",
+          "minutes": 2
+        },
+
+        {
+          "title": "Performance - Goal Setting",
+          "completionDate": "2019-05-23",
+          "minutes": 6
+        },
+
+        {
+          "title": "Embedding Organizational Culture",
+          "completionDate": "2019-05-22",
+          "minutes": 5
+        },
+
+        {
+          "title": "Compiling Employee Satisfaction Data",
+          "completionDate": "2019-06-03",
+          "minutes": 4
+        }
+      ],
+
       "Safety": [
         {
           "title": "Hazard and Risk",
@@ -829,238 +690,381 @@
   },
 
   "Humanism": {
-    "Psychology": {
-      "Principles": [
-        {
-          "title": "Introduction to Emotional Intelligence",
-          "completionDate": "2019-06-01",
-          "minutes": 128,
-          "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction"
-        },
+    "Psychology": [
+      {
+        "title": "Introduction to Emotional Intelligence",
+        "completionDate": "2019-06-01",
+        "minutes": 128,
+        "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction"
+      },
 
-        {
-          "title": "Emotional Intelligence Essentials",
-          "completionDate": "2019-06-10",
-          "minutes": 3
-        },
+      {
+        "title": "Emotional Intelligence Essentials",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
 
-        {
-          "title": "Are you a giver or taker?",
-          "completionDate": "2019-06-09",
-          "minutes": 14
-        },
+      {
+        "title": "Are you a giver or taker?",
+        "completionDate": "2019-06-09",
+        "minutes": 14
+      },
 
-        {
-          "title": "Group Dynamics",
-          "completionDate": "2019-06-16",
-          "minutes": 18
-        }
-      ],
+      {
+        "title": "Group Dynamics",
+        "completionDate": "2019-06-16",
+        "minutes": 18
+      }
+    ],
 
-      "Personal Development": [
-        {
-          "title": "Managing Time Efficiently and Effectively",
-          "completionDate": "2019-05-28",
-          "minutes": 2
-        },
+    "Personal Development": [
+      {
+        "title": "Managing Time Efficiently and Effectively",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
 
-        {
-          "title": "6 Ways to Progress Your Career",
-          "completionDate": "2019-06-14",
-          "minutes": 2
-        },
+      {
+        "title": "6 Ways to Progress Your Career",
+        "completionDate": "2019-06-14",
+        "minutes": 2
+      },
 
-        {
-          "title": "Improving Your Self-Management",
-          "completionDate": "2019-05-25",
-          "minutes": 6
-        },
+      {
+        "title": "Improving Your Self-Management",
+        "completionDate": "2019-05-25",
+        "minutes": 6
+      },
 
-        {
-          "title": "Assertiveness - know your profile - Part B",
-          "completionDate": "2019-05-25",
-          "minutes": 15
-        },
-        {
-          "title": "Assertiveness: toolkit - Part A",
-          "completionDate": "2019-05-25",
-          "minutes": 15
-        },
-        {
-          "title": "Develop your assertiveness - Level 1",
-          "completionDate": "2019-05-25",
-          "minutes": 7
-        },
-        {
-          "title": "Healthy Eating at Work",
-          "completionDate": "2019-06-13",
-          "minutes": 5
-        },
-        {
-          "title": "Time Management: Tips for Success",
-          "completionDate": "2019-06-09",
-          "minutes": 5
-        },
-        {
-          "title": "Lone Working",
-          "completionDate": "2019-06-16",
-          "minutes": 5
-        },
-        {
-          "title": "Stop Procrastinating",
-          "completionDate": "2019-05-26",
-          "minutes": 6
-        },
-        {
-          "title": "Boosting Your Confidence",
-          "completionDate": "2019-05-24",
-          "minutes": 2
-        },
-        {
-          "title": "Improving Your Self-Awareness",
-          "completionDate": "2019-05-23",
-          "minutes": 7
-        }
-      ],
+      {
+        "title": "Assertiveness - know your profile - Part B",
+        "completionDate": "2019-05-25",
+        "minutes": 15
+      },
+      {
+        "title": "Assertiveness: toolkit - Part A",
+        "completionDate": "2019-05-25",
+        "minutes": 15
+      },
+      {
+        "title": "Develop your assertiveness - Level 1",
+        "completionDate": "2019-05-25",
+        "minutes": 7
+      },
+      {
+        "title": "Healthy Eating at Work",
+        "completionDate": "2019-06-13",
+        "minutes": 5
+      },
+      {
+        "title": "Time Management: Tips for Success",
+        "completionDate": "2019-06-09",
+        "minutes": 5
+      },
+      {
+        "title": "Lone Working",
+        "completionDate": "2019-06-16",
+        "minutes": 5
+      },
+      {
+        "title": "Stop Procrastinating",
+        "completionDate": "2019-05-26",
+        "minutes": 6
+      },
+      {
+        "title": "Boosting Your Confidence",
+        "completionDate": "2019-05-24",
+        "minutes": 2
+      },
+      {
+        "title": "Improving Your Self-Awareness",
+        "completionDate": "2019-05-23",
+        "minutes": 7
+      }
+    ],
 
-      "Human Interactions": [
-        {
-          "title": "The three pillars of interpersonal excellence",
-          "completionDate": "2019-06-24",
-          "minutes": 15
-        },
+    "Human Interactions": [
+      {
+        "title": "The three pillars of interpersonal excellence",
+        "completionDate": "2019-06-24",
+        "minutes": 15
+      },
 
-        {
-          "title": "Speaking and Listening",
-          "completionDate": "2019-06-16",
-          "minutes": 6
-        },
+      {
+        "title": "Speaking and Listening",
+        "completionDate": "2019-06-16",
+        "minutes": 6
+      },
 
-        {
-          "title": "Decoding Indirect and Direct Messages",
-          "completionDate": "2019-06-16",
-          "minutes": 5
-        },
+      {
+        "title": "Decoding Indirect and Direct Messages",
+        "completionDate": "2019-06-16",
+        "minutes": 5
+      },
 
-        {
-          "title": "Communication and Channels",
-          "completionDate": "2019-06-16",
-          "minutes": 19
-        },
+      {
+        "title": "Communication and Channels",
+        "completionDate": "2019-06-16",
+        "minutes": 19
+      },
 
-        {
-          "title": "Master Effective Communication",
-          "completionDate": "2019-06-14",
-          "minutes": 3
-        },
+      {
+        "title": "Master Effective Communication",
+        "completionDate": "2019-06-14",
+        "minutes": 3
+      },
 
-        {
-          "title": "Feedback and Non-Verbal Communication",
-          "completionDate": "2019-05-23",
-          "minutes": 7
-        },
+      {
+        "title": "Feedback and Non-Verbal Communication",
+        "completionDate": "2019-05-23",
+        "minutes": 7
+      },
 
-        {
-          "title": "Solving Problems Through Feedback",
-          "completionDate": "2019-05-28",
-          "minutes": 2
-        },
+      {
+        "title": "Solving Problems Through Feedback",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
 
-        {
-          "title": "Use Active Listening to Build Understanding",
-          "completionDate": "2019-05-28",
-          "minutes": 2
-        },
+      {
+        "title": "Use Active Listening to Build Understanding",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
 
-        {
-          "title": "Asking for feedback",
-          "completionDate": "2019-05-27",
-          "minutes": 7
-        },
+      {
+        "title": "Asking for feedback",
+        "completionDate": "2019-05-27",
+        "minutes": 7
+      },
 
-        {
-          "title": "Giving positive and constructive feedback",
-          "completionDate": "2019-06-04",
-          "minutes": 7
-        },
+      {
+        "title": "Giving positive and constructive feedback",
+        "completionDate": "2019-06-04",
+        "minutes": 7
+      },
 
-        {
-          "title": "Giving Bad News",
-          "completionDate": "2019-06-04",
-          "minutes": 2
-        },
+      {
+        "title": "Giving Bad News",
+        "completionDate": "2019-06-04",
+        "minutes": 2
+      },
 
-        {
-          "title": "Communication and Ethics",
-          "completionDate": "2019-05-25",
-          "minutes": 6
-        },
+      {
+        "title": "Communication and Ethics",
+        "completionDate": "2019-05-25",
+        "minutes": 6
+      },
 
-        {
-          "title": "Public Speaking: Managing the Q&A",
-          "completionDate": "2019-05-25",
-          "minutes": 10
-        },
+      {
+        "title": "Public Speaking: Managing the Q&A",
+        "completionDate": "2019-05-25",
+        "minutes": 10
+      },
 
-        {
-          "title": "Time Management: Dealing with Urgent Requests",
-          "completionDate": "2019-05-24",
-          "minutes": 10
-        },
+      {
+        "title": "Time Management: Dealing with Urgent Requests",
+        "completionDate": "2019-05-24",
+        "minutes": 10
+      },
 
-        {
-          "title": "Giving Tough Feedback",
-          "completionDate": "2019-05-24",
-          "minutes": 2
-        },
+      {
+        "title": "Giving Tough Feedback",
+        "completionDate": "2019-05-24",
+        "minutes": 2
+      },
 
-        {
-          "title": "Welcome well-formulated OR awkward criticism",
-          "completionDate": "2019-05-23",
-          "minutes": 7
-        },
+      {
+        "title": "Welcome well-formulated OR awkward criticism",
+        "completionDate": "2019-05-23",
+        "minutes": 7
+      },
 
-        {
-          "title": "Good Communication",
-          "completionDate": "2019-06-03",
-          "minutes": 7
-        },
+      {
+        "title": "Good Communication",
+        "completionDate": "2019-06-03",
+        "minutes": 7
+      },
 
-        {
-          "title": "Effective Listening",
-          "minutes": 68,
-          "url": "https://www.linkedin.com/learning/effective-listening",
-          "completionDate": "2019-09-15"
-        },
+      {
+        "title": "Effective Listening",
+        "minutes": 68,
+        "url": "https://www.linkedin.com/learning/effective-listening",
+        "completionDate": "2019-09-15"
+      },
 
-        {
-          "title": "The Art of Public Speaking and Effective Presentations",
-          "minutes": 147,
-          "url": "https://www.pluralsight.com/courses/public-speaking-effective-presentations",
-          "completionDate": "2019-10-06"
-        }
-      ],
+      {
+        "title": "The Art of Public Speaking and Effective Presentations",
+        "minutes": 147,
+        "url": "https://www.pluralsight.com/courses/public-speaking-effective-presentations",
+        "completionDate": "2019-10-06"
+      }
+    ],
 
-      "Diversity & Inclusion": [
-        {
-          "title": "What is Diversity and Inclusion",
-          "completionDate": "2019-05-22",
-          "minutes": 4
-        },
+    "Diversity & Inclusion": [
+      {
+        "title": "What is Diversity and Inclusion",
+        "completionDate": "2019-05-22",
+        "minutes": 4
+      },
 
-        {
-          "title": "Identifying Diversity in Others",
-          "completionDate": "2019-06-13",
-          "minutes": 3
-        },
+      {
+        "title": "Identifying Diversity in Others",
+        "completionDate": "2019-06-13",
+        "minutes": 3
+      },
 
-        {
-          "title": "Overcoming Barriers to Workplace Communication",
-          "completionDate": "2019-06-09",
-          "minutes": 5
-        }
-      ]
-    },
+      {
+        "title": "Overcoming Barriers to Workplace Communication",
+        "completionDate": "2019-06-09",
+        "minutes": 5
+      }
+    ],
+
+    "Leadership": [
+      {
+        "title": "The Mindful Leader",
+        "completionDate": "2019-06-15",
+        "minutes": 15
+      },
+
+      {
+        "title": "Lead by Listening",
+        "completionDate": "2019-06-16",
+        "minutes": 6
+      },
+
+      {
+        "title": "Leadership in Times of Change",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
+
+      {
+        "title": "Coach Your Team to Success with GROW",
+        "completionDate": "2019-06-10",
+        "minutes": 2
+      },
+
+      {
+        "title": "Getting a Decision Fast",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
+
+      {
+        "title": "Become an Effective Leader, Part Two",
+        "completionDate": "2019-06-09",
+        "minutes": 8
+      },
+
+      {
+        "title": "Leadership vs Management",
+        "completionDate": "2019-06-04",
+        "minutes": 6
+      },
+
+      {
+        "title": "Becoming a Coaching Manager - Part A",
+        "completionDate": "2019-06-03",
+        "minutes": 15
+      },
+
+      {
+        "title": "LEAD NOW!: Delegating",
+        "completionDate": "2019-06-01",
+        "minutes": 8
+      },
+
+      {
+        "title": "Persuade, Inspire and Communicate with Storytelling",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
+
+      {
+        "title": "Motivating Your People and Being a Positive Role Model",
+        "completionDate": "2019-05-25",
+        "minutes": 4
+      },
+
+      {
+        "title": "A Motivator's Tool Kit",
+        "completionDate": "2019-05-23",
+        "minutes": 5
+      },
+
+      {
+        "title": "Build Your Team",
+        "completionDate": "2019-05-23",
+        "minutes": 8
+      },
+
+      {
+        "title": "Leading Team Meetings",
+        "completionDate": "2019-05-27",
+        "minutes": 10
+      }
+    ],
+
+    "Personal branding": [
+      {
+        "title": "Improving Your Personal Brand",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
+
+      {
+        "title": "Identifying Stakeholders to Increase Your Influence",
+        "completionDate": "2019-06-04",
+        "minutes": 3
+      },
+
+      {
+        "title": "Find Your Brand Voice with Killer Content Marketing",
+        "completionDate": "2019-06-16",
+        "minutes": 14
+      },
+
+      {
+        "title": "How to Influence Decisions",
+        "completionDate": "2019-06-05",
+        "minutes": 2
+      },
+
+      {
+        "title": "Learning Personal Branding",
+        "minutes": 48,
+        "url": "https://www.linkedin.com/learning/learning-personal-branding-2",
+        "completionDate": "2019-09-01"
+      }
+    ],
+
+    "Innovation": [
+      {
+        "title": "10 Habits of a Successful Change Communicator",
+        "completionDate": "2019-06-14",
+        "minutes": 2
+      },
+
+      {
+        "title": "The Emotional Cycle of Change",
+        "completionDate": "2019-06-10",
+        "minutes": 2
+      },
+
+      {
+        "title": "Making Change Happen",
+        "completionDate": "2019-06-10",
+        "minutes": 8
+      },
+
+      {
+        "title": "Creating Solutions Through Problem Solving Meetings",
+        "completionDate": "2019-06-18",
+        "minutes": 2
+      }
+    ],
 
     "Art": {
       "Visual": {
