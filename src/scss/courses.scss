@@ -30,6 +30,14 @@ body.courses {
       }
     }
 
+    .course-chart {
+      g {
+        text {
+          cursor: pointer;
+        }
+      }
+    }
+
     .table-container {
       overflow-x: auto;
 
