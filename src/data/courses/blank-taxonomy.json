@@ -15,13 +15,14 @@
         "Groovy": [],
 
         "JavaScript": {
-          "ECMAScript": [],
+          "Vanilla JS": [],
           "TypeScript": [],
           "Electron": [],
           "Chrome": [],
           "Ionic": [],
           "Functional": [],
-          "Transpilers & Shims": []
+          "Transpilers & Shims": [],
+          "Webpack": []
         },
 
         "Bash": [],
@@ -112,7 +113,9 @@
         "Java": [],
         "JavaScript": [],
         "RabbitMQ": []
-      }
+      },
+
+      "Security": []
     },
 
     "Processes": {

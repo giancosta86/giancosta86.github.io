@@ -23,6 +23,27 @@
               "completionDate": "2019-08-03",
               "minutes": 85,
               "url": "https://www.pluralsight.com/courses/csharp-nulls-working"
+            },
+
+            {
+              "title": "C# Interfaces",
+              "minutes": 143,
+              "url": "https://www.pluralsight.com/courses/using-csharp-interfaces",
+              "completionDate": "2019-09-02"
+            },
+
+            {
+              "title": "Beginning C# Collections",
+              "minutes": 206,
+              "url": "https://www.pluralsight.com/courses/csharp-collections-beginning",
+              "completionDate": "2019-09-03"
+            },
+
+            {
+              "title": "Getting Started with Asynchronous Programming in .NET",
+              "minutes": 142,
+              "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+              "completionDate": "2019-09-10"
             }
           ],
 
@@ -60,6 +81,29 @@
         ],
 
         "JavaScript": {
+          "TypeScript": [
+            {
+              "title": "TypeScript: Getting Started",
+              "minutes": 181,
+              "url": "https://www.pluralsight.com/courses/getting-started-typescript",
+              "completionDate": "2019-09-30"
+            },
+
+            {
+              "title": "TypeScript In-depth",
+              "minutes": 281,
+              "url": "https://www.pluralsight.com/courses/typescript-in-depth",
+              "completionDate": "2019-10-03"
+            },
+
+            {
+              "title": "Advanced TypeScript",
+              "minutes": 175,
+              "url": "https://www.pluralsight.com/courses/typescript-advanced",
+              "completionDate": "2019-10-05"
+            }
+          ],
+
           "Chrome": [
             {
               "title": "Creating a Chrome Extension",
@@ -75,6 +119,13 @@
               "completionDate": "2019-08-06",
               "minutes": 128,
               "url": "https://www.pluralsight.com/courses/javascript-ramda-functional"
+            },
+
+            {
+              "title": "Fundamentals of Functional Programming in JavaScript",
+              "minutes": 86,
+              "url": "https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals",
+              "completionDate": "2019-11-06"
             }
           ],
 
@@ -84,6 +135,15 @@
               "completionDate": "2019-07-21",
               "minutes": 123,
               "url": "https://www.pluralsight.com/courses/babel-get-started"
+            }
+          ],
+
+          "Webpack": [
+            {
+              "title": "Webpack: Transpiling and Bundling JavaScript",
+              "minutes": 296,
+              "url": "https://www.pluralsight.com/courses/transpiling-bundling-javascript-webpack",
+              "completionDate": "2019-10-12"
             }
           ]
         },
@@ -156,6 +216,43 @@
             "completionDate": "2019-05-25",
             "minutes": 94,
             "url": "https://www.pluralsight.com/courses/aws-developer-big-picture"
+          },
+
+          {
+            "title": "AWS Networking and the API Gateway",
+            "minutes": 43,
+            "url": "https://www.pluralsight.com/courses/aws-networking-api-gateway",
+            "completionDate": "2019-10-12"
+          },
+
+          {
+            "title": "AWS Network Design: Getting Started",
+            "minutes": 47,
+            "url": "https://www.pluralsight.com/courses/aws-network-design-getting-started",
+            "completionDate": "2019-10-13"
+          },
+
+          {
+            "title": "AWS Developer - An Introduction to AWS Lambda",
+            "minutes": 111,
+            "url": "https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda",
+            "completionDate": "2019-10-15"
+          }
+        ],
+
+        "Containers": [
+          {
+            "title": "Docker and Kubernetes: The Big Picture",
+            "minutes": 107,
+            "url": "https://www.pluralsight.com/courses/docker-kubernetes-big-picture",
+            "completionDate": "2019-11-11"
+          },
+
+          {
+            "title": "Docker for Web Developers",
+            "minutes": 353,
+            "url": "https://www.pluralsight.com/courses/docker-web-development",
+            "completionDate": "2019-11-13"
           }
         ]
       },
@@ -204,6 +301,27 @@
       "Web Backend": {
         "NodeJS": [
           {
+            "title": "Node.js: The Big Picture",
+            "minutes": 55,
+            "url": "https://www.pluralsight.com/courses/nodejs-big-picture",
+            "completionDate": "2019-10-15"
+          },
+
+          {
+            "title": "Node.js: Getting Started",
+            "minutes": 209,
+            "url": "https://www.pluralsight.com/courses/nodejs-getting-started",
+            "completionDate": "2019-10-16"
+          },
+
+          {
+            "title": "Advanced Node.js",
+            "minutes": 226,
+            "url": "https://www.pluralsight.com/courses/nodejs-advanced",
+            "completionDate": "2019-10-19"
+          },
+
+          {
             "title": "GatsbyJS: Getting Started",
             "completionDate": "2019-06-17",
             "minutes": 120,
@@ -250,6 +368,36 @@
           }
         ],
 
+        "Versioning": [
+          {
+            "title": "Getting Started with Git",
+            "minutes": 143,
+            "url": "https://www.pluralsight.com/courses/git-getting-started",
+            "completionDate": "2019-10-26"
+          },
+
+          {
+            "title": "Code School: Git Real",
+            "minutes": 50,
+            "url": "https://www.pluralsight.com/courses/code-school-git-real",
+            "completionDate": "2019-10-27"
+          },
+
+          {
+            "title": "Code School: Git Real 2",
+            "minutes": 51,
+            "url": "https://www.pluralsight.com/courses/code-school-git-real-2",
+            "completionDate": "2019-10-27"
+          },
+
+          {
+            "title": "How Git Works",
+            "minutes": 109,
+            "url": "https://www.pluralsight.com/courses/how-git-works",
+            "completionDate": "2019-10-28"
+          }
+        ],
+
         "Remote Control": [
           {
             "title": "Deploying .NET Applications with Octopus Deploy",
@@ -261,6 +409,15 @@
       },
 
       "Testing": {
+        "Web Frontend": [
+          {
+            "title": "Automated Business Readable Web Tests with Selenium and SpecFlow",
+            "minutes": 144,
+            "url": "https://www.pluralsight.com/courses/selenium-specflow-automated-business-readable-web-tests",
+            "completionDate": "2019-10-12"
+          }
+        ],
+
         ".NET": [
           {
             "title": "Introduction to .NET Testing with NUnit 3",
@@ -274,6 +431,13 @@
             "completionDate": "2019-06-01",
             "minutes": 40,
             "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests"
+          },
+
+          {
+            "title": "Automated Acceptance Testing with SpecFlow and Gherkin",
+            "minutes": 172,
+            "url": "https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin",
+            "completionDate": "2019-10-22"
           }
         ]
       },
@@ -286,9 +450,35 @@
             "minutes": 153,
             "url": "https://university.mongodb.com/courses/M320/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/fa848574-c34f-4ac0-b149-987a9d5cb887"
+          },
+
+          {
+            "title": "M042: New Features and Tools in MongoDB 4.2",
+            "minutes": 122,
+            "url": "https://university.mongodb.com/courses/M042/about",
+            "completionDate": "2019-09-11",
+            "certificateUrl": "https://university.mongodb.com/course_completion/e21a71d5-2ad5-4576-a4f1-9d9ebe0aa8fc"
           }
         ]
-      }
+      },
+
+      "IDEs and tools": [
+        {
+          "title": "Learning vi",
+          "minutes": 88,
+          "url": "https://www.linkedin.com/learning/learning-vi",
+          "completionDate": "2019-10-27"
+        }
+      ],
+
+      "Security": [
+        {
+          "title": "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)",
+          "minutes": 144,
+          "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction",
+          "completionDate": "2019-11-03"
+        }
+      ]
     },
 
     "Processes": {
@@ -834,6 +1024,20 @@
           "title": "Good Communication",
           "completionDate": "2019-06-03",
           "minutes": 7
+        },
+
+        {
+          "title": "Effective Listening",
+          "minutes": 68,
+          "url": "https://www.linkedin.com/learning/effective-listening",
+          "completionDate": "2019-09-15"
+        },
+
+        {
+          "title": "The Art of Public Speaking and Effective Presentations",
+          "minutes": 147,
+          "url": "https://www.pluralsight.com/courses/public-speaking-effective-presentations",
+          "completionDate": "2019-10-06"
         }
       ],
 
@@ -875,6 +1079,13 @@
             "completionDate": "2019-05-28",
             "minutes": 72,
             "url": "https://www.pluralsight.com/courses/color-theory-todays-creative-professionals-1021"
+          },
+
+          {
+            "title": "Artist at Work: Complementary Colors",
+            "minutes": 18,
+            "url": "https://www.linkedin.com/learning/artist-at-work-complementary-colors",
+            "completionDate": "2019-09-14"
           }
         ]
       },
@@ -892,6 +1103,14 @@
 
     "Languages": {
       "English": [
+        {
+          "title": "Speexx Expert - English C1.1",
+          "minutes": 1953,
+          "completionDate": "2019-10-20",
+          "portal": "Speexx",
+          "certificateUrl": "https://portal.speexx.com/articles/251992/certificate.pdf"
+        },
+
         {
           "title": "Proper Grammar - Articles, Determiners, Quantifiers, Interjections",
           "completionDate": "2019-06-15",
