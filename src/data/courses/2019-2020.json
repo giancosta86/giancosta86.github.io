@@ -487,6 +487,61 @@
       }
     },
 
+    "Robotics": [
+      {
+        "title": "Origami robots that reshape and transform themselves",
+        "completionDate": "2019-08-11",
+        "minutes": 12,
+        "url": "https://www.ted.com/talks/jamie_paik_origami_robots_that_reshape_and_transform_themselves"
+      }
+    ],
+
+    "Ecology": [
+      {
+        "title": "Can we solve global warming? Lessons from how we protected the ozone layer",
+        "completionDate": "2019-09-01",
+        "minutes": 10,
+        "url": "https://www.ted.com/talks/sean_davis_can_we_solve_global_warming_lessons_from_how_we_protected_the_ozone_layer"
+      },
+
+      {
+        "title": "Emergency medicine for our climate fever",
+        "completionDate": "2019-09-06",
+        "minutes": 14,
+        "url": "https://www.ted.com/talks/kelly_wanser_emergency_medicine_for_our_climate_fever"
+      }
+    ],
+
+    "Astronomy": [
+      {
+        "title": "Inside the black hole image that made history",
+        "completionDate": "2019-08-15",
+        "minutes": 11,
+        "url": "https://www.ted.com/talks/sheperd_doeleman_inside_the_black_hole_image_that_made_history"
+      },
+
+      {
+        "title": "What the discovery of gravitational waves means",
+        "completionDate": "2019-09-08",
+        "minutes": 11,
+        "url": "https://www.ted.com/talks/allan_adams_what_the_discovery_of_gravitational_waves_means"
+      },
+
+      {
+        "title": "How I fell in love with quasars, blazars and our incredible universe",
+        "completionDate": "2019-09-21",
+        "minutes": 4,
+        "url": "https://www.ted.com/talks/jedidah_isler_how_i_fell_in_love_with_quasars_blazars_and_our_incredible_universe"
+      },
+
+      {
+        "title": "Shedding light on dark matter",
+        "completionDate": "2019-09-22",
+        "minutes": 16,
+        "url": "https://www.ted.com/talks/patricia_burchat_leads_a_search_for_dark_energy"
+      }
+    ],
+
     "Enterprise Processes": {
       "Human Resources": [
         {
@@ -863,6 +918,13 @@
       },
 
       {
+        "title": "TED's secret to great public speaking",
+        "completionDate": "2019-10-04",
+        "minutes": 8,
+        "url": "https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking"
+      },
+
+      {
         "title": "Time Management: Dealing with Urgent Requests",
         "completionDate": "2019-05-24",
         "minutes": 10
@@ -918,6 +980,20 @@
         "title": "Overcoming Barriers to Workplace Communication",
         "completionDate": "2019-06-09",
         "minutes": 5
+      },
+
+      {
+        "title": "The danger of hiding who you are",
+        "completionDate": "2019-10-11",
+        "minutes": 10,
+        "url": "https://www.ted.com/talks/morgana_bailey_the_danger_of_hiding_who_you_are"
+      },
+
+      {
+        "title": "How you can help transform the internet into a place of trust",
+        "completionDate": "2019-11-01",
+        "minutes": 12,
+        "url": "https://www.ted.com/talks/claire_wardle_how_you_can_help_transform_the_internet_into_a_place_of_trust"
       }
     ],
 
