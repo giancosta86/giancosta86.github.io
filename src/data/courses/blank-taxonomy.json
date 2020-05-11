@@ -128,6 +128,10 @@
 
       "Management": [],
 
+      "Meetings": [],
+
+      "Finance": [],
+
       "Quality Assurance": [],
 
       "Marketing": [],
@@ -136,20 +140,26 @@
 
       "Company Regulations": [],
 
-      "Safety": []
+      "Safety": [],
+
+      "Security": []
     }
   },
 
   "Humanism": {
-    "Psychology": [],
-
     "Personal Development": [],
 
     "Human Interactions": [],
 
+    "Listening": [],
+
+    "Speaking": [],
+
     "Diversity & Inclusion": [],
 
     "Leadership": [],
+
+    "Learning & teaching": [],
 
     "Personal branding": [],
 
