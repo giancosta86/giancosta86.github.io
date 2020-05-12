@@ -7,54 +7,47 @@
           "F#": [],
           "Platform": []
         },
-
         "Java": [],
-
         "Scala": [],
-
         "Groovy": [],
-
         "JavaScript": {
           "Vanilla JS": [],
-          "TypeScript": [],
+          "RxJS": [],
           "Electron": [],
           "Chrome": [],
           "Ionic": [],
           "Functional": [],
           "Transpilers & Shims": [],
-          "Webpack": []
+          "Webpack": [],
+          "WebAssembly": []
         },
-
+        "TypeScript": [],
         "Bash": [],
-
         "DSL": {
           "Regular Expressions": [],
           "Markdown": []
         },
-
         "Flutter": [],
-
+        "C": [],
         "Go": [],
-
+        "Python": [],
+        "R": [],
         "Ruby": [],
-
         "Microsoft Office": [],
-
         "Unity": []
       },
-
       "Software Design": {
         "Architecture": [],
         "Clean Code": [],
-        "Design Patterns": []
+        "Design Patterns": [],
+        "User Interface": []
       },
-
       "Cloud & Virtualization": {
         "Network Principles": [],
         "Amazon Web Services": [],
-        "Containers": []
+        "Docker": [],
+        "Kubernetes": []
       },
-
       "Web Frontend": {
         "Principles": [],
         "React": [],
@@ -62,7 +55,6 @@
         "jQuery": [],
         "CSS": []
       },
-
       "Web Backend": {
         "Generic": [],
         ".NET": [],
@@ -72,7 +64,6 @@
         "Ruby": [],
         "Python": []
       },
-
       "DevOps": {
         "Principles": [],
         "Build Automation": [],
@@ -80,7 +71,6 @@
         "Security": [],
         "Remote Control": []
       },
-
       "Testing": {
         "Principles": [],
         "Web Frontend": [],
@@ -88,99 +78,68 @@
         ".NET": [],
         "Tools": []
       },
-
-      "Data science": {
+      "Data Science": {
         "Principles": [],
-        "Big Data": []
+        "Big Data": [],
+        "Machine Learning": [],
+        "Libraries": []
       },
-
       "Relational DBMS": {
         "Principles": [],
         "Java Access": [],
         "SQL Server": []
       },
-
       "NoSQL": {
         "MongoDB": [],
         "Redis": []
       },
-
       "IDEs and tools": [],
-
       "Blockchain": [],
-
       "Parallelism": {
         ".NET": [],
+        "NodeJS": [],
         "Java": [],
         "JavaScript": [],
         "RabbitMQ": []
       }
     },
-
     "Robotics": [],
-
     "Ecology": [],
-
     "Astronomy": [],
-
     "Enterprise Processes": {
       "Human Resources": [],
-
       "Management": [],
-
       "Meetings": [],
-
       "Finance": [],
-
       "Quality Assurance": [],
-
       "Marketing": [],
-
       "Negotiation": [],
-
       "Company Regulations": [],
-
       "Safety": [],
-
       "Security": []
     }
   },
-
   "Humanism": {
     "Personal Development": [],
-
     "Human Interactions": [],
-
     "Listening": [],
-
     "Speaking": [],
-
     "Diversity & Inclusion": [],
-
     "Leadership": [],
-
     "Learning & teaching": [],
-
     "Personal branding": [],
-
     "Innovation": [],
-
     "Art": {
       "Visual": {
         "Computer Graphics": [],
-
         "Design": [],
-
         "Color Theory": []
       },
-
       "Music": []
     },
-
     "Languages": {
       "English": []
     },
-
     "Law": {
       "National Laws": [],
       "International Agreements": []

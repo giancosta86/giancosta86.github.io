@@ -10,21 +10,18 @@
               "minutes": 1564,
               "url": "https://www.packtpub.com/eu/application-development/microsoft-70-483-programming-c-net-video"
             },
-
             {
               "title": "C# Advanced Topics: Prepare for Technical Interviews",
               "completionDate": "2018-10-21",
               "minutes": 180,
               "url": "https://www.udemy.com/csharp-advanced/"
             },
-
             {
               "title": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
               "completionDate": "2018-10-20",
               "minutes": 300,
               "url": "https://www.udemy.com/csharp-tutorial-for-beginners/"
             },
-
             {
               "title": "Basics of LINQ with C# for Beginners",
               "completionDate": "2019-01-20",
@@ -32,7 +29,6 @@
               "url": "https://www.udemy.com/basics-of-linq-with-c-for-beginners/",
               "certificateUrl": "https://www.udemy.com/certificate/UC-7ZK5XJDC/"
             },
-
             {
               "title": "What is new in C# 6",
               "completionDate": "2019-01-19",
@@ -40,21 +36,18 @@
               "url": "https://www.udemy.com/what-is-new-in-csharp-6/",
               "certificateUrl": "https://www.udemy.com/certificate/UC-11RBESO0/"
             },
-
             {
               "title": "Complete C# Masterclass",
               "completionDate": "2018-10-20",
               "minutes": 1740,
               "url": "https://www.udemy.com/course/complete-csharp-masterclass/"
             },
-
             {
               "title": "Mastering LINQ with C# and .NET",
               "completionDate": "2018-10-28",
               "minutes": 210,
               "url": "https://www.udemy.com/linqlinq/"
             },
-
             {
               "title": "C# - Beginner to Advanced",
               "completionDate": "2019-01-19",
@@ -62,28 +55,24 @@
               "url": "https://www.udemy.com/csharp-beginner-to-advanced/",
               "certificateUrl": "https://www.udemy.com/certificate/UC-V0B4A74B/"
             },
-
             {
               "title": "C# 7.x Tips, Tricks and Techniques",
               "completionDate": "2019-03-26",
               "minutes": 92,
               "url": "https://www.packtpub.com/eu/application-development/c-7x-tips-tricks-and-techniques-video"
             },
-
             {
               "title": "C# 8 and .NET Core 3.0 New Features",
               "completionDate": "2019-04-12",
               "minutes": 92,
               "url": "https://www.packtpub.com/eu/application-development/c-8-and-net-core-30-new-features-video"
             },
-
             {
               "title": "C# Intermediate: Classes, Interfaces and OOP",
               "completionDate": "2018-10-21",
               "minutes": 330,
               "url": "https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/"
             },
-
             {
               "title": "Spice Up Your C# Code With Advanced Language Features",
               "completionDate": "2018-10-22",
@@ -91,7 +80,6 @@
               "url": "https://www.udemy.com/spice-up-your-csharp-code-with-advanced-language-features/"
             }
           ],
-
           "F#": [
             {
               "title": "Building F# Applications",
@@ -100,7 +88,6 @@
               "url": "https://www.packtpub.com/eu/application-development/building-f-applications-video"
             }
           ],
-
           "Platform": [
             {
               "title": "Modern .NET Ecosystem and .NET Core",
@@ -110,7 +97,6 @@
             }
           ]
         },
-
         "Java": [
           {
             "title": "Java Memory Management",
@@ -118,7 +104,6 @@
             "minutes": 210,
             "url": "https://www.udemy.com/java-memory-management/"
           },
-
           {
             "title": "Java 8 Interview Questions Preparation Course",
             "completionDate": "2019-01-20",
@@ -126,7 +111,6 @@
             "url": "https://www.udemy.com/java-8-interview-questions-preparation-course/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-5OD0S21M/"
           },
-
           {
             "title": "Java 8 Functional Programming: Lambda Expressions Quickly",
             "completionDate": "2019-01-20",
@@ -135,7 +119,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-DZVOBPP5/"
           }
         ],
-
         "Scala": [
           {
             "title": "Scala Beginner Programming Recipes",
@@ -143,14 +126,12 @@
             "minutes": 223,
             "url": "https://www.packtpub.com/eu/application-development/scala-beginner-programming-recipes-video"
           },
-
           {
             "title": "Scala Intermediate Recipes",
             "completionDate": "2019-01-15",
             "minutes": 244,
             "url": "https://www.packtpub.com/eu/application-development/scala-intermediate-recipes-video"
           },
-
           {
             "title": "Scala Expert Recipes",
             "completionDate": "2019-01-15",
@@ -158,7 +139,6 @@
             "url": "https://www.packtpub.com/eu/application-development/scala-expert-recipes-video"
           }
         ],
-
         "JavaScript": {
           "Vanilla JS": [
             {
@@ -167,21 +147,18 @@
               "minutes": 1290,
               "url": "https://www.udemy.com/modern-javascript-from-the-beginning/"
             },
-
             {
               "title": "The Full JavaScript & ES6 Tutorial - (including ES7 & React)",
               "completionDate": "2018-11-11",
               "minutes": 300,
               "url": "https://www.udemy.com/es6-in-depth/"
             },
-
             {
               "title": "Advanced JavaScript",
               "completionDate": "2018-10-24",
               "minutes": 210,
               "url": "https://www.udemy.com/javascript-advanced/"
             },
-
             {
               "title": "JavaScript Console Object Ultimate Guide",
               "completionDate": "2018-12-23",
@@ -190,16 +167,6 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-CMTPQ39N/"
             }
           ],
-
-          "TypeScript": [
-            {
-              "title": "Understanding TypeScript",
-              "completionDate": "2018-11-13",
-              "minutes": 420,
-              "url": "https://www.udemy.com/course/understanding-typescript/"
-            }
-          ],
-
           "Electron": [
             {
               "title": "Building Electron Applications",
@@ -207,7 +174,6 @@
               "minutes": 156,
               "url": "https://www.packtpub.com/eu/application-development/building-electron-applications-video"
             },
-
             {
               "title": "Distributing Electron Applications",
               "completionDate": "2018-12-23",
@@ -215,7 +181,6 @@
               "url": "https://www.packtpub.com/eu/web-development/distributing-electron-applications-video"
             }
           ],
-
           "Chrome": [
             {
               "title": "Chrome Extensions: Develop 5 Chrome extensions from scratch",
@@ -225,7 +190,6 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-XU9HHKHK/"
             }
           ],
-
           "Ionic": [
             {
               "title": "Create a CRUD Application with Ionic 3 and Firebase",
@@ -234,7 +198,6 @@
               "url": "https://www.udemy.com/create-a-crud-application-with-ionic-3-and-firebase/"
             }
           ],
-
           "Webpack": [
             {
               "title": "Learn Webpack 2 from scratch",
@@ -244,7 +207,14 @@
             }
           ]
         },
-
+        "TypeScript": [
+          {
+            "title": "Understanding TypeScript",
+            "completionDate": "2018-11-13",
+            "minutes": 420,
+            "url": "https://www.udemy.com/course/understanding-typescript/"
+          }
+        ],
         "Bash": [
           {
             "title": "Bash Scripting and Shell Programming (Linux Command Line)",
@@ -253,7 +223,6 @@
             "url": "https://www.udemy.com/bash-scripting/"
           }
         ],
-
         "DSL": {
           "Regular Expressions": [
             {
@@ -264,7 +233,6 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-GH3SD9UZ/"
             }
           ],
-
           "Markdown": [
             {
               "title": "Markdown Mastery: Simple yet Powerful Writing Format",
@@ -274,7 +242,6 @@
             }
           ]
         },
-
         "Go": [
           {
             "title": "Learning Go in 3 Hours",
@@ -283,7 +250,6 @@
             "url": "https://www.packtpub.com/eu/application-development/learn-go-3-hours-video"
           }
         ],
-
         "Ruby": [
           {
             "title": "Comprehensive Ruby Programming",
@@ -292,7 +258,6 @@
             "url": "https://www.packtpub.com/eu/application-development/comprehensive-ruby-programming-video"
           }
         ],
-
         "Unity": [
           {
             "title": "Introduction to Unity",
@@ -302,7 +267,6 @@
           }
         ]
       },
-
       "Software Design": {
         "Architecture": [
           {
@@ -311,7 +275,6 @@
             "minutes": 60,
             "url": "https://www.udemy.com/microservices-software-architecture-patterns-and-techniques/"
           },
-
           {
             "title": "Software Architecture for the Enterprise Architect",
             "completionDate": "2018-10-25",
@@ -319,7 +282,6 @@
             "url": "https://www.udemy.com/software-architecture-for-the-enterprise-architect/"
           }
         ],
-
         "Clean Code": [
           {
             "title": "C# Refactoring | Powerful code optimization",
@@ -328,7 +290,6 @@
             "url": "https://www.udemy.com/refactoring-csharp/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-AH3EI37C/"
           },
-
           {
             "title": "Master the Art of Writing Clean Code in C#",
             "completionDate": "2019-04-02",
@@ -337,7 +298,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-KMRJRCFN/"
           }
         ],
-
         "Design Patterns": [
           {
             "title": "Solid&Design Patterns in C#",
@@ -346,7 +306,6 @@
             "url": "https://www.udemy.com/solidanddesignpatternstutorial/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-FJHF990Z/"
           },
-
           {
             "title": "Design Patterns in C# and .NET",
             "completionDate": "2019-04-09",
@@ -356,7 +315,6 @@
           }
         ]
       },
-
       "Cloud & Virtualization": {
         "Network Principles": [
           {
@@ -365,7 +323,6 @@
             "minutes": 120,
             "url": "https://www.udemy.com/tcpip-the-complete-course/"
           },
-
           {
             "title": "TCP, HTTP and SPDY Deep Dive",
             "completionDate": "2018-12-24",
@@ -374,7 +331,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-UDR3E8LI/"
           }
         ],
-
         "Amazon Web Services": [
           {
             "title": "AWS Concepts",
@@ -383,7 +339,6 @@
             "url": "https://www.udemy.com/aws-concepts/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-30MACT58/"
           },
-
           {
             "title": "AWS Essentials",
             "completionDate": "2018-12-25",
@@ -392,7 +347,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-U411T69B/"
           }
         ],
-
         "Containers": [
           {
             "title": "Docker Mastery: The Complete Toolset From a Docker Captain",
@@ -400,14 +354,12 @@
             "minutes": 750,
             "url": "https://www.udemy.com/docker-mastery/"
           },
-
           {
             "title": "Kubernetes for the Absolute Beginners - Hands-on",
             "completionDate": "2018-09-09",
             "minutes": 330,
             "url": "https://www.udemy.com/course/learn-kubernetes/"
           },
-
           {
             "title": "Docker for ASP.NET Core MVC",
             "completionDate": "2019-04-30",
@@ -416,7 +368,6 @@
           }
         ]
       },
-
       "Web Frontend": {
         "Principles": [
           {
@@ -425,7 +376,6 @@
             "minutes": 360,
             "url": "https://www.udemy.com/progressive-web-apps/"
           },
-
           {
             "title": "React vs Angular vs Vue.js by Example",
             "completionDate": "2019-05-12",
@@ -434,7 +384,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-VBV5PG6K/"
           }
         ],
-
         "Angular": [
           {
             "title": "Angular 7 (formerly Angular 2) - The Complete Guide",
@@ -442,14 +391,12 @@
             "minutes": 2220,
             "url": "https://www.udemy.com/the-complete-guide-to-angular-2/"
           },
-
           {
             "title": "AngularJS Crash Course",
             "completionDate": "2018-07-14",
             "minutes": 120,
             "url": "https://www.udemy.com/angularjs-crash-course-for-beginners/"
           },
-
           {
             "title": "Learn and Understand AngularJS",
             "completionDate": "2018-05-19",
@@ -457,7 +404,6 @@
             "url": "https://www.udemy.com/learn-angularjs/"
           }
         ],
-
         "jQuery": [
           {
             "title": "Up and Running with jQuery",
@@ -465,7 +411,6 @@
             "minutes": 60
           }
         ],
-
         "CSS": [
           {
             "title": "The Complete Flexbox Tutorial: Learn CSS3 Flexbox in 2018",
@@ -473,7 +418,6 @@
             "minutes": 120,
             "url": "https://www.udemy.com/flexbox-tutorial/"
           },
-
           {
             "title": "Bootstrap 4 Quick Start: Code Modern Responsive Websites",
             "completionDate": "2019-01-02",
@@ -481,14 +425,12 @@
             "url": "https://www.udemy.com/bootstrap-4/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-BDTGA0XZ/"
           },
-
           {
             "title": "Bootstrap 4 Beginners: Code a Responsive Landing Page",
             "completionDate": "2018-11-14",
             "minutes": 210,
             "url": "https://www.udemy.com/bootstrap-4-beginners-code-a-responsive-landing-page/"
           },
-
           {
             "title": "Understanding Bootstrap Grids and Columns",
             "completionDate": "2019-01-02",
@@ -496,7 +438,6 @@
             "url": "https://www.udemy.com/understanding-bootstrap-grids-and-columns/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-NN3F318F/"
           },
-
           {
             "title": "CSS - MASTERING ANIMATIONS",
             "completionDate": "2018-12-16",
@@ -504,7 +445,6 @@
             "url": "https://www.udemy.com/css-mastering-animations/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-IZ7T7IZN/"
           },
-
           {
             "title": "Getting Started with LESS - Beginner Crash Course",
             "completionDate": "2018-05-19",
@@ -513,7 +453,6 @@
           }
         ]
       },
-
       "Web Backend": {
         "Generic": [
           {
@@ -523,7 +462,6 @@
             "url": "https://www.udemy.com/nginx-fundamentals/"
           }
         ],
-
         ".NET": [
           {
             "title": "The complete ASP.NET MVC Core 2.0 Course",
@@ -531,7 +469,6 @@
             "minutes": 420,
             "url": "https://www.udemy.com/the-complete-aspnet-mvc-core-20-course/"
           },
-
           {
             "title": "Quick Introduction to ASP.NET Core 2.2",
             "completionDate": "2019-04-14",
@@ -539,7 +476,6 @@
             "url": "https://www.udemy.com/asp-net-core/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-VP0JJSIO/"
           },
-
           {
             "title": "The Complete ASP.NET MVC 5 Course",
             "completionDate": "2018-10-27",
@@ -547,7 +483,6 @@
             "url": "https://www.udemy.com/the-complete-aspnet-mvc-5-course/"
           }
         ],
-
         "Java": [
           {
             "title": "The Complete Apache Tomcat Web Server Course",
@@ -556,7 +491,6 @@
             "url": "https://www.udemy.com/the-complete-apache-tomcat-web-server-course/"
           }
         ],
-
         "NodeJS": [
           {
             "title": "ExpressJS Fundamentals",
@@ -565,14 +499,12 @@
             "url": "https://www.udemy.com/expressjs-fundamentals/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-BI4NS89G/"
           },
-
           {
             "title": "Learn and Understand NodeJS",
             "completionDate": "2018-11-04",
             "minutes": 780,
             "url": "https://www.udemy.com/understand-nodejs/"
           },
-
           {
             "title": "Node.js in 7 Days",
             "completionDate": "2018-12-27",
@@ -580,7 +512,6 @@
             "url": "https://www.packtpub.com/eu/web-development/nodejs-7-days-video"
           }
         ],
-
         "Ruby": [
           {
             "title": "Jekyll: make fast, secure static sites and blogs with Jekyll",
@@ -589,7 +520,6 @@
             "url": "https://www.udemy.com/static-website-generator-fast-secure-sites-blogs-with-jekyll/"
           }
         ],
-
         "Python": [
           {
             "title": "Flask Tutorial Step by Step",
@@ -600,7 +530,6 @@
           }
         ]
       },
-
       "DevOps": {
         "Principles": [
           {
@@ -610,7 +539,6 @@
             "url": "https://www.packtpub.com/eu/virtualization-and-cloud/professional-devops-video"
           }
         ],
-
         "Build Automation": [
           {
             "title": "Jenkins Bootcamp: Fully Automate Builds Through Deployment",
@@ -618,34 +546,29 @@
             "minutes": 360,
             "url": "https://www.udemy.com/jenkins-continuous-integration-bootcamp/"
           },
-
           {
             "title": "npm - Mastering the basics",
             "completionDate": "2018-05-20",
             "minutes": 40,
             "url": "https://www.udemy.com/npm-mastering-the-basics/"
           },
-
           {
             "title": "Automate Web Development With Gulp JS",
             "completionDate": "2018-08-09",
             "minutes": 60
           },
-
           {
             "title": "Learn Grunt with Examples: Automate Your Front End Workflow",
             "completionDate": "2018-05-20",
             "minutes": 60,
             "url": "https://www.udemy.com/learn-grunt-automate-your-front-end-workflow/"
           },
-
           {
             "title": "Maven Crash Course",
             "completionDate": "2018-10-29",
             "minutes": 180,
             "url": "https://www.udemy.com/mavencrashcourse/"
           },
-
           {
             "title": "Understanding NPM - Node.js Package Manager",
             "completionDate": "2018-12-23",
@@ -653,7 +576,6 @@
             "url": "https://www.packtpub.com/eu/application-development/understanding-npm-nodejs-package-manager-video"
           }
         ],
-
         "Versioning": [
           {
             "title": "Git Complete: The definitive, step-by-step guide to Git",
@@ -663,7 +585,6 @@
           }
         ]
       },
-
       "Testing": {
         "Principles": [
           {
@@ -673,7 +594,6 @@
             "url": "https://www.udemy.com/introduction-to-software-testing-or-software-qa/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-DLLZ5MZ3/"
           },
-
           {
             "title": "Getting Started with Automation Testing",
             "completionDate": "2019-02-13",
@@ -681,7 +601,6 @@
             "url": "https://www.packtpub.com/eu/web-development/getting-started-automation-testing-video"
           }
         ],
-
         "Web Frontend": [
           {
             "title": "Getting Started With Test Automation Using Selenium",
@@ -690,7 +609,6 @@
             "url": "https://www.udemy.com/getting-started-with-test-automation-using-selenium/",
             "certificateUrl": "https://www.udemy.com/certificate/UC-1OG2AHWI/"
           },
-
           {
             "title": "Selenium Basics - Step by Step for Beginners",
             "completionDate": "2019-02-14",
@@ -699,7 +617,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-QJ9V6ABD/"
           }
         ],
-
         "Gherkin": [
           {
             "title": "BDD in C# - Using Specflow (Cucumber) to Develop a REST API and Automate Software Testing",
@@ -707,7 +624,6 @@
             "minutes": 99,
             "url": "https://www.packtpub.com/eu/application-development/bdd-c-using-specflow-cucumber-develop-rest-api-and-automate-software-testing"
           },
-
           {
             "title": "Cucumber with Selenium Java (Basic)",
             "completionDate": "2019-02-14",
@@ -716,7 +632,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-A3K1LQX6/"
           }
         ],
-
         ".NET": [
           {
             "title": "Beginners Guide to Unit Testing with NUnit and C#",
@@ -727,8 +642,7 @@
           }
         ]
       },
-
-      "Data science": {
+      "Data Science": {
         "Principles": [
           {
             "title": "The Data Science Course 2018: Complete Data Science Bootcamp",
@@ -737,7 +651,6 @@
             "url": "https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp/"
           }
         ],
-
         "Big Data": [
           {
             "title": "Scala and Spark for Big Data and Machine Learning",
@@ -745,7 +658,6 @@
             "minutes": 600,
             "url": "https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/"
           },
-
           {
             "title": "Learn Big Data: The Hadoop Ecosystem Masterclass",
             "completionDate": "2018-11-07",
@@ -754,7 +666,6 @@
           }
         ]
       },
-
       "Relational DBMS": {
         "Principles": [
           {
@@ -764,7 +675,6 @@
             "url": "https://www.udemy.com/the-complete-sql-bootcamp/"
           }
         ],
-
         "Java Access": [
           {
             "title": "Java Persistence: Hibernate and JPA Fundamentals",
@@ -772,7 +682,6 @@
             "minutes": 330,
             "url": "https://www.udemy.com/hibernate-and-jpa-fundamentals/"
           },
-
           {
             "title": "Java Database Connection: JDBC and MySQL",
             "completionDate": "2018-06-18",
@@ -780,7 +689,6 @@
             "url": "https://www.udemy.com/how-to-connect-java-jdbc-to-mysql/"
           }
         ],
-
         "SQL Server": [
           {
             "title": "An 18 Hour SQL / SQL Server 2014 / Visual Studio 2017 Course",
@@ -790,7 +698,6 @@
           }
         ]
       },
-
       "NoSQL": {
         "MongoDB": [
           {
@@ -800,7 +707,6 @@
             "url": "https://university.mongodb.com/courses/M001/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/3cd5c8c7-077c-4d8b-aea1-6620513d"
           },
-
           {
             "title": "M103: Basic Cluster Administration",
             "completionDate": "2019-01-31",
@@ -808,7 +714,6 @@
             "url": "https://university.mongodb.com/courses/M103/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/6d64e394-16a5-42c2-8c45-84d5aebb"
           },
-
           {
             "title": "M121: The MongoDB Aggregation Framework",
             "completionDate": "2019-01-31",
@@ -816,7 +721,6 @@
             "url": "https://university.mongodb.com/courses/M121/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/6a00ced1-8104-417f-9cf1-c0cc5e8f"
           },
-
           {
             "title": "M201: MongoDB Performance",
             "completionDate": "2019-01-31",
@@ -824,7 +728,6 @@
             "url": "https://university.mongodb.com/courses/M201/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/0d9a26cb-dfe0-4457-a924-1686050e"
           },
-
           {
             "title": "M220J: MongoDB for Java Developers",
             "completionDate": "2019-03-07",
@@ -832,7 +735,6 @@
             "url": "https://university.mongodb.com/courses/M220J/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/cea863a2-03f1-4508-9c35-f3d4d5e4"
           },
-
           {
             "title": "M220JS: MongoDB for JavaScript Developers",
             "completionDate": "2019-03-07",
@@ -840,7 +742,6 @@
             "url": "https://university.mongodb.com/courses/M220JS/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/c25269f0-3ffa-48b6-a855-d35c02f6"
           },
-
           {
             "title": "M220P: MongoDB for Python Developers",
             "completionDate": "2019-01-31",
@@ -848,7 +749,6 @@
             "url": "https://university.mongodb.com/courses/M220P/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/8ee76f3d-e7d8-4aff-a581-54fc27c6"
           },
-
           {
             "title": "M310: MongoDB Security",
             "completionDate": "2019-01-31",
@@ -856,7 +756,6 @@
             "url": "https://university.mongodb.com/courses/M310/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/4f808855-2d69-490f-8434-b91a07a9"
           },
-
           {
             "title": "M312: Diagnostics and Debugging",
             "completionDate": "2019-01-31",
@@ -864,7 +763,6 @@
             "url": "https://university.mongodb.com/courses/M312/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/21be4f40-4afd-4d98-ac5b-3d249026"
           },
-
           {
             "title": "M040: New Features and Tools in MongoDB 4.0",
             "completionDate": "2019-02-07",
@@ -872,7 +770,6 @@
             "url": "https://university.mongodb.com/courses/M040/about",
             "certificateUrl": "https://university.mongodb.com/course_completion/0ddb8a7a-6cd0-4332-8ec2-39b2421e"
           },
-
           {
             "title": "MongoDB - The Complete Developer's Guide",
             "completionDate": "2018-12-31",
@@ -880,7 +777,6 @@
             "url": "https://www.packtpub.com/eu/web-development/mongodb-complete-developers-guide-video"
           }
         ],
-
         "Redis": [
           {
             "title": "Learn Redis from Scratch",
@@ -890,7 +786,6 @@
           }
         ]
       },
-
       "IDEs and tools": [
         {
           "title": "IntelliJ IDEA Tricks to Boost Productivity for Java Devs",
@@ -898,7 +793,6 @@
           "minutes": 90,
           "url": "https://www.udemy.com/intellij-idea-secrets-double-your-coding-speed-in-2-hours/"
         },
-
         {
           "title": "EMMET Faster HTML & CSS workflow - Best Tool For Developers",
           "completionDate": "2018-12-16",
@@ -906,7 +800,6 @@
           "url": "https://www.udemy.com/emmet-start-coding-html-and-css-fast-and-easy/",
           "certificateUrl": "https://www.udemy.com/certificate/UC-AU8YXPRA/"
         },
-
         {
           "title": "Beginner VS Code",
           "completionDate": "2019-04-16",
@@ -914,14 +807,12 @@
           "url": "https://www.udemy.com/beginner-vs-code/",
           "certificateUrl": "https://www.udemy.com/certificate/UC-LA5A3QXG/"
         },
-
         {
           "title": "Exploring Visual Studio 2017",
           "completionDate": "2019-03-28",
           "minutes": 81,
           "url": "https://www.packtpub.com/eu/application-development/exploring-visual-studio-2017-video"
         },
-
         {
           "title": "Devtools Pro: The Basics of Chrome Developer Tools",
           "completionDate": "2018-12-26",
@@ -930,7 +821,6 @@
           "certificateUrl": "https://www.udemy.com/certificate/UC-QH0H316C/"
         }
       ],
-
       "Blockchain": [
         {
           "title": "Blockchain and Bitcoin Fundamentals",
@@ -938,14 +828,12 @@
           "minutes": 180,
           "url": "https://www.udemy.com/blockchain-and-bitcoin-fundamentals/"
         },
-
         {
           "title": "Blockchain Advanced Level: Uses Beyond Bitcoin",
           "completionDate": "2018-11-14",
           "minutes": 90,
           "url": "https://www.udemy.com/blockchain-advanced-uses-beyond-bitcoin-2018/"
         },
-
         {
           "title": "Learn Python by Building a Blockchain and Cryptocurrency",
           "completionDate": "2019-02-11",
@@ -953,7 +841,6 @@
           "url": "https://www.packtpub.com/eu/application-development/learn-python-building-blockchain-and-cryptocurrency-video"
         }
       ],
-
       "Parallelism": {
         ".NET": [
           {
@@ -963,7 +850,6 @@
             "url": "https://www.packtpub.com/eu/application-development/asynchronous-programming-net-core-video"
           }
         ],
-
         "Java": [
           {
             "title": "Java Multithreading",
@@ -973,7 +859,6 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-QQC95NXY/"
           }
         ],
-
         "JavaScript": [
           {
             "title": "Asynchronous JavaScript",
@@ -982,7 +867,6 @@
             "url": "https://www.udemy.com/asynchronous-javascript/"
           }
         ],
-
         "RabbitMQ": [
           {
             "title": "Learn RabbitMQ: Asynchronous Messaging with Java and Spring",
@@ -993,7 +877,6 @@
         ]
       }
     },
-
     "Enterprise Processes": {
       "Management": [
         {
@@ -1004,7 +887,6 @@
           "certificateUrl": "https://www.udemy.com/certificate/UC-XKA6VOGH/"
         }
       ],
-
       "Quality Assurance": [
         {
           "title": "Six Sigma White Belt",
@@ -1015,7 +897,6 @@
       ]
     }
   },
-
   "Humanism": {
     "Personal Development": [
       {
@@ -1025,7 +906,6 @@
         "url": "https://www.udemy.com/1000-watt-presence/"
       }
     ],
-
     "Human Interactions": [
       {
         "title": "Six steps to leading productive meetings",
@@ -1033,55 +913,47 @@
         "minutes": 30,
         "url": "https://www.udemy.com/leading-productive-meetings/"
       },
-
       {
         "title": "Powerful speaking",
         "completionDate": "2018-11-09",
         "minutes": 90,
         "url": "https://www.udemy.com/powerful-speaking/"
       },
-
       {
         "title": "Soft Skills: The 11 Essential Career Soft Skills",
         "completionDate": "2018-09-12",
         "minutes": 60,
         "url": "https://www.udemy.com/soft-skills-the-11-essential-career-soft-skills/"
       },
-
       {
         "title": "Networking for Introverts: Overcoming Nervousness",
         "completionDate": "2018-07-05",
         "minutes": 60
       },
-
       {
         "title": "Assert Yourself - Master the benefits of assertive behaviour",
         "completionDate": "2018-10-25",
         "minutes": 32,
         "url": "https://www.udemy.com/assert-yourself/"
       },
-
       {
         "title": "Acumen Presents: Chris Anderson on Public Speaking",
         "completionDate": "2018-05-30",
         "minutes": 60,
         "url": "https://www.udemy.com/chris-anderson-on-public-speaking/"
       },
-
       {
         "title": "Communication Fundamentals: How To Communicate Better",
         "completionDate": "2018-09-13",
         "minutes": 90,
         "url": "https://www.udemy.com/communication-fundamentals-how-to-communicate-better/"
       },
-
       {
         "title": "The Secrets of Body Language",
         "completionDate": "2018-07-08",
         "minutes": 120,
         "url": "https://www.udemy.com/the-secrets-of-body-language-webinar/"
       },
-
       {
         "title": "Listening Skills - The Ultimate Workplace Soft Skills",
         "completionDate": "2018-11-04",
@@ -1089,7 +961,6 @@
         "url": "https://www.udemy.com/listening-skills-the-ultimate-workplace-soft-skills/"
       }
     ],
-
     "Diversity & Inclusion": [
       {
         "title": "Navigate Diversity",
@@ -1098,7 +969,6 @@
         "url": "https://www.udemy.com/navigate-diversity/"
       }
     ],
-
     "Innovation": [
       {
         "title": "Acumen Presents: Adam Grant on Developing Original Ideas",
@@ -1107,7 +977,6 @@
         "url": "https://www.udemy.com/acumen-presents-adam-grant-on-developing-original-ideas/"
       }
     ],
-
     "Art": {
       "Visual": {
         "Computer Graphics": [
@@ -1121,7 +990,6 @@
         ]
       }
     },
-
     "Law": {
       "National Laws": [
         {
@@ -1130,7 +998,6 @@
           "minutes": 180
         }
       ],
-
       "International Agreements": [
         {
           "title": "The EU GDPR - An Introduction",

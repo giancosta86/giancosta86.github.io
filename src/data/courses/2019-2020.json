@@ -29,10 +29,64 @@
               "completionDate": "2019-09-02"
             },
             {
-              "title": "Beginning C# Collections",
-              "minutes": 206,
-              "url": "https://www.pluralsight.com/courses/csharp-collections-beginning",
-              "completionDate": "2019-09-03"
+              "title": "Error Handling in C# with Exceptions",
+              "minutes": 97,
+              "url": "https://www.pluralsight.com/courses/c-sharp-error-handling-exceptions",
+              "completionDate": "2019-12-16"
+            },
+            {
+              "title": "C# Extension Methods",
+              "minutes": 87,
+              "url": "https://www.pluralsight.com/courses/c-sharp-extension-methods",
+              "completionDate": "2019-12-13"
+            },
+            {
+              "title": "C# Events, Delegates and Lambdas",
+              "minutes": 192,
+              "url": "https://www.pluralsight.com/courses/csharp-events-delegates",
+              "completionDate": "2019-12-29"
+            },
+            {
+              "title": "Object-Oriented Programming Fundamentals in C#",
+              "minutes": 207,
+              "url": "https://www.pluralsight.com/courses/object-oriented-programming-fundamentals-csharp",
+              "completionDate": "2019-12-28"
+            },
+            {
+              "title": "Working with Nulls in C#",
+              "minutes": 129,
+              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
+              "completionDate": "2019-12-27"
+            },
+            {
+              "title": "Exploring C# 6 with Jon Skeet",
+              "minutes": 202,
+              "url": "https://www.pluralsight.com/courses/csharp-with-jon-skeet",
+              "completionDate": "2020-01-06"
+            },
+            {
+              "title": "Play by Play: Visual Studio 2017 and C# 7",
+              "minutes": 154,
+              "url": "https://www.pluralsight.com/courses/play-by-play-visual-studio-2017-csharp-7",
+              "completionDate": "2020-01-08"
+            },
+            {
+              "title": "C# Tips and Traps",
+              "minutes": 238,
+              "url": "https://www.pluralsight.com/courses/csharp-tips-traps",
+              "completionDate": "2020-01-09"
+            },
+            {
+              "title": "C# Tips and Traps 2",
+              "minutes": 163,
+              "url": "https://www.pluralsight.com/courses/csharp-tips-traps-part2",
+              "completionDate": "2020-01-10"
+            },
+            {
+              "title": "What’s New in C# 8.0 and .NET Core 3.0",
+              "minutes": 108,
+              "url": "https://www.pluralsight.com/courses/csharp-8-dotnet-core-3-whats-new",
+              "completionDate": "2020-01-14"
             }
           ],
           "Platform": [
@@ -47,6 +101,30 @@
               "completionDate": "2019-07-19",
               "minutes": 100,
               "url": "https://www.pluralsight.com/courses/topshelf-getting-started-building-windows-services"
+            },
+            {
+              "title": "Beginning C# Collections",
+              "minutes": 206,
+              "url": "https://www.pluralsight.com/courses/csharp-collections-beginning",
+              "completionDate": "2019-09-03"
+            },
+            {
+              "title": "C# Collections Fundamentals",
+              "minutes": 356,
+              "url": "https://www.pluralsight.com/courses/csharp-collections",
+              "completionDate": "2019-12-30"
+            },
+            {
+              "title": "MSIL for the C# Developer",
+              "minutes": 155,
+              "url": "https://www.pluralsight.com/courses/msil-csharp-developer",
+              "completionDate": "2020-01-26"
+            },
+            {
+              "title": ".NET Regular Expressions",
+              "minutes": 209,
+              "url": "https://www.pluralsight.com/courses/net-regular-expressions",
+              "completionDate": "2019-12-11"
             }
           ]
         },
@@ -65,24 +143,18 @@
           }
         ],
         "JavaScript": {
-          "TypeScript": [
+          "RxJS": [
             {
-              "title": "TypeScript: Getting Started",
-              "minutes": 181,
-              "url": "https://www.pluralsight.com/courses/getting-started-typescript",
-              "completionDate": "2019-09-30"
+              "title": "RxJS: The Big Picture",
+              "minutes": 62,
+              "url": "https://www.pluralsight.com/courses/rxjs-big-picture",
+              "completionDate": "2020-05-03"
             },
             {
-              "title": "TypeScript In-depth",
-              "minutes": 281,
-              "url": "https://www.pluralsight.com/courses/typescript-in-depth",
-              "completionDate": "2019-10-03"
-            },
-            {
-              "title": "Advanced TypeScript",
-              "minutes": 175,
-              "url": "https://www.pluralsight.com/courses/typescript-advanced",
-              "completionDate": "2019-10-05"
+              "title": "RxJS: Getting Started",
+              "minutes": 184,
+              "url": "https://www.pluralsight.com/courses/rxjs-getting-started",
+              "completionDate": "2020-05-04"
             }
           ],
           "Chrome": [
@@ -121,9 +193,97 @@
               "minutes": 296,
               "url": "https://www.pluralsight.com/courses/transpiling-bundling-javascript-webpack",
               "completionDate": "2019-10-12"
+            },
+            {
+              "title": "Learning webpack 4",
+              "minutes": 42,
+              "url": "https://www.linkedin.com/learning/learning-webpack-4-2",
+              "completionDate": "2020-03-13"
+            }
+          ],
+          "WebAssembly": [
+            {
+              "title": "WebAssembly: The Big Picture",
+              "minutes": 42,
+              "url": "https://www.pluralsight.com/courses/web-assembly-big-picture",
+              "completionDate": "2020-04-17"
             }
           ]
         },
+        "TypeScript": [
+          {
+            "title": "TypeScript: The Big Picture",
+            "minutes": 45,
+            "url": "https://www.pluralsight.com/courses/typescript-big-picture",
+            "completionDate": "2019-12-19"
+          },
+          {
+            "title": "TypeScript: Getting Started",
+            "minutes": 181,
+            "url": "https://www.pluralsight.com/courses/getting-started-typescript",
+            "completionDate": "2019-09-30"
+          },
+          {
+            "title": "TypeScript In-depth",
+            "minutes": 281,
+            "url": "https://www.pluralsight.com/courses/typescript-in-depth",
+            "completionDate": "2019-10-03"
+          },
+          {
+            "title": "Advanced TypeScript",
+            "minutes": 175,
+            "url": "https://www.pluralsight.com/courses/typescript-advanced",
+            "completionDate": "2019-10-05"
+          },
+          {
+            "title": "Creating and Using TypeScript Decorators",
+            "minutes": 74,
+            "url": "https://www.pluralsight.com/courses/creating-using-typescript-decorators",
+            "completionDate": "2019-12-20"
+          },
+          {
+            "title": "Configuring, Compiling, and Debugging TypeScript Projects",
+            "minutes": 128,
+            "url": "https://www.pluralsight.com/courses/typescript-projects-configuring-compiling-debugging",
+            "completionDate": "2019-12-26"
+          },
+          {
+            "title": "Using TypeScript Modules",
+            "minutes": 85,
+            "url": "https://www.pluralsight.com/courses/typescript-modules",
+            "completionDate": "2019-12-26"
+          },
+          {
+            "title": "Creating Asynchronous TypeScript Code",
+            "minutes": 111,
+            "url": "https://www.pluralsight.com/courses/typescript-asynchronous-code",
+            "completionDate": "2019-12-25"
+          },
+          {
+            "title": "Using Specialized Types and Language Features in TypeScript",
+            "minutes": 93,
+            "url": "https://www.pluralsight.com/courses/typescript-specialized-types-language-features",
+            "completionDate": "2019-12-24"
+          },
+          {
+            "title": "Creating Object-oriented TypeScript Code",
+            "minutes": 131,
+            "url": "https://www.pluralsight.com/courses/typescript-creating-object-oriented-code",
+            "completionDate": "2019-12-23"
+          },
+          {
+            "title": "Creating and Using Generics in TypeScript",
+            "minutes": 49,
+            "url": "https://www.pluralsight.com/courses/typescript-generics-creating-using",
+            "completionDate": "2019-11-17"
+          },
+          {
+            "title": "Getting the Most from the TypeScript Compiler",
+            "minutes": 123,
+            "url": "https://www.pluralsight.com/courses/typescript-compiler",
+            "completionDate": "2020-04-07"
+          }
+        ],
         "Flutter": [
           {
             "title": "Flutter: The Big Picture",
@@ -146,6 +306,84 @@
             "certificateUrl": "https://www.udemy.com/certificate/UC-99IY0RTE/"
           }
         ],
+        "C": [
+          {
+            "title": "C Programming Language Fundamentals",
+            "minutes": 86,
+            "url": "https://www.pluralsight.com/courses/c-lang-fundamentals",
+            "completionDate": "2019-11-16"
+          },
+          {
+            "title": "The C Programming Language in Action",
+            "minutes": 253,
+            "url": "https://www.pluralsight.com/courses/c-programming-language-in-action",
+            "completionDate": "2019-11-16"
+          }
+        ],
+        "Python": [
+          {
+            "title": "Python: The Big Picture",
+            "minutes": 65,
+            "url": "https://www.pluralsight.com/courses/python-big-picture",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Managing Python Packages and Virtual Environments",
+            "minutes": 84,
+            "url": "https://www.pluralsight.com/courses/managing-python-packages-virtual-environments",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Python Best Practices for Code Quality",
+            "minutes": 71,
+            "url": "https://www.pluralsight.com/courses/python-best-practices-code-quality",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Core Python: Getting Started",
+            "minutes": 246,
+            "url": "https://www.pluralsight.com/courses/getting-started-python-core",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Python – Beyond the Basics",
+            "minutes": 443,
+            "url": "https://www.pluralsight.com/courses/python-beyond-basics",
+            "completionDate": "2020-02-19"
+          },
+          {
+            "title": "Advanced Python",
+            "minutes": 233,
+            "url": "https://www.pluralsight.com/courses/advanced-python",
+            "completionDate": "2020-02-21"
+          },
+          {
+            "title": "Core Python: Organizing Larger Programs",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/core-python-organizing-larger-programs",
+            "completionDate": "2020-03-02"
+          },
+          {
+            "title": "Core Python: Functions and Functional Programming",
+            "minutes": 78,
+            "url": "https://www.pluralsight.com/courses/core-python-functions-functional-programming",
+            "completionDate": "2020-03-04"
+          },
+          {
+            "title": "Core Python: Numeric Types, Dates, and Times",
+            "minutes": 56,
+            "url": "https://www.pluralsight.com/courses/core-python-numeric-types-dates-times",
+            "completionDate": "2020-03-16"
+          }
+        ],
+        "R": [
+          {
+            "title": "Working with Data Types in R",
+            "minutes": 90,
+            "url": "https://www.pluralsight.com/courses/working-data-types-r",
+            "completionDate": "2020-04-01"
+          }
+        ],
         "Microsoft Office": [
           {
             "title": "Start Using Excel",
@@ -166,6 +404,14 @@
             "completionDate": "2019-05-24",
             "minutes": 141,
             "url": "https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles"
+          }
+        ],
+        "User Interface": [
+          {
+            "title": "UX Fundamentals",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/ux-fundamentals-2426",
+            "completionDate": "2019-11-20"
           }
         ]
       },
@@ -205,7 +451,7 @@
             "completionDate": "2019-10-15"
           }
         ],
-        "Containers": [
+        "Docker": [
           {
             "title": "Docker and Kubernetes: The Big Picture",
             "minutes": 107,
@@ -217,6 +463,32 @@
             "minutes": 353,
             "url": "https://www.pluralsight.com/courses/docker-web-development",
             "completionDate": "2019-11-13"
+          },
+          {
+            "title": "Docker Deep Dive",
+            "minutes": 276,
+            "url": "https://www.pluralsight.com/courses/docker-deep-dive-update",
+            "completionDate": "2019-11-17"
+          },
+          {
+            "title": "Docker Networking",
+            "minutes": 110,
+            "url": "https://www.pluralsight.com/courses/docker-networking",
+            "completionDate": "2019-11-18"
+          }
+        ],
+        "Kubernetes": [
+          {
+            "title": "Getting Started with Kubernetes",
+            "minutes": 173,
+            "url": "https://www.pluralsight.com/courses/getting-started-kubernetes",
+            "completionDate": "2019-11-25"
+          },
+          {
+            "title": "Kubernetes Installation and Configuration Fundamentals",
+            "minutes": 158,
+            "url": "https://www.pluralsight.com/courses/kubernetes-installation-configuration-fundamentals",
+            "completionDate": "2019-11-30"
           }
         ]
       },
@@ -243,6 +515,12 @@
         ],
         "CSS": [
           {
+            "title": "CSS Essential Training",
+            "minutes": 268,
+            "url": "https://www.linkedin.com/learning/css-essential-training-3",
+            "completionDate": "2020-03-16"
+          },
+          {
             "title": "Building Websites with Bulma",
             "completionDate": "2019-07-11",
             "minutes": 102,
@@ -257,6 +535,20 @@
         ]
       },
       "Web Backend": {
+        ".NET": [
+          {
+            "title": "Fault Tolerant Web Service Requests with Polly",
+            "minutes": 134,
+            "url": "https://www.pluralsight.com/courses/polly-fault-tolerant-web-service-requests",
+            "completionDate": "2019-12-18"
+          },
+          {
+            "title": "Better User Experiences and More Robust Applications with Polly",
+            "minutes": 75,
+            "url": "https://www.pluralsight.com/courses/polly-user-experiences-robust-applications",
+            "completionDate": "2019-12-17"
+          }
+        ],
         "NodeJS": [
           {
             "title": "Node.js: The Big Picture",
@@ -287,6 +579,18 @@
             "completionDate": "2019-06-20",
             "minutes": 130,
             "url": "https://www.pluralsight.com/courses/graphql-scalable-apis"
+          },
+          {
+            "title": "RESTful Web Services with Node.js and Express",
+            "minutes": 123,
+            "url": "https://www.pluralsight.com/courses/node-js-express-rest-web-services-update",
+            "completionDate": "2020-01-30"
+          },
+          {
+            "title": "Practical Cryptography in Node.js",
+            "minutes": 83,
+            "url": "https://www.pluralsight.com/courses/practical-cryptography-node-js",
+            "completionDate": "2020-01-27"
           }
         ]
       },
@@ -315,6 +619,18 @@
             "minutes": 145,
             "url": "https://www.pluralsight.com/courses/maven-fundamentals",
             "completionDate": "2019-08-13"
+          },
+          {
+            "title": "Learning GitHub Actions (2019)",
+            "minutes": 97,
+            "url": "https://www.linkedin.com/learning/learning-github-actions-2019",
+            "completionDate": "2020-03-13"
+          },
+          {
+            "title": "Building Custom GitHub Actions",
+            "minutes": 131,
+            "url": "https://www.pluralsight.com/courses/building-custom-github-actions",
+            "completionDate": "2020-03-15"
           }
         ],
         "Versioning": [
@@ -361,6 +677,14 @@
         ]
       },
       "Testing": {
+        "Principles": [
+          {
+            "title": "Testing Automation: The Big Picture",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/testing-automation-big-picture",
+            "completionDate": "2019-12-18"
+          }
+        ],
         "Web Frontend": [
           {
             "title": "Automated Business Readable Web Tests with Selenium and SpecFlow",
@@ -389,6 +713,115 @@
             "completionDate": "2019-06-01",
             "minutes": 40,
             "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests"
+          }
+        ]
+      },
+      "Data Science": {
+        "Principles": [
+          {
+            "title": "Data Science: The Big Picture",
+            "minutes": 69,
+            "url": "https://www.pluralsight.com/courses/data-science-big-picture",
+            "completionDate": "2020-01-30"
+          },
+          {
+            "title": "Quantum Computing: The Big Picture",
+            "minutes": 30,
+            "url": "https://www.pluralsight.com/courses/quantum-computing-big-picture",
+            "completionDate": "2020-02-19"
+          }
+        ],
+        "Big Data": [],
+        "Machine Learning": [
+          {
+            "title": "Understanding Machine Learning with R",
+            "minutes": 85,
+            "url": "https://www.pluralsight.com/courses/r-understanding-machine-learning",
+            "completionDate": "2020-04-03"
+          },
+          {
+            "title": "Understanding Machine Learning with Python",
+            "minutes": 114,
+            "url": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
+            "completionDate": "2020-04-04"
+          },
+          {
+            "title": "Machine Learning for Business Professionals",
+            "minutes": 324,
+            "url": "https://www.pluralsight.com/courses/machine-learning-business-professionals",
+            "completionDate": "2020-04-09"
+          },
+          {
+            "title": "How Google Does Machine Learning",
+            "minutes": 200,
+            "url": "https://www.pluralsight.com/courses/how-google-does-machine-learning",
+            "completionDate": "2020-04-10"
+          },
+          {
+            "title": "Launching into Machine Learning",
+            "minutes": 199,
+            "url": "https://www.pluralsight.com/courses/launching-machine-learning",
+            "completionDate": "2020-04-11"
+          },
+          {
+            "title": "Understanding Machine Learning",
+            "minutes": 43,
+            "url": "https://www.pluralsight.com/courses/understanding-machine-learning",
+            "completionDate": "2020-04-12"
+          },
+          {
+            "title": "Feature Engineering",
+            "minutes": 247,
+            "url": "https://www.pluralsight.com/courses/feature-engineering",
+            "completionDate": "2020-04-17"
+          },
+          {
+            "title": "The Art and Science of ML",
+            "minutes": 210,
+            "url": "https://www.pluralsight.com/courses/art-science-ml",
+            "completionDate": "2020-05-02"
+          }
+        ],
+        "Libraries": [
+          {
+            "title": "Introduction to TensorFlow",
+            "minutes": 180,
+            "url": "https://www.pluralsight.com/courses/introduction-tensorflow",
+            "completionDate": "2020-04-12"
+          },
+          {
+            "title": "Learning TensorFlow with JavaScript",
+            "minutes": 57,
+            "url": "https://www.linkedin.com/learning/learning-tensorflow-with-javascript",
+            "completionDate": "2020-03-15"
+          },
+          {
+            "title": "Pandas Fundamentals",
+            "minutes": 81,
+            "url": "https://www.pluralsight.com/courses/pandas-fundamentals",
+            "completionDate": "2020-04-17"
+          },
+          {
+            "title": "Data Wrangling with Pandas for Machine Learning Engineers",
+            "minutes": 61,
+            "url": "https://www.pluralsight.com/courses/pandas-data-wrangling-machine-learning-engineers",
+            "completionDate": "2020-05-09"
+          },
+          {
+            "title": "Working with Multidimensional Data Using NumPy",
+            "minutes": 104,
+            "url": "https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data",
+            "completionDate": "2020-05-07"
+          }
+        ]
+      },
+      "Relational DBMS": {
+        "Principles": [
+          {
+            "title": "Introduction to SQL",
+            "minutes": 182,
+            "url": "https://www.pluralsight.com/courses/introduction-to-sql",
+            "completionDate": "2020-04-04"
           }
         ]
       },
@@ -423,6 +856,14 @@
           "completionDate": "2020-04-05"
         }
       ],
+      "Blockchain": [
+        {
+          "title": "Blockchain Fundamentals",
+          "minutes": 140,
+          "url": "https://www.pluralsight.com/courses/blockchain-fundamentals",
+          "completionDate": "2020-05-03"
+        }
+      ],
       "Parallelism": {
         ".NET": [
           {
@@ -430,6 +871,32 @@
             "minutes": 142,
             "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
             "completionDate": "2019-09-10"
+          },
+          {
+            "title": "Getting Started with Asynchronous Programming in .NET",
+            "minutes": 156,
+            "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+            "completionDate": "2020-01-12"
+          },
+          {
+            "title": "C# Concurrent Collections",
+            "minutes": 212,
+            "url": "https://www.pluralsight.com/courses/csharp-concurrent-collections",
+            "completionDate": "2020-01-05"
+          },
+          {
+            "title": "Getting Started with Asynchronous Programming in .NET",
+            "minutes": 156,
+            "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+            "completionDate": "2020-01-12"
+          }
+        ],
+        "NodeJS": [
+          {
+            "title": "Async Patterns in Node.js",
+            "minutes": 87,
+            "url": "https://www.pluralsight.com/courses/nodejs-async-patterns",
+            "completionDate": "2020-03-02"
           }
         ]
       }
