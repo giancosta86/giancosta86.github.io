@@ -87,6 +87,11 @@
               "minutes": 108,
               "url": "https://www.pluralsight.com/courses/csharp-8-dotnet-core-3-whats-new",
               "completionDate": "2020-01-14"
+            },
+            {
+              "title": "C# 8.0 Pocket Reference",
+              "minutes": 240,
+              "url": "http://shop.oreilly.com/product/0636920251958.do"
             }
           ],
           "Platform": [
@@ -1919,6 +1924,11 @@
         "title": "Feminism: A Very Short Introduction",
         "minutes": 210,
         "url": "https://global.oup.com/academic/product/feminism-a-very-short-introduction-9780192805102"
+      },
+      {
+        "title": "Contre la pensée unique",
+        "minutes": 300,
+        "url": "https://www.odilejacob.fr/catalogue/sciences-humaines/linguistique-psycholinguistique/contre-la-pensee-unique_9782738125637.php"
       }
     ],
     "Leadership": [
@@ -2226,6 +2236,11 @@
           "title": "Victor Hugo en un clin d'oeil",
           "minutes": 300,
           "url": "https://books.google.it/books?id=pfFGDwAAQBAJ"
+        },
+        {
+          "title": "Le Cid",
+          "minutes": 120,
+          "url": "http://www.folio-lesite.fr/Catalogue/Folio/Folio-classique/Prescriptions/Le-Cid"
         }
       ]
     },
@@ -2315,6 +2330,11 @@
           "title": "General introduction to D.Lgs. 81/2008 (Health & Safety)",
           "completionDate": "2019-04-08",
           "minutes": 240
+        },
+        {
+          "title": "Il nuovo sistema Diritto - Diritto Civile",
+          "minutes": 600,
+          "url": "https://www.pearson.it/opera/paramond/0-5980-il_nuovo_sistema_diritto_-_secondo_biennio_e_quinto_anno"
         }
       ],
       "International Agreements": [
