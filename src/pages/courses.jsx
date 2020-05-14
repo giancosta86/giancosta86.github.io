@@ -6,9 +6,9 @@ import loader from "./loader.gif"
 
 export default () => {
   return (
-    <Page title="Online courses" bodyClass="courses">
+    <Page title="Courses and books" bodyClass="courses">
       <div className="d-flex flex-column justify-content-center min-height-100">
-        <h1>Online courses</h1>
+        <h1>Courses and books</h1>
 
         <CourseReport
           loader={
