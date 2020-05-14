@@ -665,6 +665,12 @@
             "minutes": 144,
             "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction",
             "completionDate": "2019-11-03"
+          },
+          {
+            "title": "In the war for information, will quantum computers defeat cryptographers?",
+            "completionDate": "2019-11-20",
+            "minutes": 16,
+            "url": "https://www.ted.com/talks/craig_costello_in_the_war_for_information_will_quantum_computers_defeat_cryptographers"
           }
         ],
         "Remote Control": [
@@ -907,6 +913,18 @@
         "completionDate": "2019-08-11",
         "minutes": 12,
         "url": "https://www.ted.com/talks/jamie_paik_origami_robots_that_reshape_and_transform_themselves"
+      },
+      {
+        "title": "Tiny robots with giant potential",
+        "completionDate": "2020-02-12",
+        "minutes": 13,
+        "url": "https://www.ted.com/talks/paul_mceuen_and_marc_miskin_tiny_robots_with_giant_potential"
+      },
+      {
+        "title": "Why I draw with robots",
+        "completionDate": "2019-12-01",
+        "minutes": 8,
+        "url": "https://www.ted.com/talks/sougwen_chung_why_i_draw_with_robots"
       }
     ],
     "Ecology": [
@@ -921,7 +939,31 @@
         "completionDate": "2019-09-06",
         "minutes": 14,
         "url": "https://www.ted.com/talks/kelly_wanser_emergency_medicine_for_our_climate_fever"
-      }
+      },
+      {
+        "title": "A robot that eats pollution",
+        "completionDate": "2019-11-19",
+        "minutes": 14,
+        "url": "https://www.ted.com/talks/jonathan_rossiter_a_robot_that_eats_pollution"
+      },
+      {
+        "title": "A radical plan to end plastic waste",
+        "completionDate": "2019-11-18",
+        "minutes": 15,
+        "url": "https://www.ted.com/talks/andrew_forrest_a_radical_plan_to_end_plastic_waste"
+      },
+      {
+        "title": "Buildings that blend nature and city",
+        "completionDate": "2020-12-25",
+        "minutes": 12,
+        "url": "https://www.ted.com/talks/jeanne_gang_buildings_that_blend_nature_and_city"
+      },
+      {
+        "title": "The next software revolution: programming biological cells",
+        "completionDate": "2020-01-08",
+        "minutes": 15,
+        "url": "https://www.ted.com/talks/sara_jane_dunn_the_next_software_revolution_programming_biological_cells"
+      },
     ],
     "Astronomy": [
       {
@@ -947,6 +989,24 @@
         "completionDate": "2019-09-22",
         "minutes": 16,
         "url": "https://www.ted.com/talks/patricia_burchat_leads_a_search_for_dark_energy"
+      },
+      {
+        "title": "The search for dark matter - and what we've found so far",
+        "completionDate": "2020-01-24",
+        "minutes": 16,
+        "url": "https://www.ted.com/talks/risa_wechsler_the_search_for_dark_matter_and_what_we_ve_found_so_far"
+      },
+      {
+        "title": "The most detailed map of galaxies, black holes and stars ever made",
+        "completionDate": "2019-12-20",
+        "minutes": 14,
+        "url": "https://www.ted.com/talks/juna_kollmeier_the_most_detailed_map_of_galaxies_black_holes_and_stars_ever_made"
+      },
+      {
+        "title": "The search for our solar system's ninth planet",
+        "completionDate": "2019-11-25",
+        "minutes": 14,
+        "url": "https://www.ted.com/talks/mike_brown_the_search_for_our_solar_system_s_ninth_planet"
       }
     ],
     "Enterprise Processes": {
@@ -1517,6 +1577,18 @@
         "title": "Secrets of High Performance",
         "minutes": 5,
         "completionDate": "2019-12-21"
+      },
+      {
+        "title": "The gift and power of emotional courage",
+        "completionDate": "2020-01-18",
+        "minutes": 17,
+        "url": "https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage"
+      },
+      {
+        "title": "The beautiful balance between courage and fear",
+        "completionDate": "2020-02-14",
+        "minutes": 10,
+        "url": "https://www.ted.com/talks/cara_e_yar_khan_the_beautiful_balance_between_courage_and_fear"
       }
     ],
     "Human Interactions": [
@@ -1771,6 +1843,30 @@
         "title": "Leveraging Diversity and Strengths in the Workplace",
         "minutes": 5,
         "completionDate": "2020-01-01"
+      },
+      {
+        "title": "Why I keep speaking up, even when people mock my accent",
+        "completionDate": "2019-12-24",
+        "minutes": 11,
+        "url": "https://www.ted.com/talks/safwat_saleem_why_i_keep_speaking_up_even_when_people_mock_my_accent"
+      },
+      {
+        "title": "3 lessons of revolutionary love in a time of rage",
+        "completionDate": "2020-02-14",
+        "minutes": 22,
+        "url": "https://www.ted.com/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage"
+      },
+      {
+        "title": "The human skills we need in an unpredictable world",
+        "completionDate": "2019-11-21",
+        "minutes": 16,
+        "url": "https://www.ted.com/talks/margaret_heffernan_the_human_skills_we_need_in_an_unpredictable_world"
+      },
+      {
+        "title": "For these women, reading is a daring act",
+        "completionDate": "2020-02-11",
+        "minutes": 5,
+        "url": "https://www.ted.com/talks/laura_boushnak_for_these_women_reading_is_a_daring_act"
       }
     ],
     "Leadership": [
@@ -2025,6 +2121,18 @@
         "title": "The Deming Cycle: Sharpen Processes and Plan to Succeed",
         "minutes": 4,
         "completionDate": "2019-12-23"
+      },
+      {
+        "title": "The surprising habits of original thinkers",
+        "completionDate": "2019-11-17",
+        "minutes": 15,
+        "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers"
+      },
+      {
+        "title": "Bring on the learning revolution!",
+        "completionDate": "2019-12-05",
+        "minutes": 18,
+        "url": "https://www.ted.com/talks/sir_ken_robinson_bring_on_the_learning_revolution"
       }
     ],
     "Art": {
