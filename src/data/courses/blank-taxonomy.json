@@ -103,6 +103,8 @@
         "RabbitMQ": []
       }
     },
+    "Mathematics": [],
+    "Physics": [],
     "Robotics": [],
     "Ecology": [],
     "Astronomy": [],
@@ -135,10 +137,13 @@
         "Design": [],
         "Color Theory": []
       },
-      "Music": []
+      "Music": [],
+      "Literature": []
     },
+    "Philosophy": [],
     "Languages": {
-      "English": []
+      "English": [],
+      "French": []
     },
     "Law": {
       "National Laws": [],

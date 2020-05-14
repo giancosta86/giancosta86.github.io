@@ -282,6 +282,11 @@
             "minutes": 123,
             "url": "https://www.pluralsight.com/courses/typescript-compiler",
             "completionDate": "2020-04-07"
+          },
+          {
+            "title": "Programming TypeScript",
+            "minutes": 480,
+            "url": "http://shop.oreilly.com/product/0636920158059.do"
           }
         ],
         "Flutter": [
@@ -374,6 +379,11 @@
             "minutes": 56,
             "url": "https://www.pluralsight.com/courses/core-python-numeric-types-dates-times",
             "completionDate": "2020-03-16"
+          },
+          {
+            "title": "Python Pocket Reference",
+            "minutes": 180,
+            "url": "http://shop.oreilly.com/product/0636920028338.do"
           }
         ],
         "R": [
@@ -907,6 +917,20 @@
         ]
       }
     },
+    "Mathematics": [
+      {
+        "title": "Matematica - Dagli insiemi alle equazioni differenziali",
+        "minutes": 600,
+        "url": "http://www.vallardi.it/catalogo/scheda/matematica-libro_2.html"
+      }
+    ],
+    "Physics": [
+      {
+        "title": "Atlante di Fisica",
+        "minutes": 420,
+        "url": "https://www.giunti.it/catalogo/atlante-di-fisica-9788809746749"
+      }
+    ],
     "Robotics": [
       {
         "title": "Origami robots that reshape and transform themselves",
@@ -963,7 +987,7 @@
         "completionDate": "2020-01-08",
         "minutes": 15,
         "url": "https://www.ted.com/talks/sara_jane_dunn_the_next_software_revolution_programming_biological_cells"
-      },
+      }
     ],
     "Astronomy": [
       {
@@ -1007,6 +1031,11 @@
         "completionDate": "2019-11-25",
         "minutes": 14,
         "url": "https://www.ted.com/talks/mike_brown_the_search_for_our_solar_system_s_ninth_planet"
+      },
+      {
+        "title": "Atlante di Astronomia",
+        "minutes": 300,
+        "url": "https://www.giunti.it/catalogo/astronomia-9788809859906"
       }
     ],
     "Enterprise Processes": {
@@ -1804,6 +1833,14 @@
         "title": "The Art of Persuasive Conversation",
         "minutes": 2,
         "completionDate": "2020-01-02"
+      },
+      {
+        "title": "Presentation Skills",
+        "minutes": 480
+      },
+      {
+        "title": "Public Speaking",
+        "minutes": 480
       }
     ],
     "Diversity & Inclusion": [
@@ -1867,6 +1904,21 @@
         "completionDate": "2020-02-11",
         "minutes": 5,
         "url": "https://www.ted.com/talks/laura_boushnak_for_these_women_reading_is_a_daring_act"
+      },
+      {
+        "title": "Il libro del femminismo",
+        "minutes": 720,
+        "url": "https://books.google.it/books?id=cPt1wgEACAAJ"
+      },
+      {
+        "title": "Manuale per ragazze rivoluzionarie",
+        "minutes": 300,
+        "url": "https://www.mondadoristore.it/Manuale-ragazze-rivoluzionarie-Giulia-Blasi/eai978885869513/"
+      },
+      {
+        "title": "Feminism: A Very Short Introduction",
+        "minutes": 210,
+        "url": "https://global.oup.com/academic/product/feminism-a-very-short-introduction-9780192805102"
       }
     ],
     "Leadership": [
@@ -2168,8 +2220,22 @@
           "url": "https://www.udemy.com/makeamelody/",
           "certificateUrl": "https://www.udemy.com/certificate/UC-SYGNLZB0/"
         }
+      ],
+      "Literature": [
+        {
+          "title": "Victor Hugo en un clin d'oeil",
+          "minutes": 300,
+          "url": "https://books.google.it/books?id=pfFGDwAAQBAJ"
+        }
       ]
     },
+    "Philosophy": [
+      {
+        "title": "Les Lumières",
+        "minutes": 360,
+        "url": "http://www.lecavalierbleu.com/livre/les-lumieres/"
+      }
+    ],
     "Languages": {
       "English": [
         {
@@ -2228,6 +2294,18 @@
           "title": "Advanced Uses of the Comma",
           "completionDate": "2019-06-16",
           "minutes": 5
+        }
+      ],
+      "French": [
+        {
+          "title": "Anglais: la grammaire - Bescherelle",
+          "minutes": 600,
+          "url": "https://bescherelle.com/bescherelle-anglais-la-grammaire-9782218926198"
+        },
+        {
+          "title": "La conjugaison pour tous - Bescherelle",
+          "minutes": 180,
+          "url": "https://bescherelle.com/bescherelle-la-conjugaison-pour-tous-9782401052352"
         }
       ]
     },
