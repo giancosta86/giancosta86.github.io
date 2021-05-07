@@ -5,7 +5,8 @@
         ".NET": {
           "C#": [],
           "F#": [],
-          "Platform": []
+          "Platform": [],
+          "Blazor": []
         },
         "Java": [],
         "Scala": [],
@@ -21,7 +22,10 @@
           "Transpilers & Shims": [],
           "Webpack": [],
           "WebAssembly": [],
-          "Redux": []
+          "Redux": [],
+          "React Native": [],
+          "Progressive Web Apps": [],
+          "Libraries": []
         },
         "TypeScript": [],
         "Bash": [],
@@ -29,6 +33,7 @@
           "Regular Expressions": [],
           "Markdown": []
         },
+        "Elm": [],
         "Flutter": [],
         "C": [],
         "C++": [],
@@ -40,8 +45,9 @@
         "Unity": []
       },
       "Software Design": {
-        "Architecture": [],
+        "CQRS": [],
         "Clean Code": [],
+        "Domain-Driven Design": [],
         "Design Patterns": [],
         "User Interface": [],
         "Microservices": []
@@ -51,6 +57,15 @@
         "Amazon Web Services": [],
         "Docker": [],
         "Kubernetes": []
+      },
+      "Operating Systems": {
+        "Linux": []
+      },
+      "Source Control": {
+        "Git": {
+          "Core": [],
+          "GitHub": []
+        }
       },
       "Web Frontend": {
         "Principles": [],
@@ -65,18 +80,13 @@
         "Java": [],
         "Scala": [],
         "Ruby": [],
-        "Python": []
+        "Python": [],
+        "GraphQL": []
       },
-      "DevOps": {
+      "CI/CD": {
         "Principles": [],
-        "Build Automation": [],
-        "Versioning": {
-          "Git": {
-            "Core": [],
-            "GitHub": []
-          }
-        },
-        "Remote Control": []
+        "GitHub Actions": [],
+        "Jenkins": []
       },
       "Security": {
         "Principles": [],
@@ -90,6 +100,7 @@
         ".NET": [],
         "NodeJS": [],
         "C++": [],
+        "Load testing": [],
         "Tools": []
       },
       "Data Science": {
@@ -119,10 +130,14 @@
     },
     "Mathematics": [],
     "Physics": [],
-    "Robotics": [],
+    "Electronics": {
+      "Principles": [],
+      "Arduino": [],
+      "Robotics": []
+    },
     "Ecology": [],
     "Astronomy": [],
-    "Technology": [],
+    "Tools": [],
     "Enterprise Processes": {
       "Human Resources": [],
       "Management": [],
