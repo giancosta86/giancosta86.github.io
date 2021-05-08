@@ -876,7 +876,38 @@
             "minutes": 84
           }
         ],
-        "Docker": [],
+        "Docker": [
+          {
+            "completionDate": "2021-05-08",
+            "title": "Managing Docker on Windows Servers",
+            "url": "https://www.pluralsight.com/courses/managing-docker-windows-servers",
+            "minutes": 76
+          },
+          {
+            "completionDate": "2021-05-08",
+            "title": "Managing Container Images",
+            "url": "https://www.pluralsight.com/courses/managing-container-images",
+            "minutes": 65
+          },
+          {
+            "completionDate": "2021-05-08",
+            "title": "Building and Orchestrating Containers with Docker Compose",
+            "url": "https://www.pluralsight.com/courses/docker-compose-building-orchestrating-containers",
+            "minutes": 97
+          },
+          {
+            "completionDate": "2021-05-08",
+            "title": "Container Infrastructure Analysis with Trivy",
+            "url": "https://www.pluralsight.com/courses/container-infrastructure-analysis-trivy",
+            "minutes": 49
+          },
+          {
+            "completionDate": "2021-05-08",
+            "title": "Getting Started with Docker",
+            "url": "https://www.pluralsight.com/courses/getting-started-docker",
+            "minutes": 86
+          }
+        ],
         "Kubernetes": []
       },
       "Operating Systems": {
@@ -1227,6 +1258,12 @@
             "title": "Building and Using a Multi-node Jenkins Farm",
             "url": "https://www.pluralsight.com/courses/building-using-multi-node-jenkins-farm",
             "minutes": 137
+          },
+          {
+            "completionDate": "2021-05-07",
+            "title": "Using Jenkins X for Cloud-native CI/CD",
+            "url": "https://www.pluralsight.com/courses/jenkins-x-cloud-native-ci-cd",
+            "minutes": 188
           }
         ]
       },
@@ -1616,32 +1653,36 @@
         "Color Theory": []
       },
       "Music": [],
-      "Literature": [
-        {
-          "completionDate": "2020-06-03",
-          "title": "Dante: A Very Short Introduction",
-          "url": "https://global.oup.com/academic/product/dante-a-very-short-introduction-9780199684779",
-          "minutes": 1260
-        },
-        {
-          "completionDate": "2021-04-28",
-          "title": "(Divina) Commedia",
-          "url": "https://www.garzanti.it/libri/dante-alighieri-commedia-9788811818175/",
-          "minutes": 8010
-        },
-        {
-          "completionDate": "2021-01-19",
-          "title": "Mitologia classica illustrata",
-          "url": "https://www.hoepli.it/libro/mitologia-classica-illustrata-per-i-licei-e-gli-ist-magistrali/9788820381851.html",
-          "minutes": 1290
-        },
-        {
-          "completionDate": "2021-04-01",
-          "title": "Gli dei e gli eroi della Grecia",
-          "url": "https://www.ilsaggiatore.com/libro/gli-dei-e-gli-eroi-della-grecia-3/",
-          "minutes": 2460
-        }
-      ],
+      "Literature": {
+        "Dante": [
+          {
+            "completionDate": "2020-06-03",
+            "title": "Dante: A Very Short Introduction",
+            "url": "https://global.oup.com/academic/product/dante-a-very-short-introduction-9780199684779",
+            "minutes": 1260
+          },
+          {
+            "completionDate": "2021-04-28",
+            "title": "(Divina) Commedia",
+            "url": "https://www.garzanti.it/libri/dante-alighieri-commedia-9788811818175/",
+            "minutes": 8010
+          }
+        ],
+        "Hellenism": [
+          {
+            "completionDate": "2021-01-19",
+            "title": "Mitologia classica illustrata",
+            "url": "https://www.hoepli.it/libro/mitologia-classica-illustrata-per-i-licei-e-gli-ist-magistrali/9788820381851.html",
+            "minutes": 1290
+          },
+          {
+            "completionDate": "2021-04-01",
+            "title": "Gli dei e gli eroi della Grecia",
+            "url": "https://www.ilsaggiatore.com/libro/gli-dei-e-gli-eroi-della-grecia-3/",
+            "minutes": 2460
+          }
+        ]
+      },
       "Theatre": [
         {
           "completionDate": "2020-07-05",
