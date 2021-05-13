@@ -878,6 +878,18 @@
         ],
         "Docker": [
           {
+            "completionDate": "2021-05-10",
+            "title": "Preparing Docker Apps for Production",
+            "url": "https://www.pluralsight.com/courses/preparing-docker-apps-production",
+            "minutes": 175
+          },
+          {
+            "completionDate": "2021-05-09",
+            "title": "Managing Docker on Linux Servers",
+            "url": "https://www.pluralsight.com/courses/managing-docker-linux-servers",
+            "minutes": 192
+          },
+          {
             "completionDate": "2021-05-08",
             "title": "Managing Docker on Windows Servers",
             "url": "https://www.pluralsight.com/courses/managing-docker-windows-servers",
