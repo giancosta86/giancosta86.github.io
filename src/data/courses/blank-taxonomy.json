@@ -5,26 +5,18 @@
         ".NET": {
           "C#": [],
           "F#": [],
-          "Platform": [],
-          "Blazor": []
+          "Platform": []
         },
         "Java": [],
         "Scala": [],
         "Groovy": [],
         "JavaScript": {
-          "NodeJS": [],
           "Vanilla JS/ES": [],
+          "Webpack": [],
           "RxJS": [],
           "Electron": [],
-          "Chrome": [],
-          "Ionic": [],
           "Functional": [],
-          "Transpilers & Shims": [],
-          "Webpack": [],
-          "WebAssembly": [],
           "Redux": [],
-          "React Native": [],
-          "Progressive Web Apps": [],
           "Libraries": []
         },
         "TypeScript": [],
@@ -34,7 +26,6 @@
           "Markdown": []
         },
         "Elm": [],
-        "Flutter": [],
         "C": [],
         "C++": [],
         "Go": [],
@@ -43,6 +34,11 @@
         "Ruby": [],
         "Microsoft Office": [],
         "Unity": []
+      },
+      "Mobile development": {
+        "Ionic": [],
+        "React Native": [],
+        "Flutter": []
       },
       "Software Design": {
         "CQRS": [],
@@ -62,17 +58,21 @@
         "Linux": []
       },
       "Source Control": {
-        "Git": {
-          "Core": [],
-          "GitHub": []
-        }
+        "Git": [],
+        "GitHub": []
       },
       "Web Frontend": {
         "Principles": [],
         "React": [],
         "Angular": [],
         "jQuery": [],
-        "CSS": []
+        "CSS": [],
+        "Chrome": [],
+        "Blazor": [],
+        "Progressive Web Apps": [],
+        "WebAssembly": [],
+        "Transpilers & Shims": [],
+        "Rendering": []
       },
       "Web Backend": {
         "Generic": [],
@@ -81,7 +81,8 @@
         "Scala": [],
         "Ruby": [],
         "Python": [],
-        "GraphQL": []
+        "GraphQL": [],
+        "NodeJS": []
       },
       "CI/CD": {
         "Principles": [],
@@ -98,7 +99,7 @@
         "Web Frontend": [],
         "Gherkin": [],
         ".NET": [],
-        "NodeJS": [],
+        "JavaScript": [],
         "C++": [],
         "Load testing": [],
         "Tools": []

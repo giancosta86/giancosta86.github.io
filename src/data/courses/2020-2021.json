@@ -12,15 +12,7 @@
             }
           ],
           "F#": [],
-          "Platform": [],
-          "Blazor": [
-            {
-              "completionDate": "2020-12-06",
-              "title": "Blazor: The Big Picture",
-              "url": "https://www.pluralsight.com/courses/blazor-big-picture",
-              "minutes": 32
-            }
-          ]
+          "Platform": []
         },
         "Java": [],
         "Scala": [
@@ -45,98 +37,6 @@
         ],
         "Groovy": [],
         "JavaScript": {
-          "NodeJS": [
-            {
-              "completionDate": "2020-06-01",
-              "title": "Building Web Applications with Node.js and Express 4.0 (UPDATE)",
-              "url": "https://www.pluralsight.com/courses/nodejs-express-web-applications-update",
-              "minutes": 311
-            },
-            {
-              "completionDate": "2020-06-14",
-              "title": "Automating Node.js with NPM Scripts",
-              "url": "https://www.pluralsight.com/courses/automating-nodejs-npm-scripts",
-              "minutes": 152
-            },
-            {
-              "completionDate": "2020-06-14",
-              "title": "Using MongoDB with Node.js",
-              "url": "https://www.pluralsight.com/courses/mongodb-nodejs",
-              "minutes": 78
-            },
-            {
-              "completionDate": "2020-06-07",
-              "title": "Managing Files with Node.js",
-              "url": "https://www.pluralsight.com/courses/managing-files-node-js",
-              "minutes": 86
-            },
-            {
-              "completionDate": "2020-06-06",
-              "title": "HTTP with Node.js",
-              "url": "https://www.pluralsight.com/courses/http-with-nodejs",
-              "minutes": 57
-            },
-            {
-              "completionDate": "2020-06-01",
-              "title": "Node.js: Creating a Basic Node.js App with Socket.io and Redis",
-              "url": "https://www.pluralsight.com/interactive-courses/node-js-app-socket-io-redis",
-              "minutes": 66
-            },
-            {
-              "completionDate": "2020-06-01",
-              "title": "Node.js: Introduction to Using Express.js",
-              "url": "https://www.pluralsight.com/interactive-courses/node-js-intro-express-js",
-              "minutes": 33
-            },
-            {
-              "completionDate": "2020-06-01",
-              "title": "Node.js: Using Modules and npm",
-              "url": "https://www.pluralsight.com/interactive-courses/node-js-using-modules-npm",
-              "minutes": 27
-            },
-            {
-              "completionDate": "2020-06-01",
-              "title": "Node.js: Introduction to Node.js, Events, and Streams",
-              "url": "https://www.pluralsight.com/interactive-courses/node-js-introduction-events-streams",
-              "minutes": 65
-            },
-            {
-              "completionDate": "2020-06-01",
-              "title": "Getting Started with npm",
-              "url": "https://www.pluralsight.com/courses/npm-getting-started",
-              "minutes": 58
-            },
-            {
-              "completionDate": "2020-06-20",
-              "title": "Advanced Node.js",
-              "url": "https://www.pluralsight.com/courses/nodejs-advanced",
-              "minutes": 225
-            },
-            {
-              "completionDate": "2020-06-18",
-              "title": "Node.js: Getting Started",
-              "url": "https://www.pluralsight.com/courses/nodejs-getting-started",
-              "minutes": 209
-            },
-            {
-              "completionDate": "2020-05-31",
-              "title": "NPM Playbook",
-              "url": "https://www.pluralsight.com/courses/npm-playbook",
-              "minutes": 58
-            },
-            {
-              "completionDate": "2020-05-31",
-              "title": "Node.js: The Big Picture",
-              "url": "https://www.pluralsight.com/courses/nodejs-big-picture",
-              "minutes": 54
-            },
-            {
-              "completionDate": "2020-12-11",
-              "title": "Play by Play: Getting Started with Yarn as a Package Manager",
-              "url": "https://www.pluralsight.com/courses/play-by-play-yarn-package-manager",
-              "minutes": 45
-            }
-          ],
           "Vanilla JS/ES": [
             {
               "completionDate": "2020-07-20",
@@ -205,19 +105,6 @@
               "minutes": 236
             }
           ],
-          "RxJS": [],
-          "Electron": [],
-          "Chrome": [
-            {
-              "completionDate": "2020-12-24",
-              "title": "Debugging Sites Using Chrome DevTools",
-              "url": "https://www.pluralsight.com/courses/debugging-sites-chrome-devtools",
-              "minutes": 106
-            }
-          ],
-          "Ionic": [],
-          "Functional": [],
-          "Transpilers & Shims": [],
           "Webpack": [
             {
               "completionDate": "2020-11-26",
@@ -232,7 +119,9 @@
               "minutes": 364
             }
           ],
-          "WebAssembly": [],
+          "RxJS": [],
+          "Electron": [],
+          "Functional": [],
           "Redux": [
             {
               "completionDate": "2020-07-18",
@@ -271,60 +160,7 @@
               "minutes": 310
             }
           ],
-          "React Native": [
-            {
-              "completionDate": "2020-11-30",
-              "title": "React Native: The Big Picture",
-              "url": "https://www.pluralsight.com/courses/react-native-big-picture",
-              "minutes": 63
-            },
-            {
-              "completionDate": "2020-12-06",
-              "title": "React Native: Getting Started",
-              "url": "https://www.pluralsight.com/courses/react-native-getting-started",
-              "minutes": 109
-            },
-            {
-              "completionDate": "2020-12-13",
-              "title": "Building React Native Applications Using Expo",
-              "url": "https://www.pluralsight.com/courses/react-native-applications-using-expo",
-              "minutes": 89
-            }
-          ],
-          "Progressive Web Apps": [
-            {
-              "completionDate": "2021-03-07",
-              "title": "Advanced Progressive Web Apps",
-              "url": "https://www.pluralsight.com/courses/advanced-progressive-web-apps",
-              "minutes": 137
-            },
-            {
-              "completionDate": "2021-01-16",
-              "title": "Designing Progressive Web Apps",
-              "url": "https://www.pluralsight.com/courses/designing-progressive-web-apps",
-              "minutes": 123
-            },
-            {
-              "completionDate": "2021-01-15",
-              "title": "Getting Started with Progressive Web Apps",
-              "url": "https://www.pluralsight.com/courses/web-apps-progressive-getting-started",
-              "minutes": 117
-            },
-            {
-              "completionDate": "2021-01-11",
-              "title": "Progressive Web Apps: The Big Picture",
-              "url": "https://www.pluralsight.com/courses/progressive-web-apps-big-picture",
-              "minutes": 100
-            }
-          ],
-          "Libraries": [
-            {
-              "completionDate": "2021-01-09",
-              "title": "Build Your First Data Visualization with vis.js",
-              "url": "https://www.pluralsight.com/courses/build-first-data-visualization-vis-js",
-              "minutes": 53
-            }
-          ]
+          "Libraries": []
         },
         "TypeScript": [
           {
@@ -408,7 +244,6 @@
             "minutes": 125
           }
         ],
-        "Flutter": [],
         "C": [],
         "C++": [
           {
@@ -497,6 +332,30 @@
         "Ruby": [],
         "Microsoft Office": [],
         "Unity": []
+      },
+      "Mobile development": {
+        "Ionic": [],
+        "React Native": [
+          {
+            "completionDate": "2020-11-30",
+            "title": "React Native: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/react-native-big-picture",
+            "minutes": 63
+          },
+          {
+            "completionDate": "2020-12-06",
+            "title": "React Native: Getting Started",
+            "url": "https://www.pluralsight.com/courses/react-native-getting-started",
+            "minutes": 109
+          },
+          {
+            "completionDate": "2020-12-13",
+            "title": "Building React Native Applications Using Expo",
+            "url": "https://www.pluralsight.com/courses/react-native-applications-using-expo",
+            "minutes": 89
+          }
+        ],
+        "Flutter": []
       },
       "Software Design": {
         "CQRS": [
@@ -951,102 +810,100 @@
         ]
       },
       "Source Control": {
-        "Git": {
-          "Core": [
-            {
-              "completionDate": "2020-08-04",
-              "title": "Git Administration",
-              "url": "https://www.pluralsight.com/courses/git-administration",
-              "minutes": 79
-            },
-            {
-              "completionDate": "2020-08-03",
-              "title": "Rewriting Git History",
-              "url": "https://www.pluralsight.com/courses/rewriting-git-history",
-              "minutes": 63
-            },
-            {
-              "completionDate": "2020-08-03",
-              "title": "Advanced Git Techniques",
-              "url": "https://www.pluralsight.com/courses/advanced-git-techniques",
-              "minutes": 80
-            },
-            {
-              "completionDate": "2020-08-03",
-              "title": "Mastering Git",
-              "url": "https://www.pluralsight.com/courses/master-git",
-              "minutes": 182
-            },
-            {
-              "completionDate": "2020-08-02",
-              "title": "How Git Works",
-              "url": "https://www.pluralsight.com/courses/how-git-works",
-              "minutes": 108
-            },
-            {
-              "completionDate": "2020-08-02",
-              "title": "Working with Git Branches",
-              "url": "https://www.pluralsight.com/courses/working-git-branches",
-              "minutes": 78
-            },
-            {
-              "completionDate": "2020-08-01",
-              "title": "Getting Started with Git",
-              "url": "https://www.pluralsight.com/courses/getting-started-git",
-              "minutes": 122
-            },
-            {
-              "completionDate": "2020-07-27",
-              "title": "Git: The Big Picture",
-              "url": "https://www.pluralsight.com/courses/git-big-picture",
-              "minutes": 66
-            }
-          ],
-          "GitHub": [
-            {
-              "completionDate": "2020-08-11",
-              "title": "Adopting an InnerSource Culture with GitHub",
-              "url": "https://www.pluralsight.com/courses/adopting-innersource-culture-github",
-              "minutes": 102
-            },
-            {
-              "completionDate": "2020-08-11",
-              "title": "Contributing to an Open Source Project on GitHub",
-              "url": "https://www.pluralsight.com/courses/contributing-open-source-project-github",
-              "minutes": 107
-            },
-            {
-              "completionDate": "2020-08-10",
-              "title": "Open Source Your GitHub Project",
-              "url": "https://www.pluralsight.com/courses/open-source-your-github-project",
-              "minutes": 125
-            },
-            {
-              "completionDate": "2020-08-09",
-              "title": "Supercharging Your GitHub Workflow",
-              "url": "https://www.pluralsight.com/courses/supercharging-git-workflow",
-              "minutes": 92
-            },
-            {
-              "completionDate": "2020-08-08",
-              "title": "GitHub Pull Requests from Start to Finish",
-              "url": "https://www.pluralsight.com/courses/github-pull-requests-from-start-finish",
-              "minutes": 91
-            },
-            {
-              "completionDate": "2020-08-07",
-              "title": "Getting Started with GitHub Desktop",
-              "url": "https://www.pluralsight.com/courses/getting-started-github-desktop",
-              "minutes": 67
-            },
-            {
-              "completionDate": "2020-08-07",
-              "title": "GitHub: Getting Started",
-              "url": "https://www.pluralsight.com/courses/github-getting-started",
-              "minutes": 186
-            }
-          ]
-        }
+        "Git": [
+          {
+            "completionDate": "2020-08-04",
+            "title": "Git Administration",
+            "url": "https://www.pluralsight.com/courses/git-administration",
+            "minutes": 79
+          },
+          {
+            "completionDate": "2020-08-03",
+            "title": "Rewriting Git History",
+            "url": "https://www.pluralsight.com/courses/rewriting-git-history",
+            "minutes": 63
+          },
+          {
+            "completionDate": "2020-08-03",
+            "title": "Advanced Git Techniques",
+            "url": "https://www.pluralsight.com/courses/advanced-git-techniques",
+            "minutes": 80
+          },
+          {
+            "completionDate": "2020-08-03",
+            "title": "Mastering Git",
+            "url": "https://www.pluralsight.com/courses/master-git",
+            "minutes": 182
+          },
+          {
+            "completionDate": "2020-08-02",
+            "title": "How Git Works",
+            "url": "https://www.pluralsight.com/courses/how-git-works",
+            "minutes": 108
+          },
+          {
+            "completionDate": "2020-08-02",
+            "title": "Working with Git Branches",
+            "url": "https://www.pluralsight.com/courses/working-git-branches",
+            "minutes": 78
+          },
+          {
+            "completionDate": "2020-08-01",
+            "title": "Getting Started with Git",
+            "url": "https://www.pluralsight.com/courses/getting-started-git",
+            "minutes": 122
+          },
+          {
+            "completionDate": "2020-07-27",
+            "title": "Git: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/git-big-picture",
+            "minutes": 66
+          }
+        ],
+        "GitHub": [
+          {
+            "completionDate": "2020-08-11",
+            "title": "Adopting an InnerSource Culture with GitHub",
+            "url": "https://www.pluralsight.com/courses/adopting-innersource-culture-github",
+            "minutes": 102
+          },
+          {
+            "completionDate": "2020-08-11",
+            "title": "Contributing to an Open Source Project on GitHub",
+            "url": "https://www.pluralsight.com/courses/contributing-open-source-project-github",
+            "minutes": 107
+          },
+          {
+            "completionDate": "2020-08-10",
+            "title": "Open Source Your GitHub Project",
+            "url": "https://www.pluralsight.com/courses/open-source-your-github-project",
+            "minutes": 125
+          },
+          {
+            "completionDate": "2020-08-09",
+            "title": "Supercharging Your GitHub Workflow",
+            "url": "https://www.pluralsight.com/courses/supercharging-git-workflow",
+            "minutes": 92
+          },
+          {
+            "completionDate": "2020-08-08",
+            "title": "GitHub Pull Requests from Start to Finish",
+            "url": "https://www.pluralsight.com/courses/github-pull-requests-from-start-finish",
+            "minutes": 91
+          },
+          {
+            "completionDate": "2020-08-07",
+            "title": "Getting Started with GitHub Desktop",
+            "url": "https://www.pluralsight.com/courses/getting-started-github-desktop",
+            "minutes": 67
+          },
+          {
+            "completionDate": "2020-08-07",
+            "title": "GitHub: Getting Started",
+            "url": "https://www.pluralsight.com/courses/github-getting-started",
+            "minutes": 186
+          }
+        ]
       },
       "Web Frontend": {
         "Principles": [
@@ -1164,6 +1021,58 @@
             "url": "https://www.pluralsight.com/courses/less-getting-started",
             "minutes": 71
           }
+        ],
+        "Chrome": [
+          {
+            "completionDate": "2020-12-24",
+            "title": "Debugging Sites Using Chrome DevTools",
+            "url": "https://www.pluralsight.com/courses/debugging-sites-chrome-devtools",
+            "minutes": 106
+          }
+        ],
+        "Blazor": [
+          {
+            "completionDate": "2020-12-06",
+            "title": "Blazor: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/blazor-big-picture",
+            "minutes": 32
+          }
+        ],
+        "Progressive Web Apps": [
+          {
+            "completionDate": "2021-03-07",
+            "title": "Advanced Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/advanced-progressive-web-apps",
+            "minutes": 137
+          },
+          {
+            "completionDate": "2021-01-16",
+            "title": "Designing Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/designing-progressive-web-apps",
+            "minutes": 123
+          },
+          {
+            "completionDate": "2021-01-15",
+            "title": "Getting Started with Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/web-apps-progressive-getting-started",
+            "minutes": 117
+          },
+          {
+            "completionDate": "2021-01-11",
+            "title": "Progressive Web Apps: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/progressive-web-apps-big-picture",
+            "minutes": 100
+          }
+        ],
+        "WebAssembly": [],
+        "Transpilers & Shims": [],
+        "Rendering": [
+          {
+            "completionDate": "2021-01-09",
+            "title": "Build Your First Data Visualization with vis.js",
+            "url": "https://www.pluralsight.com/courses/build-first-data-visualization-vis-js",
+            "minutes": 53
+          }
         ]
       },
       "Web Backend": {
@@ -1215,6 +1124,98 @@
             "title": "GraphQL: The Big Picture",
             "url": "https://www.pluralsight.com/courses/graphql-big-picture",
             "minutes": 77
+          }
+        ],
+        "NodeJS": [
+          {
+            "completionDate": "2020-06-01",
+            "title": "Building Web Applications with Node.js and Express 4.0 (UPDATE)",
+            "url": "https://www.pluralsight.com/courses/nodejs-express-web-applications-update",
+            "minutes": 311
+          },
+          {
+            "completionDate": "2020-06-14",
+            "title": "Automating Node.js with NPM Scripts",
+            "url": "https://www.pluralsight.com/courses/automating-nodejs-npm-scripts",
+            "minutes": 152
+          },
+          {
+            "completionDate": "2020-06-14",
+            "title": "Using MongoDB with Node.js",
+            "url": "https://www.pluralsight.com/courses/mongodb-nodejs",
+            "minutes": 78
+          },
+          {
+            "completionDate": "2020-06-07",
+            "title": "Managing Files with Node.js",
+            "url": "https://www.pluralsight.com/courses/managing-files-node-js",
+            "minutes": 86
+          },
+          {
+            "completionDate": "2020-06-06",
+            "title": "HTTP with Node.js",
+            "url": "https://www.pluralsight.com/courses/http-with-nodejs",
+            "minutes": 57
+          },
+          {
+            "completionDate": "2020-06-01",
+            "title": "Node.js: Creating a Basic Node.js App with Socket.io and Redis",
+            "url": "https://www.pluralsight.com/interactive-courses/node-js-app-socket-io-redis",
+            "minutes": 66
+          },
+          {
+            "completionDate": "2020-06-01",
+            "title": "Node.js: Introduction to Using Express.js",
+            "url": "https://www.pluralsight.com/interactive-courses/node-js-intro-express-js",
+            "minutes": 33
+          },
+          {
+            "completionDate": "2020-06-01",
+            "title": "Node.js: Using Modules and npm",
+            "url": "https://www.pluralsight.com/interactive-courses/node-js-using-modules-npm",
+            "minutes": 27
+          },
+          {
+            "completionDate": "2020-06-01",
+            "title": "Node.js: Introduction to Node.js, Events, and Streams",
+            "url": "https://www.pluralsight.com/interactive-courses/node-js-introduction-events-streams",
+            "minutes": 65
+          },
+          {
+            "completionDate": "2020-06-01",
+            "title": "Getting Started with npm",
+            "url": "https://www.pluralsight.com/courses/npm-getting-started",
+            "minutes": 58
+          },
+          {
+            "completionDate": "2020-06-20",
+            "title": "Advanced Node.js",
+            "url": "https://www.pluralsight.com/courses/nodejs-advanced",
+            "minutes": 225
+          },
+          {
+            "completionDate": "2020-06-18",
+            "title": "Node.js: Getting Started",
+            "url": "https://www.pluralsight.com/courses/nodejs-getting-started",
+            "minutes": 209
+          },
+          {
+            "completionDate": "2020-05-31",
+            "title": "NPM Playbook",
+            "url": "https://www.pluralsight.com/courses/npm-playbook",
+            "minutes": 58
+          },
+          {
+            "completionDate": "2020-05-31",
+            "title": "Node.js: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/nodejs-big-picture",
+            "minutes": 54
+          },
+          {
+            "completionDate": "2020-12-11",
+            "title": "Play by Play: Getting Started with Yarn as a Package Manager",
+            "url": "https://www.pluralsight.com/courses/play-by-play-yarn-package-manager",
+            "minutes": 45
           }
         ]
       },
@@ -1429,7 +1430,7 @@
         "Web Frontend": [],
         "Gherkin": [],
         ".NET": [],
-        "NodeJS": [
+        "JavaScript": [
           {
             "completionDate": "2020-06-15",
             "title": "Mocking Node.js with Sinon",
