@@ -1,0 +1,188 @@
+{
+  "Science": {
+    "Information Technology": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [],
+          "F#": [],
+          "Platform": []
+        },
+        "Java": [],
+        "Scala": [],
+        "Groovy": [],
+        "JavaScript": {
+          "Vanilla JS/ES": [],
+          "Webpack": [],
+          "RxJS": [],
+          "Electron": [],
+          "Functional": [],
+          "Redux": [],
+          "Libraries": []
+        },
+        "TypeScript": [],
+        "Bash": [],
+        "DSL": {
+          "Regular Expressions": [],
+          "Markdown": []
+        },
+        "Elm": [],
+        "C": [],
+        "C++": [],
+        "Go": [],
+        "Python": [],
+        "R": [],
+        "Ruby": [],
+        "Microsoft Office": [],
+        "Unity": []
+      },
+      "Mobile development": {
+        "Ionic": [],
+        "React Native": [],
+        "Flutter": []
+      },
+      "Software Design": {
+        "CQRS": [],
+        "Clean Code": [],
+        "Domain-Driven Design": [],
+        "Design Patterns": [],
+        "User Interface": [],
+        "Microservices": []
+      },
+      "Cloud & Virtualization": {
+        "Network Principles": [],
+        "Amazon Web Services": [],
+        "Docker": [],
+        "Kubernetes": []
+      },
+      "Operating Systems": {
+        "Linux": []
+      },
+      "Source Control": {
+        "Git": [],
+        "GitHub": []
+      },
+      "Web Frontend": {
+        "Principles": [],
+        "React": [],
+        "Angular": [],
+        "jQuery": [],
+        "CSS": [],
+        "Chrome": [],
+        "Blazor": [],
+        "Progressive Web Apps": [],
+        "WebAssembly": [],
+        "Transpilers & Shims": [],
+        "Rendering": []
+      },
+      "Web Backend": {
+        "Generic": [],
+        ".NET": [],
+        "Java": [],
+        "Scala": [],
+        "Ruby": [],
+        "Python": [],
+        "GraphQL": [],
+        "NodeJS": []
+      },
+      "CI/CD": {
+        "Principles": [],
+        "GitHub Actions": [],
+        "Jenkins": []
+      },
+      "Security": {
+        "Principles": [],
+        "Network security": [],
+        "Cryptography": []
+      },
+      "Testing": {
+        "Principles": [],
+        "Web Frontend": [],
+        "Gherkin": [],
+        ".NET": [],
+        "JavaScript": [],
+        "C++": [],
+        "Load testing": [],
+        "Tools": []
+      },
+      "Data Science": {
+        "Principles": [],
+        "Big Data": [],
+        "Machine Learning": [],
+        "Libraries": []
+      },
+      "Relational DBMS": {
+        "Principles": [],
+        "Java Access": [],
+        "SQL Server": []
+      },
+      "NoSQL": {
+        "MongoDB": [],
+        "Redis": []
+      },
+      "IDEs and tools": [],
+      "Blockchain": [],
+      "Parallelism": {
+        ".NET": [],
+        "NodeJS": [],
+        "Java": [],
+        "JavaScript": [],
+        "RabbitMQ": []
+      }
+    },
+    "Mathematics": [],
+    "Physics": [],
+    "Electronics": {
+      "Principles": [],
+      "Arduino": [],
+      "Robotics": []
+    },
+    "Ecology": [],
+    "Astronomy": [],
+    "Tools": [],
+    "Enterprise Processes": {
+      "Human Resources": [],
+      "Management": [],
+      "Meetings": [],
+      "Finance": [],
+      "Quality Assurance": [],
+      "Marketing": [],
+      "Negotiation": [],
+      "Company Regulations": [],
+      "Safety": [],
+      "Security": []
+    }
+  },
+  "Humanism": {
+    "Personal Development": [],
+    "Human Interactions": [],
+    "Listening": [],
+    "Speaking": [],
+    "Diversity & Inclusion": [],
+    "Leadership": [],
+    "Learning & teaching": [],
+    "Personal branding": [],
+    "Innovation": [],
+    "Art": {
+      "Visual": {
+        "Computer Graphics": [],
+        "Design": [],
+        "Color Theory": []
+      },
+      "Music": [],
+      "Literature": {
+        "Dante": [],
+        "Hellenism": []
+      },
+      "Theatre": []
+    },
+    "Philosophy": [],
+    "Languages": {
+      "English": [],
+      "French": []
+    },
+    "Law": {
+      "National Laws": [],
+      "International Agreements": []
+    }
+  }
+}
