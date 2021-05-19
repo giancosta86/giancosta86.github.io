@@ -4,10 +4,13 @@
   "description": "Gianluca Costa's website",
   "private": true,
   "scripts": {
+    "clean": "rimraf .next out",
     "dev": "next dev",
+    "start": "yarn dev",
     "build": "next build",
-    "start": "next dev",
     "prod": "next start",
+    "export": "next export",
+    "rebuild": "yarn clean && yarn build && yarn export",
     "format": "prettier --write **/*.{js,jsx,ts,tsx,scss,json}"
   },
   "author": {
@@ -36,6 +39,7 @@
     "sass": "^1.32.13"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "rimraf": "^3.0.2"
   }
 }
