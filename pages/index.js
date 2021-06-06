@@ -46,7 +46,7 @@ export default function Home() {
         </div>
 
         <div className={styles.learningBox}>
-          <h2>Interactive learning report</h2>
+          <h2 id="learning">Interactive learning report</h2>
 
           <CourseReport
             loader={
