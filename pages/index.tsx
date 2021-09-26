@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <meta charSet="utf-8" />
         <title>Gianluca Costa's Creations</title>
-        <meta name="author" value="Gianluca Costa" />
+        <meta name="author" content="Gianluca Costa" />
         <link rel="canonical" href="https://gianlucacosta.info/" />
         <meta name="description" content="Gianluca Costa's personal website" />
         <meta name="keywords" content="Gianluca Costa,science,humanism" />

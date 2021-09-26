@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "14.0.0",
+  "version": "14.1.0",
   "description": "Gianluca Costa's website",
   "private": true,
   "scripts": {
@@ -39,7 +39,9 @@
     "sass": "^1.32.13"
   },
   "devDependencies": {
+    "@types/react": "^17.0.16",
     "prettier": "^1.19.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "typescript": "^4.3.5"
   }
 }
