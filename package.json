@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@giancosta86/omnicourse": "^1.1.0",
-    "next": "10.2.0",
+    "next": "11.1.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-markdown": "^6.0.2",
