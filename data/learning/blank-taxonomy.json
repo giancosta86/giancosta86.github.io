@@ -26,6 +26,8 @@
           "Markdown": []
         },
         "Elm": [],
+        "Rust": [],
+        "Elixir": [],
         "C": [],
         "C++": [],
         "Go": [],
@@ -46,13 +48,17 @@
         "Domain-Driven Design": [],
         "Design Patterns": [],
         "User Interface": [],
-        "Microservices": []
+        "Microservices": [],
+        "Functional Programming": []
       },
       "Cloud & Virtualization": {
         "Network Principles": [],
         "Amazon Web Services": [],
+        "Azure": [],
         "Docker": [],
-        "Kubernetes": []
+        "Kubernetes": [],
+        "IoT": [],
+        "Telemetry": []
       },
       "Operating Systems": {
         "Linux": []
@@ -72,7 +78,8 @@
         "Progressive Web Apps": [],
         "WebAssembly": [],
         "Transpilers & Shims": [],
-        "Rendering": []
+        "Rendering": [],
+        "Accessibility": []
       },
       "Web Backend": {
         "Generic": [],
@@ -155,8 +162,11 @@
   "Humanism": {
     "Personal Development": [],
     "Human Interactions": [],
-    "Listening": [],
-    "Speaking": [],
+    "Agile": {
+      "Principles": [],
+      "Scrum": [],
+      "Kanban": []
+    },
     "Diversity & Inclusion": [],
     "Leadership": [],
     "Learning & teaching": [],
