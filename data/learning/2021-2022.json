@@ -26,7 +26,77 @@
                     "Redux": [],
                     "Libraries": []
                 },
-                "TypeScript": [],
+                "TypeScript": [
+                    {
+                        "completionDate": "2021-11-26",
+                        "title": "Understanding TypeScript - 2022 Edition",
+                        "url": "https://www.udemy.com/course/understanding-typescript/",
+                        "minutes": 900
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-23",
+                        "title": "Configuring, Compiling, and Debugging TypeScript Projects",
+                        "url": "https://www.pluralsight.com/courses/typescript-configuring-compiling-debugging-projects",
+                        "minutes": 126
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-23",
+                        "title": "Creating a TypeScript Declaration File",
+                        "url": "https://www.pluralsight.com/courses/creating-typescript-declaration-file",
+                        "minutes": 88
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-22",
+                        "title": "Using Specialized Types and Language Features in TypeScript",
+                        "url": "https://www.pluralsight.com/courses/typescript-specialized-types-language-features",
+                        "minutes": 92
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-22",
+                        "title": "Creating and Using TypeScript Decorators",
+                        "url": "https://www.pluralsight.com/courses/creating-using-typescript-decorators",
+                        "minutes": 73
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-21",
+                        "title": "Using TypeScript Modules",
+                        "url": "https://www.pluralsight.com/courses/typescript-modules",
+                        "minutes": 84
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-21",
+                        "title": "Creating and Using Generics in TypeScript",
+                        "url": "https://www.pluralsight.com/courses/typescript-generics-creating-using",
+                        "minutes": 49
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-20",
+                        "title": "Creating Object-oriented TypeScript Code",
+                        "url": "https://www.pluralsight.com/courses/typescript-creating-object-oriented-code",
+                        "minutes": 131
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-20",
+                        "title": "TypeScript: Getting Started",
+                        "url": "https://www.pluralsight.com/courses/getting-started-typescript",
+                        "minutes": 181
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-20",
+                        "title": "TypeScript: The Big Picture",
+                        "url": "https://www.pluralsight.com/courses/typescript-big-picture",
+                        "minutes": 44
+                    }
+                ],
                 "Bash": [],
                 "DSL": {
                     "Regular Expressions": [],
@@ -467,7 +537,35 @@
             },
             "Web Frontend": {
                 "Principles": [],
-                "React": [],
+                "React": [
+                    {
+                        "completionDate": "2021-11-28",
+                        "title": "Choosing a React Framework",
+                        "url": "https://www.pluralsight.com/courses/react-framework-choosing",
+                        "minutes": 66
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-28",
+                        "title": "Styling React Components",
+                        "url": "https://www.pluralsight.com/courses/react-components-styling",
+                        "minutes": 68
+                    },
+                    
+                    {
+                        "completionDate": "2021-11-27",
+                        "title": "A Practical Start with React",
+                        "url": "https://www.pluralsight.com/courses/react-practical-start",
+                        "minutes": 108
+                    },
+                    
+                    {
+                        "completionDate": "2021-01-27",
+                        "title": "React: The Big Picture",
+                        "url": "https://www.pluralsight.com/courses/react-big-picture",
+                        "minutes": 70
+                    }                    
+                ],
                 "Angular": [],
                 "jQuery": [],
                 "CSS": [],
@@ -867,11 +965,57 @@
             }
         ],
         "Languages": {
-            "English": [],
+            "English": [
+                {
+                    "completionDate": "2021-12-03",
+                    "title": "English Vocabulary in Use - Pre-intermediate and  intermediate",
+                    "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-pre-intermediate-and-intermediate-4th-edition",
+                    "minutes": 660
+                },
+                
+                {
+                    "completionDate": "2021-11-23",
+                    "title": "English Vocabulary in Use - Elementary",
+                    "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/vocabulary/english-vocabulary-use-elementary-3rd-edition",
+                    "minutes": 360
+                },
+
+                {
+                    "completionDate": "2021-12-02",
+                    "title": "Inglese - 150 phrasal verbs",
+                    "url": "https://www.libri.it/a-prima-vista-phrasal-verbs-inglese",
+                    "minutes": 180
+                }
+            ],
             "French": []
         },
         "Law": {
             "National Laws": [
+                {
+                    "completionDate": "2021-12-05",
+                    "title": "Regime forfettario 2020",
+                    "minutes": 225
+                },
+                
+                {
+                    "completionDate": "2021-11-19",
+                    "title": "Consigli per partite IVA e freelance",
+                    "minutes": 120
+                },
+                
+                {
+                    "completionDate": "2021-11-18",
+                    "title": "Apro la Partita IVA: una guida pratica per il tuo business",
+                    "minutes": 240
+                },
+                
+                {
+                    "completionDate": "2021-11-17",
+                    "title": "Partita IVA semplice",
+                    "url": "https://www.regime-forfettario.it/partita-iva-semplice-il-libro-per-freelance-e-liberi-professionisti/",
+                    "minutes": 330
+                },
+                
                 {
                     "completionDate": "2021-10-24",
                     "title": "Formazione generale dei lavoratori",
