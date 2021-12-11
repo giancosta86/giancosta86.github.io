@@ -539,6 +539,55 @@
                 "Principles": [],
                 "React": [
                     {
+                        "completionDate": "2021-12-11",
+                        "title": "Optimize Performance for React",
+                        "url": "https://www.pluralsight.com/courses/optimize-performance-react",
+                        "minutes": 55
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-11",
+                        "title": "Managing Large Datasets in React",
+                        "url": "https://www.pluralsight.com/courses/react-managing-large-data-sets",
+                        "minutes": 51
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-10",
+                        "title": "Managing React State",
+                        "url": "https://www.pluralsight.com/courses/react-state-managing",
+                        "minutes": 305
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-09",
+                        "title": "Calling APIs with React",
+                        "url": "https://www.pluralsight.com/courses/react-calling-apis",
+                        "minutes": 134
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-08",
+                        "title": "React Security: Best Practices",
+                        "url": "https://www.pluralsight.com/courses/react-security-best-practices",
+                        "minutes": 65
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-08",
+                        "title": "Implementing Forms in React",
+                        "url": "https://www.pluralsight.com/courses/react-implementing-forms",
+                        "minutes": 108
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-07",
+                        "title": "Using React Hooks",
+                        "url": "https://www.pluralsight.com/courses/using-react-hooks",
+                        "minutes": 200
+                    },
+                    
+                    {
                         "completionDate": "2021-11-28",
                         "title": "Choosing a React Framework",
                         "url": "https://www.pluralsight.com/courses/react-framework-choosing",
