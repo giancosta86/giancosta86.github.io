@@ -539,6 +539,41 @@
                 "Principles": [],
                 "React": [
                     {
+                        "completionDate": "2021-12-14",
+                        "title": "Building React Apps with TypeScript",
+                        "url": "https://www.pluralsight.com/courses/react-apps-typescript-building",
+                        "minutes": 57
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-13",
+                        "title": "Developing React.js Apps with Docker",
+                        "url": "https://www.pluralsight.com/courses/reactjs-apps-docker-developing",
+                        "minutes": 112
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-13",
+                        "title": "Testing React Components",
+                        "url": "https://www.pluralsight.com/courses/testing-react-components",
+                        "minutes": 143
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-12",
+                        "title": "Server Rendering React Components",
+                        "url": "https://www.pluralsight.com/courses/server-rendering-react-components",
+                        "minutes": 90
+                    },
+                    
+                    {
+                        "completionDate": "2021-12-12",
+                        "title": "Designing React Components",
+                        "url": "https://www.pluralsight.com/courses/react-components-designing",
+                        "minutes": 235
+                    },
+                    
+                    {
                         "completionDate": "2021-12-11",
                         "title": "Optimize Performance for React",
                         "url": "https://www.pluralsight.com/courses/optimize-performance-react",
