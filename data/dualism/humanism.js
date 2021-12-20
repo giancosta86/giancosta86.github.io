@@ -13,7 +13,7 @@ export let humanismMarkdown = `
 
 * 🌷 [Arcadia](/Arcadia), the collection of **my poems**, mainly in *ancient Italian*
 
-* 🏳️‍🌈 Proudly supporting **LGBT+ rights** and **equality**
+* 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 
 * 🎶 [YouTube channel](https://www.youtube.com/channel/UCsPuMOLKfBokZxr21PivQaw), with my amateur **music** performances
 
