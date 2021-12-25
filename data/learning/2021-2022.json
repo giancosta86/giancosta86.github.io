@@ -744,7 +744,14 @@
                         "minutes": 77
                     }
                 ],
-                "NodeJS": []
+                "NodeJS": [
+                    {
+                        "completionDate": "2021-12-24",
+                        "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+                        "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
+                        "minutes": 2430
+                    }
+                ]
             },
             "CI/CD": {
                 "Principles": [],
