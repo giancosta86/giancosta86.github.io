@@ -1,30 +1,38 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 strong {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 em {
-    font-style: italic;
+  font-style: italic;
 }
 
 h1 {
-    font-weight: bold;
-    font-size: 1.5em;
-    text-align: center;
-    font-family: "Signika", sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: "Signika", sans-serif;
 }
 
 h2 {
-    font-size: 1.4em;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 1em;
-    font-family: "Signika", sans-serif;
+  font-size: 1.4em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1em;
+  font-family: "Signika", sans-serif;
+}
+
+footer.mainFooter {
+  text-align: center;
+  font-size: 0.75em;
+  margin-bottom: 0.75em;
+  padding-top: 0.5em;
+  border-top: 1px dotted silver;
 }
