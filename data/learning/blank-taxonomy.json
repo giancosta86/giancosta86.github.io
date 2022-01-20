@@ -70,6 +70,7 @@
       "Web Frontend": {
         "Principles": [],
         "React": [],
+        "Vue": [],
         "Angular": [],
         "jQuery": [],
         "CSS": [],
@@ -89,7 +90,8 @@
         "Ruby": [],
         "Python": [],
         "GraphQL": [],
-        "NodeJS": []
+        "NodeJS": [],
+        "Go": []
       },
       "CI/CD": {
         "Principles": [],
