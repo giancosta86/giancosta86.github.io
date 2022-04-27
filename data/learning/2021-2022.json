@@ -3,7 +3,105 @@
     "Information Technology": {
       "Ecosystems": {
         ".NET": {
-          "C#": [],
+          "C#": [
+            {
+              "completionDate": "2022-02-22",
+              "title": "Implementing C# Unit Testing Using Visual Studio 2019 and .NET 5",
+              "url": "https://www.pluralsight.com/courses/basic-unit-testing-csharp-developers",
+              "minutes": 429
+            },
+
+            {
+              "completionDate": "2022-02-21",
+              "title": "IDisposable Best Practices for C# Developers",
+              "url": "https://www.pluralsight.com/courses/c-sharp-developers-idisposable-best-practices",
+              "minutes": 136
+            },
+
+            {
+              "completionDate": "2022-02-21",
+              "title": "Working with C# Records",
+              "url": "https://www.pluralsight.com/courses/working-c-sharp-records",
+              "minutes": 66
+            },
+
+            {
+              "completionDate": "2022-02-20",
+              "title": "Defensive Coding in C#",
+              "url": "https://www.pluralsight.com/courses/csharp-defensive-coding",
+              "minutes": 134
+            },
+
+            {
+              "completionDate": "2022-02-20",
+              "title": "Working with Nulls in C#",
+              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
+              "minutes": 130
+            },
+
+            {
+              "completionDate": "2022-02-19",
+              "title": "C# Interfaces",
+              "url": "https://www.pluralsight.com/courses/c-sharp-interfaces",
+              "minutes": 164
+            },
+
+            {
+              "completionDate": "2022-02-19",
+              "title": "Exception Handling in C# 9",
+              "url": "https://www.pluralsight.com/courses/exception-handling-c-sharp",
+              "minutes": 104
+            },
+
+            {
+              "completionDate": "2022-02-18",
+              "title": "C# Generics",
+              "url": "https://www.pluralsight.com/courses/c-sharp-generics",
+              "minutes": 195
+            },
+
+            {
+              "completionDate": "2022-02-18",
+              "title": "C# Language-Integrated Query (LINQ)",
+              "url": "https://www.pluralsight.com/courses/c-sharp-language-integrated-query-linq",
+              "minutes": 152
+            },
+
+            {
+              "completionDate": "2022-02-17",
+              "title": "Working with Arrays and Collections in C#",
+              "url": "https://www.pluralsight.com/courses/working-arrays-collections-c-sharp",
+              "minutes": 132
+            },
+
+            {
+              "completionDate": "2022-02-16",
+              "title": "Introduction to the C# Type System",
+              "url": "https://www.pluralsight.com/courses/introduction-c-sharp-type-system",
+              "minutes": 317
+            },
+
+            {
+              "completionDate": "2022-02-11",
+              "title": "Controlling Program Flow in C#",
+              "url": "https://www.pluralsight.com/courses/controlling-program-flow-c-sharp",
+              "minutes": 120
+            },
+
+            {
+              "completionDate": "2022-02-11",
+              "title": "C#: Getting Started",
+              "url": "https://www.pluralsight.com/courses/c-sharp-getting-started",
+              "minutes": 97
+            },
+
+            {
+              "completionDate": "2022-02-10",
+              "title": "C# 9: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/c-sharp-big-picture",
+              "minutes": 64
+            }
+          ],
           "F#": [],
           "Platform": []
         },
@@ -248,6 +346,12 @@
           }
         ],
         "Python": [
+          {
+            "completionDate": "2022-03-08",
+            "title": "The Complete Python Course | Learn Python by Doing in 2022",
+            "url": "https://www.udemy.com/course/the-complete-python-course/",
+            "minutes": 2100
+          },
           {
             "completionDate": "2021-11-12",
             "title": "Core Python: Byte Oriented Programming",
@@ -727,7 +831,49 @@
         "Java": [],
         "Scala": [],
         "Ruby": [],
-        "Python": [],
+        "Python": [
+          {
+            "completionDate": "2022-03-16",
+            "title": "Structuring a Growing Flask 1 Application",
+            "url": "https://www.pluralsight.com/courses/structuring-growing-flask-application",
+            "minutes": 98
+          },
+
+          {
+            "completionDate": "2022-03-16",
+            "title": "Flask 1 Users, Sessions, and Authentication",
+            "url": "https://www.pluralsight.com/courses/flask-users-sessions-authentication",
+            "minutes": 95
+          },
+
+          {
+            "completionDate": "2022-03-14",
+            "title": "Building Reliable Flask 1 Applications",
+            "url": "https://www.pluralsight.com/courses/building-reliable-flask-applications",
+            "minutes": 273
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Creating a Model Layer for Flask",
+            "url": "https://www.pluralsight.com/courses/flask-creating-model-layer",
+            "minutes": 81
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Creating and Processing Web Forms with Flask 1",
+            "url": "https://www.pluralsight.com/courses/creating-processing-web-forms-flask",
+            "minutes": 97
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Flask: Getting Started",
+            "url": "https://www.pluralsight.com/courses/flask-getting-started",
+            "minutes": 288
+          }
+        ],
         "GraphQL": [
           {
             "completionDate": "2021-10-03",
@@ -743,6 +889,13 @@
           }
         ],
         "NodeJS": [
+          {
+            "completionDate": "2022-02-02",
+            "title": "Hands-On Server-Side Web Development with Koa.js",
+            "url": "https://www.packtpub.com/product/hands-on-server-side-web-development-with-koa-js-video/9781838828752",
+            "minutes": 153
+          },
+
           {
             "completionDate": "2021-12-24",
             "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
@@ -1072,6 +1225,13 @@
     },
     "Philosophy": [
       {
+        "completionDate": "2022-02-04",
+        "title": "Trattato sulla Tolleranza",
+        "url": "https://it.m.wikipedia.org/wiki/Trattato_sulla_tolleranza",
+        "minutes": 270
+      },
+
+      {
         "completionDate": "2021-11-14",
         "title": "Platone. Alla ricerca della sapienza segreta",
         "url": "http://www.lanavediteseo.eu/item/platone-alla-ricerca-della-sapienza-segreta/",
@@ -1108,7 +1268,58 @@
           "minutes": 180
         }
       ],
-      "French": []
+      "French": [],
+      "Portuguese": [
+        {
+          "completionDate": "2022-02-07",
+          "title": "Duolingo - Portuguese course",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 1440
+        },
+
+        {
+          "completionDate": "2022-02-02",
+          "title": "Portuguese Grammar You Really Need To Know",
+          "url": "https://books.google.it/books/about/Portuguese_Grammar_You_Really_Need_To_Kn.html?id=W9A1AgAAQBAJ",
+          "minutes": 4680
+        }
+      ],
+      "Spanish": [
+        {
+          "completionDate": "2022-04-27",
+          "title": "ConjuGato",
+          "url": "https://qotoqot.com/conjugato/",
+          "minutes": 870
+        },
+
+        {
+          "completionDate": "2022-04-23",
+          "title": "Duolingo - Spanish course",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 5760
+        },
+
+        {
+          "completionDate": "2022-04-14",
+          "title": "Spanish/English - Bilingual dictionary",
+          "url": "https://www.dk.com/us/book/9781465459312-spanish-english-bilingual-visual-dictionary/",
+          "minutes": 1710
+        },
+
+        {
+          "completionDate": "2022-03-25",
+          "title": "Spagnolo - Grammatica",
+          "url": "https://books.google.it/books?id=Q2w-bwAACAAJ",
+          "minutes": 3180
+        },
+
+        {
+          "completionDate": "2022-03-05",
+          "title": "Spanish Grammar you really need to know",
+          "url": "https://books.google.it/books?id=zn-4tE6F5-wC",
+          "minutes": 1380
+        }
+      ]
     },
     "Law": {
       "National Laws": [

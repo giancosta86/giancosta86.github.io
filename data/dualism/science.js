@@ -9,13 +9,13 @@ export let scienceMarkdown = `
 
 * 🎓 One of the **30 best Engineering students** in Bologna, in 2016
 
-* 🤖 More than **70 open source projects** on [GitHub](https://github.com/giancosta86)
+* 🤖 More than **80 open source projects** on [GitHub](https://github.com/giancosta86)
 
 * 🐧 **Linux** user *since 2004* - mainly on Debian-based distros
 
 * 📽️ **Presentations** on [SpeakerDeck](https://speakerdeck.com/giancosta86)
 
-* 📦 **JavaScript** and **TypeScript** packages on [NPM](https://www.npmjs.com/~giancosta86)
+* 📦 **TypeScript** and **JavaScript** packages on [NPM](https://www.npmjs.com/~giancosta86)
 
-* 🐳 **Container images** on [Docker Hub](https://hub.docker.com/u/giancosta86/)
+* 🐍 **Python libraries** on [PyPI](https://pypi.org/user/giancosta86/)
 `

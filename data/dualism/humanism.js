@@ -11,7 +11,7 @@ export let humanismMarkdown = `
 
 * 💭 Fond of **Philosophy** as a way to explore oneself and the cosmos
 
-* 🌷 [Arcadia](/Arcadia), the collection of **my poems**, mainly in *ancient Italian*
+* 🇪🇸 Actively learning **Spanish**
 
 * 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 

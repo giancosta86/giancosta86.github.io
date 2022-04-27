@@ -56,7 +56,7 @@
       li {
         border: 1px solid silver;
         display: block;
-        width: 10em;
+        width: 10.25em;
         height: 5.6em;
         padding: 0.3em;
         margin: 0.3em;
@@ -72,7 +72,11 @@
       color: navy;
     }
 
-    background: linear-gradient(135deg, rgb(210, 247, 255) 0%, rgb(255, 255, 255) 100%);
+    background: linear-gradient(
+      135deg,
+      rgb(210, 247, 255) 0%,
+      rgb(255, 255, 255) 100%
+    );
     border: 2px solid navy;
     border-radius: 2em 0 0 2em;
 
@@ -97,7 +101,11 @@
       color: darkgreen;
     }
 
-    background: linear-gradient(225deg, rgb(230, 255, 210) 0%, rgb(255, 255, 255) 100%);
+    background: linear-gradient(
+      225deg,
+      rgb(230, 255, 210) 0%,
+      rgb(255, 255, 255) 100%
+    );
 
     border: 2px solid green;
     border-radius: 0 2em 2em 0;
@@ -174,12 +182,20 @@
     }
 
     .science {
-      background: linear-gradient(180deg, rgb(210, 247, 255) 0%, rgb(255, 255, 255) 100%);
+      background: linear-gradient(
+        180deg,
+        rgb(210, 247, 255) 0%,
+        rgb(255, 255, 255) 100%
+      );
       border-radius: 1em 1em 0 0;
     }
 
     .humanism {
-      background: linear-gradient(180deg, rgb(230, 255, 210) 0%, rgb(255, 255, 255) 100%);
+      background: linear-gradient(
+        180deg,
+        rgb(230, 255, 210) 0%,
+        rgb(255, 255, 255) 100%
+      );
       border-radius: 0 0 1em 1em;
     }
   }
