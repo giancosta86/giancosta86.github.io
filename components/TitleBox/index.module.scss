@@ -1,0 +1,28 @@
+.title {
+  margin: 0.4em 0;
+}
+
+.portraitBox {
+  text-align: center;
+  margin: 0.3em 0;
+}
+
+.portrait {
+  width: 8em;
+  border-radius: 50%;
+}
+
+.signatureBox {
+  font-family: "Charm", cursive;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0.6em;
+  color: #141e5b;
+}
+
+@media screen and (max-width: 600px) {
+  .signatureBox {
+    margin-bottom: 0.8em;
+  }
+}

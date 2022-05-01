@@ -5,6 +5,7 @@ import styles from "./index.module.scss";
 import { DualismBox } from "../components/DualismBox";
 import { LearningBox } from "../components/LearningBox";
 import { ContactsBox } from "../components/ContactsBox";
+import { TitleBox } from "../components/TitleBox";
 
 export default function Home() {
   return (
@@ -23,19 +24,7 @@ export default function Home() {
       </Head>
       <main>
         <div className={styles.container}>
-          <div className={styles.header}>
-            <h1>Gianluca Costa's Creations</h1>
-          </div>
-
-          <div className={styles.portraitBox}>
-            <img
-              className={styles.portrait}
-              alt="Gianluca Costa's portrait"
-              src="gian.jpg"
-            />
-          </div>
-
-          <div className={styles.signatureBox}>Elegance always matters</div>
+          <TitleBox />
 
           <DualismBox />
 
