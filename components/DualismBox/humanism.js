@@ -1,4 +1,4 @@
-export let humanismMarkdown = `
+export const humanismMarkdown = `
 ## 🌈 Humanism
 
 * 💡 Curious **learner**, passionate **teacher**

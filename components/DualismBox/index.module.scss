@@ -1,0 +1,127 @@
+.dualismBox {
+  display: flex;
+
+  padding: 0.5em;
+
+  flex: 1;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+
+  & > div {
+    flex: 1;
+    padding: 0.5em;
+
+    ul {
+      display: flex;
+      flex-flow: row wrap;
+      align-items: flex-start;
+      justify-content: center;
+      align-content: flex-start;
+
+      li {
+        border: 1px solid silver;
+        display: block;
+        width: 10.25em;
+        height: 5.6em;
+        padding: 0.3em;
+        margin: 0.3em;
+        line-height: 1.2em;
+
+        background: white;
+      }
+    }
+  }
+}
+
+.scienceBox {
+  h2 {
+    color: navy;
+  }
+
+  background: linear-gradient(
+    135deg,
+    rgb(210, 247, 255) 0%,
+    rgb(255, 255, 255) 100%
+  );
+  border: 2px solid navy;
+  border-radius: 2em 0 0 2em;
+
+  a {
+    &:link,
+    &:visited {
+      color: #2a7ae2;
+    }
+  }
+
+  li {
+    box-shadow: 2px 2px 3px #454590;
+
+    &:hover {
+      box-shadow: 3px 3px 4px midnightblue;
+    }
+  }
+}
+
+.humanismBox {
+  h2 {
+    color: darkgreen;
+  }
+
+  background: linear-gradient(
+    225deg,
+    rgb(230, 255, 210) 0%,
+    rgb(255, 255, 255) 100%
+  );
+
+  border: 2px solid green;
+  border-radius: 0 2em 2em 0;
+
+  a {
+    &:link,
+    &:visited {
+      color: #2c7a34;
+    }
+  }
+
+  li {
+    box-shadow: 2px 2px 3px green;
+
+    &:hover {
+      box-shadow: 3px 3px 4px darkgreen;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .dualism {
+    flex-flow: column nowrap;
+
+    & > div {
+      ul {
+        li {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+
+  .science {
+    background: linear-gradient(
+      180deg,
+      rgb(210, 247, 255) 0%,
+      rgb(255, 255, 255) 100%
+    );
+    border-radius: 1em 1em 0 0;
+  }
+
+  .humanism {
+    background: linear-gradient(
+      180deg,
+      rgb(230, 255, 210) 0%,
+      rgb(255, 255, 255) 100%
+    );
+    border-radius: 0 0 1em 1em;
+  }
+}

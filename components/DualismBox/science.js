@@ -1,4 +1,4 @@
-export let scienceMarkdown = `
+export const scienceMarkdown = `
 ## 🧬 Science
 
 * ⌨️ Passionate **software craftsman** *since 1999*

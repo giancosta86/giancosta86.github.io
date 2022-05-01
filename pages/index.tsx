@@ -2,12 +2,9 @@ import Head from "next/head";
 import Link from "next/link";
 import styles from "./index.module.scss";
 
-import ReactMarkdown from "react-markdown";
-import { scienceMarkdown } from "../data/dualism/science";
-import { humanismMarkdown } from "../data/dualism/humanism";
-
 import { CourseReport } from "@giancosta86/omnicourse";
 import allCourses from "../data/learning/all-courses";
+import { DualismBox } from "../components/DualismBox";
 
 export default function Home() {
   return (
@@ -40,15 +37,7 @@ export default function Home() {
 
           <div className={styles.signatureBox}>Elegance always matters</div>
 
-          <div className={styles.dualism}>
-            <div className={styles.science}>
-              <ReactMarkdown children={scienceMarkdown} />
-            </div>
-
-            <div className={styles.humanism}>
-              <ReactMarkdown children={humanismMarkdown} />
-            </div>
-          </div>
+          <DualismBox />
 
           <div className={styles.learningBox}>
             <h2 id="learning">Interactive learning report</h2>
