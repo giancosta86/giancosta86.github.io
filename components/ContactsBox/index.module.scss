@@ -1,0 +1,31 @@
+.contactsBox {
+  display: flex;
+
+  border-top: 1px solid #004d86;
+
+  margin: 0.5em 0;
+  padding: 0.5em;
+
+  flex-flow: row wrap;
+
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+
+    border: 2px solid #0d2b41;
+    background: #004d86;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    margin: 0.5em;
+
+    &:hover {
+      background: #2c78b3;
+    }
+
+    &:link,
+    &:visited {
+      color: white;
+    }
+  }
+}
