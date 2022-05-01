@@ -1,13 +1,13 @@
-import Head from "next/head"
-import Link from "next/link"
-import styles from "../styles/Home.module.scss"
+import Head from "next/head";
+import Link from "next/link";
+import styles from "../styles/Home.module.scss";
 
-import ReactMarkdown from "react-markdown"
-import { scienceMarkdown } from "../data/dualism/science"
-import { humanismMarkdown } from "../data/dualism/humanism"
+import ReactMarkdown from "react-markdown";
+import { scienceMarkdown } from "../data/dualism/science";
+import { humanismMarkdown } from "../data/dualism/humanism";
 
-import { CourseReport } from "@giancosta86/omnicourse"
-import allCourses from "../data/learning/all-courses"
+import { CourseReport } from "@giancosta86/omnicourse";
+import allCourses from "../data/learning/all-courses";
 
 export default function Home() {
   return (
@@ -85,5 +85,5 @@ export default function Home() {
         <Link href="/privacy">Privacy policy</Link>
       </footer>
     </>
-  )
+  );
 }

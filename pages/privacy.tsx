@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from "next/link";
 
 export default function Privacy() {
   return (
@@ -11,5 +11,5 @@ export default function Privacy() {
         <Link href="/">Back to home page</Link>
       </main>
     </article>
-  )
+  );
 }

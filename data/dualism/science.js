@@ -18,4 +18,4 @@ export let scienceMarkdown = `
 * 📦 **TypeScript** and **JavaScript** packages on [NPM](https://www.npmjs.com/~giancosta86)
 
 * 🐍 **Python libraries** on [PyPI](https://pypi.org/user/giancosta86/)
-`
+`;

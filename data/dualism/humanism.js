@@ -18,4 +18,4 @@ export let humanismMarkdown = `
 * 🎶 [YouTube channel](https://www.youtube.com/channel/UCsPuMOLKfBokZxr21PivQaw), with my amateur **music** performances
 
 * 🏺 [Award](https://www.instagram.com/p/CMo_6ZunQkM) in national competition of **Latin translation**, in 2003
-`
+`;
