@@ -10,7 +10,7 @@ import { SiteHead } from "../components/SiteHead";
 export default function Home() {
   return (
     <>
-      <SiteHead pagePath="/" />
+      <SiteHead pagePath="/" imagePath="/preview.png" />
 
       <main>
         <div className={styles.container}>

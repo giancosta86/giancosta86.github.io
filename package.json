@@ -1,7 +1,12 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "14.2.0",
-  "description": "Gianluca Costa's website",
+  "version": "14.3.0",
+  "description": "Website project",
+  "website": {
+    "title": "Gianluca Costa's Creations",
+    "domain": "gianlucacosta.info",
+    "description": "Gianluca Costa's personal website"
+  },
   "private": true,
   "scripts": {
     "clean": "rimraf .next out",
