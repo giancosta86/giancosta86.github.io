@@ -94,7 +94,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .dualism {
+  .dualismBox {
     flex-flow: column nowrap;
 
     & > div {
@@ -107,7 +107,7 @@
     }
   }
 
-  .science {
+  .scienceBox {
     background: linear-gradient(
       180deg,
       rgb(210, 247, 255) 0%,
@@ -116,7 +116,7 @@
     border-radius: 1em 1em 0 0;
   }
 
-  .humanism {
+  .humanismBox {
     background: linear-gradient(
       180deg,
       rgb(230, 255, 210) 0%,
