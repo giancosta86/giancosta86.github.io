@@ -2,7 +2,9 @@ import React from "react";
 
 import Head from "next/head";
 
-import { website } from "../package.json";
+import packageInfo from "../package.json";
+
+const { website } = packageInfo;
 
 interface Props {
   pageTitle?: string;
