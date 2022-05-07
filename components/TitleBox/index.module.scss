@@ -1,3 +1,5 @@
+@import "../../styles/mobile.scss";
+
 .title {
   margin: 0.4em 0;
 }
@@ -21,7 +23,7 @@
   color: #141e5b;
 }
 
-@media screen and (max-width: 600px) {
+@include mobile {
   .signatureBox {
     margin-bottom: 0.8em;
   }

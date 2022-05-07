@@ -1,4 +1,8 @@
-export const scienceMarkdown = `
+import React from "react";
+import ReactMarkdown from "react-markdown";
+import styles from "./ScienceBox.module.scss";
+
+const scienceMarkdown = `
 ## 🧬 Science
 
 * ⌨️ Passionate **software craftsman** *since 1999*
@@ -19,3 +23,9 @@ export const scienceMarkdown = `
 
 * 🐍 **Python libraries** on [PyPI](https://pypi.org/user/giancosta86/)
 `;
+
+export const ScienceBox = () => (
+  <div className={styles.scienceBox}>
+    <ReactMarkdown children={scienceMarkdown} />
+  </div>
+);

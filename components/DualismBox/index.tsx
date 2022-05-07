@@ -1,17 +1,12 @@
 import React from "react";
-import { scienceMarkdown } from "./science";
-import { humanismMarkdown } from "./humanism";
-import ReactMarkdown from "react-markdown";
+import { HumanismBox } from "./HumanismBox";
 import styles from "./index.module.scss";
+import { ScienceBox } from "./ScienceBox";
 
 export const DualismBox = () => (
   <div className={styles.dualismBox}>
-    <div className={styles.scienceBox}>
-      <ReactMarkdown children={scienceMarkdown} />
-    </div>
+    <ScienceBox />
 
-    <div className={styles.humanismBox}>
-      <ReactMarkdown children={humanismMarkdown} />
-    </div>
+    <HumanismBox />
   </div>
 );

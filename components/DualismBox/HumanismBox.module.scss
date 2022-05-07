@@ -1,0 +1,42 @@
+@import "../../styles/mobile.scss";
+
+.humanismBox {
+  h2 {
+    color: darkgreen;
+  }
+
+  background: linear-gradient(
+    225deg,
+    rgb(230, 255, 210) 0%,
+    rgb(255, 255, 255) 100%
+  );
+
+  border: 2px solid green;
+  border-radius: 0 2em 2em 0;
+
+  a {
+    &:link,
+    &:visited {
+      color: #2c7a34;
+    }
+  }
+
+  li {
+    box-shadow: 2px 2px 3px green;
+
+    &:hover {
+      box-shadow: 3px 3px 4px darkgreen;
+    }
+  }
+}
+
+@include mobile {
+  .humanismBox {
+    background: linear-gradient(
+      180deg,
+      rgb(230, 255, 210) 0%,
+      rgb(255, 255, 255) 100%
+    );
+    border-radius: 0 0 1em 1em;
+  }
+}

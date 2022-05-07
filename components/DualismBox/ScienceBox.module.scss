@@ -1,0 +1,41 @@
+@import "../../styles/mobile.scss";
+
+.scienceBox {
+  h2 {
+    color: navy;
+  }
+
+  background: linear-gradient(
+    135deg,
+    rgb(210, 247, 255) 0%,
+    rgb(255, 255, 255) 100%
+  );
+  border: 2px solid navy;
+  border-radius: 2em 0 0 2em;
+
+  a {
+    &:link,
+    &:visited {
+      color: #2a7ae2;
+    }
+  }
+
+  li {
+    box-shadow: 2px 2px 3px #454590;
+
+    &:hover {
+      box-shadow: 3px 3px 4px midnightblue;
+    }
+  }
+}
+
+@include mobile {
+  .scienceBox {
+    background: linear-gradient(
+      180deg,
+      rgb(210, 247, 255) 0%,
+      rgb(255, 255, 255) 100%
+    );
+    border-radius: 1em 1em 0 0;
+  }
+}

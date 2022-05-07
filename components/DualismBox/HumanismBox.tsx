@@ -1,4 +1,8 @@
-export const humanismMarkdown = `
+import React from "react";
+import ReactMarkdown from "react-markdown";
+import styles from "./HumanismBox.module.scss";
+
+const humanismMarkdown = `
 ## 🌈 Humanism
 
 * 💡 Curious **learner**, passionate **teacher**
@@ -19,3 +23,9 @@ export const humanismMarkdown = `
 
 * 🏺 [Award](https://www.instagram.com/p/CMo_6ZunQkM) in national competition of **Latin translation**, in 2003
 `;
+
+export const HumanismBox = () => (
+  <div className={styles.humanismBox}>
+    <ReactMarkdown children={humanismMarkdown} />
+  </div>
+);
