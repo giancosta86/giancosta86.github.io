@@ -133,6 +133,13 @@
         },
         "TypeScript": [
           {
+            "completionDate": "2022-05-07",
+            "title": "TypeScript for Professionals",
+            "url": "https://www.udemy.com/course/typescript-for-professionals/",
+            "minutes": 180
+          },
+
+          {
             "completionDate": "2021-11-26",
             "title": "Understanding TypeScript - 2022 Edition",
             "url": "https://www.udemy.com/course/understanding-typescript/",
@@ -505,7 +512,21 @@
           }
         ],
         "R": [],
-        "Ruby": [],
+        "Ruby": [
+          {
+            "completionDate": "2022-05-03",
+            "title": "Ruby 2: Getting Started",
+            "url": "https://www.pluralsight.com/courses/ruby-getting-started",
+            "minutes": 100
+          },
+
+          {
+            "completionDate": "2022-05-02",
+            "title": "Ruby 2: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/ruby-big-picture",
+            "minutes": 75
+          }
+        ],
         "Microsoft Office": [],
         "Unity": []
       },
@@ -533,6 +554,13 @@
       "Cloud & Virtualization": {
         "Network Principles": [],
         "Amazon Web Services": [
+          {
+            "completionDate": "2022-05-06",
+            "title": "Implementing Serverless Microservices Architecture Patterns",
+            "url": "https://www.packtpub.com/product/implementing-serverless-microservices-architecture-patterns-video/9781788839570",
+            "minutes": 436
+          },
+
           {
             "completionDate": "2021-05-25",
             "title": "Creating, Connecting, and Monitoring Databases with Amazon RDS",
@@ -632,6 +660,27 @@
       "Web Frontend": {
         "Principles": [],
         "React": [
+          {
+            "completionDate": "2022-05-05",
+            "title": "React Hooks Tips Only the Pros Know",
+            "url": "https://www.packtpub.com/product/react-hooks-tips-only-the-pros-know-video/9781803233864",
+            "minutes": 143
+          },
+
+          {
+            "completionDate": "2022-05-04",
+            "title": "Concurrent Rendering Adventures in React 18",
+            "url": "https://www.packtpub.com/product/concurrent-rendering-adventures-in-react-18-video/9781803248493",
+            "minutes": 76
+          },
+
+          {
+            "completionDate": "2022-05-04",
+            "title": "React 18: First Look",
+            "url": "https://www.pluralsight.com/courses/react-18-first-look",
+            "minutes": 34
+          },
+
           {
             "completionDate": "2021-12-14",
             "title": "Building React Apps with TypeScript",
@@ -830,7 +879,14 @@
         ],
         "Java": [],
         "Scala": [],
-        "Ruby": [],
+        "Ruby": [
+          {
+            "completionDate": "2022-05-03",
+            "title": "Ruby on Rails: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/ruby-rails-big-picture",
+            "minutes": 53
+          }
+        ],
         "Python": [
           {
             "completionDate": "2022-03-16",
@@ -1286,15 +1342,22 @@
       ],
       "Spanish": [
         {
-          "completionDate": "2022-04-27",
-          "title": "ConjuGato",
+          "completionDate": "2022-05-07",
+          "title": "ConjuGato - Spanish verbs - daily training",
           "url": "https://qotoqot.com/conjugato/",
-          "minutes": 870
+          "minutes": 1070
+        },
+
+        {
+          "completionDate": "2022-05-07",
+          "title": "Duolingo - Spanish course - daily training",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 300
         },
 
         {
           "completionDate": "2022-04-23",
-          "title": "Duolingo - Spanish course",
+          "title": "Duolingo - Spanish course - Level 1",
           "url": "https://www.duolingo.com/profile/giancosta86",
           "minutes": 5760
         },
