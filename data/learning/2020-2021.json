@@ -256,7 +256,7 @@
             "completionDate": "2020-09-24",
             "title": "High-performance Computing in C++",
             "url": "https://www.pluralsight.com/courses/cpp-high-performance-computing",
-            "minutes": 0
+            "minutes": 243
           },
           {
             "completionDate": "2020-09-15",
@@ -268,7 +268,7 @@
             "completionDate": "2020-09-13",
             "title": "Beautiful C++: STL Algorithms",
             "url": "https://www.pluralsight.com/courses/beautiful-cplusplus-stl-algorithms",
-            "minutes": 0
+            "minutes": 264
           },
           {
             "completionDate": "2020-09-13",
@@ -1528,7 +1528,7 @@
           "completionDate": "2020-12-10",
           "title": "Introduction to Arduino",
           "url": "https://www.pluralsight.com/courses/arduino-introduction",
-          "minutes": 0
+          "minutes": 99
         },
         {
           "completionDate": "2020-12-25",
