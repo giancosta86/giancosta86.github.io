@@ -10,18 +10,10 @@
         "Java": [],
         "Scala": [],
         "Groovy": [],
-        "JavaScript": {
-          "Vanilla JS/ES": [],
-          "Webpack": [],
-          "RxJS": [],
-          "Electron": [],
-          "Functional": [],
-          "Redux": [],
-          "Libraries": []
-        },
+        "JavaScript": [],
         "TypeScript": [],
         "Bash": [],
-        "DSL": {
+        "Domain-specific": {
           "Regular Expressions": [],
           "Markdown": []
         },
@@ -33,24 +25,89 @@
         "Go": [],
         "Python": [],
         "R": [],
-        "Ruby": [],
-        "Microsoft Office": [],
-        "Unity": []
+        "Ruby": []
       },
-      "Mobile development": {
+      "Mobile Development": {
         "Ionic": [],
         "React Native": [],
         "Flutter": []
       },
       "Software Design": {
         "CQRS": [],
-        "Clean Code": [],
+        "Clean Code": {
+          "C#": [],
+          "Python": [],
+          "React": []
+        },
         "Domain-Driven Design": [],
         "Design Patterns": [],
         "User Interface": [],
-        "Microservices": [],
-        "Functional Programming": []
+        "Microservices": {
+          ".NET": [],
+          "Go": []
+        },
+        "Functional Programming": {
+          "Principles": [],
+          "JavaScript": [],
+          "Python": [],
+          "Go": [],
+          "RxJS": [],
+          "Redux": []
+        },
+        "Performance": {
+          "React": []
+        },
+        "Concurrency": {
+          ".NET": [],
+          "NodeJS": [],
+          "Java": [],
+          "JavaScript": [],
+          "Python": [],
+          "Go": [],
+          "React": []
+        },
+        "Events": {
+          "RabbitMQ": []
+        },
+        "Testing": {
+          "Principles": [],
+          "Frontend": {
+            "React": []
+          },
+          "Gherkin": [],
+          "C#": [],
+          "JavaScript": [],
+          "Python": [],
+          "C++": [],
+          "Go": [],
+          "Load testing": [],
+          "Tools": []
+        },
+        "Game development": {
+          "Unity": []
+        }
       },
+
+      "CI / CD": {
+        "Principles": [],
+
+        "Source Control": {
+          "Git": [],
+          "GitHub": []
+        },
+
+        "Project Configuration": {
+          "TypeScript": [],
+          "Python": [],
+          "Go": [],
+          "React": []
+        },
+
+        "GitHub Actions": [],
+        "Jenkins": [],
+        "IDEs & editors": []
+      },
+
       "Cloud & Virtualization": {
         "Network Principles": [],
         "Amazon Web Services": [],
@@ -58,16 +115,14 @@
         "Docker": [],
         "Kubernetes": [],
         "IoT": [],
+        "Operating Systems": {
+          "Linux": [],
+          "Windows": []
+        },
         "Telemetry": []
       },
-      "Operating Systems": {
-        "Linux": []
-      },
-      "Source Control": {
-        "Git": [],
-        "GitHub": []
-      },
-      "Web Frontend": {
+
+      "Frontend": {
         "Principles": [],
         "React": [],
         "Vue": [],
@@ -76,13 +131,18 @@
         "CSS": [],
         "Chrome": [],
         "Blazor": [],
+        "Webpack": [],
         "Progressive Web Apps": [],
         "WebAssembly": [],
-        "Transpilers & Shims": [],
+        "Transpilers": [],
         "Rendering": [],
-        "Accessibility": []
+        "Accessibility": [],
+        "Desktop Apps": {
+          "Electron": []
+        }
       },
-      "Web Backend": {
+
+      "Backend": {
         "Generic": [],
         ".NET": [],
         "Java": [],
@@ -93,49 +153,35 @@
         "NodeJS": [],
         "Go": []
       },
-      "CI/CD": {
-        "Principles": [],
-        "GitHub Actions": [],
-        "Jenkins": []
-      },
+
       "Security": {
         "Principles": [],
         "Network security": [],
-        "Cryptography": []
+        "Cryptography": [],
+        "Blockchain": [],
+        "Frontend": []
       },
-      "Testing": {
-        "Principles": [],
-        "Web Frontend": [],
-        "Gherkin": [],
-        ".NET": [],
-        "JavaScript": [],
-        "C++": [],
-        "Load testing": [],
-        "Tools": []
-      },
+
       "Data Science": {
         "Principles": [],
         "Big Data": [],
         "Machine Learning": [],
-        "Libraries": []
+        "Libraries": [],
+
+        "Relational DBMS": {
+          "Principles": [],
+          "Java Access": [],
+          "SQL Server": []
+        },
+
+        "NoSQL": {
+          "MongoDB": [],
+          "Redis": []
+        }
       },
-      "Relational DBMS": {
-        "Principles": [],
-        "Java Access": [],
-        "SQL Server": []
-      },
-      "NoSQL": {
-        "MongoDB": [],
-        "Redis": []
-      },
-      "IDEs and tools": [],
-      "Blockchain": [],
-      "Parallelism": {
-        ".NET": [],
-        "NodeJS": [],
-        "Java": [],
-        "JavaScript": [],
-        "RabbitMQ": []
+
+      "Applications": {
+        "Microsoft Office": []
       }
     },
     "Mathematics": [],
@@ -163,17 +209,23 @@
   },
   "Humanism": {
     "Personal Development": [],
-    "Human Interactions": [],
+    "Learning & teaching": [],
+    "Innovation": [],
+    "Human Interactions": {
+      "Principles": [],
+      "Remote work": [],
+      "Leadership": [],
+      "Listening": [],
+      "Speaking": [],
+      "Formal": [],
+      "Diversity & Inclusion": []
+    },
     "Agile": {
       "Principles": [],
       "Scrum": [],
       "Kanban": []
     },
-    "Diversity & Inclusion": [],
-    "Leadership": [],
-    "Learning & teaching": [],
-    "Personal branding": [],
-    "Innovation": [],
+
     "Art": {
       "Visual": {
         "Computer Graphics": [],
