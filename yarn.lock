@@ -44,10 +44,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@giancosta86/omnicourse@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.1.0.tgz#c28d2f884f5c324a9617098f4ccd3cd70c7e3a03"
-  integrity sha512-71iev978huRr0ejxfRTgCDPka4EuJKpokfnCTiK91I+vPa2iahumW8u9fVqdiYJZ217FBXADyJqZX5wn/Fw6DQ==
+"@giancosta86/omnicourse@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.1.1.tgz#6e7db28178930b703b4f35a48616d9abfba4b815"
+  integrity sha512-df1ZAQVXO0xJaZ1wiaLtYu9y9/wp/mq46HmoDj98c7g91szELWmo7JfgHW29Je1pNKQUyuLdeMy9x2hkRS83tw==
   dependencies:
     classnames "^2.3.1"
 
