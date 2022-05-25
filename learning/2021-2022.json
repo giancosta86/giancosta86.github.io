@@ -1,0 +1,1447 @@
+{
+  "Science": {
+    "Information Technology": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [
+            {
+              "completionDate": "2022-02-21",
+              "title": "Working with C# Records",
+              "url": "https://www.pluralsight.com/courses/working-c-sharp-records",
+              "minutes": 66
+            },
+
+            {
+              "completionDate": "2022-02-19",
+              "title": "C# Interfaces",
+              "url": "https://www.pluralsight.com/courses/c-sharp-interfaces",
+              "minutes": 164
+            },
+
+            {
+              "completionDate": "2022-02-18",
+              "title": "C# Generics",
+              "url": "https://www.pluralsight.com/courses/c-sharp-generics",
+              "minutes": 195
+            },
+
+            {
+              "completionDate": "2022-02-18",
+              "title": "C# Language-Integrated Query (LINQ)",
+              "url": "https://www.pluralsight.com/courses/c-sharp-language-integrated-query-linq",
+              "minutes": 152
+            },
+
+            {
+              "completionDate": "2022-02-17",
+              "title": "Working with Arrays and Collections in C#",
+              "url": "https://www.pluralsight.com/courses/working-arrays-collections-c-sharp",
+              "minutes": 132
+            },
+
+            {
+              "completionDate": "2022-02-16",
+              "title": "Introduction to the C# Type System",
+              "url": "https://www.pluralsight.com/courses/introduction-c-sharp-type-system",
+              "minutes": 317
+            },
+
+            {
+              "completionDate": "2022-02-11",
+              "title": "Controlling Program Flow in C#",
+              "url": "https://www.pluralsight.com/courses/controlling-program-flow-c-sharp",
+              "minutes": 120
+            },
+
+            {
+              "completionDate": "2022-02-11",
+              "title": "C#: Getting Started",
+              "url": "https://www.pluralsight.com/courses/c-sharp-getting-started",
+              "minutes": 97
+            },
+
+            {
+              "completionDate": "2022-02-10",
+              "title": "C# 9: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/c-sharp-big-picture",
+              "minutes": 64
+            }
+          ]
+        },
+        "JavaScript": [
+          {
+            "completionDate": "2022-01-19",
+            "title": "JavaScript: The Advanced Concepts (2022 Update)",
+            "url": "https://www.udemy.com/course/advanced-javascript-concepts/",
+            "minutes": 1500,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-ffcb145d-aa24-4c42-a480-b5e55966265f"
+          },
+
+          {
+            "completionDate": "2021-07-05",
+            "title": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
+            "url": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+            "minutes": 3120,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-e1e9d249-cd4e-492b-8eb8-dee177a1c459"
+          }
+        ],
+        "TypeScript": [
+          {
+            "completionDate": "2021-11-21",
+            "title": "Using TypeScript Modules",
+            "url": "https://www.pluralsight.com/courses/typescript-modules",
+            "minutes": 84
+          },
+          {
+            "completionDate": "2022-05-07",
+            "title": "TypeScript for Professionals",
+            "url": "https://www.udemy.com/course/typescript-for-professionals/",
+            "minutes": 180,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-5d02bb6c-2ab4-4bf7-877b-30fa44e46844"
+          },
+
+          {
+            "completionDate": "2021-11-26",
+            "title": "Understanding TypeScript - 2022 Edition",
+            "url": "https://www.udemy.com/course/understanding-typescript/",
+            "minutes": 900,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-4da1a2fb-298f-40ec-9651-4ab574ba7de2"
+          },
+
+          {
+            "completionDate": "2021-11-23",
+            "title": "Creating a TypeScript Declaration File",
+            "url": "https://www.pluralsight.com/courses/creating-typescript-declaration-file",
+            "minutes": 88
+          },
+
+          {
+            "completionDate": "2021-11-22",
+            "title": "Using Specialized Types and Language Features in TypeScript",
+            "url": "https://www.pluralsight.com/courses/typescript-specialized-types-language-features",
+            "minutes": 92
+          },
+
+          {
+            "completionDate": "2021-11-22",
+            "title": "Creating and Using TypeScript Decorators",
+            "url": "https://www.pluralsight.com/courses/creating-using-typescript-decorators",
+            "minutes": 73
+          },
+
+          {
+            "completionDate": "2021-11-21",
+            "title": "Creating and Using Generics in TypeScript",
+            "url": "https://www.pluralsight.com/courses/typescript-generics-creating-using",
+            "minutes": 49
+          },
+
+          {
+            "completionDate": "2021-11-20",
+            "title": "Creating Object-oriented TypeScript Code",
+            "url": "https://www.pluralsight.com/courses/typescript-creating-object-oriented-code",
+            "minutes": 131
+          },
+
+          {
+            "completionDate": "2021-11-20",
+            "title": "TypeScript: Getting Started",
+            "url": "https://www.pluralsight.com/courses/getting-started-typescript",
+            "minutes": 181
+          },
+
+          {
+            "completionDate": "2021-11-20",
+            "title": "TypeScript: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/typescript-big-picture",
+            "minutes": 44
+          }
+        ],
+        "Elm": [
+          {
+            "completionDate": "2021-09-13",
+            "title": "Elm",
+            "url": "https://www.pluralsight.com/courses/elm",
+            "minutes": 525
+          },
+          {
+            "completionDate": "2021-07-18",
+            "title": "Beginning Elm",
+            "url": "https://elmprogramming.com/",
+            "minutes": 1170,
+            "kind": "Book"
+          }
+        ],
+        "Rust": [
+          {
+            "completionDate": "2021-11-14",
+            "title": "Programming Rust - 2nd edition",
+            "url": "https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/",
+            "minutes": 3090,
+            "kind": "Book"
+          },
+          {
+            "completionDate": "2021-08-20",
+            "title": "The Rust programming language",
+            "url": "https://doc.rust-lang.org/stable/book/",
+            "minutes": 2910,
+            "kind": "Book"
+          },
+          {
+            "completionDate": "2021-07-09",
+            "title": "Rust for Absolute Beginners: Learn Rust in 4 Hours",
+            "url": "https://www.packtpub.com/product/rust-for-absolute-beginners-learn-rust-in-4-hours-video/9781801818179",
+            "minutes": 234
+          }
+        ],
+        "Elixir": [
+          {
+            "completionDate": "2021-09-05",
+            "title": "Programming Elixir",
+            "url": "https://pragprog.com/titles/elixir16/programming-elixir-1-6/",
+            "minutes": 1860,
+            "kind": "Book"
+          },
+          {
+            "completionDate": "2021-07-04",
+            "title": "Elixir: Scalable and Efficient Application Development",
+            "url": "https://www.packtpub.com/product/elixir-scalable-and-efficient-application-development/9781788294805",
+            "minutes": 120
+          },
+          {
+            "completionDate": "2021-06-19",
+            "title": "Elixir: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/elixir-big-picture",
+            "minutes": 44
+          }
+        ],
+        "Go": [
+          {
+            "completionDate": "2021-05-22",
+            "title": "Deep Dive into Go Packages",
+            "url": "https://www.pluralsight.com/courses/go-packages-deep-dive",
+            "minutes": 94
+          },
+          {
+            "completionDate": "2021-05-24",
+            "title": "Build a temperature converter CLI in Go",
+            "minutes": 30,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-05-22",
+            "title": "Build a vehicle rating system with Go",
+            "minutes": 60,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-05-22",
+            "title": "Build a budget app CLI in Go",
+            "minutes": 30,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-05-22",
+            "title": "The Go Standard Library",
+            "url": "https://www.pluralsight.com/courses/go-standard-library",
+            "minutes": 147
+          },
+
+          {
+            "completionDate": "2021-05-16",
+            "title": "Creating Custom Data Types with Go",
+            "url": "https://www.pluralsight.com/courses/creating-custom-data-types-go",
+            "minutes": 75
+          },
+
+          {
+            "completionDate": "2021-05-15",
+            "title": "Advanced Branching and Looping in GO",
+            "url": "https://www.pluralsight.com/courses/advanced-branching-looping-go",
+            "minutes": 74
+          },
+          {
+            "completionDate": "2021-05-15",
+            "title": "Go: Getting Started",
+            "url": "https://www.pluralsight.com/courses/getting-started-with-go",
+            "minutes": 208
+          },
+          {
+            "completionDate": "2021-05-15",
+            "title": "Go: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/go-big-picture",
+            "minutes": 107
+          }
+        ],
+        "Python": [
+          {
+            "completionDate": "2021-10-30",
+            "title": "Core Python: Organizing Larger Programs",
+            "url": "https://www.pluralsight.com/courses/core-python-organizing-larger-programs",
+            "minutes": 65
+          },
+          {
+            "completionDate": "2021-11-12",
+            "title": "Decoding Sensor Data Using Python",
+            "minutes": 100,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-11-11",
+            "title": "Add extensions to a static site generator with Python",
+            "minutes": 70,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-11-02",
+            "title": "Build a Static Site Generator with Python",
+            "minutes": 80,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-11-11",
+            "title": "Build a Personal Budget Report with Python Collections and Iterables",
+            "minutes": 160,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-11-11",
+            "title": "Build Your Own CLI Planner App Using Python Abstract Base Classes",
+            "minutes": 180,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-11-10",
+            "title": "Core Python: Hashing and More Collections",
+            "url": "https://www.pluralsight.com/courses/core-python-hashing-more-collections",
+            "minutes": 93
+          },
+          {
+            "completionDate": "2021-11-09",
+            "title": "Core Python: Implementing Iterators, Iterables and Collections",
+            "url": "https://www.pluralsight.com/courses/core-python-implementing-iterators-iterables-collections",
+            "minutes": 134
+          },
+
+          {
+            "completionDate": "2021-11-01",
+            "title": "Core Python: Advanced Flow Control",
+            "url": "https://www.pluralsight.com/courses/core-python-advanced-flow-control",
+            "minutes": 101
+          },
+          {
+            "completionDate": "2021-11-01",
+            "title": "Core Python: Custom Attributes and Descriptors",
+            "url": "https://www.pluralsight.com/courses/core-python-custom-attributes-descriptors",
+            "minutes": 88
+          },
+          {
+            "completionDate": "2021-11-01",
+            "title": "Core Python: The Numeric Tower, Conversion, and Operators",
+            "url": "https://www.pluralsight.com/courses/core-python-numeric-tower-conversion-operators",
+            "minutes": 64
+          },
+          {
+            "completionDate": "2021-10-31",
+            "title": "Core Python: Numeric Types, Dates, and Times",
+            "url": "https://www.pluralsight.com/courses/core-python-numeric-types-dates-times",
+            "minutes": 55
+          },
+          {
+            "completionDate": "2021-10-31",
+            "title": "Core Python: Classes and Object-orientation",
+            "url": "https://www.pluralsight.com/courses/core-python-classes-object-orientation",
+            "minutes": 174
+          },
+          {
+            "completionDate": "2021-10-31",
+            "title": "Core Python: Introspection",
+            "url": "https://www.pluralsight.com/courses/core-python-introspection",
+            "minutes": 30
+          },
+          {
+            "completionDate": "2021-10-30",
+            "title": "Core Python: Getting Started",
+            "url": "https://www.pluralsight.com/courses/getting-started-python-core",
+            "minutes": 245
+          },
+          {
+            "completionDate": "2021-10-23",
+            "title": "Core Python: Big Picture",
+            "url": "https://www.pluralsight.com/courses/core-python-big-picture",
+            "minutes": 48
+          },
+          {
+            "completionDate": "2022-03-08",
+            "title": "The Complete Python Course | Learn Python by Doing in 2022",
+            "url": "https://www.udemy.com/course/the-complete-python-course/",
+            "minutes": 2100,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-04803d06-401a-4bef-a556-9088de7fce48"
+          },
+          {
+            "completionDate": "2021-11-12",
+            "title": "Core Python: Byte Oriented Programming",
+            "url": "https://www.pluralsight.com/courses/core-python-byte-oriented-programming",
+            "minutes": 103
+          }
+        ],
+        "Ruby": [
+          {
+            "completionDate": "2022-05-03",
+            "title": "Ruby 2: Getting Started",
+            "url": "https://www.pluralsight.com/courses/ruby-getting-started",
+            "minutes": 100
+          },
+
+          {
+            "completionDate": "2022-05-02",
+            "title": "Ruby 2: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/ruby-big-picture",
+            "minutes": 75
+          }
+        ]
+      },
+      "Software Design": {
+        "Clean Code": {
+          "C#": [
+            {
+              "completionDate": "2022-02-20",
+              "title": "Defensive Coding in C#",
+              "url": "https://www.pluralsight.com/courses/csharp-defensive-coding",
+              "minutes": 134
+            },
+
+            {
+              "completionDate": "2022-02-21",
+              "title": "IDisposable Best Practices for C# Developers",
+              "url": "https://www.pluralsight.com/courses/c-sharp-developers-idisposable-best-practices",
+              "minutes": 136
+            }
+          ],
+          "Python": [
+            {
+              "completionDate": "2021-11-03",
+              "title": "Python Best Practices for Code Quality",
+              "url": "https://www.pluralsight.com/courses/python-best-practices-code-quality",
+              "minutes": 70
+            },
+
+            {
+              "completionDate": "2021-11-01",
+              "title": "Core Python: Robust Resource and Error Handling",
+              "url": "https://www.pluralsight.com/courses/core-python-robust-resource-error-handling",
+              "minutes": 74
+            },
+            {
+              "completionDate": "2021-10-07",
+              "title": "Pydantic: modern Python data validation and settings",
+              "url": "https://youtu.be/lon-dEXfY2I",
+              "minutes": 45
+            },
+            {
+              "completionDate": "2021-09-28",
+              "title": "Validate Data Classes with Pydantic",
+              "url": "https://www.pluralsight.com/courses/validate-data-classes-pydantic-demo",
+              "minutes": 9
+            },
+            {
+              "completionDate": "2021-10-07",
+              "title": "Python pydantic introduction",
+              "url": "https://youtu.be/WJmqgJn9TXg",
+              "minutes": 22
+            }
+          ],
+          "React": [
+            {
+              "completionDate": "2021-12-12",
+              "title": "Designing React Components",
+              "url": "https://www.pluralsight.com/courses/react-components-designing",
+              "minutes": 235
+            }
+          ]
+        },
+        "Microservices": {
+          ".NET": [
+            {
+              "completionDate": "2021-06-27",
+              "title": "Deploying ASP.NET Core Microservices Using Kubernetes and AKS",
+              "url": "https://www.pluralsight.com/courses/deploying-asp-dot-net-core-microservices-kubernetes-aks",
+              "minutes": 127
+            },
+            {
+              "completionDate": "2021-06-27",
+              "title": "Strategies for Microservice Scalability and Availability in ASP.NET Core",
+              "url": "https://www.pluralsight.com/courses/strategies-microservice-scalability-availability-asp-dot-net-core",
+              "minutes": 114
+            },
+            {
+              "completionDate": "2021-06-26",
+              "title": "Implementing Cross-cutting Concerns for ASP.NET Core Microservices",
+              "url": "https://www.pluralsight.com/courses/implementing-cross-cutting-concerns-asp-dot-net-core-microservices",
+              "minutes": 128
+            },
+            {
+              "completionDate": "2021-06-22",
+              "title": "Implementing a Data Management Strategy for an ASP.NET Core Microservices Architecture",
+              "url": "https://www.pluralsight.com/courses/implementing-data-management-strategy-asp-dot-net-core-microservices-architecture",
+              "minutes": 113
+            },
+            {
+              "completionDate": "2021-06-20",
+              "title": "Microservices Communication in ASP.NET Core",
+              "url": "https://www.pluralsight.com/courses/microservices-communication-asp-dot-net-core",
+              "minutes": 195
+            },
+            {
+              "completionDate": "2021-06-20",
+              "title": "Versioning and Evolving Microservices in ASP.NET Core",
+              "url": "https://www.pluralsight.com/courses/versioning-evolving-microservices-asp-dot-net-core",
+              "minutes": 101
+            },
+            {
+              "completionDate": "2021-06-19",
+              "title": "ASP.NET Core Microservices: Getting Started",
+              "url": "https://www.pluralsight.com/courses/getting-started-asp-dot-net-core-microservices",
+              "minutes": 80
+            }
+          ],
+          "Go": [
+            {
+              "completionDate": "2021-05-25",
+              "title": "Building Distributed Applications with Go",
+              "url": "https://www.pluralsight.com/courses/building-distributed-applications-go",
+              "minutes": 178
+            }
+          ]
+        },
+        "Fault tolerance": {
+          "C#": [
+            {
+              "completionDate": "2022-02-20",
+              "title": "Working with Nulls in C#",
+              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
+              "minutes": 130
+            },
+
+            {
+              "completionDate": "2022-02-19",
+              "title": "Exception Handling in C# 9",
+              "url": "https://www.pluralsight.com/courses/exception-handling-c-sharp",
+              "minutes": 104
+            }
+          ]
+        },
+        "Functional Programming": {
+          "Principles": [
+            {
+              "completionDate": "2021-08-16",
+              "title": "An introduction to Functional Programming through Lambda Calculus",
+              "url": "https://books.google.it/books?id=VrDDAgAAQBAJ",
+              "minutes": 1140,
+              "kind": "Book"
+            }
+          ],
+          "Python": [
+            {
+              "completionDate": "2021-10-31",
+              "title": "Core Python: Functions and Functional Programming",
+              "url": "https://www.pluralsight.com/courses/core-python-functions-functional-programming",
+              "minutes": 77
+            }
+          ],
+          "Go": [
+            {
+              "completionDate": "2021-05-15",
+              "title": "Deep Dive into Go Functions",
+              "url": "https://www.pluralsight.com/courses/deep-dive-go-functions",
+              "minutes": 86
+            }
+          ]
+        },
+        "Performance": {
+          "React": [
+            {
+              "completionDate": "2021-12-11",
+              "title": "Optimize Performance for React",
+              "url": "https://www.pluralsight.com/courses/optimize-performance-react",
+              "minutes": 55
+            },
+
+            {
+              "completionDate": "2021-12-11",
+              "title": "Managing Large Datasets in React",
+              "url": "https://www.pluralsight.com/courses/react-managing-large-data-sets",
+              "minutes": 51
+            }
+          ]
+        },
+        "Concurrency": {
+          "Python": [
+            {
+              "completionDate": "2021-11-10",
+              "title": "Advanced Generators and Coroutines",
+              "url": "https://www.pluralsight.com/courses/advanced-generators-and-coroutines",
+              "minutes": 109
+            }
+          ],
+          "Go": [
+            {
+              "completionDate": "2021-05-20",
+              "title": "Concurrent Programming with Go",
+              "url": "https://www.pluralsight.com/courses/concurrent-programming-go",
+              "minutes": 91
+            },
+
+            {
+              "completionDate": "2021-05-24",
+              "title": "Build an asynchronous logging library with Go",
+              "minutes": 70,
+              "kind": "Tutorial"
+            }
+          ],
+          "React": [
+            {
+              "completionDate": "2022-05-04",
+              "title": "Concurrent Rendering Adventures in React 18",
+              "url": "https://www.packtpub.com/product/concurrent-rendering-adventures-in-react-18-video/9781803248493",
+              "minutes": 76
+            }
+          ],
+          "Event-driven": {
+            "RabbitMQ": [
+              {
+                "completionDate": "2021-05-21",
+                "title": "RabbitMQ by Example",
+                "url": "https://www.pluralsight.com/courses/rabbitmq-by-example",
+                "minutes": 163
+              }
+            ]
+          }
+        },
+
+        "Testing": {
+          "Frontend": {
+            "React": [
+              {
+                "completionDate": "2021-12-13",
+                "title": "Testing React Components",
+                "url": "https://www.pluralsight.com/courses/testing-react-components",
+                "minutes": 143
+              }
+            ]
+          },
+          "C#": [
+            {
+              "completionDate": "2022-02-22",
+              "title": "Implementing C# Unit Testing Using Visual Studio 2019 and .NET 5",
+              "url": "https://www.pluralsight.com/courses/basic-unit-testing-csharp-developers",
+              "minutes": 429
+            }
+          ],
+          "Python": [
+            {
+              "completionDate": "2021-11-11",
+              "title": "Unit Testing with Python",
+              "url": "https://www.pluralsight.com/courses/using-unit-testing-python",
+              "minutes": 169
+            }
+          ],
+          "Go": [
+            {
+              "completionDate": "2021-05-23",
+              "title": "Testing Go Applications",
+              "url": "https://www.pluralsight.com/courses/go-create-test-applications",
+              "minutes": 87
+            }
+          ]
+        }
+      },
+
+      "CI / CD": {
+        "Build Tools": {
+          "TypeScript": [
+            {
+              "completionDate": "2021-11-23",
+              "title": "Configuring, Compiling, and Debugging TypeScript Projects",
+              "url": "https://www.pluralsight.com/courses/typescript-configuring-compiling-debugging-projects",
+              "minutes": 126
+            }
+          ],
+
+          "Python": [
+            {
+              "completionDate": "2021-11-12",
+              "title": "Managing Python Packages and Virtual Environments",
+              "url": "https://www.pluralsight.com/courses/managing-python-packages-virtual-environments",
+              "minutes": 89
+            }
+          ],
+
+          "Go": [
+            {
+              "completionDate": "2021-05-22",
+              "title": "The Go CLI Playbook",
+              "url": "https://www.pluralsight.com/courses/go-cli-playbook",
+              "minutes": 128
+            }
+          ],
+          "React": [
+            {
+              "completionDate": "2021-12-14",
+              "title": "Building React Apps with TypeScript",
+              "url": "https://www.pluralsight.com/courses/react-apps-typescript-building",
+              "minutes": 57
+            },
+
+            {
+              "completionDate": "2021-12-13",
+              "title": "Developing React.js Apps with Docker",
+              "url": "https://www.pluralsight.com/courses/reactjs-apps-docker-developing",
+              "minutes": 112
+            }
+          ]
+        }
+      },
+
+      "Cloud & Virtualization": {
+        "Amazon Web Services": {
+          "Serverless": [
+            {
+              "completionDate": "2022-05-06",
+              "title": "Implementing Serverless Microservices Architecture Patterns",
+              "url": "https://www.packtpub.com/product/implementing-serverless-microservices-architecture-patterns-video/9781788839570",
+              "minutes": 436
+            }
+          ]
+        },
+
+        "Azure": {
+          "Principles": [
+            {
+              "completionDate": "2021-06-06",
+              "title": "Microsoft Azure Services and Concepts",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-services-concepts",
+              "minutes": 218
+            },
+            {
+              "completionDate": "2021-06-05",
+              "title": "Microsoft Azure Cloud Concepts",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-cloud-concepts",
+              "minutes": 38
+            }
+          ],
+
+          "Cost Analysis": [
+            {
+              "completionDate": "2021-06-06",
+              "title": "Microsoft Azure Pricing and Support Options",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-pricing-support-options",
+              "minutes": 97
+            }
+          ]
+        },
+
+        "Kubernetes": [
+          {
+            "completionDate": "2021-06-02",
+            "title": "Kubernetes for Developers: Deploying Your Code",
+            "url": "https://www.pluralsight.com/courses/kubernetes-developers-deploying-code",
+            "minutes": 184
+          },
+          {
+            "completionDate": "2021-06-05",
+            "title": "Kubernetes for Developers: Moving to the Cloud",
+            "url": "https://www.pluralsight.com/courses/kubernetes-developers-moving-cloud",
+            "minutes": 63
+          },
+          {
+            "completionDate": "2021-06-05",
+            "title": "Kubernetes for Developers: Moving from Docker Compose to Kubernetes",
+            "url": "https://www.pluralsight.com/courses/kubernetes-developers-docker-compose-to-kubernetes",
+            "minutes": 140
+          },
+          {
+            "completionDate": "2021-06-03",
+            "title": "Kubernetes for Developers: Integrating Volumes and Using Multi-container Pods",
+            "url": "https://www.pluralsight.com/courses/kubernetes-developers-integrating-volumes-using-multi-container-pods",
+            "minutes": 148
+          },
+          {
+            "completionDate": "2021-05-29",
+            "title": "Kubernetes for Developers: Core Concepts",
+            "url": "https://www.pluralsight.com/courses/kubernetes-developers-core-concepts",
+            "minutes": 276
+          }
+        ],
+        "IoT": [
+          {
+            "completionDate": "2021-07-05",
+            "title": "Internet of Things (IoT): Executive Briefing",
+            "url": "https://www.pluralsight.com/courses/iot-executive-briefing",
+            "minutes": 24
+          }
+        ],
+        "Telemetry": [
+          {
+            "completionDate": "2021-10-12",
+            "title": "OpenTelemetry - Understand software performance",
+            "url": "https://youtu.be/r8UvWSX3KA8",
+            "minutes": 68
+          }
+        ]
+      },
+
+      "Frontend": {
+        "React": [
+          {
+            "completionDate": "2022-05-05",
+            "title": "React Hooks Tips Only the Pros Know",
+            "url": "https://www.packtpub.com/product/react-hooks-tips-only-the-pros-know-video/9781803233864",
+            "minutes": 143
+          },
+
+          {
+            "completionDate": "2022-05-04",
+            "title": "React 18: First Look",
+            "url": "https://www.pluralsight.com/courses/react-18-first-look",
+            "minutes": 34
+          },
+
+          {
+            "completionDate": "2021-12-12",
+            "title": "Server Rendering React Components",
+            "url": "https://www.pluralsight.com/courses/server-rendering-react-components",
+            "minutes": 90
+          },
+          {
+            "completionDate": "2021-12-10",
+            "title": "Managing React State",
+            "url": "https://www.pluralsight.com/courses/react-state-managing",
+            "minutes": 305
+          },
+
+          {
+            "completionDate": "2021-12-09",
+            "title": "Calling APIs with React",
+            "url": "https://www.pluralsight.com/courses/react-calling-apis",
+            "minutes": 134
+          },
+
+          {
+            "completionDate": "2021-12-08",
+            "title": "Implementing Forms in React",
+            "url": "https://www.pluralsight.com/courses/react-implementing-forms",
+            "minutes": 108
+          },
+
+          {
+            "completionDate": "2021-12-07",
+            "title": "Using React Hooks",
+            "url": "https://www.pluralsight.com/courses/using-react-hooks",
+            "minutes": 200
+          },
+
+          {
+            "completionDate": "2021-11-28",
+            "title": "Choosing a React Framework",
+            "url": "https://www.pluralsight.com/courses/react-framework-choosing",
+            "minutes": 66
+          },
+
+          {
+            "completionDate": "2021-11-28",
+            "title": "Styling React Components",
+            "url": "https://www.pluralsight.com/courses/react-components-styling",
+            "minutes": 68
+          },
+
+          {
+            "completionDate": "2021-11-27",
+            "title": "A Practical Start with React",
+            "url": "https://www.pluralsight.com/courses/react-practical-start",
+            "minutes": 108
+          },
+
+          {
+            "completionDate": "2021-01-27",
+            "title": "React: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/react-big-picture",
+            "minutes": 70
+          }
+        ],
+        "Vue": [
+          {
+            "completionDate": "2022-01-02",
+            "title": "Vue.js: Big Picture",
+            "url": "https://www.pluralsight.com/courses/vuejs-big-picture",
+            "minutes": 92
+          }
+        ],
+        "Accessibility": [
+          {
+            "completionDate": "2021-10-05",
+            "title": "Architecting for Accessibility",
+            "url": "https://www.pluralsight.com/courses/js-friends-session-12",
+            "minutes": 41
+          }
+        ]
+      },
+
+      "Backend": {
+        ".NET": [
+          {
+            "completionDate": "2021-06-19",
+            "title": "Understanding ASP.NET Core 3.x",
+            "url": "https://www.pluralsight.com/courses/understanding-aspdotnet-core-3x",
+            "minutes": 186
+          },
+          {
+            "completionDate": "2021-06-19",
+            "title": "ASP.NET Core Fundamentals",
+            "url": "https://www.pluralsight.com/courses/aspnet-core-fundamentals",
+            "minutes": 344
+          }
+        ],
+        "Ruby": [
+          {
+            "completionDate": "2022-05-03",
+            "title": "Ruby on Rails: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/ruby-rails-big-picture",
+            "minutes": 53
+          }
+        ],
+        "Python": [
+          {
+            "completionDate": "2022-03-16",
+            "title": "Structuring a Growing Flask 1 Application",
+            "url": "https://www.pluralsight.com/courses/structuring-growing-flask-application",
+            "minutes": 98
+          },
+
+          {
+            "completionDate": "2022-03-14",
+            "title": "Building Reliable Flask 1 Applications",
+            "url": "https://www.pluralsight.com/courses/building-reliable-flask-applications",
+            "minutes": 273
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Creating a Model Layer for Flask",
+            "url": "https://www.pluralsight.com/courses/flask-creating-model-layer",
+            "minutes": 81
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Creating and Processing Web Forms with Flask 1",
+            "url": "https://www.pluralsight.com/courses/creating-processing-web-forms-flask",
+            "minutes": 97
+          },
+
+          {
+            "completionDate": "2022-03-13",
+            "title": "Flask: Getting Started",
+            "url": "https://www.pluralsight.com/courses/flask-getting-started",
+            "minutes": 288
+          }
+        ],
+        "GraphQL": [
+          {
+            "completionDate": "2021-10-03",
+            "title": "GraphQL Observability",
+            "url": "https://www.pluralsight.com/courses/js-friends-session-07",
+            "minutes": 52
+          },
+          {
+            "completionDate": "2021-10-03",
+            "title": "GraphQL: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/graphql-big-picture",
+            "minutes": 77
+          }
+        ],
+        "NodeJS": [
+          {
+            "completionDate": "2022-02-02",
+            "title": "Hands-On Server-Side Web Development with Koa.js",
+            "url": "https://www.packtpub.com/product/hands-on-server-side-web-development-with-koa-js-video/9781838828752",
+            "minutes": 153
+          },
+
+          {
+            "completionDate": "2021-12-24",
+            "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+            "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
+            "minutes": 2430,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-59840d58-4a00-4508-9254-67771160c384"
+          },
+          {
+            "completionDate": "2022-01-02",
+            "title": "Advanced Node.js",
+            "url": "https://www.pluralsight.com/courses/nodejs-advanced",
+            "minutes": 225
+          }
+        ],
+        "Go": [
+          {
+            "completionDate": "2021-05-24",
+            "title": "Build a FIFA World Cup Web Service in Go",
+            "minutes": 45,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-05-24",
+            "title": "Creating Web Services with Go",
+            "url": "https://www.pluralsight.com/courses/creating-web-services-go",
+            "minutes": 150
+          }
+        ]
+      },
+
+      "Security": {
+        "Principles": [
+          {
+            "completionDate": "2021-10-23",
+            "title": "CyberSecurity",
+            "minutes": 30
+          }
+        ],
+        "Network security": [
+          {
+            "completionDate": "2021-06-19",
+            "title": "Cross Site Request Forgery (CSRF) Prevention for ASP.NET Core and ASP.NET Applications",
+            "url": "https://www.pluralsight.com/courses/cross-site-request-forgery-csrf-prevention-asp-dot-net-core-applications",
+            "minutes": 22
+          }
+        ],
+        "Microservices": [
+          {
+            "completionDate": "2021-06-28",
+            "title": "Securing Microservices in ASP.NET Core",
+            "url": "https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core",
+            "minutes": 216
+          }
+        ],
+        "Frontend": [
+          {
+            "completionDate": "2021-12-08",
+            "title": "React Security: Best Practices",
+            "url": "https://www.pluralsight.com/courses/react-security-best-practices",
+            "minutes": 65
+          }
+        ],
+        "Python": [
+          {
+            "completionDate": "2022-03-16",
+            "title": "Flask 1 Users, Sessions, and Authentication",
+            "url": "https://www.pluralsight.com/courses/flask-users-sessions-authentication",
+            "minutes": 95
+          }
+        ],
+        "Azure": [
+          {
+            "completionDate": "2021-06-06",
+            "title": "Microsoft Azure Security and Privacy Concepts",
+            "url": "https://www.pluralsight.com/courses/microsoft-azure-security-privacy-concepts",
+            "minutes": 153
+          }
+        ]
+      },
+
+      "Data Science": {
+        "Amazon Web Services": {
+          "Databases": {
+            "Principles": [
+              {
+                "completionDate": "2021-05-25",
+                "title": "Creating, Connecting, and Monitoring Databases with Amazon RDS",
+                "url": "https://www.pluralsight.com/courses/aws-amazon-rds",
+                "minutes": 109
+              },
+              {
+                "completionDate": "2021-05-25",
+                "title": "AWS Databases: The Big Picture",
+                "url": "https://www.pluralsight.com/courses/aws-databases-big-picture",
+                "minutes": 109
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Humanism": {
+    "Human Interactions": {
+      "Principles": [
+        {
+          "completionDate": "2021-06-04",
+          "title": "Understanding Your Audience",
+          "url": "https://www.pluralsight.com/courses/understanding-audience",
+          "minutes": 85
+        },
+        {
+          "completionDate": "2021-05-30",
+          "title": "Cultivating Communication Excellence",
+          "url": "https://www.pluralsight.com/courses/cultivating-communication-excellence",
+          "minutes": 27
+        }
+      ],
+      "Remote work": [
+        {
+          "completionDate": "2021-06-16",
+          "title": "How to Run Effective Meetings",
+          "url": "https://www.pluralsight.com/courses/run-effective-meetings",
+          "minutes": 93
+        },
+        {
+          "completionDate": "2021-06-13",
+          "title": "VoIP and Web Calls: Tips for Better Remote Communications",
+          "url": "https://www.pluralsight.com/courses/voip-web-calls-better-remote-communication",
+          "minutes": 83
+        },
+        {
+          "completionDate": "2021-06-12",
+          "title": "Effective Phone Skills",
+          "url": "https://www.pluralsight.com/courses/effective-phone-skills",
+          "minutes": 88
+        },
+        {
+          "completionDate": "2021-06-09",
+          "title": "Effective Email Communication",
+          "url": "https://www.pluralsight.com/courses/effective-email-communication",
+          "minutes": 61
+        },
+        {
+          "completionDate": "2021-06-03",
+          "title": "Cultivating Effective Relationships in Virtual Work",
+          "url": "https://www.pluralsight.com/courses/cultivating-effective-relationships-virtual-work",
+          "minutes": 82
+        },
+        {
+          "completionDate": "2021-06-02",
+          "title": "Preparing for Successful Virtual Meetings",
+          "url": "https://www.pluralsight.com/courses/preparing-successful-virtual-meetings",
+          "minutes": 67
+        },
+        {
+          "completionDate": "2021-05-30",
+          "title": "Building Your Virtual Intelligence",
+          "url": "https://www.pluralsight.com/courses/building-your-virtual-intelligence",
+          "minutes": 46
+        },
+        {
+          "completionDate": "2021-05-29",
+          "title": "Developing Digital Fluency",
+          "url": "https://www.pluralsight.com/courses/developing-digital-fluency",
+          "minutes": 48
+        }
+      ],
+      "Leadership": [
+        {
+          "completionDate": "2021-06-02",
+          "title": "Facilitating Effective Communication with Others",
+          "url": "https://www.pluralsight.com/courses/facilitating-effective-communication",
+          "minutes": 57
+        }
+      ],
+      "Listening": [
+        {
+          "completionDate": "2021-06-08",
+          "title": "Becoming a Better Listener",
+          "url": "https://www.pluralsight.com/courses/becoming-better-listener",
+          "minutes": 93
+        }
+      ],
+      "Speaking": [
+        {
+          "completionDate": "2021-09-08",
+          "title": "Visual Communication: Creating Engaging and Effective Technical Diagrams",
+          "url": "https://www.pluralsight.com/courses/visual-communication-technical-diagrams",
+          "minutes": 99
+        }
+      ],
+      "Protocols": [
+        {
+          "completionDate": "2021-06-18",
+          "title": "Writing Better Technical Reports",
+          "url": "https://www.pluralsight.com/courses/writing-better-technical-reports",
+          "minutes": 68
+        },
+
+        {
+          "completionDate": "2021-06-13",
+          "title": "Fundamentals of Written Proposals",
+          "url": "https://www.pluralsight.com/courses/written-proposals-fundamentals",
+          "minutes": 104
+        }
+      ],
+      "Diversity & Inclusion": [
+        {
+          "completionDate": "2021-09-29",
+          "title": "A queer culture illustrated guide",
+          "url": "https://queercultureguide.com",
+          "minutes": 90,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-09-29",
+          "title": "Che cosa significa la sigla LGBT(QIA+)",
+          "url": "https://www.youtube.com/watch?v=mdggoe1V_5w",
+          "minutes": 5
+        }
+      ]
+    },
+    "Agile": {
+      "Principles": [
+        {
+          "completionDate": "2021-06-21",
+          "title": "Exploring Lean Principles",
+          "url": "https://www.pluralsight.com/courses/exploring-lean-principles",
+          "minutes": 67
+        }
+      ],
+      "Scrum": [
+        {
+          "completionDate": "2021-09-20",
+          "title": "Introduction to Scrum",
+          "url": "https://speakerdeck.com/giancosta86/introduction-to-scrum",
+          "minutes": 330,
+          "kind": "Slides"
+        },
+        {
+          "completionDate": "2021-05-28",
+          "title": "Implementing Scrum and Avoiding Scrum Anti-Patterns",
+          "url": "https://www.pluralsight.com/courses/implementing-scrum-avoiding-scrum-anti-patterns",
+          "minutes": 34
+        },
+        {
+          "completionDate": "2021-05-27",
+          "title": "Introducing the Product Backlog",
+          "url": "https://www.pluralsight.com/courses/introducing-product-backlog",
+          "minutes": 45
+        },
+        {
+          "completionDate": "2021-05-26",
+          "title": "Introducing Scrum Artifacts and the Definition of Done",
+          "url": "https://www.pluralsight.com/courses/introducing-scrum-artifacts-definition-done",
+          "minutes": 24
+        },
+        {
+          "completionDate": "2021-05-26",
+          "title": "Introducing Scrum Events",
+          "url": "https://www.pluralsight.com/courses/introducing-scrum-events",
+          "minutes": 41
+        },
+        {
+          "completionDate": "2021-05-26",
+          "title": "Introducing Scrum Roles",
+          "url": "https://www.pluralsight.com/courses/introducing-scrum-roles",
+          "minutes": 33
+        },
+        {
+          "completionDate": "2021-05-26",
+          "title": "Introducing Scrum",
+          "url": "https://www.pluralsight.com/courses/introducing-scrum",
+          "minutes": 47
+        }
+      ],
+      "Kanban": [
+        {
+          "completionDate": "2021-06-19",
+          "title": "Kanban: Executive Briefing",
+          "url": "https://www.pluralsight.com/courses/kanban-executive-briefing",
+          "minutes": 26
+        }
+      ]
+    },
+
+    "Philosophy": [
+      {
+        "completionDate": "2022-02-04",
+        "title": "Trattato sulla Tolleranza",
+        "url": "https://it.m.wikipedia.org/wiki/Trattato_sulla_tolleranza",
+        "minutes": 270,
+        "kind": "Book"
+      },
+
+      {
+        "completionDate": "2021-11-14",
+        "title": "Platone. Alla ricerca della sapienza segreta",
+        "url": "http://www.lanavediteseo.eu/item/platone-alla-ricerca-della-sapienza-segreta/",
+        "minutes": 2220,
+        "kind": "Book"
+      }
+    ],
+    "Languages": {
+      "English": [
+        {
+          "completionDate": "2021-09-08",
+          "title": "Avoiding Common Writing Mistakes",
+          "url": "https://www.pluralsight.com/courses/common-writing-mistakes-avoiding",
+          "minutes": 101
+        },
+        {
+          "completionDate": "2021-06-14",
+          "title": "Being a Better Communicator: Grammar, De-jargoning, and Articulation",
+          "url": "https://www.pluralsight.com/courses/being-better-communicator-grammar-dejargoning-articulation",
+          "minutes": 86
+        },
+
+        {
+          "completionDate": "2021-12-31",
+          "title": "English Vocabulary in Use - Upper-intermediate",
+          "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-upper-intermediate-4th-edition",
+          "minutes": 1800,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-12-03",
+          "title": "English Vocabulary in Use - Pre-intermediate and intermediate",
+          "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-pre-intermediate-and-intermediate-4th-edition",
+          "minutes": 660,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-11-23",
+          "title": "English Vocabulary in Use - Elementary",
+          "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/vocabulary/english-vocabulary-use-elementary-3rd-edition",
+          "minutes": 360,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-12-02",
+          "title": "Inglese - 150 phrasal verbs",
+          "url": "https://www.libri.it/a-prima-vista-phrasal-verbs-inglese",
+          "minutes": 180,
+          "kind": "Leaflet"
+        }
+      ],
+      "Portuguese": [
+        {
+          "title": "Duolingo - Portuguese course",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 1440,
+          "kind": "Duolingo"
+        },
+
+        {
+          "completionDate": "2022-02-02",
+          "title": "Portuguese Grammar You Really Need To Know",
+          "url": "https://books.google.it/books/about/Portuguese_Grammar_You_Really_Need_To_Kn.html?id=W9A1AgAAQBAJ",
+          "minutes": 4680,
+          "kind": "Book"
+        }
+      ],
+      "Spanish": [
+        {
+          "title": "ConjuGato - Spanish verbs - daily training",
+          "url": "https://qotoqot.com/conjugato/",
+          "minutes": 1210,
+          "kind": "Training"
+        },
+
+        {
+          "title": "Duolingo - Spanish course - daily training",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 440,
+          "kind": "Training"
+        },
+
+        {
+          "completionDate": "2022-04-23",
+          "title": "Duolingo - Spanish course - Level 1",
+          "url": "https://www.duolingo.com/profile/giancosta86",
+          "minutes": 5760,
+          "kind": "Duolingo"
+        },
+
+        {
+          "completionDate": "2022-04-14",
+          "title": "Spanish/English - Bilingual dictionary",
+          "url": "https://www.dk.com/us/book/9781465459312-spanish-english-bilingual-visual-dictionary/",
+          "minutes": 1710,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2022-03-25",
+          "title": "Spagnolo - Grammatica",
+          "url": "https://books.google.it/books?id=Q2w-bwAACAAJ",
+          "minutes": 3180,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2022-03-05",
+          "title": "Spanish Grammar you really need to know",
+          "url": "https://books.google.it/books?id=zn-4tE6F5-wC",
+          "minutes": 1380,
+          "kind": "Book"
+        }
+      ]
+    },
+    "Law": {
+      "National Laws": [
+        {
+          "completionDate": "2021-12-05",
+          "title": "Regime forfettario 2020",
+          "minutes": 225,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-11-19",
+          "title": "Consigli per partite IVA e freelance",
+          "minutes": 120,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-11-18",
+          "title": "Apro la Partita IVA: una guida pratica per il tuo business",
+          "minutes": 240,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-11-17",
+          "title": "Partita IVA semplice",
+          "url": "https://www.regime-forfettario.it/partita-iva-semplice-il-libro-per-freelance-e-liberi-professionisti/",
+          "minutes": 330,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2021-10-24",
+          "title": "Formazione generale dei lavoratori",
+          "minutes": 240
+        },
+        {
+          "completionDate": "2021-10-24",
+          "title": "Formazione specifica dei lavoratori - Settori rischio basso",
+          "minutes": 240
+        },
+        {
+          "completionDate": "2021-10-23",
+          "title": "Il decreto legislativo 231/2001",
+          "minutes": 35
+        }
+      ],
+      "International Agreements": [
+        {
+          "completionDate": "2021-10-24",
+          "title": "Il GDPR",
+          "minutes": 40
+        }
+      ]
+    }
+  }
+}

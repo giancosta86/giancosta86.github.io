@@ -1,0 +1,330 @@
+{
+  "Science": {
+    "Information Technology": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [],
+          "F#": [],
+          "Platform": []
+        },
+        "Java": [],
+        "Scala": [],
+        "Groovy": [],
+        "JavaScript": [],
+        "TypeScript": [],
+        "Domain-specific": {
+          "Regular Expressions": [],
+          "Markdown": [],
+          "Bash": []
+        },
+        "Elm": [],
+        "Rust": [],
+        "Elixir": [],
+        "C": [],
+        "C++": [],
+        "Go": [],
+        "Python": [],
+        "R": [],
+        "Ruby": [],
+        "Flutter": []
+      },
+      "Mobile Development": {
+        "Ionic": [],
+        "React Native": []
+      },
+      "Software Design": {
+        "Clean Code": {
+          "Principles": [],
+          "C#": [],
+          "Python": [],
+          "React": [],
+          "C++": []
+        },
+        "Fault tolerance": {
+          "Principles": [],
+          "C#": []
+        },
+        "Domain-Driven Design": [],
+        "Design Patterns": {
+          "Principles": [],
+          "C#": []
+        },
+        "Microservices": {
+          "Principles": [],
+          ".NET": [],
+          "Go": []
+        },
+        "Functional Programming": {
+          "Principles": [],
+          "JavaScript": [],
+          "Python": [],
+          "Go": [],
+          "RxJS": [],
+          "Redux": [],
+          "C#": [],
+          "Java": []
+        },
+        "Performance": {
+          "React": [],
+          "C++": [],
+          "GraphQL": [],
+          "MongoDB": []
+        },
+
+        "Concurrency": {
+          ".NET": [],
+          "NodeJS": [],
+          "Java": [],
+          "JavaScript": [],
+          "TypeScript": [],
+          "Python": [],
+          "Go": [],
+          "React": [],
+          "Event-driven": {
+            "NodeJS": [],
+            ".NET": [],
+            "RabbitMQ": [],
+            "CQRS": [],
+            "GraphQL": []
+          }
+        },
+
+        "Testing": {
+          "Principles": [],
+          "Frontend": {
+            "Browser Automation": [],
+            "React": []
+          },
+          "Gherkin": [],
+          "C#": [],
+          "JavaScript": [],
+          "Python": [],
+          "C++": [],
+          "Go": [],
+          "Load testing": [],
+          "GraphQL": [],
+          "Tools": []
+        },
+        "Game development": {
+          "Unity": []
+        }
+      },
+
+      "CI / CD": {
+        "Principles": [],
+
+        "Source Control": {
+          "Git": [],
+          "GitHub": []
+        },
+
+        "Build Tools": {
+          "TypeScript": [],
+          "JavaScript": [],
+          "Python": [],
+          "Go": [],
+          "React": [],
+          "React Native": [],
+          "NodeJS": [],
+          "Docker": [],
+          "Java": [],
+          ".NET": []
+        },
+
+        "GitHub Actions": [],
+        "Jenkins": [],
+        "Octopus": [],
+        "IDEs & editors": []
+      },
+
+      "Cloud & Virtualization": {
+        "Network Principles": [],
+        "Amazon Web Services": {
+          "Principles": [],
+          "Serverless": [],
+          "Cost Analysis": [],
+          "File Storage": [],
+          "Virtual Machines": [],
+          "Containers": [],
+          "API Gateway": [],
+          "DNS": [],
+          "Load Balancing": [],
+          "Optimization": []
+        },
+        "Azure": {
+          "Principles": [],
+          "Serverless": [],
+          "Cost Analysis": [],
+          "File Storage": [],
+          "Virtual Machines": [],
+          "Containers": []
+        },
+        "Docker": [],
+        "Kubernetes": [],
+        "IoT": [],
+        "Operating Systems": {
+          "Linux": [],
+          "Windows": []
+        },
+        "Telemetry": []
+      },
+
+      "Frontend": {
+        "Principles": [],
+        "React": [],
+        "Vue": [],
+        "Angular": [],
+        "AngularJS": [],
+        "jQuery": [],
+        "CSS": {
+          "Standard": [],
+          "Less": [],
+          "Sass": [],
+          "Bulma": [],
+          "Bootstrap": []
+        },
+        "User Experience": [],
+
+        "Chrome": [],
+        "Blazor": [],
+        "Webpack": [],
+        "Progressive Web Apps": [],
+        "WebAssembly": [],
+        "Rendering": [],
+        "Accessibility": [],
+        "Desktop Apps": {
+          "Electron": []
+        }
+      },
+
+      "Backend": {
+        "Generic": [],
+        ".NET": [],
+        "Java": [],
+        "Scala": [],
+        "Ruby": [],
+        "Python": [],
+        "GraphQL": [],
+        "NodeJS": [],
+        "Go": []
+      },
+
+      "Security": {
+        "Principles": [],
+        "Network Security": [],
+        "Cryptography": [],
+        "Microservices": [],
+        "Blockchain": [],
+        "Frontend": [],
+        "Amazon Web Services": [],
+        "Azure": [],
+        "NodeJS": [],
+        "Python": [],
+        "GraphQL": [],
+        "MongoDB": [],
+        "Docker": []
+      },
+
+      "Data Science": {
+        "Principles": [],
+        "Quantum Computing": [],
+        "Hadoop": [],
+        "Spark": [],
+        "Machine Learning": [],
+
+        "TensorFlow": [],
+        "Pandas": [],
+        "NumPy": [],
+
+        "Relational DBMS": {
+          "Principles": [],
+          "Java": [],
+          "SQL Server": []
+        },
+
+        "NoSQL": {
+          "MongoDB": [],
+          "Redis": []
+        }
+      },
+
+      "Amazon Web Services": {
+        "Databases": {
+          "Principles": [],
+          "DynamoDB": []
+        }
+      },
+
+      "Applications": {
+        "Microsoft Office": []
+      }
+    },
+    "Further Domains": {
+      "Mathematics": [],
+      "Physics": [],
+      "Electronics": {
+        "Principles": [],
+        "Arduino": [],
+        "Robotics": []
+      },
+      "Ecology": [],
+      "Biology": [],
+      "Astronomy": [],
+      "Crafts": [],
+      "Marketing": [],
+      "Management": [],
+      "Economy & Finance": [],
+      "Quality Assurance": [],
+      "Safety Protocols": []
+    }
+  },
+  "Humanism": {
+    "Personal Development": [],
+    "Learning & teaching": [],
+    "Innovation": [],
+    "Human Interactions": {
+      "Principles": [],
+      "Remote work": [],
+      "Leadership": [],
+      "Listening": [],
+      "Speaking": [],
+      "Protocols": [],
+      "Diversity & Inclusion": [],
+      "Politics": [],
+      "Negotiation": []
+    },
+    "Agile": {
+      "Principles": [],
+      "Scrum": [],
+      "Kanban": []
+    },
+
+    "Enterprise HR": [],
+
+    "Art": {
+      "Visual": {
+        "Computer Graphics": [],
+        "Design": [],
+        "Color Theory": []
+      },
+      "Music": [],
+      "Literature": {
+        "Dante": [],
+        "Victor Hugo": [],
+        "Pierre Corneille": [],
+        "Hellenism": []
+      }
+    },
+    "Philosophy": [],
+    "Languages": {
+      "English": [],
+      "French": [],
+      "Portuguese": [],
+      "Spanish": []
+    },
+    "Law": {
+      "National Laws": [],
+      "International Agreements": []
+    }
+  }
+}
