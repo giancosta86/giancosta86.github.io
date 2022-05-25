@@ -9,7 +9,6 @@ import {
 } from "@giancosta86/omnicourse";
 
 import styles from "./index.module.scss";
-import Image from "next/image";
 import { useMobileDetection } from "../../hooks/useMobileDetection";
 
 async function fetchTaxonomyKeys(): Promise<readonly TaxonomyKey[]> {
@@ -58,7 +57,7 @@ export const LearningReport = () => {
         taxonomyRepository={learningRepository}
         loadingNode={
           <div className={styles.spinnerBox}>
-            <Image alt="Loading..." src="/spinner.svg" layout="fill" />
+            <img alt="Loading..." src="/spinner.svg" />
           </div>
         }
         customClassName={styles.omniCourse}

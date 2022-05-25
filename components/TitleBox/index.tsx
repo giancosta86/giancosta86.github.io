@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./index.module.scss";
-import Image from "next/image";
 
 export const TitleBox = () => (
   <div className={styles.titleBox}>
@@ -9,11 +8,10 @@ export const TitleBox = () => (
     </div>
 
     <div className={styles.portraitBox}>
-      <Image
+      <img
         className={styles.portrait}
         alt="Gianluca Costa's portrait"
         src="/gian.jpg"
-        layout="fill"
       />
     </div>
 
