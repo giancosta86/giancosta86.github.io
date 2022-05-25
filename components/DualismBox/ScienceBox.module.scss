@@ -1,10 +1,6 @@
-@import "../../styles/mobile.scss";
+@use "../../styles/mobile.scss";
 
 .scienceBox {
-  h2 {
-    color: navy;
-  }
-
   background: linear-gradient(
     135deg,
     rgb(210, 247, 255) 0%,
@@ -12,6 +8,10 @@
   );
   border: 2px solid navy;
   border-radius: 2em 0 0 2em;
+
+  h2 {
+    color: navy;
+  }
 
   a {
     &:link,
@@ -29,7 +29,7 @@
   }
 }
 
-@include mobile {
+@include mobile.query {
   .scienceBox {
     background: linear-gradient(
       180deg,

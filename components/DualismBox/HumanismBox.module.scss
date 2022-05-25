@@ -1,10 +1,6 @@
-@import "../../styles/mobile.scss";
+@use "../../styles/mobile.scss";
 
 .humanismBox {
-  h2 {
-    color: darkgreen;
-  }
-
   background: linear-gradient(
     225deg,
     rgb(230, 255, 210) 0%,
@@ -13,6 +9,10 @@
 
   border: 2px solid green;
   border-radius: 0 2em 2em 0;
+
+  h2 {
+    color: darkgreen;
+  }
 
   a {
     &:link,
@@ -30,7 +30,7 @@
   }
 }
 
-@include mobile {
+@include mobile.query {
   .humanismBox {
     background: linear-gradient(
       180deg,

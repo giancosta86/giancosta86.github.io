@@ -26,6 +26,6 @@ const humanismMarkdown = `
 
 export const HumanismBox = () => (
   <div className={styles.humanismBox}>
-    <ReactMarkdown children={humanismMarkdown} />
+    <ReactMarkdown>{humanismMarkdown}</ReactMarkdown>
   </div>
 );

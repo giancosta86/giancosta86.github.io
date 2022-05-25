@@ -1,86 +1,24 @@
-.learningReport {
-  display: flex;
-  flex-direction: column;
-  font-size: 0.8em;
+@use "mobile.scss";
 
-  .path-bar {
-    border-bottom: 1px solid black;
-
-    padding: 0.6em 0.5em;
-
-    .root-label {
-      font-weight: bold;
-      margin-right: 0.5em;
-    }
-
-    .root-select {
-      padding: 0.25em;
-      margin-bottom: 1em;
-    }
-
-    .path-component {
-      margin-left: 1em;
-      margin-bottom: 1em;
-    }
-
-    .internal {
-      padding: 0.15em;
-    }
-
-    .leaf {
-      font-style: italic;
+.omniCourse {
+  a {
+    &:link,
+    &:visited {
+      color: #1e5399;
     }
   }
 
-  .course-chart {
-    g {
-      text {
-        cursor: pointer;
-      }
-    }
+  min-height: 450px;
+
+  .chartBox {
+    min-height: 420px;
   }
+}
 
-  .table-container {
-    overflow-x: auto;
-
-    .course-table {
-      margin: 2.5em 0;
-      padding: 1em;
-
-      td {
-        border: 1px solid black;
-        padding: 0.7em;
-      }
-
-      thead {
-        font-weight: bold;
-        text-align: center;
-        background: lighten(cornflowerblue, 10%);
-      }
-
-      tbody {
-        background: aliceblue;
-
-        .duration,
-        .completion-date,
-        .portal,
-        .certificate {
-          text-align: center;
-        }
-      }
-    }
-  }
-
-  .context-summary {
-    border-top: 1px solid black;
-    padding: 0 0.5em;
-
-    div {
-      margin-top: 0.5em;
-
-      label {
-        font-weight: bold;
-      }
+@include mobile.query {
+  .omniCourse {
+    .chartBox {
+      min-height: 350px;
     }
   }
 }

@@ -1,0 +1,2500 @@
+{
+  "Science": {
+    "Information Technology": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [
+            {
+              "title": "C# Fundamentals",
+              "completionDate": "2019-08-02",
+              "minutes": 365,
+              "url": "https://www.pluralsight.com/courses/csharp-fundamentals-dev"
+            },
+            {
+              "title": "LINQ Fundamentals",
+              "completionDate": "2019-08-03",
+              "minutes": 290,
+              "url": "https://www.pluralsight.com/courses/linq-fundamentals"
+            },
+
+            {
+              "title": "C# Interfaces",
+              "minutes": 143,
+              "url": "https://www.pluralsight.com/courses/using-csharp-interfaces",
+              "completionDate": "2019-09-02"
+            },
+
+            {
+              "title": "C# Extension Methods",
+              "minutes": 87,
+              "url": "https://www.pluralsight.com/courses/c-sharp-extension-methods",
+              "completionDate": "2019-12-13"
+            },
+
+            {
+              "title": "Object-Oriented Programming Fundamentals in C#",
+              "minutes": 207,
+              "url": "https://www.pluralsight.com/courses/object-oriented-programming-fundamentals-csharp",
+              "completionDate": "2019-12-28"
+            },
+
+            {
+              "title": "Exploring C# 6 with Jon Skeet",
+              "minutes": 202,
+              "url": "https://www.pluralsight.com/courses/csharp-with-jon-skeet",
+              "completionDate": "2020-01-06"
+            },
+            {
+              "title": "Play by Play: Visual Studio 2017 and C# 7",
+              "minutes": 154,
+              "url": "https://www.pluralsight.com/courses/play-by-play-visual-studio-2017-csharp-7",
+              "completionDate": "2020-01-08"
+            },
+            {
+              "title": "C# Tips and Traps",
+              "minutes": 238,
+              "url": "https://www.pluralsight.com/courses/csharp-tips-traps",
+              "completionDate": "2020-01-09"
+            },
+            {
+              "title": "C# Tips and Traps 2",
+              "minutes": 163,
+              "url": "https://www.pluralsight.com/courses/csharp-tips-traps-part2",
+              "completionDate": "2020-01-10"
+            },
+            {
+              "title": "What’s New in C# 8.0 and .NET Core 3.0",
+              "minutes": 108,
+              "url": "https://www.pluralsight.com/courses/csharp-8-dotnet-core-3-whats-new",
+              "completionDate": "2020-01-14"
+            },
+            {
+              "title": "C# 8.0 Pocket Reference",
+              "minutes": 240,
+              "url": "http://shop.oreilly.com/product/0636920251958.do",
+              "kind": "Book"
+            },
+            {
+              "title": "Beginning C# Collections",
+              "minutes": 206,
+              "url": "https://www.pluralsight.com/courses/csharp-collections-beginning",
+              "completionDate": "2019-09-03"
+            },
+            {
+              "title": "C# Collections Fundamentals",
+              "minutes": 356,
+              "url": "https://www.pluralsight.com/courses/csharp-collections",
+              "completionDate": "2019-12-30"
+            }
+          ],
+          "Platform": [
+            {
+              "title": "Getting Started Building Windows Services with Topshelf",
+              "completionDate": "2019-07-19",
+              "minutes": 100,
+              "url": "https://www.pluralsight.com/courses/topshelf-getting-started-building-windows-services"
+            },
+            {
+              "title": "Dates and Times in .NET",
+              "completionDate": "2019-08-04",
+              "minutes": 81,
+              "url": "https://www.pluralsight.com/courses/dotnet-dates-times"
+            },
+            {
+              "title": "MSIL for the C# Developer",
+              "minutes": 155,
+              "url": "https://www.pluralsight.com/courses/msil-csharp-developer",
+              "completionDate": "2020-01-26"
+            },
+            {
+              "title": ".NET Regular Expressions",
+              "minutes": 209,
+              "url": "https://www.pluralsight.com/courses/net-regular-expressions",
+              "completionDate": "2019-12-11"
+            }
+          ]
+        },
+        "Groovy": [
+          {
+            "title": "Groovy: Getting Started",
+            "minutes": 79,
+            "url": "https://www.pluralsight.com/courses/groovy-getting-started",
+            "completionDate": "2019-08-26"
+          },
+          {
+            "title": "Groovy Fundamentals",
+            "minutes": 218,
+            "url": "https://www.pluralsight.com/courses/groovy-fundamentals",
+            "completionDate": "2019-08-28"
+          }
+        ],
+        "TypeScript": [
+          {
+            "title": "Using TypeScript Modules",
+            "minutes": 85,
+            "url": "https://www.pluralsight.com/courses/typescript-modules",
+            "completionDate": "2019-12-26"
+          },
+          {
+            "title": "TypeScript: The Big Picture",
+            "minutes": 45,
+            "url": "https://www.pluralsight.com/courses/typescript-big-picture",
+            "completionDate": "2019-12-19"
+          },
+          {
+            "title": "TypeScript: Getting Started",
+            "minutes": 181,
+            "url": "https://www.pluralsight.com/courses/getting-started-typescript",
+            "completionDate": "2019-09-30"
+          },
+          {
+            "title": "TypeScript In-depth",
+            "minutes": 281,
+            "url": "https://www.pluralsight.com/courses/typescript-in-depth",
+            "completionDate": "2019-10-03"
+          },
+          {
+            "title": "Advanced TypeScript",
+            "minutes": 175,
+            "url": "https://www.pluralsight.com/courses/typescript-advanced",
+            "completionDate": "2019-10-05"
+          },
+          {
+            "title": "Creating and Using TypeScript Decorators",
+            "minutes": 74,
+            "url": "https://www.pluralsight.com/courses/creating-using-typescript-decorators",
+            "completionDate": "2019-12-20"
+          },
+          {
+            "title": "Using Specialized Types and Language Features in TypeScript",
+            "minutes": 93,
+            "url": "https://www.pluralsight.com/courses/typescript-specialized-types-language-features",
+            "completionDate": "2019-12-24"
+          },
+          {
+            "title": "Creating Object-oriented TypeScript Code",
+            "minutes": 131,
+            "url": "https://www.pluralsight.com/courses/typescript-creating-object-oriented-code",
+            "completionDate": "2019-12-23"
+          },
+          {
+            "title": "Creating and Using Generics in TypeScript",
+            "minutes": 49,
+            "url": "https://www.pluralsight.com/courses/typescript-generics-creating-using",
+            "completionDate": "2019-11-17"
+          },
+          {
+            "title": "Programming TypeScript",
+            "minutes": 480,
+            "url": "http://shop.oreilly.com/product/0636920158059.do",
+            "kind": "Book"
+          }
+        ],
+
+        "C": [
+          {
+            "title": "C Programming Language Fundamentals",
+            "minutes": 86,
+            "url": "https://www.pluralsight.com/courses/c-lang-fundamentals",
+            "completionDate": "2019-11-16"
+          },
+          {
+            "title": "The C Programming Language in Action",
+            "minutes": 253,
+            "url": "https://www.pluralsight.com/courses/c-programming-language-in-action",
+            "completionDate": "2019-11-16"
+          }
+        ],
+        "Python": [
+          {
+            "title": "Core Python: Organizing Larger Programs",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/core-python-organizing-larger-programs",
+            "completionDate": "2020-03-02"
+          },
+          {
+            "title": "Python: The Big Picture",
+            "minutes": 65,
+            "url": "https://www.pluralsight.com/courses/python-big-picture",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Core Python: Getting Started",
+            "minutes": 246,
+            "url": "https://www.pluralsight.com/courses/getting-started-python-core",
+            "completionDate": "2020-01-26"
+          },
+          {
+            "title": "Python – Beyond the Basics",
+            "minutes": 443,
+            "url": "https://www.pluralsight.com/courses/python-beyond-basics",
+            "completionDate": "2020-02-19"
+          },
+          {
+            "title": "Advanced Python",
+            "minutes": 233,
+            "url": "https://www.pluralsight.com/courses/advanced-python",
+            "completionDate": "2020-02-21"
+          },
+          {
+            "title": "Core Python: Numeric Types, Dates, and Times",
+            "minutes": 56,
+            "url": "https://www.pluralsight.com/courses/core-python-numeric-types-dates-times",
+            "completionDate": "2020-03-16"
+          },
+          {
+            "title": "Python Pocket Reference",
+            "minutes": 180,
+            "url": "http://shop.oreilly.com/product/0636920028338.do",
+            "kind": "Book"
+          }
+        ],
+        "R": [
+          {
+            "title": "Working with Data Types in R",
+            "minutes": 90,
+            "url": "https://www.pluralsight.com/courses/working-data-types-r",
+            "completionDate": "2020-04-01"
+          }
+        ],
+        "Flutter": [
+          {
+            "title": "Flutter: The Big Picture",
+            "completionDate": "2019-05-29",
+            "minutes": 73,
+            "url": "https://www.pluralsight.com/courses/flutter-big-picture"
+          },
+          {
+            "title": "Learn Dart Programming for Flutter",
+            "completionDate": "2019-05-17",
+            "minutes": 270,
+            "url": "https://www.udemy.com/learn-dart-programming/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-1U050CW8/"
+          },
+          {
+            "title": "The Complete Flutter App Development Course for Android, iOS",
+            "completionDate": "2019-05-16",
+            "minutes": 270,
+            "url": "https://www.udemy.com/the-complete-flutter-app-development-course-for-android-ios/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-99IY0RTE/"
+          }
+        ]
+      },
+      "Software Design": {
+        "Clean Code": {
+          "Principles": [
+            {
+              "title": "Clean Architecture: Patterns, Practices and Principles",
+              "completionDate": "2019-05-24",
+              "minutes": 141,
+              "url": "https://www.pluralsight.com/courses/clean-architecture-patterns-practices-principles"
+            }
+          ],
+          "Python": [
+            {
+              "title": "Python Best Practices for Code Quality",
+              "minutes": 71,
+              "url": "https://www.pluralsight.com/courses/python-best-practices-code-quality",
+              "completionDate": "2020-01-26"
+            }
+          ]
+        },
+        "Fault tolerance": {
+          "C#": [
+            {
+              "title": "Fault Tolerant Web Service Requests with Polly",
+              "minutes": 134,
+              "url": "https://www.pluralsight.com/courses/polly-fault-tolerant-web-service-requests",
+              "completionDate": "2019-12-18"
+            },
+            {
+              "title": "Better User Experiences and More Robust Applications with Polly",
+              "minutes": 75,
+              "url": "https://www.pluralsight.com/courses/polly-user-experiences-robust-applications",
+              "completionDate": "2019-12-17"
+            },
+            {
+              "title": "Working with Nulls in C#",
+              "completionDate": "2019-08-03",
+              "minutes": 85,
+              "url": "https://www.pluralsight.com/courses/csharp-nulls-working"
+            },
+            {
+              "title": "Error Handling in C# with Exceptions",
+              "minutes": 97,
+              "url": "https://www.pluralsight.com/courses/c-sharp-error-handling-exceptions",
+              "completionDate": "2019-12-16"
+            },
+
+            {
+              "title": "Working with Nulls in C#",
+              "minutes": 129,
+              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
+              "completionDate": "2019-12-27"
+            }
+          ]
+        },
+        "Functional Programming": {
+          "JavaScript": [
+            {
+              "title": "Writing Functional JavaScript Using Ramda",
+              "completionDate": "2019-08-06",
+              "minutes": 128,
+              "url": "https://www.pluralsight.com/courses/javascript-ramda-functional"
+            },
+            {
+              "title": "Fundamentals of Functional Programming in JavaScript",
+              "minutes": 86,
+              "url": "https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals",
+              "completionDate": "2019-11-06"
+            }
+          ],
+          "Python": [
+            {
+              "title": "Core Python: Functions and Functional Programming",
+              "minutes": 78,
+              "url": "https://www.pluralsight.com/courses/core-python-functions-functional-programming",
+              "completionDate": "2020-03-04"
+            }
+          ],
+          "RxJS": [
+            {
+              "title": "RxJS: The Big Picture",
+              "minutes": 62,
+              "url": "https://www.pluralsight.com/courses/rxjs-big-picture",
+              "completionDate": "2020-05-03"
+            },
+            {
+              "title": "RxJS: Getting Started",
+              "minutes": 184,
+              "url": "https://www.pluralsight.com/courses/rxjs-getting-started",
+              "completionDate": "2020-05-04"
+            }
+          ]
+        },
+
+        "Concurrency": {
+          ".NET": [
+            {
+              "title": "Getting Started with Asynchronous Programming in .NET",
+              "minutes": 142,
+              "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+              "completionDate": "2019-09-10"
+            },
+            {
+              "title": "Getting Started with Asynchronous Programming in .NET",
+              "minutes": 156,
+              "url": "https://www.pluralsight.com/courses/getting-started-with-asynchronous-programming-dotnet",
+              "completionDate": "2020-01-12"
+            },
+            {
+              "title": "C# Concurrent Collections",
+              "minutes": 212,
+              "url": "https://www.pluralsight.com/courses/csharp-concurrent-collections",
+              "completionDate": "2020-01-05"
+            }
+          ],
+          "NodeJS": [
+            {
+              "title": "Async Patterns in Node.js",
+              "minutes": 87,
+              "url": "https://www.pluralsight.com/courses/nodejs-async-patterns",
+              "completionDate": "2020-03-02"
+            }
+          ],
+          "TypeScript": [
+            {
+              "title": "Creating Asynchronous TypeScript Code",
+              "minutes": 111,
+              "url": "https://www.pluralsight.com/courses/typescript-asynchronous-code",
+              "completionDate": "2019-12-25"
+            }
+          ],
+          "Event-driven": {
+            ".NET": [
+              {
+                "title": "C# Events, Delegates and Lambdas",
+                "minutes": 192,
+                "url": "https://www.pluralsight.com/courses/csharp-events-delegates",
+                "completionDate": "2019-12-29"
+              }
+            ]
+          }
+        },
+        "Testing": {
+          "Principles": [
+            {
+              "title": "Testing Automation: The Big Picture",
+              "minutes": 66,
+              "url": "https://www.pluralsight.com/courses/testing-automation-big-picture",
+              "completionDate": "2019-12-18"
+            }
+          ],
+          "Frontend": {
+            "Browser Automation": [
+              {
+                "title": "Automated Business Readable Web Tests with Selenium and SpecFlow",
+                "minutes": 144,
+                "url": "https://www.pluralsight.com/courses/selenium-specflow-automated-business-readable-web-tests",
+                "completionDate": "2019-10-12"
+              }
+            ]
+          },
+          "Gherkin": [
+            {
+              "title": "Automated Acceptance Testing with SpecFlow and Gherkin",
+              "minutes": 172,
+              "url": "https://www.pluralsight.com/courses/automated-acceptance-testing-specflow-gherkin",
+              "completionDate": "2019-10-22"
+            }
+          ],
+          "C#": [
+            {
+              "title": "Introduction to .NET Testing with NUnit 3",
+              "completionDate": "2019-05-31",
+              "minutes": 126,
+              "url": "https://www.pluralsight.com/courses/nunit-3-dotnet-testing-introduction"
+            },
+            {
+              "title": "Improving Unit Tests with Fluent Assertions",
+              "completionDate": "2019-06-01",
+              "minutes": 40,
+              "url": "https://www.pluralsight.com/courses/fluent-assertions-improving-unit-tests"
+            }
+          ]
+        }
+      },
+
+      "CI / CD": {
+        "Source Control": {
+          "Git": [
+            {
+              "title": "Getting Started with Git",
+              "minutes": 143,
+              "url": "https://www.pluralsight.com/courses/git-getting-started",
+              "completionDate": "2019-10-26"
+            },
+            {
+              "title": "Code School: Git Real",
+              "minutes": 50,
+              "url": "https://www.pluralsight.com/courses/code-school-git-real",
+              "completionDate": "2019-10-27"
+            },
+            {
+              "title": "Code School: Git Real 2",
+              "minutes": 51,
+              "url": "https://www.pluralsight.com/courses/code-school-git-real-2",
+              "completionDate": "2019-10-27"
+            },
+            {
+              "title": "How Git Works",
+              "minutes": 109,
+              "url": "https://www.pluralsight.com/courses/how-git-works",
+              "completionDate": "2019-10-28"
+            }
+          ]
+        },
+
+        "Build Tools": {
+          "TypeScript": [
+            {
+              "title": "Configuring, Compiling, and Debugging TypeScript Projects",
+              "minutes": 128,
+              "url": "https://www.pluralsight.com/courses/typescript-projects-configuring-compiling-debugging",
+              "completionDate": "2019-12-26"
+            },
+            {
+              "title": "Getting the Most from the TypeScript Compiler",
+              "minutes": 123,
+              "url": "https://www.pluralsight.com/courses/typescript-compiler",
+              "completionDate": "2020-04-07"
+            }
+          ],
+          "JavaScript": [
+            {
+              "title": "Babel: Get Started",
+              "completionDate": "2019-07-21",
+              "minutes": 123,
+              "url": "https://www.pluralsight.com/courses/babel-get-started"
+            }
+          ],
+          "Python": [
+            {
+              "title": "Managing Python Packages and Virtual Environments",
+              "minutes": 84,
+              "url": "https://www.pluralsight.com/courses/managing-python-packages-virtual-environments",
+              "completionDate": "2020-01-26"
+            }
+          ],
+          "NodeJS": [
+            {
+              "title": "NPM Playbook",
+              "completionDate": "2019-06-24",
+              "minutes": 58,
+              "url": "https://www.pluralsight.com/courses/npm-playbook"
+            },
+            {
+              "title": "Introduction to NPM as a Build Tool",
+              "minutes": 97,
+              "url": "https://www.pluralsight.com/courses/npm-build-tool-introduction",
+              "completionDate": "2019-08-07"
+            }
+          ],
+          "Docker": [
+            {
+              "title": "Docker for Web Developers",
+              "minutes": 353,
+              "url": "https://www.pluralsight.com/courses/docker-web-development",
+              "completionDate": "2019-11-13"
+            }
+          ],
+          "Java": [
+            {
+              "title": "Maven Fundamentals",
+              "minutes": 145,
+              "url": "https://www.pluralsight.com/courses/maven-fundamentals",
+              "completionDate": "2019-08-13"
+            }
+          ],
+          ".NET": [
+            {
+              "title": "Building and Deploying Applications with Cake",
+              "completionDate": "2019-08-04",
+              "minutes": 236,
+              "url": "https://www.pluralsight.com/courses/cake-applications-deploying-building"
+            }
+          ]
+        },
+
+        "GitHub Actions": [
+          {
+            "title": "Learning GitHub Actions (2019)",
+            "minutes": 97,
+            "url": "https://www.linkedin.com/learning/learning-github-actions-2019",
+            "completionDate": "2020-03-13"
+          },
+          {
+            "title": "Building Custom GitHub Actions",
+            "minutes": 131,
+            "url": "https://www.pluralsight.com/courses/building-custom-github-actions",
+            "completionDate": "2020-03-15"
+          }
+        ],
+        "Octopus": [
+          {
+            "title": "Deploying .NET Applications with Octopus Deploy",
+            "completionDate": "2019-05-27",
+            "minutes": 73,
+            "url": "https://www.pluralsight.com/courses/octopus-deploy-dot-net-applications"
+          }
+        ],
+        "IDEs & editors": [
+          {
+            "title": "Learning vi",
+            "minutes": 88,
+            "url": "https://www.linkedin.com/learning/learning-vi",
+            "completionDate": "2019-10-27"
+          }
+        ]
+      },
+
+      "Cloud & Virtualization": {
+        "Network Principles": [
+          {
+            "title": "Remote File Sharing",
+            "minutes": 4,
+            "completionDate": "2020-04-05"
+          },
+          {
+            "title": "Learn Socket Programming in C from Scratch",
+            "completionDate": "2019-05-28",
+            "minutes": 90,
+            "url": "https://www.udemy.com/learn-socket-programming-in-c-from-scratch/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-XTMOKPHL/"
+          }
+        ],
+        "Amazon Web Services": {
+          "Principles": [
+            {
+              "title": "AWS Developer: The Big Picture",
+              "completionDate": "2019-05-25",
+              "minutes": 94,
+              "url": "https://www.pluralsight.com/courses/aws-developer-big-picture"
+            },
+            {
+              "title": "AWS Network Design: Getting Started",
+              "minutes": 47,
+              "url": "https://www.pluralsight.com/courses/aws-network-design-getting-started",
+              "completionDate": "2019-10-13"
+            }
+          ],
+          "Serverless": [
+            {
+              "title": "AWS Developer - An Introduction to AWS Lambda",
+              "minutes": 111,
+              "url": "https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda",
+              "completionDate": "2019-10-15"
+            }
+          ],
+          "API Gateway": [
+            {
+              "title": "AWS Networking and the API Gateway",
+              "minutes": 43,
+              "url": "https://www.pluralsight.com/courses/aws-networking-api-gateway",
+              "completionDate": "2019-10-12"
+            }
+          ]
+        },
+
+        "Docker": [
+          {
+            "title": "Docker and Kubernetes: The Big Picture",
+            "minutes": 107,
+            "url": "https://www.pluralsight.com/courses/docker-kubernetes-big-picture",
+            "completionDate": "2019-11-11"
+          },
+          {
+            "title": "Docker Deep Dive",
+            "minutes": 276,
+            "url": "https://www.pluralsight.com/courses/docker-deep-dive-update",
+            "completionDate": "2019-11-17"
+          },
+          {
+            "title": "Docker Networking",
+            "minutes": 110,
+            "url": "https://www.pluralsight.com/courses/docker-networking",
+            "completionDate": "2019-11-18"
+          }
+        ],
+        "Kubernetes": [
+          {
+            "title": "Getting Started with Kubernetes",
+            "minutes": 173,
+            "url": "https://www.pluralsight.com/courses/getting-started-kubernetes",
+            "completionDate": "2019-11-25"
+          },
+          {
+            "title": "Kubernetes Installation and Configuration Fundamentals",
+            "minutes": 158,
+            "url": "https://www.pluralsight.com/courses/kubernetes-installation-configuration-fundamentals",
+            "completionDate": "2019-11-30"
+          }
+        ]
+      },
+
+      "Frontend": {
+        "React": [
+          {
+            "title": "React: The Big Picture",
+            "completionDate": "2019-06-01",
+            "minutes": 71,
+            "url": "https://www.pluralsight.com/courses/react-big-picture"
+          },
+          {
+            "title": "React: Getting Started",
+            "completionDate": "2019-06-09",
+            "minutes": 241,
+            "url": "https://www.pluralsight.com/courses/react-js-getting-started"
+          },
+          {
+            "title": "Styling React Components",
+            "completionDate": "2019-06-18",
+            "minutes": 83,
+            "url": "https://www.pluralsight.com/courses/react-styling-components"
+          }
+        ],
+        "CSS": {
+          "Standard": [
+            {
+              "title": "CSS Essential Training",
+              "minutes": 268,
+              "url": "https://www.linkedin.com/learning/css-essential-training-3",
+              "completionDate": "2020-03-16"
+            },
+
+            {
+              "title": "Modern Web Layout with Flexbox and CSS Grid",
+              "minutes": 75,
+              "url": "https://www.pluralsight.com/courses/modern-web-layout-flexbox-css-grid",
+              "completionDate": "2019-08-12"
+            }
+          ],
+          "Bulma": [
+            {
+              "title": "Building Websites with Bulma",
+              "completionDate": "2019-07-11",
+              "minutes": 102,
+              "url": "https://www.pluralsight.com/courses/building-websites-bulma"
+            }
+          ]
+        },
+        "User Experience": [
+          {
+            "title": "UX Fundamentals",
+            "minutes": 66,
+            "url": "https://www.pluralsight.com/courses/ux-fundamentals-2426",
+            "completionDate": "2019-11-20"
+          }
+        ],
+
+        "Chrome": [
+          {
+            "title": "Creating a Chrome Extension",
+            "minutes": 160,
+            "url": "https://www.pluralsight.com/courses/creating-chrome-extensions",
+            "completionDate": "2019-08-09"
+          }
+        ],
+        "Webpack": [
+          {
+            "title": "Webpack: Transpiling and Bundling JavaScript",
+            "minutes": 296,
+            "url": "https://www.pluralsight.com/courses/transpiling-bundling-javascript-webpack",
+            "completionDate": "2019-10-12"
+          },
+          {
+            "title": "Learning webpack 4",
+            "minutes": 42,
+            "url": "https://www.linkedin.com/learning/learning-webpack-4-2",
+            "completionDate": "2020-03-13"
+          }
+        ],
+        "WebAssembly": [
+          {
+            "title": "WebAssembly: The Big Picture",
+            "minutes": 42,
+            "url": "https://www.pluralsight.com/courses/web-assembly-big-picture",
+            "completionDate": "2020-04-17"
+          }
+        ]
+      },
+
+      "Backend": {
+        "GraphQL": [
+          {
+            "title": "Building Scalable APIs with GraphQL",
+            "completionDate": "2019-06-20",
+            "minutes": 130,
+            "url": "https://www.pluralsight.com/courses/graphql-scalable-apis"
+          }
+        ],
+        "NodeJS": [
+          {
+            "title": "Node.js: The Big Picture",
+            "minutes": 55,
+            "url": "https://www.pluralsight.com/courses/nodejs-big-picture",
+            "completionDate": "2019-10-15"
+          },
+          {
+            "title": "Node.js: Getting Started",
+            "minutes": 209,
+            "url": "https://www.pluralsight.com/courses/nodejs-getting-started",
+            "completionDate": "2019-10-16"
+          },
+          {
+            "title": "Advanced Node.js",
+            "minutes": 226,
+            "url": "https://www.pluralsight.com/courses/nodejs-advanced",
+            "completionDate": "2019-10-19"
+          },
+          {
+            "title": "GatsbyJS: Getting Started",
+            "completionDate": "2019-06-17",
+            "minutes": 120,
+            "url": "https://www.pluralsight.com/courses/gatsbyjs-getting-started"
+          },
+          {
+            "title": "RESTful Web Services with Node.js and Express",
+            "minutes": 123,
+            "url": "https://www.pluralsight.com/courses/node-js-express-rest-web-services-update",
+            "completionDate": "2020-01-30"
+          }
+        ]
+      },
+
+      "Security": {
+        "Principles": [
+          {
+            "title": "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)",
+            "minutes": 144,
+            "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction",
+            "completionDate": "2019-11-03"
+          },
+          {
+            "title": "Christmas Cyber Scams",
+            "minutes": 2,
+            "completionDate": "2019-12-23"
+          },
+          {
+            "title": "In the war for information, will quantum computers defeat cryptographers?",
+            "completionDate": "2019-11-20",
+            "minutes": 16,
+            "url": "https://www.ted.com/talks/craig_costello_in_the_war_for_information_will_quantum_computers_defeat_cryptographers",
+            "kind": "Talk"
+          }
+        ],
+        "Cryptography": [
+          {
+            "title": "Practical Cryptography in Node.js",
+            "minutes": 83,
+            "url": "https://www.pluralsight.com/courses/practical-cryptography-node-js",
+            "completionDate": "2020-01-27"
+          }
+        ],
+        "Blockchain": [
+          {
+            "title": "Blockchain Fundamentals",
+            "minutes": 140,
+            "url": "https://www.pluralsight.com/courses/blockchain-fundamentals",
+            "completionDate": "2020-05-03"
+          }
+        ]
+      },
+
+      "Data Science": {
+        "Principles": [
+          {
+            "title": "Data Science: The Big Picture",
+            "minutes": 69,
+            "url": "https://www.pluralsight.com/courses/data-science-big-picture",
+            "completionDate": "2020-01-30"
+          }
+        ],
+        "Quantum Computing": [
+          {
+            "title": "Quantum Computing: The Big Picture",
+            "minutes": 30,
+            "url": "https://www.pluralsight.com/courses/quantum-computing-big-picture",
+            "completionDate": "2020-02-19"
+          }
+        ],
+        "Machine Learning": [
+          {
+            "title": "Understanding Machine Learning with R",
+            "minutes": 85,
+            "url": "https://www.pluralsight.com/courses/r-understanding-machine-learning",
+            "completionDate": "2020-04-03"
+          },
+          {
+            "title": "Understanding Machine Learning with Python",
+            "minutes": 114,
+            "url": "https://www.pluralsight.com/courses/python-understanding-machine-learning",
+            "completionDate": "2020-04-04"
+          },
+          {
+            "title": "Machine Learning for Business Professionals",
+            "minutes": 324,
+            "url": "https://www.pluralsight.com/courses/machine-learning-business-professionals",
+            "completionDate": "2020-04-09"
+          },
+          {
+            "title": "How Google Does Machine Learning",
+            "minutes": 200,
+            "url": "https://www.pluralsight.com/courses/how-google-does-machine-learning",
+            "completionDate": "2020-04-10"
+          },
+          {
+            "title": "Launching into Machine Learning",
+            "minutes": 199,
+            "url": "https://www.pluralsight.com/courses/launching-machine-learning",
+            "completionDate": "2020-04-11"
+          },
+          {
+            "title": "Understanding Machine Learning",
+            "minutes": 43,
+            "url": "https://www.pluralsight.com/courses/understanding-machine-learning",
+            "completionDate": "2020-04-12"
+          },
+          {
+            "title": "Feature Engineering",
+            "minutes": 247,
+            "url": "https://www.pluralsight.com/courses/feature-engineering",
+            "completionDate": "2020-04-17"
+          },
+          {
+            "title": "The Art and Science of ML",
+            "minutes": 210,
+            "url": "https://www.pluralsight.com/courses/art-science-ml",
+            "completionDate": "2020-05-02"
+          }
+        ],
+
+        "TensorFlow": [
+          {
+            "title": "Introduction to TensorFlow",
+            "minutes": 180,
+            "url": "https://www.pluralsight.com/courses/introduction-tensorflow",
+            "completionDate": "2020-04-12"
+          },
+          {
+            "title": "Learning TensorFlow with JavaScript",
+            "minutes": 57,
+            "url": "https://www.linkedin.com/learning/learning-tensorflow-with-javascript",
+            "completionDate": "2020-03-15"
+          }
+        ],
+        "Pandas": [
+          {
+            "title": "Pandas Fundamentals",
+            "minutes": 81,
+            "url": "https://www.pluralsight.com/courses/pandas-fundamentals",
+            "completionDate": "2020-04-17"
+          },
+          {
+            "title": "Data Wrangling with Pandas for Machine Learning Engineers",
+            "minutes": 61,
+            "url": "https://www.pluralsight.com/courses/pandas-data-wrangling-machine-learning-engineers",
+            "completionDate": "2020-05-09"
+          }
+        ],
+        "NumPy": [
+          {
+            "title": "Working with Multidimensional Data Using NumPy",
+            "minutes": 104,
+            "url": "https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data",
+            "completionDate": "2020-05-07"
+          }
+        ],
+
+        "Relational DBMS": {
+          "Principles": [
+            {
+              "title": "Introduction to SQL",
+              "minutes": 182,
+              "url": "https://www.pluralsight.com/courses/introduction-to-sql",
+              "completionDate": "2020-04-04"
+            }
+          ]
+        },
+
+        "NoSQL": {
+          "MongoDB": [
+            {
+              "title": "M320: Data Modeling",
+              "completionDate": "2019-08-04",
+              "minutes": 153,
+              "url": "https://university.mongodb.com/courses/M320/about",
+              "certificateUrl": "https://university.mongodb.com/course_completion/fa848574-c34f-4ac0-b149-987a9d5cb887"
+            },
+            {
+              "title": "M042: New Features and Tools in MongoDB 4.2",
+              "minutes": 122,
+              "url": "https://university.mongodb.com/courses/M042/about",
+              "completionDate": "2019-09-11",
+              "certificateUrl": "https://university.mongodb.com/course_completion/e21a71d5-2ad5-4576-a4f1-9d9ebe0aa8fc"
+            }
+          ]
+        }
+      },
+
+      "Applications": {
+        "Microsoft Office": [
+          {
+            "title": "Start Using Excel",
+            "completionDate": "2019-06-03",
+            "minutes": 16
+          },
+          {
+            "title": "Sharepoint Overview",
+            "completionDate": "2019-06-15",
+            "minutes": 15
+          }
+        ]
+      }
+    },
+
+    "Further Domains": {
+      "Mathematics": [
+        {
+          "title": "Matematica - Dagli insiemi alle equazioni differenziali",
+          "minutes": 600,
+          "url": "http://www.vallardi.it/catalogo/scheda/matematica-libro_2.html",
+          "kind": "Book"
+        }
+      ],
+      "Physics": [
+        {
+          "title": "Atlante di Fisica",
+          "minutes": 420,
+          "url": "https://www.giunti.it/catalogo/atlante-di-fisica-9788809746749",
+          "kind": "Book"
+        }
+      ],
+      "Electronics": {
+        "Robotics": [
+          {
+            "title": "Origami robots that reshape and transform themselves",
+            "completionDate": "2019-08-11",
+            "minutes": 12,
+            "url": "https://www.ted.com/talks/jamie_paik_origami_robots_that_reshape_and_transform_themselves",
+            "kind": "Talk"
+          },
+          {
+            "title": "Tiny robots with giant potential",
+            "completionDate": "2020-02-12",
+            "minutes": 13,
+            "url": "https://www.ted.com/talks/paul_mceuen_and_marc_miskin_tiny_robots_with_giant_potential",
+            "kind": "Talk"
+          },
+          {
+            "title": "Why I draw with robots",
+            "completionDate": "2019-12-01",
+            "minutes": 8,
+            "url": "https://www.ted.com/talks/sougwen_chung_why_i_draw_with_robots",
+            "kind": "Talk"
+          }
+        ]
+      },
+      "Ecology": [
+        {
+          "title": "Can we solve global warming? Lessons from how we protected the ozone layer",
+          "completionDate": "2019-09-01",
+          "minutes": 10,
+          "url": "https://www.ted.com/talks/sean_davis_can_we_solve_global_warming_lessons_from_how_we_protected_the_ozone_layer",
+          "kind": "Talk"
+        },
+        {
+          "title": "Emergency medicine for our climate fever",
+          "completionDate": "2019-09-06",
+          "minutes": 14,
+          "url": "https://www.ted.com/talks/kelly_wanser_emergency_medicine_for_our_climate_fever",
+          "kind": "Talk"
+        },
+        {
+          "title": "A robot that eats pollution",
+          "completionDate": "2019-11-19",
+          "minutes": 14,
+          "url": "https://www.ted.com/talks/jonathan_rossiter_a_robot_that_eats_pollution",
+          "kind": "Talk"
+        },
+        {
+          "title": "A radical plan to end plastic waste",
+          "completionDate": "2019-11-18",
+          "minutes": 15,
+          "url": "https://www.ted.com/talks/andrew_forrest_a_radical_plan_to_end_plastic_waste",
+          "kind": "Talk"
+        },
+        {
+          "title": "Buildings that blend nature and city",
+          "completionDate": "2020-12-25",
+          "minutes": 12,
+          "url": "https://www.ted.com/talks/jeanne_gang_buildings_that_blend_nature_and_city",
+          "kind": "Talk"
+        }
+      ],
+      "Biology": [
+        {
+          "title": "The next software revolution: programming biological cells",
+          "completionDate": "2020-01-08",
+          "minutes": 15,
+          "url": "https://www.ted.com/talks/sara_jane_dunn_the_next_software_revolution_programming_biological_cells",
+          "kind": "Talk"
+        }
+      ],
+      "Astronomy": [
+        {
+          "title": "Inside the black hole image that made history",
+          "completionDate": "2019-08-15",
+          "minutes": 11,
+          "url": "https://www.ted.com/talks/sheperd_doeleman_inside_the_black_hole_image_that_made_history",
+          "kind": "Talk"
+        },
+        {
+          "title": "What the discovery of gravitational waves means",
+          "completionDate": "2019-09-08",
+          "minutes": 11,
+          "url": "https://www.ted.com/talks/allan_adams_what_the_discovery_of_gravitational_waves_means",
+          "kind": "Talk"
+        },
+        {
+          "title": "How I fell in love with quasars, blazars and our incredible universe",
+          "completionDate": "2019-09-21",
+          "minutes": 4,
+          "url": "https://www.ted.com/talks/jedidah_isler_how_i_fell_in_love_with_quasars_blazars_and_our_incredible_universe",
+          "kind": "Talk"
+        },
+        {
+          "title": "Shedding light on dark matter",
+          "completionDate": "2019-09-22",
+          "minutes": 16,
+          "url": "https://www.ted.com/talks/patricia_burchat_leads_a_search_for_dark_energy",
+          "kind": "Talk"
+        },
+        {
+          "title": "The search for dark matter - and what we've found so far",
+          "completionDate": "2020-01-24",
+          "minutes": 16,
+          "url": "https://www.ted.com/talks/risa_wechsler_the_search_for_dark_matter_and_what_we_ve_found_so_far",
+          "kind": "Talk"
+        },
+        {
+          "title": "The most detailed map of galaxies, black holes and stars ever made",
+          "completionDate": "2019-12-20",
+          "minutes": 14,
+          "url": "https://www.ted.com/talks/juna_kollmeier_the_most_detailed_map_of_galaxies_black_holes_and_stars_ever_made",
+          "kind": "Talk"
+        },
+        {
+          "title": "The search for our solar system's ninth planet",
+          "completionDate": "2019-11-25",
+          "minutes": 14,
+          "url": "https://www.ted.com/talks/mike_brown_the_search_for_our_solar_system_s_ninth_planet",
+          "kind": "Talk"
+        },
+        {
+          "title": "Atlante di Astronomia",
+          "minutes": 300,
+          "url": "https://www.giunti.it/catalogo/astronomia-9788809859906",
+          "kind": "Book"
+        }
+      ],
+      "Marketing": [
+        {
+          "title": "Essential KPIs for the Modern Marketer",
+          "completionDate": "2019-06-05",
+          "minutes": 20
+        },
+        {
+          "title": "Handling Objections in Sales",
+          "completionDate": "2019-06-16",
+          "minutes": 15
+        },
+        {
+          "title": "Maintaining Customer Focus",
+          "completionDate": "2019-06-14",
+          "minutes": 3
+        },
+        {
+          "title": "Customer relationship: creating commitment",
+          "completionDate": "2019-06-03",
+          "minutes": 15
+        },
+        {
+          "title": "Marketing to Humans",
+          "minutes": 27,
+          "url": "https://www.linkedin.com/learning/marketing-to-humans",
+          "completionDate": "2019-08-10"
+        },
+        {
+          "title": "Multi-Channel Marketing: Coordination, Cohesion and Results",
+          "minutes": 10,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "The Inbound Marketer's Playbook",
+          "minutes": 23,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "Customer Marketing",
+          "minutes": 15,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "Email Marketing",
+          "minutes": 13,
+          "completionDate": "2019-12-22"
+        },
+        {
+          "title": "Social Media Marketing",
+          "minutes": 16,
+          "completionDate": "2019-12-21"
+        },
+        {
+          "title": "How to be Customer Driven",
+          "minutes": 9,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Deliver Great Customer Experience",
+          "minutes": 2,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Customer relationship: building trust",
+          "minutes": 15,
+          "completionDate": "2020-04-05"
+        }
+      ],
+      "Management": [
+        {
+          "title": "Keep Your Projects on Track",
+          "completionDate": "2019-06-10",
+          "minutes": 3
+        },
+        {
+          "title": "Using SWOT Analysis to Boost Understanding of Your Business",
+          "completionDate": "2019-06-06",
+          "minutes": 5
+        },
+
+        {
+          "title": "Managing Projects",
+          "completionDate": "2019-06-14",
+          "minutes": 2
+        },
+        {
+          "title": "JIRA Fundamentals",
+          "minutes": 131,
+          "url": "https://www.pluralsight.com/courses/jira-fundamentals-update",
+          "completionDate": "2019-08-07"
+        },
+        {
+          "title": "Project management essentials. Part A",
+          "minutes": 15,
+          "completionDate": "2019-12-22"
+        },
+        {
+          "title": "Project management essentials. Part B",
+          "minutes": 15,
+          "completionDate": "2019-12-22"
+        },
+        {
+          "title": "Time Management for Managers",
+          "minutes": 6,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Project Preparation",
+          "minutes": 10,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Project Design",
+          "minutes": 10,
+          "completionDate": "2019-12-25"
+        }
+      ],
+
+      "Economy & Finance": [
+        {
+          "title": "Analyse Financial Health with Ratios",
+          "minutes": 5,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Financial Documents 101",
+          "minutes": 16,
+          "completionDate": "2020-01-04"
+        },
+        {
+          "title": "Finance for Non-Finance Managers",
+          "minutes": 35,
+          "completionDate": "2020-01-04"
+        }
+      ],
+      "Safety Protocols": [
+        {
+          "title": "Hazard and Risk",
+          "completionDate": "2019-06-15",
+          "minutes": 8
+        },
+        {
+          "title": "First Aid",
+          "completionDate": "2019-06-09",
+          "minutes": 1
+        },
+        {
+          "title": "Health and Safety in the IT context",
+          "minutes": 240
+        },
+        {
+          "title": "Why Emergency Preparedness Matters",
+          "minutes": 9,
+          "completionDate": "2019-12-23"
+        }
+      ]
+    }
+  },
+  "Humanism": {
+    "Personal Development": [
+      {
+        "title": "Managing Expectations",
+        "minutes": 2,
+        "completionDate": "2020-04-05"
+      },
+      {
+        "title": "Turning Complaints into Compliments",
+        "minutes": 2,
+        "completionDate": "2020-01-06"
+      },
+
+      {
+        "title": "Critical Thinking on the Fly",
+        "minutes": 3,
+        "completionDate": "2020-01-06"
+      },
+      {
+        "title": "Introduction to Emotional Intelligence",
+        "completionDate": "2019-06-01",
+        "minutes": 128,
+        "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction"
+      },
+      {
+        "title": "Emotional Intelligence Essentials",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
+      {
+        "title": "Are you a giver or taker?",
+        "completionDate": "2019-06-09",
+        "minutes": 14
+      },
+      {
+        "title": "What are Emotions?",
+        "minutes": 6,
+        "completionDate": "2020-01-01"
+      },
+      {
+        "title": "What is Stress?",
+        "minutes": 16,
+        "completionDate": "2020-01-01"
+      },
+
+      {
+        "title": "Healthy Eating at Work",
+        "completionDate": "2019-06-13",
+        "minutes": 5
+      },
+
+      {
+        "title": "Improving Your Personal Brand",
+        "completionDate": "2019-06-10",
+        "minutes": 3
+      },
+
+      {
+        "title": "Find Your Brand Voice with Killer Content Marketing",
+        "completionDate": "2019-06-16",
+        "minutes": 14
+      },
+
+      {
+        "title": "Learning Personal Branding",
+        "minutes": 48,
+        "url": "https://www.linkedin.com/learning/learning-personal-branding-2",
+        "completionDate": "2019-09-01"
+      },
+
+      {
+        "title": "Building Emotional Resilience",
+        "minutes": 10,
+        "completionDate": "2020-04-06"
+      },
+      {
+        "title": "Covey's Seven Habits of Highly Effective People",
+        "minutes": 4,
+        "completionDate": "2020-04-05"
+      },
+
+      {
+        "title": "The gift and power of emotional courage",
+        "completionDate": "2020-01-18",
+        "minutes": 17,
+        "url": "https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage",
+        "kind": "Talk"
+      },
+      {
+        "title": "The beautiful balance between courage and fear",
+        "completionDate": "2020-02-14",
+        "minutes": 10,
+        "url": "https://www.ted.com/talks/cara_e_yar_khan_the_beautiful_balance_between_courage_and_fear",
+        "kind": "Talk"
+      },
+      {
+        "title": "Secrets of High Performance",
+        "minutes": 5,
+        "completionDate": "2019-12-21"
+      },
+      {
+        "title": "Managing Time Efficiently and Effectively",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
+      {
+        "title": "6 Ways to Progress Your Career",
+        "completionDate": "2019-06-14",
+        "minutes": 2
+      },
+      {
+        "title": "Improving Your Self-Management",
+        "completionDate": "2019-05-25",
+        "minutes": 6
+      },
+      {
+        "title": "Stop Procrastinating",
+        "completionDate": "2019-05-26",
+        "minutes": 6
+      },
+      {
+        "title": "Boosting Your Confidence",
+        "completionDate": "2019-05-24",
+        "minutes": 2
+      },
+      {
+        "title": "Improving Your Self-Awareness",
+        "completionDate": "2019-05-23",
+        "minutes": 7
+      },
+      {
+        "title": "Managing your time strategically",
+        "minutes": 15,
+        "completionDate": "2020-04-05"
+      },
+      {
+        "title": "Increasing your productivity in a fast-paced world",
+        "minutes": 15,
+        "completionDate": "2020-04-05"
+      },
+      {
+        "title": "Recognise and Deal with Stress",
+        "minutes": 2,
+        "completionDate": "2020-04-05"
+      }
+    ],
+    "Learning & teaching": [
+      {
+        "title": "Becoming a Coaching Manager - Part A",
+        "completionDate": "2019-06-03",
+        "minutes": 15
+      },
+      {
+        "title": "Bring on the learning revolution!",
+        "completionDate": "2019-12-05",
+        "minutes": 18,
+        "url": "https://www.ted.com/talks/sir_ken_robinson_bring_on_the_learning_revolution",
+        "kind": "Talk"
+      },
+      {
+        "title": "How to be a Successful Mentor",
+        "minutes": 3,
+        "completionDate": "2020-01-06"
+      },
+      {
+        "title": "Coaching Essentials",
+        "minutes": 2,
+        "completionDate": "2020-01-02"
+      },
+      {
+        "title": "Getting Ready for a Coaching Session",
+        "minutes": 2,
+        "completionDate": "2020-01-06"
+      },
+      {
+        "title": "Handling Tricky Coaching Situations",
+        "minutes": 2,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Team Training, Compensation, and Recognition",
+        "minutes": 6,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Effective Training Sessions",
+        "minutes": 3,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Achieve an Agile Learning Mindset",
+        "minutes": 5,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Becoming a Coach",
+        "minutes": 2,
+        "completionDate": "2019-12-23"
+      }
+    ],
+    "Innovation": [
+      {
+        "title": "Communicating Your Vision",
+        "minutes": 2,
+        "completionDate": "2020-04-05"
+      },
+      {
+        "title": "Persuade, Inspire and Communicate with Storytelling",
+        "completionDate": "2019-05-28",
+        "minutes": 2
+      },
+      {
+        "title": "The surprising habits of original thinkers",
+        "completionDate": "2019-11-17",
+        "minutes": 15,
+        "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
+        "kind": "Talk"
+      },
+      {
+        "title": "Manuale per ragazze rivoluzionarie",
+        "minutes": 300,
+        "url": "https://www.mondadoristore.it/Manuale-ragazze-rivoluzionarie-Giulia-Blasi/eai978885869513/",
+        "kind": "Book"
+      },
+      {
+        "title": "Contre la pensée unique",
+        "minutes": 300,
+        "url": "https://www.odilejacob.fr/catalogue/sciences-humaines/linguistique-psycholinguistique/contre-la-pensee-unique_9782738125637.php",
+        "kind": "Book"
+      },
+      {
+        "title": "How to Influence Decisions",
+        "completionDate": "2019-06-05",
+        "minutes": 2
+      },
+      {
+        "title": "Creating Solutions Through Problem Solving Meetings",
+        "completionDate": "2019-06-18",
+        "minutes": 2
+      },
+      {
+        "title": "Chairing Creative Meetings",
+        "minutes": 2,
+        "completionDate": "2019-12-25"
+      },
+      {
+        "title": "Use De Bono's Six Thinking Hats to Transform Meetings and Decision-Making",
+        "minutes": 4,
+        "completionDate": "2019-12-22"
+      },
+      {
+        "title": "Identifying Stakeholders to Increase Your Influence",
+        "completionDate": "2019-06-04",
+        "minutes": 3
+      },
+      {
+        "title": "10 Habits of a Successful Change Communicator",
+        "completionDate": "2019-06-14",
+        "minutes": 2
+      },
+      {
+        "title": "The Emotional Cycle of Change",
+        "completionDate": "2019-06-10",
+        "minutes": 2
+      },
+      {
+        "title": "Making Change Happen",
+        "completionDate": "2019-06-10",
+        "minutes": 8
+      },
+      {
+        "title": "How to be Innovative",
+        "minutes": 3,
+        "completionDate": "2020-04-05"
+      },
+      {
+        "title": "Master Lean Thinking to Boost Value and Results",
+        "minutes": 5,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Deliver Quality with Value Stream Mapping",
+        "minutes": 5,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Generating Great Ideas",
+        "minutes": 3,
+        "completionDate": "2019-12-23"
+      },
+      {
+        "title": "Reducing Resistance to Change",
+        "minutes": 2,
+        "completionDate": "2019-12-22"
+      },
+      {
+        "title": "Management, Communication and Growth",
+        "minutes": 8,
+        "completionDate": "2020-01-02"
+      },
+      {
+        "title": "Changing Your Team's Culture",
+        "minutes": 2,
+        "completionDate": "2019-12-23"
+      },
+      {
+        "title": "The Stage/Gate Model: Lean Product Development",
+        "minutes": 4,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Breaking out of Silos",
+        "minutes": 3,
+        "completionDate": "2020-01-02"
+      },
+      {
+        "title": "Identify and Solve Problems with Root Cause Analysis",
+        "minutes": 4,
+        "completionDate": "2019-12-25"
+      },
+      {
+        "title": "The Deming Cycle: Sharpen Processes and Plan to Succeed",
+        "minutes": 4,
+        "completionDate": "2019-12-23"
+      }
+    ],
+    "Human Interactions": {
+      "Remote work": [
+        {
+          "title": "Lone Working",
+          "completionDate": "2019-06-16",
+          "minutes": 5
+        },
+        {
+          "title": "Working as Part of a Remote Team",
+          "minutes": 2,
+          "completionDate": "2019-12-23"
+        },
+        {
+          "title": "How to Lead a Global Team",
+          "completionDate": "2019-06-10",
+          "minutes": 9
+        },
+        {
+          "title": "Remote Management: effective ways to communicate with team members",
+          "completionDate": "2019-05-25",
+          "minutes": 10
+        },
+        {
+          "title": "Lead meetings remotely",
+          "minutes": 10,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Effective Virtual Meetings",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        }
+      ],
+      "Leadership": [
+        {
+          "title": "The Mindful Leader",
+          "completionDate": "2019-06-15",
+          "minutes": 15
+        },
+        {
+          "title": "Teamworking",
+          "minutes": 3,
+          "completionDate": "2019-12-21"
+        },
+        {
+          "title": "How to Delegate",
+          "completionDate": "2019-06-05",
+          "minutes": 2
+        },
+        {
+          "title": "Project management: mobilizing team members",
+          "completionDate": "2019-05-25",
+          "minutes": 10
+        },
+        {
+          "title": "Motivating Your Employees",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Group Dynamics",
+          "completionDate": "2019-06-16",
+          "minutes": 18
+        },
+        {
+          "title": "What Makes a Great Place to Work?",
+          "minutes": 8,
+          "completionDate": "2019-12-30"
+        },
+        {
+          "title": "Creating a Good Working Atmosphere",
+          "minutes": 2,
+          "completionDate": "2019-12-25"
+        },
+
+        {
+          "title": "Leading Team Meetings",
+          "completionDate": "2019-05-27",
+          "minutes": 10
+        },
+        {
+          "title": "Discover the Power of Great Collaboration",
+          "minutes": 9,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Motivate Using Goals",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Retaining Your Best People",
+          "minutes": 9,
+          "completionDate": "2020-01-02"
+        },
+        {
+          "title": "Managing Difficult People",
+          "minutes": 2,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Lead by Listening",
+          "completionDate": "2019-06-16",
+          "minutes": 6
+        },
+        {
+          "title": "Leadership in Times of Change",
+          "completionDate": "2019-06-10",
+          "minutes": 3
+        },
+        {
+          "title": "Coach Your Team to Success with GROW",
+          "completionDate": "2019-06-10",
+          "minutes": 2
+        },
+        {
+          "title": "Getting a Decision Fast",
+          "completionDate": "2019-06-10",
+          "minutes": 3
+        },
+        {
+          "title": "Become an Effective Leader, Part Two",
+          "completionDate": "2019-06-09",
+          "minutes": 8
+        },
+        {
+          "title": "Leadership vs Management",
+          "completionDate": "2019-06-04",
+          "minutes": 6
+        },
+
+        {
+          "title": "LEAD NOW!: Delegating",
+          "completionDate": "2019-06-01",
+          "minutes": 8
+        },
+
+        {
+          "title": "Motivating Your People and Being a Positive Role Model",
+          "completionDate": "2019-05-25",
+          "minutes": 4
+        },
+        {
+          "title": "A Motivator's Tool Kit",
+          "completionDate": "2019-05-23",
+          "minutes": 5
+        },
+        {
+          "title": "Build Your Team",
+          "completionDate": "2019-05-23",
+          "minutes": 8
+        },
+        {
+          "title": "Compassionate Strength (Emotional Intelligence)",
+          "minutes": 74,
+          "completionDate": "2020-04-06"
+        },
+
+        {
+          "title": "Mastering the Skills of Strategic Thinking",
+          "minutes": 7,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "How to Drive Enterprise",
+          "minutes": 3,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Talking to Your Service Teams",
+          "minutes": 2,
+          "completionDate": "2019-12-30"
+        },
+        {
+          "title": "Dealing with Team Conflict",
+          "minutes": 2,
+          "completionDate": "2019-12-23"
+        },
+        {
+          "title": "Tackling Big Decisions",
+          "minutes": 2,
+          "completionDate": "2020-01-02"
+        },
+        {
+          "title": "Managing Ambiguity and Complexity",
+          "minutes": 5,
+          "completionDate": "2020-01-02"
+        },
+        {
+          "title": "How to Promote Success by Driving Enterprise",
+          "minutes": 8,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Work Team Characteristics",
+          "minutes": 6,
+          "completionDate": "2019-12-25"
+        }
+      ],
+      "Listening": [
+        {
+          "title": "Decoding Indirect and Direct Messages",
+          "completionDate": "2019-06-16",
+          "minutes": 5
+        },
+        {
+          "title": "Feedback and Non-Verbal Communication",
+          "completionDate": "2019-05-23",
+          "minutes": 7
+        },
+        {
+          "title": "Effective Listening",
+          "minutes": 68,
+          "url": "https://www.linkedin.com/learning/effective-listening",
+          "completionDate": "2019-09-15"
+        },
+        {
+          "title": "Use Active Listening to Build Understanding",
+          "completionDate": "2019-05-28",
+          "minutes": 2
+        },
+        {
+          "title": "Listening Skills: Transform Your Customer Interactions",
+          "minutes": 4,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Emotional Intelligence - Perceiving Emotions",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        }
+      ],
+      "Speaking": [
+        {
+          "title": "Introduction to Presentation Design",
+          "completionDate": "2019-06-03",
+          "minutes": 66,
+          "url": "https://www.pluralsight.com/courses/presentation-design-introduction"
+        },
+        {
+          "title": "Knowing yourself better to communicate better. Part A",
+          "minutes": 15,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "Knowing yourself better to communicate better. Part B",
+          "minutes": 15,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Body Language - First Impressions",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Assertiveness - know your profile - Part B",
+          "completionDate": "2019-05-25",
+          "minutes": 15
+        },
+        {
+          "title": "Assertiveness: toolkit - Part A",
+          "completionDate": "2019-05-25",
+          "minutes": 15
+        },
+        {
+          "title": "Develop your assertiveness - Level 1",
+          "completionDate": "2019-05-25",
+          "minutes": 7
+        },
+        {
+          "title": "Time Management: Tips for Success",
+          "completionDate": "2019-06-09",
+          "minutes": 5
+        },
+        {
+          "title": "The Art of Public Speaking and Effective Presentations",
+          "minutes": 147,
+          "url": "https://www.pluralsight.com/courses/public-speaking-effective-presentations",
+          "completionDate": "2019-10-06"
+        },
+        {
+          "title": "TED's secret to great public speaking",
+          "completionDate": "2019-10-04",
+          "minutes": 8,
+          "url": "https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking",
+          "kind": "Talk"
+        },
+        {
+          "title": "Public Speaking: Managing the Q&A",
+          "completionDate": "2019-05-25",
+          "minutes": 10
+        },
+        {
+          "title": "How to Give a Pitch Presentation",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Being Assertive",
+          "minutes": 2,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "How to Talk so People Listen",
+          "minutes": 4,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "How to Use PowerPoint",
+          "minutes": 2,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Successfully Presenting Your Ideas",
+          "minutes": 3,
+          "completionDate": "2019-12-22"
+        },
+        {
+          "title": "Presenting with Power",
+          "minutes": 30,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "The Art of Persuasive Conversation",
+          "minutes": 2,
+          "completionDate": "2020-01-02"
+        },
+        {
+          "title": "Presentation Skills",
+          "minutes": 480
+        },
+        {
+          "title": "Public Speaking",
+          "minutes": 480
+        }
+      ],
+      "Protocols": [
+        {
+          "title": "The three pillars of interpersonal excellence",
+          "completionDate": "2019-06-24",
+          "minutes": 15
+        },
+        {
+          "title": "Barriers to Communication Success, Part One",
+          "minutes": 7,
+          "completionDate": "2019-12-22"
+        },
+        {
+          "title": "Setting Long-term Goals and SMART Objectives",
+          "minutes": 4,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Email Management and Ethics",
+          "minutes": 13,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Writing techniques",
+          "minutes": 15,
+          "completionDate": "2019-12-25"
+        },
+        {
+          "title": "Keeping Meetings on Track",
+          "minutes": 3,
+          "completionDate": "2019-12-30"
+        },
+        {
+          "title": "Good Communication",
+          "completionDate": "2019-06-03",
+          "minutes": 7
+        },
+        {
+          "title": "Setting SMART Objectives",
+          "completionDate": "2019-06-10",
+          "minutes": 2
+        },
+        {
+          "title": "Performance - Goal Setting",
+          "completionDate": "2019-05-23",
+          "minutes": 6
+        },
+        {
+          "title": "Performance Appraisals",
+          "minutes": 10,
+          "completionDate": "2019-12-31"
+        },
+        {
+          "title": "Conducting Performance Reviews",
+          "minutes": 2,
+          "completionDate": "2019-12-30"
+        },
+        {
+          "title": "Performance - Managers Responsibility",
+          "minutes": 4,
+          "completionDate": "2019-12-31"
+        },
+        {
+          "title": "Embedding Organizational Culture",
+          "completionDate": "2019-05-22",
+          "minutes": 5
+        },
+        {
+          "title": "Compiling Employee Satisfaction Data",
+          "completionDate": "2019-06-03",
+          "minutes": 4
+        },
+
+        {
+          "title": "Preparing and structuring the annual performance review - Part A",
+          "minutes": 15,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "Speaking and Listening",
+          "completionDate": "2019-06-16",
+          "minutes": 6
+        },
+        {
+          "title": "Communication and Channels",
+          "completionDate": "2019-06-16",
+          "minutes": 19
+        },
+        {
+          "title": "Master Effective Communication",
+          "completionDate": "2019-06-14",
+          "minutes": 3
+        },
+        {
+          "title": "Solving Problems Through Feedback",
+          "completionDate": "2019-05-28",
+          "minutes": 2
+        },
+        {
+          "title": "Asking for feedback",
+          "completionDate": "2019-05-27",
+          "minutes": 7
+        },
+        {
+          "title": "Giving positive and constructive feedback",
+          "completionDate": "2019-06-04",
+          "minutes": 7
+        },
+        {
+          "title": "Giving Bad News",
+          "completionDate": "2019-06-04",
+          "minutes": 2
+        },
+        {
+          "title": "Communication and Ethics",
+          "completionDate": "2019-05-25",
+          "minutes": 6
+        },
+        {
+          "title": "Time Management: Dealing with Urgent Requests",
+          "completionDate": "2019-05-24",
+          "minutes": 10
+        },
+        {
+          "title": "Giving Tough Feedback",
+          "completionDate": "2019-05-24",
+          "minutes": 2
+        },
+        {
+          "title": "Welcome well-formulated OR awkward criticism",
+          "completionDate": "2019-05-23",
+          "minutes": 7
+        },
+        {
+          "title": "Connecting with People",
+          "minutes": 2,
+          "completionDate": "2020-01-02"
+        }
+      ],
+      "Diversity & Inclusion": [
+        {
+          "title": "What is Diversity and Inclusion",
+          "completionDate": "2019-05-22",
+          "minutes": 4
+        },
+        {
+          "title": "Managing Your Unconscious Biases",
+          "minutes": 3,
+          "completionDate": "2020-04-05"
+        },
+        {
+          "title": "Identifying Diversity in Others",
+          "completionDate": "2019-06-13",
+          "minutes": 3
+        },
+        {
+          "title": "Overcoming Barriers to Workplace Communication",
+          "completionDate": "2019-06-09",
+          "minutes": 5
+        },
+        {
+          "title": "The danger of hiding who you are",
+          "completionDate": "2019-10-11",
+          "minutes": 10,
+          "url": "https://www.ted.com/talks/morgana_bailey_the_danger_of_hiding_who_you_are",
+          "kind": "Talk"
+        },
+        {
+          "title": "How you can help transform the internet into a place of trust",
+          "completionDate": "2019-11-01",
+          "minutes": 12,
+          "url": "https://www.ted.com/talks/claire_wardle_how_you_can_help_transform_the_internet_into_a_place_of_trust",
+          "kind": "Talk"
+        },
+        {
+          "title": "Identifying Diversity in Others (2018)",
+          "minutes": 3,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Leveraging Diversity and Strengths in the Workplace",
+          "minutes": 5,
+          "completionDate": "2020-01-01"
+        },
+        {
+          "title": "Why I keep speaking up, even when people mock my accent",
+          "completionDate": "2019-12-24",
+          "minutes": 11,
+          "url": "https://www.ted.com/talks/safwat_saleem_why_i_keep_speaking_up_even_when_people_mock_my_accent",
+          "kind": "Talk"
+        },
+        {
+          "title": "3 lessons of revolutionary love in a time of rage",
+          "completionDate": "2020-02-14",
+          "minutes": 22,
+          "url": "https://www.ted.com/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage",
+          "kind": "Talk"
+        },
+        {
+          "title": "The human skills we need in an unpredictable world",
+          "completionDate": "2019-11-21",
+          "minutes": 16,
+          "url": "https://www.ted.com/talks/margaret_heffernan_the_human_skills_we_need_in_an_unpredictable_world",
+          "kind": "Talk"
+        },
+        {
+          "title": "For these women, reading is a daring act",
+          "completionDate": "2020-02-11",
+          "minutes": 5,
+          "url": "https://www.ted.com/talks/laura_boushnak_for_these_women_reading_is_a_daring_act",
+          "kind": "Talk"
+        },
+        {
+          "title": "Il libro del femminismo",
+          "minutes": 720,
+          "url": "https://books.google.it/books?id=cPt1wgEACAAJ",
+          "kind": "Book"
+        },
+        {
+          "title": "Feminism: A Very Short Introduction",
+          "minutes": 210,
+          "url": "https://global.oup.com/academic/product/feminism-a-very-short-introduction-9780192805102",
+          "kind": "Book"
+        }
+      ],
+      "Negotiation": [
+        {
+          "title": "Conducting the negotiation process - Level 3",
+          "completionDate": "2019-06-09",
+          "minutes": 7
+        },
+        {
+          "title": "Tips for Better Negotiating",
+          "completionDate": "2019-05-25",
+          "minutes": 8
+        },
+        {
+          "title": "Understanding Successful Negotiation",
+          "completionDate": "2019-05-23",
+          "minutes": 18
+        },
+        {
+          "title": "How to Negotiate Effectively",
+          "minutes": 2,
+          "completionDate": "2020-04-05"
+        }
+      ]
+    },
+    "Agile": {
+      "Principles": [
+        {
+          "title": "Discover Agile Project Management",
+          "completionDate": "2019-06-10",
+          "minutes": 9
+        }
+      ]
+    },
+
+    "Enterprise HR": [
+      {
+        "title": "Introducing Human Resource Management",
+        "completionDate": "2019-05-27",
+        "minutes": 7
+      },
+      {
+        "title": "Human Resources: The Cornerstone of Successful Organizations",
+        "completionDate": "2019-06-03",
+        "minutes": 4
+      },
+      {
+        "title": "Designing a Performance Appraisal System",
+        "completionDate": "2019-06-16",
+        "minutes": 4
+      },
+      {
+        "title": "The U.S. Legal Environment in Human Resources",
+        "completionDate": "2019-06-09",
+        "minutes": 6
+      },
+      {
+        "title": "Pay Types and Considerations",
+        "completionDate": "2019-06-03",
+        "minutes": 7
+      },
+      {
+        "title": "Selecting New Employees - Types of Interviews and Interview Questions",
+        "completionDate": "2019-05-25",
+        "minutes": 8
+      },
+      {
+        "title": "Hiring Employees",
+        "completionDate": "2019-05-25",
+        "minutes": 7
+      },
+      {
+        "title": "Retaining Talent & Serving Customers Through Empathy",
+        "minutes": 5,
+        "completionDate": "2020-04-06"
+      },
+      {
+        "title": "Managing New Employees",
+        "minutes": 2,
+        "completionDate": "2020-04-05"
+      },
+
+      {
+        "title": "Training and Business Readiness",
+        "minutes": 5,
+        "completionDate": "2020-01-06"
+      },
+      {
+        "title": "Exploring the Global Business Environment in the U.S.",
+        "minutes": 3,
+        "completionDate": "2020-01-06"
+      },
+      {
+        "title": "Selecting New Employees: Selection Methods",
+        "minutes": 3,
+        "completionDate": "2020-01-05"
+      },
+      {
+        "title": "Selecting New Employees: Criteria Development and Resume Review",
+        "minutes": 8,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "HR for Non-HR Managers",
+        "minutes": 50,
+        "completionDate": "2020-01-04"
+      },
+      {
+        "title": "Defining HR",
+        "minutes": 5,
+        "completionDate": "2020-01-02"
+      },
+
+      {
+        "title": "Motivation and Job Performance",
+        "minutes": 4,
+        "completionDate": "2020-01-01"
+      },
+
+      {
+        "title": "Career Development Programs",
+        "minutes": 5,
+        "completionDate": "2019-12-22"
+      },
+      {
+        "title": "Right People Right Role",
+        "minutes": 5,
+        "completionDate": "2020-01-01"
+      },
+      {
+        "title": "Managing Employee Performance: A Look at Influences and Discipline",
+        "minutes": 7,
+        "completionDate": "2019-12-23"
+      }
+    ],
+
+    "Art": {
+      "Visual": {
+        "Color Theory": [
+          {
+            "title": "Color Theory for Today's Creative Professionals",
+            "completionDate": "2019-05-28",
+            "minutes": 72,
+            "url": "https://www.pluralsight.com/courses/color-theory-todays-creative-professionals-1021"
+          },
+          {
+            "title": "Artist at Work: Complementary Colors",
+            "minutes": 18,
+            "url": "https://www.linkedin.com/learning/artist-at-work-complementary-colors",
+            "completionDate": "2019-09-14"
+          }
+        ]
+      },
+      "Music": [
+        {
+          "title": "Make Your First Melody/Jingle - No Music Experience Needed!",
+          "completionDate": "2019-05-22",
+          "minutes": 34,
+          "url": "https://www.udemy.com/makeamelody/",
+          "certificateUrl": "https://www.udemy.com/certificate/UC-SYGNLZB0/"
+        }
+      ],
+      "Literature": {
+        "Victor Hugo": [
+          {
+            "title": "Victor Hugo en un clin d'oeil",
+            "minutes": 300,
+            "url": "https://books.google.it/books?id=pfFGDwAAQBAJ",
+            "kind": "Book"
+          }
+        ],
+        "Pierre Corneille": [
+          {
+            "title": "Le Cid",
+            "minutes": 120,
+            "url": "http://www.folio-lesite.fr/Catalogue/Folio/Folio-classique/Prescriptions/Le-Cid",
+            "kind": "Book"
+          }
+        ]
+      }
+    },
+    "Philosophy": [
+      {
+        "title": "Les Lumières",
+        "minutes": 360,
+        "url": "http://www.lecavalierbleu.com/livre/les-lumieres/",
+        "kind": "Book"
+      }
+    ],
+    "Languages": {
+      "English": [
+        {
+          "title": "Speexx Expert - English C1.1",
+          "minutes": 1953,
+          "completionDate": "2019-10-20",
+          "kind": "Speexx",
+          "certificateUrl": "https://portal.speexx.com/articles/251992/certificate.pdf"
+        },
+        {
+          "title": "Proper Grammar - Articles, Determiners, Quantifiers, Interjections",
+          "completionDate": "2019-06-15",
+          "minutes": 6
+        },
+        {
+          "title": "Proper Grammar - Nouns",
+          "completionDate": "2019-06-15",
+          "minutes": 5
+        },
+        {
+          "title": "Proper Grammar - Adjectives",
+          "completionDate": "2019-06-15",
+          "minutes": 9
+        },
+        {
+          "title": "Proper Grammar: Advanced Pronouns",
+          "completionDate": "2019-06-15",
+          "minutes": 5
+        },
+        {
+          "title": "Proper Grammar - Advanced Verbs",
+          "completionDate": "2019-06-15",
+          "minutes": 5
+        },
+        {
+          "title": "Proper Grammar: Introduction to Adverbs",
+          "completionDate": "2019-06-15",
+          "minutes": 6
+        },
+        {
+          "title": "Proper Grammar: Advanced Adverbs",
+          "completionDate": "2019-06-15",
+          "minutes": 6
+        },
+        {
+          "title": "Proper Grammar - Prepositions",
+          "completionDate": "2019-06-15",
+          "minutes": 5
+        },
+        {
+          "title": "Common Word Usage Errors",
+          "completionDate": "2019-06-15",
+          "minutes": 4
+        },
+        {
+          "title": "Advanced Uses of the Comma",
+          "completionDate": "2019-06-16",
+          "minutes": 5
+        }
+      ],
+      "French": [
+        {
+          "title": "Anglais: la grammaire - Bescherelle",
+          "minutes": 600,
+          "url": "https://bescherelle.com/bescherelle-anglais-la-grammaire-9782218926198",
+          "kind": "Book"
+        },
+        {
+          "title": "La conjugaison pour tous - Bescherelle",
+          "minutes": 180,
+          "url": "https://bescherelle.com/bescherelle-la-conjugaison-pour-tous-9782401052352",
+          "kind": "Book"
+        }
+      ]
+    },
+    "Law": {
+      "National Laws": [
+        {
+          "title": "General introduction to D.Lgs. 81/2008 (Health & Safety)",
+          "completionDate": "2019-04-08",
+          "minutes": 240
+        },
+        {
+          "title": "Il nuovo sistema Diritto - Diritto Civile",
+          "minutes": 600,
+          "url": "https://www.pearson.it/opera/paramond/0-5980-il_nuovo_sistema_diritto_-_secondo_biennio_e_quinto_anno",
+          "kind": "Book"
+        }
+      ],
+      "International Agreements": [
+        {
+          "title": "General introduction to GDPR",
+          "completionDate": "2019-04-22",
+          "minutes": 240
+        },
+        {
+          "title": "International Law for Expatriates in the U.S.",
+          "completionDate": "2019-06-09",
+          "minutes": 8
+        },
+        {
+          "title": "PCI-DSS Compliance Standards",
+          "completionDate": "2019-06-09",
+          "minutes": 6
+        },
+        {
+          "title": "Global Anti-Bribery and Corruption",
+          "minutes": 10,
+          "completionDate": "2020-01-06"
+        },
+        {
+          "title": "General Data Protection Regulation (GDPR) (2019)",
+          "minutes": 5,
+          "completionDate": "2019-12-22"
+        }
+      ]
+    }
+  }
+}

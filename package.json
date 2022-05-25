@@ -1,22 +1,38 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "14.3.0",
-  "description": "Website project",
+  "version": "15.0.0-rc.1",
+  "private": true,
+  "description": "Personal website",
   "website": {
     "title": "Gianluca Costa's Creations",
     "domain": "gianlucacosta.info",
     "description": "Gianluca Costa's personal website"
   },
-  "private": true,
+  "watch": {
+    "build-cv-css": "cv/cv.scss",
+    "build-cv-pdf": {
+      "patterns": [
+        "cv"
+      ],
+      "extensions": "html,css"
+    }
+  },
   "scripts": {
-    "clean": "rimraf .next out",
-    "dev": "next dev",
+    "clean": "rimraf .next out cv/cv.css public/cv_costa_en.pdf",
+    "format": "prettier --write .",
+    "check-all": "yarn check-format",
+    "check-format": "prettier --check .",
+    "lint": "next lint",
+    "build": "yarn check-all && yarn build-cv && next build",
+    "build-cv": "yarn build-cv-css && yarn build-cv-pdf",
+    "build-cv-pdf": "ts-node cv/build_cv.ts",
+    "build-cv-css": "yarn sass --no-source-map cv:cv",
+    "watch": "npm-watch",
     "start": "yarn dev",
-    "build": "next build",
+    "dev": "next dev",
     "prod": "next start",
     "export": "next export",
-    "rebuild": "yarn clean && yarn build && yarn export",
-    "format": "prettier --write ."
+    "rebuild": "yarn clean && yarn build && yarn export"
   },
   "author": {
     "name": "Gianluca Costa",
@@ -33,20 +49,28 @@
     "url": "https://github.com/giancosta86/giancosta86.github.io/issues"
   },
   "engines": {
-    "node": ">=12.5.0"
+    "node": ">=17.1.0"
   },
   "dependencies": {
-    "@giancosta86/omnicourse": "^1.1.0",
-    "next": "10.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "react-markdown": "^6.0.2",
-    "sass": "^1.32.13"
+    "@giancosta86/omnicourse": "^2.0.1",
+    "next": "^12.1.6",
+    "prop-types": "^15.8.1",
+    "react": "^17",
+    "react-dom": "^17",
+    "react-markdown": "^8.0.3",
+    "recharts": "^2.1.10"
   },
   "devDependencies": {
-    "@types/react": "^17.0.16",
+    "@types/node": "^17",
+    "@types/react": "^17",
+    "eslint": "^8.16.0",
+    "eslint-config-next": "12.1.6",
+    "npm-watch": "^0.11.0",
     "prettier": "^2.6.2",
+    "puppeteer": "^14.1.1",
     "rimraf": "^3.0.2",
-    "typescript": "^4.3.5"
+    "sass": "^1.52.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
   }
 }

@@ -1,4 +1,11 @@
-@import "../../styles/mobile.scss";
+@use "../../styles/mobile.scss";
+
+.titleBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1em;
+}
 
 .title {
   margin: 0.4em 0;
@@ -7,10 +14,12 @@
 .portraitBox {
   text-align: center;
   margin: 0.3em 0;
+  width: 8em;
+  height: 8em;
+  position: relative;
 }
 
 .portrait {
-  width: 8em;
   border-radius: 50%;
 }
 
@@ -19,11 +28,33 @@
   font-size: 1.3em;
   font-weight: bold;
   text-align: center;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.75em;
   color: #141e5b;
 }
 
-@include mobile {
+.learningButton {
+  font-family: "Signika", sans-serif;
+  border: 2px solid rgb(0, 63, 0);
+  padding: 0.5em;
+  margin: 0.5em 0 1em 0;
+  border-radius: 0.5em;
+  text-decoration: none;
+  font-weight: bold;
+  background: linear-gradient(to right, rgb(230, 255, 210), rgb(210, 247, 255));
+  box-shadow: 3px 3px 4px rgb(18, 18, 87);
+  transition: box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    box-shadow: 3px 9px 9px rgb(10, 4, 46);
+  }
+
+  &:link,
+  &:visited {
+    color: rgb(30, 36, 92);
+  }
+}
+
+@include mobile.query {
   .signatureBox {
     margin-bottom: 0.8em;
   }

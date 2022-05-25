@@ -3,11 +3,11 @@ import ReactMarkdown from "react-markdown";
 import styles from "./ScienceBox.module.scss";
 
 const scienceMarkdown = `
-## 🧬 Science
+## ⚗️ Science
 
-* ⌨️ Passionate **software craftsman** *since 1999*
+* ⌨️ Passionate **software craftsman** *since 1999*, when I was **12** years old
 
-* 💼 More than **7 years** of experience in *IT companies*
+* 💼 More than **7 years** of experience at *IT companies*
 
 * 💻 **MSc** and **BSc** in **Computer Engineering** - *110 cum laude*
 
@@ -21,11 +21,11 @@ const scienceMarkdown = `
 
 * 📦 **TypeScript** and **JavaScript** packages on [NPM](https://www.npmjs.com/~giancosta86)
 
-* 🐍 **Python libraries** on [PyPI](https://pypi.org/user/giancosta86/)
+* 🐍 **Python** libraries on [PyPI](https://pypi.org/user/giancosta86/)
 `;
 
 export const ScienceBox = () => (
   <div className={styles.scienceBox}>
-    <ReactMarkdown children={scienceMarkdown} />
+    <ReactMarkdown>{scienceMarkdown}</ReactMarkdown>
   </div>
 );

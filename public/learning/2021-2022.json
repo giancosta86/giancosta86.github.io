@@ -12,24 +12,10 @@
             },
 
             {
-              "completionDate": "2022-02-20",
-              "title": "Working with Nulls in C#",
-              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
-              "minutes": 130
-            },
-
-            {
               "completionDate": "2022-02-19",
               "title": "C# Interfaces",
               "url": "https://www.pluralsight.com/courses/c-sharp-interfaces",
               "minutes": 164
-            },
-
-            {
-              "completionDate": "2022-02-19",
-              "title": "Exception Handling in C# 9",
-              "url": "https://www.pluralsight.com/courses/exception-handling-c-sharp",
-              "minutes": 104
             },
 
             {
@@ -80,41 +66,46 @@
               "url": "https://www.pluralsight.com/courses/c-sharp-big-picture",
               "minutes": 64
             }
-          ],
-          "F#": [],
-          "Platform": []
+          ]
         },
-        "Java": [],
-        "Scala": [],
-        "Groovy": [],
         "JavaScript": [
           {
             "completionDate": "2022-01-19",
             "title": "JavaScript: The Advanced Concepts (2022 Update)",
             "url": "https://www.udemy.com/course/advanced-javascript-concepts/",
-            "minutes": 1500
+            "minutes": 1500,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-ffcb145d-aa24-4c42-a480-b5e55966265f"
           },
 
           {
             "completionDate": "2021-07-05",
             "title": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
             "url": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
-            "minutes": 3120
+            "minutes": 3120,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-e1e9d249-cd4e-492b-8eb8-dee177a1c459"
           }
         ],
         "TypeScript": [
           {
+            "completionDate": "2021-11-21",
+            "title": "Using TypeScript Modules",
+            "url": "https://www.pluralsight.com/courses/typescript-modules",
+            "minutes": 84
+          },
+          {
             "completionDate": "2022-05-07",
             "title": "TypeScript for Professionals",
             "url": "https://www.udemy.com/course/typescript-for-professionals/",
-            "minutes": 180
+            "minutes": 180,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-5d02bb6c-2ab4-4bf7-877b-30fa44e46844"
           },
 
           {
             "completionDate": "2021-11-26",
             "title": "Understanding TypeScript - 2022 Edition",
             "url": "https://www.udemy.com/course/understanding-typescript/",
-            "minutes": 900
+            "minutes": 900,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-4da1a2fb-298f-40ec-9651-4ab574ba7de2"
           },
 
           {
@@ -166,11 +157,6 @@
             "minutes": 44
           }
         ],
-        "Bash": [],
-        "Domain-specific": {
-          "Regular Expressions": [],
-          "Markdown": []
-        },
         "Elm": [
           {
             "completionDate": "2021-09-13",
@@ -182,7 +168,8 @@
             "completionDate": "2021-07-18",
             "title": "Beginning Elm",
             "url": "https://elmprogramming.com/",
-            "minutes": 1170
+            "minutes": 1170,
+            "kind": "Book"
           }
         ],
         "Rust": [
@@ -190,13 +177,15 @@
             "completionDate": "2021-11-14",
             "title": "Programming Rust - 2nd edition",
             "url": "https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/",
-            "minutes": 3090
+            "minutes": 3090,
+            "kind": "Book"
           },
           {
             "completionDate": "2021-08-20",
             "title": "The Rust programming language",
             "url": "https://doc.rust-lang.org/stable/book/",
-            "minutes": 2910
+            "minutes": 2910,
+            "kind": "Book"
           },
           {
             "completionDate": "2021-07-09",
@@ -210,7 +199,8 @@
             "completionDate": "2021-09-05",
             "title": "Programming Elixir",
             "url": "https://pragprog.com/titles/elixir16/programming-elixir-1-6/",
-            "minutes": 1860
+            "minutes": 1860,
+            "kind": "Book"
           },
           {
             "completionDate": "2021-07-04",
@@ -225,24 +215,31 @@
             "minutes": 44
           }
         ],
-        "C": [],
-        "C++": [],
         "Go": [
+          {
+            "completionDate": "2021-05-22",
+            "title": "Deep Dive into Go Packages",
+            "url": "https://www.pluralsight.com/courses/go-packages-deep-dive",
+            "minutes": 94
+          },
           {
             "completionDate": "2021-05-24",
             "title": "Build a temperature converter CLI in Go",
-            "minutes": 30
+            "minutes": 30,
+            "kind": "Tutorial"
           },
 
           {
             "completionDate": "2021-05-22",
             "title": "Build a vehicle rating system with Go",
-            "minutes": 60
+            "minutes": 60,
+            "kind": "Tutorial"
           },
           {
             "completionDate": "2021-05-22",
             "title": "Build a budget app CLI in Go",
-            "minutes": 30
+            "minutes": 30,
+            "kind": "Tutorial"
           },
 
           {
@@ -280,24 +277,42 @@
         ],
         "Python": [
           {
+            "completionDate": "2021-10-30",
+            "title": "Core Python: Organizing Larger Programs",
+            "url": "https://www.pluralsight.com/courses/core-python-organizing-larger-programs",
+            "minutes": 65
+          },
+          {
             "completionDate": "2021-11-12",
             "title": "Decoding Sensor Data Using Python",
-            "minutes": 100
-          },
-          {
-            "completionDate": "2021-11-11",
-            "title": "Build Your Own CLI Planner App Using Python Abstract Base Classes",
-            "minutes": 180
-          },
-          {
-            "completionDate": "2021-11-11",
-            "title": "Build a Personal Budget Report with Python Collections and Iterables",
-            "minutes": 160
+            "minutes": 100,
+            "kind": "Tutorial"
           },
           {
             "completionDate": "2021-11-11",
             "title": "Add extensions to a static site generator with Python",
-            "minutes": 70
+            "minutes": 70,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-11-02",
+            "title": "Build a Static Site Generator with Python",
+            "minutes": 80,
+            "kind": "Tutorial"
+          },
+
+          {
+            "completionDate": "2021-11-11",
+            "title": "Build a Personal Budget Report with Python Collections and Iterables",
+            "minutes": 160,
+            "kind": "Tutorial"
+          },
+          {
+            "completionDate": "2021-11-11",
+            "title": "Build Your Own CLI Planner App Using Python Abstract Base Classes",
+            "minutes": 180,
+            "kind": "Tutorial"
           },
           {
             "completionDate": "2021-11-10",
@@ -311,11 +326,7 @@
             "url": "https://www.pluralsight.com/courses/core-python-implementing-iterators-iterables-collections",
             "minutes": 134
           },
-          {
-            "completionDate": "2021-11-02",
-            "title": "Build a Static Site Generator with Python",
-            "minutes": 80
-          },
+
           {
             "completionDate": "2021-11-01",
             "title": "Core Python: Advanced Flow Control",
@@ -368,7 +379,8 @@
             "completionDate": "2022-03-08",
             "title": "The Complete Python Course | Learn Python by Doing in 2022",
             "url": "https://www.udemy.com/course/the-complete-python-course/",
-            "minutes": 2100
+            "minutes": 2100,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-04803d06-401a-4bef-a556-9088de7fce48"
           },
           {
             "completionDate": "2021-11-12",
@@ -377,7 +389,6 @@
             "minutes": 103
           }
         ],
-        "R": [],
         "Ruby": [
           {
             "completionDate": "2022-05-03",
@@ -394,13 +405,7 @@
           }
         ]
       },
-      "Mobile Development": {
-        "Ionic": [],
-        "React Native": [],
-        "Flutter": []
-      },
       "Software Design": {
-        "CQRS": [],
         "Clean Code": {
           "C#": [
             {
@@ -459,9 +464,6 @@
             }
           ]
         },
-        "Domain-Driven Design": [],
-        "Design Patterns": [],
-        "User Interface": [],
         "Microservices": {
           ".NET": [
             {
@@ -516,16 +518,33 @@
             }
           ]
         },
+        "Fault tolerance": {
+          "C#": [
+            {
+              "completionDate": "2022-02-20",
+              "title": "Working with Nulls in C#",
+              "url": "https://www.pluralsight.com/courses/working-with-nulls-csharp",
+              "minutes": 130
+            },
+
+            {
+              "completionDate": "2022-02-19",
+              "title": "Exception Handling in C# 9",
+              "url": "https://www.pluralsight.com/courses/exception-handling-c-sharp",
+              "minutes": 104
+            }
+          ]
+        },
         "Functional Programming": {
           "Principles": [
             {
               "completionDate": "2021-08-16",
               "title": "An introduction to Functional Programming through Lambda Calculus",
               "url": "https://books.google.it/books?id=VrDDAgAAQBAJ",
-              "minutes": 1140
+              "minutes": 1140,
+              "kind": "Book"
             }
           ],
-          "JavaScript": [],
           "Python": [
             {
               "completionDate": "2021-10-31",
@@ -541,9 +560,7 @@
               "url": "https://www.pluralsight.com/courses/deep-dive-go-functions",
               "minutes": 86
             }
-          ],
-          "RxJS": [],
-          "Redux": []
+          ]
         },
         "Performance": {
           "React": [
@@ -563,10 +580,6 @@
           ]
         },
         "Concurrency": {
-          ".NET": [],
-          "NodeJS": [],
-          "Java": [],
-          "JavaScript": [],
           "Python": [
             {
               "completionDate": "2021-11-10",
@@ -586,7 +599,8 @@
             {
               "completionDate": "2021-05-24",
               "title": "Build an asynchronous logging library with Go",
-              "minutes": 70
+              "minutes": 70,
+              "kind": "Tutorial"
             }
           ],
           "React": [
@@ -596,20 +610,20 @@
               "url": "https://www.packtpub.com/product/concurrent-rendering-adventures-in-react-18-video/9781803248493",
               "minutes": 76
             }
-          ]
+          ],
+          "Event-driven": {
+            "RabbitMQ": [
+              {
+                "completionDate": "2021-05-21",
+                "title": "RabbitMQ by Example",
+                "url": "https://www.pluralsight.com/courses/rabbitmq-by-example",
+                "minutes": 163
+              }
+            ]
+          }
         },
-        "Events": {
-          "RabbitMQ": [
-            {
-              "completionDate": "2021-05-21",
-              "title": "RabbitMQ by Example",
-              "url": "https://www.pluralsight.com/courses/rabbitmq-by-example",
-              "minutes": 163
-            }
-          ]
-        },
+
         "Testing": {
-          "Principles": [],
           "Frontend": {
             "React": [
               {
@@ -620,7 +634,6 @@
               }
             ]
           },
-          "Gherkin": [],
           "C#": [
             {
               "completionDate": "2022-02-22",
@@ -629,7 +642,6 @@
               "minutes": 429
             }
           ],
-          "JavaScript": [],
           "Python": [
             {
               "completionDate": "2021-11-11",
@@ -638,7 +650,6 @@
               "minutes": 169
             }
           ],
-          "C++": [],
           "Go": [
             {
               "completionDate": "2021-05-23",
@@ -646,32 +657,13 @@
               "url": "https://www.pluralsight.com/courses/go-create-test-applications",
               "minutes": 87
             }
-          ],
-
-          "Load testing": [],
-          "Tools": []
-        },
-        "Game development": {
-          "Unity": []
+          ]
         }
       },
 
       "CI / CD": {
-        "Principles": [],
-
-        "Source Control": {
-          "Git": [],
-          "GitHub": []
-        },
-
-        "Project Configuration": {
+        "Build Tools": {
           "TypeScript": [
-            {
-              "completionDate": "2021-11-21",
-              "title": "Using TypeScript Modules",
-              "url": "https://www.pluralsight.com/courses/typescript-modules",
-              "minutes": 84
-            },
             {
               "completionDate": "2021-11-23",
               "title": "Configuring, Compiling, and Debugging TypeScript Projects",
@@ -682,35 +674,14 @@
 
           "Python": [
             {
-              "completionDate": "2022-03-16",
-              "title": "Structuring a Growing Flask 1 Application",
-              "url": "https://www.pluralsight.com/courses/structuring-growing-flask-application",
-              "minutes": 98
-            },
-
-            {
               "completionDate": "2021-11-12",
               "title": "Managing Python Packages and Virtual Environments",
               "url": "https://www.pluralsight.com/courses/managing-python-packages-virtual-environments",
               "minutes": 89
-            },
-
-            {
-              "completionDate": "2021-10-30",
-              "title": "Core Python: Organizing Larger Programs",
-              "url": "https://www.pluralsight.com/courses/core-python-organizing-larger-programs",
-              "minutes": 65
             }
           ],
 
           "Go": [
-            {
-              "completionDate": "2021-05-22",
-              "title": "Deep Dive into Go Packages",
-              "url": "https://www.pluralsight.com/courses/go-packages-deep-dive",
-              "minutes": 94
-            },
-
             {
               "completionDate": "2021-05-22",
               "title": "The Go CLI Playbook",
@@ -733,63 +704,47 @@
               "minutes": 112
             }
           ]
-        },
-
-        "GitHub Actions": [],
-        "Jenkins": [],
-        "IDEs & editors": []
+        }
       },
 
       "Cloud & Virtualization": {
-        "Network Principles": [],
-        "Amazon Web Services": [
-          {
-            "completionDate": "2022-05-06",
-            "title": "Implementing Serverless Microservices Architecture Patterns",
-            "url": "https://www.packtpub.com/product/implementing-serverless-microservices-architecture-patterns-video/9781788839570",
-            "minutes": 436
-          },
+        "Amazon Web Services": {
+          "Serverless": [
+            {
+              "completionDate": "2022-05-06",
+              "title": "Implementing Serverless Microservices Architecture Patterns",
+              "url": "https://www.packtpub.com/product/implementing-serverless-microservices-architecture-patterns-video/9781788839570",
+              "minutes": 436
+            }
+          ]
+        },
 
-          {
-            "completionDate": "2021-05-25",
-            "title": "Creating, Connecting, and Monitoring Databases with Amazon RDS",
-            "url": "https://www.pluralsight.com/courses/aws-amazon-rds",
-            "minutes": 109
-          },
-          {
-            "completionDate": "2021-05-25",
-            "title": "AWS Databases: The Big Picture",
-            "url": "https://www.pluralsight.com/courses/aws-databases-big-picture",
-            "minutes": 109
-          }
-        ],
-        "Azure": [
-          {
-            "completionDate": "2021-06-06",
-            "title": "Microsoft Azure Pricing and Support Options",
-            "url": "https://www.pluralsight.com/courses/microsoft-azure-pricing-support-options",
-            "minutes": 97
-          },
-          {
-            "completionDate": "2021-06-06",
-            "title": "Microsoft Azure Security and Privacy Concepts",
-            "url": "https://www.pluralsight.com/courses/microsoft-azure-security-privacy-concepts",
-            "minutes": 153
-          },
-          {
-            "completionDate": "2021-06-06",
-            "title": "Microsoft Azure Services and Concepts",
-            "url": "https://www.pluralsight.com/courses/microsoft-azure-services-concepts",
-            "minutes": 218
-          },
-          {
-            "completionDate": "2021-06-05",
-            "title": "Microsoft Azure Cloud Concepts",
-            "url": "https://www.pluralsight.com/courses/microsoft-azure-cloud-concepts",
-            "minutes": 38
-          }
-        ],
-        "Docker": [],
+        "Azure": {
+          "Principles": [
+            {
+              "completionDate": "2021-06-06",
+              "title": "Microsoft Azure Services and Concepts",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-services-concepts",
+              "minutes": 218
+            },
+            {
+              "completionDate": "2021-06-05",
+              "title": "Microsoft Azure Cloud Concepts",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-cloud-concepts",
+              "minutes": 38
+            }
+          ],
+
+          "Cost Analysis": [
+            {
+              "completionDate": "2021-06-06",
+              "title": "Microsoft Azure Pricing and Support Options",
+              "url": "https://www.pluralsight.com/courses/microsoft-azure-pricing-support-options",
+              "minutes": 97
+            }
+          ]
+        },
+
         "Kubernetes": [
           {
             "completionDate": "2021-06-02",
@@ -830,10 +785,6 @@
             "minutes": 24
           }
         ],
-        "Operating Systems": {
-          "Linux": [],
-          "Windows": []
-        },
         "Telemetry": [
           {
             "completionDate": "2021-10-12",
@@ -845,7 +796,6 @@
       },
 
       "Frontend": {
-        "Principles": [],
         "React": [
           {
             "completionDate": "2022-05-05",
@@ -931,16 +881,6 @@
             "minutes": 92
           }
         ],
-        "Angular": [],
-        "jQuery": [],
-        "CSS": [],
-        "Chrome": [],
-        "Blazor": [],
-        "Webpack": [],
-        "Progressive Web Apps": [],
-        "WebAssembly": [],
-        "Transpilers": [],
-        "Rendering": [],
         "Accessibility": [
           {
             "completionDate": "2021-10-05",
@@ -948,14 +888,10 @@
             "url": "https://www.pluralsight.com/courses/js-friends-session-12",
             "minutes": 41
           }
-        ],
-        "Desktop Apps": {
-          "Electron": []
-        }
+        ]
       },
 
       "Backend": {
-        "Generic": [],
         ".NET": [
           {
             "completionDate": "2021-06-19",
@@ -970,8 +906,6 @@
             "minutes": 344
           }
         ],
-        "Java": [],
-        "Scala": [],
         "Ruby": [
           {
             "completionDate": "2022-05-03",
@@ -983,9 +917,9 @@
         "Python": [
           {
             "completionDate": "2022-03-16",
-            "title": "Flask 1 Users, Sessions, and Authentication",
-            "url": "https://www.pluralsight.com/courses/flask-users-sessions-authentication",
-            "minutes": 95
+            "title": "Structuring a Growing Flask 1 Application",
+            "url": "https://www.pluralsight.com/courses/structuring-growing-flask-application",
+            "minutes": 98
           },
 
           {
@@ -1042,7 +976,8 @@
             "completionDate": "2021-12-24",
             "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
             "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
-            "minutes": 2430
+            "minutes": 2430,
+            "certificateUrl": "https://www.udemy.com/certificate/UC-59840d58-4a00-4508-9254-67771160c384"
           },
           {
             "completionDate": "2022-01-02",
@@ -1055,7 +990,8 @@
           {
             "completionDate": "2021-05-24",
             "title": "Build a FIFA World Cup Web Service in Go",
-            "minutes": 45
+            "minutes": 45,
+            "kind": "Tutorial"
           },
           {
             "completionDate": "2021-05-24",
@@ -1076,20 +1012,20 @@
         ],
         "Network security": [
           {
-            "completionDate": "2021-06-28",
-            "title": "Securing Microservices in ASP.NET Core",
-            "url": "https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core",
-            "minutes": 216
-          },
-          {
             "completionDate": "2021-06-19",
             "title": "Cross Site Request Forgery (CSRF) Prevention for ASP.NET Core and ASP.NET Applications",
             "url": "https://www.pluralsight.com/courses/cross-site-request-forgery-csrf-prevention-asp-dot-net-core-applications",
             "minutes": 22
           }
         ],
-        "Cryptography": [],
-        "Blockchain": [],
+        "Microservices": [
+          {
+            "completionDate": "2021-06-28",
+            "title": "Securing Microservices in ASP.NET Core",
+            "url": "https://www.pluralsight.com/courses/securing-microservices-asp-dot-net-core",
+            "minutes": 216
+          }
+        ],
         "Frontend": [
           {
             "completionDate": "2021-12-08",
@@ -1097,58 +1033,48 @@
             "url": "https://www.pluralsight.com/courses/react-security-best-practices",
             "minutes": 65
           }
+        ],
+        "Python": [
+          {
+            "completionDate": "2022-03-16",
+            "title": "Flask 1 Users, Sessions, and Authentication",
+            "url": "https://www.pluralsight.com/courses/flask-users-sessions-authentication",
+            "minutes": 95
+          }
+        ],
+        "Azure": [
+          {
+            "completionDate": "2021-06-06",
+            "title": "Microsoft Azure Security and Privacy Concepts",
+            "url": "https://www.pluralsight.com/courses/microsoft-azure-security-privacy-concepts",
+            "minutes": 153
+          }
         ]
       },
 
       "Data Science": {
-        "Principles": [],
-        "Big Data": [],
-        "Machine Learning": [],
-        "Libraries": [],
-
-        "Relational DBMS": {
-          "Principles": [],
-          "Java Access": [],
-          "SQL Server": []
-        },
-
-        "NoSQL": {
-          "MongoDB": [],
-          "Redis": []
+        "Amazon Web Services": {
+          "Databases": {
+            "Principles": [
+              {
+                "completionDate": "2021-05-25",
+                "title": "Creating, Connecting, and Monitoring Databases with Amazon RDS",
+                "url": "https://www.pluralsight.com/courses/aws-amazon-rds",
+                "minutes": 109
+              },
+              {
+                "completionDate": "2021-05-25",
+                "title": "AWS Databases: The Big Picture",
+                "url": "https://www.pluralsight.com/courses/aws-databases-big-picture",
+                "minutes": 109
+              }
+            ]
+          }
         }
-      },
-
-      "Applications": {
-        "Microsoft Office": []
       }
-    },
-    "Mathematics": [],
-    "Physics": [],
-    "Electronics": {
-      "Principles": [],
-      "Arduino": [],
-      "Robotics": []
-    },
-    "Ecology": [],
-    "Astronomy": [],
-    "Tools": [],
-    "Enterprise Processes": {
-      "Human Resources": [],
-      "Management": [],
-      "Meetings": [],
-      "Finance": [],
-      "Quality Assurance": [],
-      "Marketing": [],
-      "Negotiation": [],
-      "Company Regulations": [],
-      "Safety": [],
-      "Security": []
     }
   },
   "Humanism": {
-    "Personal Development": [],
-    "Learning & teaching": [],
-    "Innovation": [],
     "Human Interactions": {
       "Principles": [
         {
@@ -1238,7 +1164,7 @@
           "minutes": 99
         }
       ],
-      "Formal": [
+      "Protocols": [
         {
           "completionDate": "2021-06-18",
           "title": "Writing Better Technical Reports",
@@ -1258,7 +1184,8 @@
           "completionDate": "2021-09-29",
           "title": "A queer culture illustrated guide",
           "url": "https://queercultureguide.com",
-          "minutes": 90
+          "minutes": 90,
+          "kind": "Book"
         },
 
         {
@@ -1283,7 +1210,8 @@
           "completionDate": "2021-09-20",
           "title": "Introduction to Scrum",
           "url": "https://speakerdeck.com/giancosta86/introduction-to-scrum",
-          "minutes": 330
+          "minutes": 330,
+          "kind": "Slides"
         },
         {
           "completionDate": "2021-05-28",
@@ -1332,32 +1260,21 @@
       ]
     },
 
-    "Art": {
-      "Visual": {
-        "Computer Graphics": [],
-        "Design": [],
-        "Color Theory": []
-      },
-      "Music": [],
-      "Literature": {
-        "Dante": [],
-        "Hellenism": []
-      },
-      "Theatre": []
-    },
     "Philosophy": [
       {
         "completionDate": "2022-02-04",
         "title": "Trattato sulla Tolleranza",
         "url": "https://it.m.wikipedia.org/wiki/Trattato_sulla_tolleranza",
-        "minutes": 270
+        "minutes": 270,
+        "kind": "Book"
       },
 
       {
         "completionDate": "2021-11-14",
         "title": "Platone. Alla ricerca della sapienza segreta",
         "url": "http://www.lanavediteseo.eu/item/platone-alla-ricerca-della-sapienza-segreta/",
-        "minutes": 2220
+        "minutes": 2220,
+        "kind": "Book"
       }
     ],
     "Languages": {
@@ -1379,85 +1296,95 @@
           "completionDate": "2021-12-31",
           "title": "English Vocabulary in Use - Upper-intermediate",
           "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-upper-intermediate-4th-edition",
-          "minutes": 1800
+          "minutes": 1800,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-12-03",
           "title": "English Vocabulary in Use - Pre-intermediate and intermediate",
           "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-pre-intermediate-and-intermediate-4th-edition",
-          "minutes": 660
+          "minutes": 660,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-11-23",
           "title": "English Vocabulary in Use - Elementary",
           "url": "https://www.cambridge.org/dm/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/vocabulary/english-vocabulary-use-elementary-3rd-edition",
-          "minutes": 360
+          "minutes": 360,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-12-02",
           "title": "Inglese - 150 phrasal verbs",
           "url": "https://www.libri.it/a-prima-vista-phrasal-verbs-inglese",
-          "minutes": 180
+          "minutes": 180,
+          "kind": "Leaflet"
         }
       ],
-      "French": [],
       "Portuguese": [
         {
-          "completionDate": "2022-02-07",
           "title": "Duolingo - Portuguese course",
           "url": "https://www.duolingo.com/profile/giancosta86",
-          "minutes": 1440
+          "minutes": 1440,
+          "kind": "Duolingo"
         },
 
         {
           "completionDate": "2022-02-02",
           "title": "Portuguese Grammar You Really Need To Know",
           "url": "https://books.google.it/books/about/Portuguese_Grammar_You_Really_Need_To_Kn.html?id=W9A1AgAAQBAJ",
-          "minutes": 4680
+          "minutes": 4680,
+          "kind": "Book"
         }
       ],
       "Spanish": [
         {
           "title": "ConjuGato - Spanish verbs - daily training",
           "url": "https://qotoqot.com/conjugato/",
-          "minutes": 1210
+          "minutes": 1210,
+          "kind": "Training"
         },
 
         {
           "title": "Duolingo - Spanish course - daily training",
           "url": "https://www.duolingo.com/profile/giancosta86",
-          "minutes": 440
+          "minutes": 440,
+          "kind": "Training"
         },
 
         {
           "completionDate": "2022-04-23",
           "title": "Duolingo - Spanish course - Level 1",
           "url": "https://www.duolingo.com/profile/giancosta86",
-          "minutes": 5760
+          "minutes": 5760,
+          "kind": "Duolingo"
         },
 
         {
           "completionDate": "2022-04-14",
           "title": "Spanish/English - Bilingual dictionary",
           "url": "https://www.dk.com/us/book/9781465459312-spanish-english-bilingual-visual-dictionary/",
-          "minutes": 1710
+          "minutes": 1710,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2022-03-25",
           "title": "Spagnolo - Grammatica",
           "url": "https://books.google.it/books?id=Q2w-bwAACAAJ",
-          "minutes": 3180
+          "minutes": 3180,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2022-03-05",
           "title": "Spanish Grammar you really need to know",
           "url": "https://books.google.it/books?id=zn-4tE6F5-wC",
-          "minutes": 1380
+          "minutes": 1380,
+          "kind": "Book"
         }
       ]
     },
@@ -1466,26 +1393,30 @@
         {
           "completionDate": "2021-12-05",
           "title": "Regime forfettario 2020",
-          "minutes": 225
+          "minutes": 225,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-11-19",
           "title": "Consigli per partite IVA e freelance",
-          "minutes": 120
+          "minutes": 120,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-11-18",
           "title": "Apro la Partita IVA: una guida pratica per il tuo business",
-          "minutes": 240
+          "minutes": 240,
+          "kind": "Book"
         },
 
         {
           "completionDate": "2021-11-17",
           "title": "Partita IVA semplice",
           "url": "https://www.regime-forfettario.it/partita-iva-semplice-il-libro-per-freelance-e-liberi-professionisti/",
-          "minutes": 330
+          "minutes": 330,
+          "kind": "Book"
         },
 
         {

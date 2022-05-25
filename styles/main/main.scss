@@ -1,0 +1,7 @@
+@use "fonts.scss";
+@use "elements.scss";
+@use "article.scss";
+
+@include fonts.styles;
+@include elements.styles;
+@include article.styles;

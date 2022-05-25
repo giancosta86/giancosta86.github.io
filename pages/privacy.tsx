@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { SiteHead } from "../components/SiteHead";
+import { PageHead } from "../components/PageHead";
 
 export default function Privacy() {
   return (
     <>
-      <SiteHead pagePath="/policy" pageTitle="Privacy policy" />
+      <PageHead pagePath="/policy" pageTitle="Privacy policy" />
 
       <article className="centered">
         <h1>Privacy policy</h1>

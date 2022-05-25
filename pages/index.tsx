@@ -2,29 +2,27 @@ import Link from "next/link";
 import styles from "./index.module.scss";
 
 import { DualismBox } from "../components/DualismBox";
-import { LearningBox } from "../components/LearningBox";
+import { LearningReport } from "../components/LearningReport";
 import { ContactsBox } from "../components/ContactsBox";
 import { TitleBox } from "../components/TitleBox";
-import { SiteHead } from "../components/SiteHead";
+import { PageHead } from "../components/PageHead";
 
 export default function Home() {
   return (
     <>
-      <SiteHead pagePath="/" imagePath="/preview.png" />
+      <PageHead pagePath="/" imagePath="/preview.png" />
 
-      <main>
-        <div className={styles.container}>
-          <TitleBox />
+      <div className={styles.container}>
+        <TitleBox />
 
-          <DualismBox />
+        <DualismBox />
 
-          <LearningBox />
+        <LearningReport />
 
-          <ContactsBox />
-        </div>
-      </main>
+        <ContactsBox />
+      </div>
 
-      <footer className="mainFooter">
+      <footer className={styles.mainFooter}>
         <Link href="/privacy">Privacy policy</Link>
       </footer>
     </>

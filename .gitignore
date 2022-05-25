@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#Intermediate files
+/cv/cv.css
+
+#Generated files
+/public/cv_costa_en.pdf

@@ -1,0 +1,38 @@
+@use "../../styles/mobile.scss";
+
+.learningReport {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  width: 100%;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.title {
+  margin-bottom: 0.05em;
+}
+
+.instructions {
+  font-style: italic;
+  color: gray;
+  font-size: 0.65em;
+}
+
+.spinnerBox {
+  width: 100%;
+  height: 80vh;
+  margin: 1em;
+  position: relative;
+}
+
+@include mobile.query {
+  .spinnerBox {
+    height: 80vw;
+  }
+}

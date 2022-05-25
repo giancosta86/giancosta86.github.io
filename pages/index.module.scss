@@ -4,7 +4,14 @@
   min-height: 100vh;
 
   flex-flow: column nowrap;
-  align-items: stretch;
 
   font-size: 1.2em;
+}
+
+.mainFooter {
+  text-align: center;
+  font-size: 0.75em;
+  margin-bottom: 0.75em;
+  padding-top: 0.5em;
+  border-top: 1px dotted silver;
 }
