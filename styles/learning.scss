@@ -1,17 +1,19 @@
 @use "mobile.scss";
 
 .omniCourse {
-  a {
-    &:link,
-    &:visited {
-      color: #1e5399;
-    }
-  }
-
   min-height: 450px;
 
   .chartBox {
     min-height: 420px;
+  }
+
+  .worksTable {
+    a {
+      &:link,
+      &:visited {
+        color: #1e5399;
+      }
+    }
   }
 }
 

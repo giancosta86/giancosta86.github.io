@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "15.0.0-rc.3",
+  "version": "15.0.0-rc.4",
   "private": true,
   "description": "Personal website",
   "website": {
@@ -52,7 +52,7 @@
     "node": ">=17.1.0"
   },
   "dependencies": {
-    "@giancosta86/omnicourse": "^2.0.1",
+    "@giancosta86/omnicourse": "^2.1.0",
     "next": "^12.1.6",
     "prop-types": "^15.8.1",
     "react": "^17",
