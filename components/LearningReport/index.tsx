@@ -57,7 +57,10 @@ export const LearningReport = () => {
         taxonomyRepository={learningRepository}
         loadingNode={
           <div className={styles.spinnerBox}>
-            <img alt="Loading..." src="/spinner.svg" />
+            <img
+              alt="Loading..."
+              src="/spinner.svg?latest-modification=2022-05-25"
+            />
           </div>
         }
         customClassName={styles.omniCourse}
