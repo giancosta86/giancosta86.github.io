@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./index.module.scss";
+import classNames from "classnames";
 
 export const TitleBox = () => (
   <div className={styles.titleBox}>
@@ -7,7 +8,7 @@ export const TitleBox = () => (
       <h1>Gianluca Costa&apos;s Creations</h1>
     </div>
 
-    <div className={styles.portraitBox}>
+    <div className={classNames(styles.portraitBox, "imageBox")}>
       <img
         className={styles.portrait}
         alt="Gianluca Costa's portrait"

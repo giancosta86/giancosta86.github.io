@@ -1,4 +1,5 @@
 import React from "react";
+import classNames from "classnames";
 
 import {
   CachingTaxonomyRepository,
@@ -56,7 +57,7 @@ export const LearningReport = () => {
         taxonomyKeysFetcher={fetchTaxonomyKeys}
         taxonomyRepository={learningRepository}
         loadingNode={
-          <div className={styles.spinnerBox}>
+          <div className={classNames(styles.spinnerBox, "imageBox")}>
             <img alt="Loading..." src="/spinner.svg?latest=2022-05-25" />
           </div>
         }
