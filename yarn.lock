@@ -44,10 +44,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@giancosta86/omnicourse@^2":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.2.1.tgz#787d318dec385cf4f65edf80e5987f5a1eef5e39"
-  integrity sha512-uBokiyBHs/LBQoOCOKaNwJiPSC67iobPZl6mR7GfVbkQaLjBc/XFUDO22FFRvVk4GzOhJWIE1tX/ismmaEhNDw==
+"@giancosta86/omnicourse@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.2.2.tgz#f4a35562ef9896f0d3cf30d2a2d97d651089c836"
+  integrity sha512-bHN5bwOf+USp9arkJ+HdRFVho1XMtfqVV4ypcG5QTOPAi4Oqz9wW183JonU8eVRBpy3wnHe5FlERP3liiu9kgw==
   dependencies:
     classnames "^2.3.1"
     html2canvas "^1.4.1"
