@@ -12,7 +12,7 @@ export const TitleBox = () => (
       <img
         className={styles.portrait}
         alt="Gianluca Costa's portrait"
-        src="/gian.jpg?latest=2022-05-25"
+        src="/gian.jpg"
       />
     </div>
 
