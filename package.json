@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "15.1.7",
+  "version": "15.2.0",
   "private": true,
   "description": "Personal website",
   "website": {
@@ -28,7 +28,7 @@
     "build-cv-pdf": "ts-node cv/build_cv.ts",
     "build-cv-css": "yarn sass --no-source-map cv:cv",
     "watch": "npm-watch",
-    "start": "yarn dev",
+    "start": "concurrently \"yarn dev\" \"yarn watch\"",
     "dev": "next dev",
     "prod": "next start",
     "export": "next export",
@@ -64,6 +64,7 @@
   "devDependencies": {
     "@types/node": "^17",
     "@types/react": "^17",
+    "concurrently": "^7.2.2",
     "eslint": "^8.16.0",
     "eslint-config-next": "12.1.6",
     "npm-watch": "^0.11.0",
