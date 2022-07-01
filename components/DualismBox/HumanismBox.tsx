@@ -11,17 +11,17 @@ const humanismMarkdown = `
 
 * 🇫🇷 **C1** level in *French* (DALF)
 
-* 🇩🇪 **B1** level in *German* (Goethe Zertifikat)
+* 🌐 Constantly exploring **Linguistics** and *new languages*
 
-* 💭 Fond of **Philosophy** as a way to explore oneself and the cosmos
+* 💭 Fond of **Philosophy** as the fine art of *thinking*
 
-* 🇪🇸 Actively learning **Spanish**
+* 🇪🇸 Between **B1** and **B2** in *Spanish*
 
 * 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 
 * 🎶 [YouTube channel](https://www.youtube.com/channel/UCsPuMOLKfBokZxr21PivQaw), with my amateur **music** performances
 
-* 🏺 [Award](https://www.instagram.com/p/CMo_6ZunQkM) in national competition of **Latin translation**, in 2003
+* 🏺 Award in national competition of **Latin translation**, in 2003
 `;
 
 export const HumanismBox = () => (
