@@ -1,7 +1,7 @@
 import "../styles/reset.css";
 import "../styles/fonts.css";
 import "../styles/main/main.scss";
-import "../node_modules/@giancosta86/omnicourse/dist/OmniCourse.css";
+import "@giancosta86/omnicourse/dist/OmniCourse.css";
 import "../styles/learning.scss";
 
 import type { AppProps } from "next/app";

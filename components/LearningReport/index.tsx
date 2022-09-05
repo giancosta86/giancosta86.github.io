@@ -1,14 +1,14 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import classNames from "classnames";
-
 import {
   CachingTaxonomyRepository,
   FetchingTaxonomyRepository,
   OmniCourse,
   TaxonomyKey,
-  RawTaxonomy
+  RawTaxonomy,
+  createTaxonomyReifierFromWorker,
+  TaxonomyRepository
 } from "@giancosta86/omnicourse";
-
 import styles from "./index.module.scss";
 import { useMobileDetection } from "../../hooks/useMobileDetection";
 
@@ -34,11 +34,28 @@ async function fetchRawTaxonomy(taxonomyId: string): Promise<RawTaxonomy> {
   return fetchResult.json();
 }
 
-const learningRepository = new CachingTaxonomyRepository(
-  new FetchingTaxonomyRepository(fetchRawTaxonomy)
-);
-
 export const LearningReport = () => {
+  let [learningRepository, setLearningRepository] = useState<
+    TaxonomyRepository | undefined
+  >(undefined);
+
+  useEffect(() => {
+    const taxonomyWorker = new Worker(
+      new URL(
+        "@giancosta86/omnicourse/dist/TaxonomyWorker/worker",
+        import.meta.url
+      )
+    );
+
+    const taxonomyReifier = createTaxonomyReifierFromWorker(taxonomyWorker);
+
+    setLearningRepository(
+      new CachingTaxonomyRepository(
+        new FetchingTaxonomyRepository(fetchRawTaxonomy, taxonomyReifier)
+      )
+    );
+  }, []);
+
   const onMobile = useMobileDetection();
 
   return (
@@ -52,23 +69,25 @@ export const LearningReport = () => {
         </p>
       </header>
 
-      <OmniCourse
-        taxonomySelectLabel="Period:"
-        taxonomyKeysFetcher={fetchTaxonomyKeys}
-        taxonomyRepository={learningRepository}
-        loadingNode={
-          <div className={classNames(styles.spinnerBox, "imageBox")}>
-            <img alt="Loading..." src="/spinner.svg" />
-          </div>
-        }
-        customClassName={styles.omniCourse}
-        chartSettings={{
-          chartHeight: onMobile ? 350 : 420,
-          outerRadius: onMobile ? "90%" : "70%",
-          innerRadius: onMobile ? "45%" : "50%"
-        }}
-        onMobile={onMobile}
-      />
+      {learningRepository && (
+        <OmniCourse
+          taxonomySelectLabel="Period:"
+          taxonomyKeysFetcher={fetchTaxonomyKeys}
+          taxonomyRepository={learningRepository}
+          loadingNode={
+            <div className={classNames(styles.spinnerBox, "imageBox")}>
+              <img alt="Loading..." src="/spinner.svg" />
+            </div>
+          }
+          customClassName={styles.omniCourse}
+          chartSettings={{
+            chartHeight: onMobile ? 350 : 420,
+            outerRadius: onMobile ? "90%" : "70%",
+            innerRadius: onMobile ? "45%" : "50%"
+          }}
+          onMobile={onMobile}
+        />
+      )}
     </div>
   );
 };

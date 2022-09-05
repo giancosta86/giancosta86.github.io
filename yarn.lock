@@ -44,13 +44,14 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@giancosta86/omnicourse@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.2.4.tgz#dfa9397a1016054249b6c12409e4bcbf91ed5708"
-  integrity sha512-XzxGbNEt1b2UqGSz3I4OQKc7VLleQ5dgHJ45TBtkWzAIEi8tnWTwnxpzOelWE/MiAQR5cTTo8Tg2TtPGbD5m0A==
+"@giancosta86/omnicourse@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.3.0.tgz#37df3f1cad3ffa5b3dd02e5f02c44a269e68ed1c"
+  integrity sha512-pL1iI7Sj903L9EjZ9XAZewzWs13WSvzqeIV7h2GInslG5AKQ/1o2cSg2f9x6IHGtOWKV1yA3sq2JNyDx3h6s2w==
   dependencies:
     classnames "^2.3.1"
     html2canvas "^1.4.1"
+    uuid "^8.3.2"
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
@@ -3421,6 +3422,11 @@ utrie@^1.0.2:
   integrity sha512-1MLa5ouZiOmQzUbjbu9VmjLzn1QLXBhwpUa7kdLUQK+KQ5KA9I1vk5U4YHe/X2Ch7PYnJfWuWT+VbuxbGwljhw==
   dependencies:
     base64-arraybuffer "^1.0.2"
+
+uuid@^8.3.2:
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
+  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 uvu@^0.5.0:
   version "0.5.3"
