@@ -19,6 +19,7 @@
   },
   "scripts": {
     "clean": "rimraf .next out cv/cv.css public/cv_costa_en.pdf",
+    "clean:all": "yarn clean && rimraf node_modules",
     "format": "prettier --write .",
     "check-all": "yarn check-format",
     "check-format": "prettier --check .",
