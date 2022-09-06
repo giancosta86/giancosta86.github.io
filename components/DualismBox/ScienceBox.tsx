@@ -13,7 +13,7 @@ const scienceMarkdown = `
 
 * 🎓 One of the **30 best Engineering students** in Bologna, in 2016
 
-* 🤖 More than **80 open source projects** on [GitHub](https://github.com/giancosta86)
+* 🤖 Almost **100 open source projects** on [GitHub](https://github.com/giancosta86)
 
 * 🐧 **Linux** user *since 2004* - mainly on Debian-based distros
 
