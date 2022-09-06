@@ -96,6 +96,19 @@
         ],
         "TypeScript": [
           {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+
+          {
             "title": "Ulysses",
             "url": "https://github.com/giancosta86/ulysses",
             "kind": "GitHub",
@@ -860,6 +873,12 @@
 
         "GitHub Actions": [
           {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+          {
             "completionDate": "2020-08-09",
             "title": "Building Custom GitHub Actions",
             "url": "https://www.pluralsight.com/courses/building-custom-github-actions",
@@ -1124,6 +1143,18 @@
         ],
         "React": [
           {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+          {
             "title": "Ulysses",
             "url": "https://github.com/giancosta86/ulysses",
             "kind": "GitHub",
@@ -1226,6 +1257,20 @@
               "url": "https://www.pluralsight.com/courses/less-getting-started",
               "minutes": 71
             }
+          ],
+          "Sass": [
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 1440
+            },
+            {
+              "title": "Arcadia",
+              "url": "https://github.com/giancosta86/Arcadia",
+              "kind": "GitHub",
+              "minutes": 480
+            }
           ]
         },
 
@@ -1301,6 +1346,21 @@
             "title": "Build Your First Data Visualization with vis.js",
             "url": "https://www.pluralsight.com/courses/build-first-data-visualization-vis-js",
             "minutes": 53
+          }
+        ],
+
+        "NextJS": [
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 960
           }
         ]
       },

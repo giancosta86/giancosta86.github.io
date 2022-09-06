@@ -209,6 +209,12 @@
             "completionDate": "2018-06-10",
             "minutes": 60,
             "url": "https://www.udemy.com/markdown/"
+          },
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
           }
         ]
       },
@@ -632,7 +638,22 @@
               "url": "https://www.udemy.com/getting-started-with-less-beginner-crash-course/"
             }
           ],
+          "Sass": [
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 960
+            }
+          ],
           "Bootstrap": [
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 1920
+            },
+
             {
               "title": "Bootstrap 4 Quick Start: Code Modern Responsive Websites",
               "completionDate": "2019-01-02",
@@ -652,6 +673,14 @@
               "minutes": 40,
               "url": "https://www.udemy.com/understanding-bootstrap-grids-and-columns/",
               "certificateUrl": "https://www.udemy.com/certificate/UC-NN3F318F/"
+            }
+          ],
+          "HTML": [
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 960
             }
           ]
         },
