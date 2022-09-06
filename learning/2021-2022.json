@@ -87,6 +87,18 @@
         ],
         "TypeScript": [
           {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+          {
+            "title": "Solvenius",
+            "url": "https://github.com/giancosta86/solvenius",
+            "kind": "GitHub",
+            "minutes": 240
+          },
+          {
             "completionDate": "2021-11-21",
             "title": "Using TypeScript Modules",
             "url": "https://www.pluralsight.com/courses/typescript-modules",
@@ -157,7 +169,22 @@
             "minutes": 44
           }
         ],
+        "Regular Expressions": [
+          {
+            "title": "Cervantes",
+            "url": "https://github.com/giancosta86/Cervantes",
+            "kind": "GitHub",
+            "minutes": 3360
+          }
+        ],
         "Elm": [
+          {
+            "title": "Solvenius",
+            "url": "https://github.com/giancosta86/solvenius",
+            "kind": "GitHub",
+            "minutes": 4320
+          },
+
           {
             "completionDate": "2021-09-13",
             "title": "Elm",
@@ -276,6 +303,25 @@
           }
         ],
         "Python": [
+          {
+            "title": "Jardinero",
+            "url": "https://github.com/giancosta86/Jardinero",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+          {
+            "title": "Cervantes",
+            "url": "https://github.com/giancosta86/Cervantes",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+
+          {
+            "title": "Eos-core",
+            "url": "https://github.com/giancosta86/Eos-core",
+            "kind": "GitHub",
+            "minutes": 480
+          },
           {
             "completionDate": "2021-10-30",
             "title": "Core Python: Organizing Larger Programs",
@@ -402,6 +448,15 @@
             "title": "Ruby 2: The Big Picture",
             "url": "https://www.pluralsight.com/courses/ruby-big-picture",
             "minutes": 75
+          }
+        ],
+
+        "Markdown": [
+          {
+            "title": "The making of Jardinero",
+            "url": "https://speakerdeck.com/giancosta86/the-making-of-jardinero",
+            "kind": "SpeakerDeck",
+            "minutes": 2880
           }
         ]
       },
@@ -545,6 +600,14 @@
               "kind": "Book"
             }
           ],
+          "Elm": [
+            {
+              "title": "Solvenius",
+              "url": "https://github.com/giancosta86/solvenius",
+              "kind": "GitHub",
+              "minutes": 1200
+            }
+          ],
           "Python": [
             {
               "completionDate": "2021-10-31",
@@ -577,10 +640,69 @@
               "url": "https://www.pluralsight.com/courses/react-managing-large-data-sets",
               "minutes": 51
             }
+          ],
+
+          "Python": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+
+            {
+              "title": "Cervantes",
+              "url": "https://github.com/giancosta86/Cervantes",
+              "kind": "GitHub",
+              "minutes": 960
+            },
+
+            {
+              "title": "WikiPrism",
+              "url": "https://github.com/giancosta86/WikiPrism",
+              "kind": "GitHub",
+              "minutes": 960
+            },
+
+            {
+              "title": "Eos-core",
+              "url": "https://github.com/giancosta86/Eos-core",
+              "kind": "GitHub",
+              "minutes": 960
+            }
+          ],
+
+          "SAX": [
+            {
+              "title": "WikiPrism",
+              "url": "https://github.com/giancosta86/WikiPrism",
+              "kind": "GitHub",
+              "minutes": 480
+            }
           ]
         },
         "Concurrency": {
           "Python": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 960
+            },
+
+            {
+              "title": "WikiPrism",
+              "url": "https://github.com/giancosta86/WikiPrism",
+              "kind": "GitHub",
+              "minutes": 3360
+            },
+
+            {
+              "title": "Eos-core",
+              "url": "https://github.com/giancosta86/Eos-core",
+              "kind": "GitHub",
+              "minutes": 1920
+            },
             {
               "completionDate": "2021-11-10",
               "title": "Advanced Generators and Coroutines",
@@ -610,17 +732,26 @@
               "url": "https://www.packtpub.com/product/concurrent-rendering-adventures-in-react-18-video/9781803248493",
               "minutes": 76
             }
+          ]
+        },
+
+        "Event-driven": {
+          "Python": [
+            {
+              "title": "WikiPrism",
+              "url": "https://github.com/giancosta86/WikiPrism",
+              "kind": "GitHub",
+              "minutes": 960
+            }
           ],
-          "Event-driven": {
-            "RabbitMQ": [
-              {
-                "completionDate": "2021-05-21",
-                "title": "RabbitMQ by Example",
-                "url": "https://www.pluralsight.com/courses/rabbitmq-by-example",
-                "minutes": 163
-              }
-            ]
-          }
+          "RabbitMQ": [
+            {
+              "completionDate": "2021-05-21",
+              "title": "RabbitMQ by Example",
+              "url": "https://www.pluralsight.com/courses/rabbitmq-by-example",
+              "minutes": 163
+            }
+          ]
         },
 
         "Testing": {
@@ -665,6 +796,12 @@
         "Build Tools": {
           "TypeScript": [
             {
+              "title": "Ulysses",
+              "url": "https://github.com/giancosta86/ulysses",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+            {
               "completionDate": "2021-11-23",
               "title": "Configuring, Compiling, and Debugging TypeScript Projects",
               "url": "https://www.pluralsight.com/courses/typescript-configuring-compiling-debugging-projects",
@@ -673,6 +810,12 @@
           ],
 
           "Python": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 1920
+            },
             {
               "completionDate": "2021-11-12",
               "title": "Managing Python Packages and Virtual Environments",
@@ -703,11 +846,28 @@
               "url": "https://www.pluralsight.com/courses/reactjs-apps-docker-developing",
               "minutes": 112
             }
+          ],
+
+          "Elm": [
+            {
+              "title": "Solvenius",
+              "url": "https://github.com/giancosta86/solvenius",
+              "kind": "GitHub",
+              "minutes": 240
+            }
           ]
         }
       },
 
       "Cloud & Virtualization": {
+        "WebSockets": [
+          {
+            "title": "Jardinero",
+            "url": "https://github.com/giancosta86/Jardinero",
+            "kind": "GitHub",
+            "minutes": 960
+          }
+        ],
         "Amazon Web Services": {
           "Serverless": [
             {
@@ -798,6 +958,13 @@
       "Frontend": {
         "React": [
           {
+            "title": "Jardinero",
+            "url": "https://github.com/giancosta86/Jardinero",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+
+          {
             "completionDate": "2022-05-05",
             "title": "React Hooks Tips Only the Pros Know",
             "url": "https://www.packtpub.com/product/react-hooks-tips-only-the-pros-know-video/9781803233864",
@@ -881,6 +1048,24 @@
             "minutes": 92
           }
         ],
+        "CSS": {
+          "Sass": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 960
+            }
+          ]
+        },
+        "Webpack": [
+          {
+            "title": "Solvenius",
+            "url": "https://github.com/giancosta86/solvenius",
+            "kind": "GitHub",
+            "minutes": 240
+          }
+        ],
         "Accessibility": [
           {
             "completionDate": "2021-10-05",
@@ -915,6 +1100,13 @@
           }
         ],
         "Python": [
+          {
+            "title": "Jardinero",
+            "url": "https://github.com/giancosta86/Jardinero",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+
           {
             "completionDate": "2022-03-16",
             "title": "Structuring a Growing Flask 1 Application",
@@ -1053,6 +1245,17 @@
       },
 
       "Data Science": {
+        "Relational DBMS": {
+          "SQLite": [
+            {
+              "title": "Eos-core",
+              "url": "https://github.com/giancosta86/Eos-core",
+              "kind": "GitHub",
+              "minutes": 960
+            }
+          ]
+        },
+
         "Amazon Web Services": {
           "Databases": {
             "Principles": [

@@ -12,11 +12,8 @@
         "Groovy": [],
         "JavaScript": [],
         "TypeScript": [],
-        "Domain-specific": {
-          "Regular Expressions": [],
-          "Markdown": [],
-          "Bash": []
-        },
+        "Regular Expressions": [],
+        "Bash": [],
         "Elm": [],
         "Rust": [],
         "Elixir": [],
@@ -26,8 +23,10 @@
         "Python": [],
         "R": [],
         "Ruby": [],
-        "Flutter": []
+        "Flutter": [],
+        "Markdown": []
       },
+
       "Mobile Development": {
         "Ionic": [],
         "React Native": []
@@ -66,9 +65,12 @@
         },
         "Performance": {
           "React": [],
+          "Python": [],
           "C++": [],
           "GraphQL": [],
-          "MongoDB": []
+          "MongoDB": [],
+          "NodeJS": [],
+          "SAX": []
         },
 
         "Concurrency": {
@@ -80,13 +82,20 @@
           "Python": [],
           "Go": [],
           "React": [],
-          "Event-driven": {
-            "NodeJS": [],
-            ".NET": [],
-            "RabbitMQ": [],
-            "CQRS": [],
-            "GraphQL": []
-          }
+          "Browser": []
+        },
+
+        "Event-driven": {
+          "NodeJS": [],
+          "Python": [],
+          ".NET": [],
+          "RabbitMQ": [],
+          "CQRS": [],
+          "GraphQL": []
+        },
+
+        "Streaming": {
+          "NodeJS": []
         },
 
         "Testing": {
@@ -128,8 +137,11 @@
           "NodeJS": [],
           "Docker": [],
           "Java": [],
-          ".NET": []
+          ".NET": [],
+          "Elm": []
         },
+
+        "Microservices": [],
 
         "GitHub Actions": [],
         "Jenkins": [],
@@ -139,6 +151,7 @@
 
       "Cloud & Virtualization": {
         "Network Principles": [],
+        "WebSockets": [],
         "Amazon Web Services": {
           "Principles": [],
           "Serverless": [],
@@ -184,8 +197,10 @@
           "Bootstrap": []
         },
         "User Experience": [],
-
-        "Chrome": [],
+        "Browser": {
+          "Plugins": [],
+          "Chrome": []
+        },
         "Blazor": [],
         "Webpack": [],
         "Progressive Web Apps": [],
@@ -194,7 +209,8 @@
         "Accessibility": [],
         "Desktop Apps": {
           "Electron": []
-        }
+        },
+        "GraphQL": []
       },
 
       "Backend": {
@@ -239,7 +255,9 @@
         "Relational DBMS": {
           "Principles": [],
           "Java": [],
-          "SQL Server": []
+          "SQL Server": [],
+          "PostgreSQL": [],
+          "SQLite": []
         },
 
         "NoSQL": {
@@ -320,7 +338,9 @@
       "English": [],
       "French": [],
       "Portuguese": [],
-      "Spanish": []
+      "Spanish": [],
+      "Russian": [],
+      "Hindi": []
     },
     "Law": {
       "National Laws": [],

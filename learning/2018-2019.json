@@ -168,33 +168,25 @@
           }
         ],
 
-        "Domain-specific": {
-          "Regular Expressions": [
-            {
-              "title": "Master Regular Expressions from scratch - All languages",
-              "completionDate": "2018-12-30",
-              "minutes": 120,
-              "url": "https://www.udemy.com/master-regular-expressions-from-scratch/",
-              "certificateUrl": "https://www.udemy.com/certificate/UC-GH3SD9UZ/"
-            }
-          ],
-          "Markdown": [
-            {
-              "title": "Markdown Mastery: Simple yet Powerful Writing Format",
-              "completionDate": "2018-06-10",
-              "minutes": 60,
-              "url": "https://www.udemy.com/markdown/"
-            }
-          ],
-          "Bash": [
-            {
-              "title": "Bash Scripting and Shell Programming (Linux Command Line)",
-              "completionDate": "2018-07-04",
-              "minutes": 120,
-              "url": "https://www.udemy.com/bash-scripting/"
-            }
-          ]
-        },
+        "Regular Expressions": [
+          {
+            "title": "Master Regular Expressions from scratch - All languages",
+            "completionDate": "2018-12-30",
+            "minutes": 120,
+            "url": "https://www.udemy.com/master-regular-expressions-from-scratch/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-GH3SD9UZ/"
+          }
+        ],
+
+        "Bash": [
+          {
+            "title": "Bash Scripting and Shell Programming (Linux Command Line)",
+            "completionDate": "2018-07-04",
+            "minutes": 120,
+            "url": "https://www.udemy.com/bash-scripting/"
+          }
+        ],
+
         "Go": [
           {
             "title": "Learning Go in 3 Hours",
@@ -210,8 +202,17 @@
             "minutes": 612,
             "url": "https://www.packtpub.com/eu/application-development/comprehensive-ruby-programming-video"
           }
+        ],
+        "Markdown": [
+          {
+            "title": "Markdown Mastery: Simple yet Powerful Writing Format",
+            "completionDate": "2018-06-10",
+            "minutes": 60,
+            "url": "https://www.udemy.com/markdown/"
+          }
         ]
       },
+
       "Mobile Development": {
         "Ionic": [
           {
@@ -326,17 +327,18 @@
               "minutes": 270,
               "url": "https://www.udemy.com/asynchronous-javascript/"
             }
-          ],
-          "Event-driven": {
-            "RabbitMQ": [
-              {
-                "title": "Learn RabbitMQ: Asynchronous Messaging with Java and Spring",
-                "completionDate": "2018-11-14",
-                "minutes": 150,
-                "url": "https://www.udemy.com/learn-rabbitmq-asynchronous-messaging-with-java-and-spring/"
-              }
-            ]
-          }
+          ]
+        },
+
+        "Event-driven": {
+          "RabbitMQ": [
+            {
+              "title": "Learn RabbitMQ: Asynchronous Messaging with Java and Spring",
+              "completionDate": "2018-11-14",
+              "minutes": 150,
+              "url": "https://www.udemy.com/learn-rabbitmq-asynchronous-messaging-with-java-and-spring/"
+            }
+          ]
         },
 
         "Testing": {
@@ -509,13 +511,6 @@
             "completionDate": "2019-03-28",
             "minutes": 81,
             "url": "https://www.packtpub.com/eu/application-development/exploring-visual-studio-2017-video"
-          },
-          {
-            "title": "Devtools Pro: The Basics of Chrome Developer Tools",
-            "completionDate": "2018-12-26",
-            "minutes": 60,
-            "url": "https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/",
-            "certificateUrl": "https://www.udemy.com/certificate/UC-QH0H316C/"
           }
         ]
       },
@@ -661,15 +656,25 @@
           ]
         },
 
-        "Chrome": [
-          {
-            "title": "Chrome Extensions: Develop 5 Chrome extensions from scratch",
-            "completionDate": "2018-12-26",
-            "minutes": 120,
-            "url": "https://www.udemy.com/chrome-extension-dev/",
-            "certificateUrl": "https://www.udemy.com/certificate/UC-XU9HHKHK/"
-          }
-        ],
+        "Browser": {
+          "Chrome": [
+            {
+              "title": "Chrome Extensions: Develop 5 Chrome extensions from scratch",
+              "completionDate": "2018-12-26",
+              "minutes": 120,
+              "url": "https://www.udemy.com/chrome-extension-dev/",
+              "certificateUrl": "https://www.udemy.com/certificate/UC-XU9HHKHK/"
+            },
+            {
+              "title": "Devtools Pro: The Basics of Chrome Developer Tools",
+              "completionDate": "2018-12-26",
+              "minutes": 60,
+              "url": "https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/",
+              "certificateUrl": "https://www.udemy.com/certificate/UC-QH0H316C/"
+            }
+          ]
+        },
+
         "Webpack": [
           {
             "title": "Learn Webpack 2 from scratch",
