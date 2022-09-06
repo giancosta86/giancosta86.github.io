@@ -130,6 +130,13 @@
         ],
         "JavaScript": [
           {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+
+          {
             "title": "OmniCourse-Agent",
             "url": "https://github.com/giancosta86/OmniCourse-Agent",
             "kind": "GitHub",
@@ -611,6 +618,14 @@
             "url": "https://www.pluralsight.com/courses/octopus-deploy-dot-net-applications"
           }
         ],
+        "Travis": [
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
+          }
+        ],
         "IDEs & editors": [
           {
             "title": "Learning vi",
@@ -707,6 +722,12 @@
 
       "Frontend": {
         "React": [
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 1920
+          },
           {
             "title": "OmniCourse",
             "url": "https://github.com/giancosta86/OmniCourse",
@@ -826,6 +847,12 @@
           }
         ],
         "NodeJS": [
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 1920
+          },
           {
             "title": "Node.js: The Big Picture",
             "minutes": 55,

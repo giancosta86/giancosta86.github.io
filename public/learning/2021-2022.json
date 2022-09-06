@@ -87,6 +87,12 @@
         ],
         "TypeScript": [
           {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+          {
             "title": "Ulysses",
             "url": "https://github.com/giancosta86/ulysses",
             "kind": "GitHub",
@@ -796,6 +802,12 @@
         "Build Tools": {
           "TypeScript": [
             {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 960
+            },
+            {
               "title": "Ulysses",
               "url": "https://github.com/giancosta86/ulysses",
               "kind": "GitHub",
@@ -1051,6 +1063,12 @@
         "CSS": {
           "Sass": [
             {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+            {
               "title": "Jardinero",
               "url": "https://github.com/giancosta86/Jardinero",
               "kind": "GitHub",
@@ -1072,6 +1090,15 @@
             "title": "Architecting for Accessibility",
             "url": "https://www.pluralsight.com/courses/js-friends-session-12",
             "minutes": 41
+          }
+        ],
+
+        "HTML": [
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 480
           }
         ]
       },

@@ -146,6 +146,7 @@
         "GitHub Actions": [],
         "Jenkins": [],
         "Octopus": [],
+        "Travis": [],
         "IDEs & editors": []
       },
 
@@ -210,7 +211,9 @@
         "Desktop Apps": {
           "Electron": []
         },
-        "GraphQL": []
+        "GraphQL": [],
+        "HTML": [],
+        "NextJS": []
       },
 
       "Backend": {
