@@ -926,6 +926,7 @@
           "completionDate": "2022-09-05",
           "title": "Spagnolo - Perifrasi verbali",
           "url": "https://www.libri.it/spagnolo-perifrasi-verbali",
+          "kind": "Book",
           "minutes": 270
         },
 
@@ -933,6 +934,7 @@
           "completionDate": "2022-09-01",
           "title": "Spagnolo - Frasario",
           "url": "https://www.libri.it/logosedizioni/a-prima-vista/a-prima-vista-spagnolo-frasario",
+          "kind": "Book",
           "minutes": 270
         },
 
@@ -940,6 +942,7 @@
           "completionDate": "2022-07-02",
           "title": "Dizionario visuale bilingue. Spagnolo-italiano",
           "url": "https://www.google.it/books/edition/Dizionario_visuale_bilingue_Spagnolo_ita/TFG0nAEACAAJ",
+          "kind": "Book",
           "minutes": 1290
         }
       ],
