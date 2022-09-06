@@ -137,6 +137,13 @@
           },
 
           {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 480
+          },
+
+          {
             "title": "OmniCourse-Agent",
             "url": "https://github.com/giancosta86/OmniCourse-Agent",
             "kind": "GitHub",
@@ -729,6 +736,12 @@
             "minutes": 1920
           },
           {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+          {
             "title": "OmniCourse",
             "url": "https://github.com/giancosta86/OmniCourse",
             "kind": "GitHub",
@@ -847,6 +860,12 @@
           }
         ],
         "NodeJS": [
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
           {
             "title": "Gianluca Costa's Creations",
             "url": "https://github.com/giancosta86/giancosta86.github.io",
