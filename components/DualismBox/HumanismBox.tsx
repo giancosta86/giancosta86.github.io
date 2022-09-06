@@ -7,15 +7,15 @@ const humanismMarkdown = `
 
 * 💡 Curious **learner**, passionate **teacher**
 
-* 🇬🇧 **C1** level in *English* (CAE, BEC Higher)
+* 🌼 **C1** level in *English* (CAE, BEC Higher)
 
-* 🇫🇷 **C1** level in *French* (DALF)
+* 🌷 **C1** level in *French* (DALF)
 
 * 🌐 Constantly exploring **Linguistics** and *new languages*
 
 * 💭 Fond of **Philosophy** as the fine art of *thinking*
 
-* 🇪🇸 Between **B1** and **B2** in *Spanish*
+* 🌹 Around **B2** in *Spanish*
 
 * 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 
