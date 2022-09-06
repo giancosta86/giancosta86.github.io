@@ -96,6 +96,13 @@
         ],
         "TypeScript": [
           {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 1920
+          },
+
+          {
             "completionDate": "2020-05-23",
             "title": "Using TypeScript Modules",
             "url": "https://www.pluralsight.com/courses/typescript-modules",
@@ -574,45 +581,53 @@
           ],
           "TypeScript": [
             {
+              "title": "Ulysses",
+              "url": "https://github.com/giancosta86/ulysses",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+            {
               "completionDate": "2020-05-25",
               "title": "Creating Asynchronous TypeScript Code",
               "url": "https://www.pluralsight.com/courses/typescript-asynchronous-code",
               "minutes": 110
             }
-          ],
-          "Event-driven": {
-            "CQRS": [
-              {
-                "completionDate": "2021-01-25",
-                "title": "CQRS in Practice",
-                "url": "https://www.pluralsight.com/courses/cqrs-in-practice",
-                "minutes": 261
-              },
-              {
-                "completionDate": "2020-10-09",
-                "title": "Modern Software Architecture: Domain Models, CQRS, and Event Sourcing",
-                "url": "https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing",
-                "minutes": 265
-              }
-            ],
-            "GraphQL": [
-              {
-                "completionDate": "2021-02-13",
-                "title": "Event Driven Updates with Apollo Subscriptions",
-                "url": "https://www.pluralsight.com/courses/apollo-subscriptions-event-driven-updates",
-                "minutes": 65
-              }
-            ],
-            "NodeJS": [
-              {
-                "completionDate": "2020-06-01",
-                "title": "Node.js: Introduction to Node.js, Events, and Streams",
-                "url": "https://www.pluralsight.com/interactive-courses/node-js-introduction-events-streams",
-                "minutes": 65
-              }
-            ]
-          }
+          ]
         },
+
+        "Event-driven": {
+          "CQRS": [
+            {
+              "completionDate": "2021-01-25",
+              "title": "CQRS in Practice",
+              "url": "https://www.pluralsight.com/courses/cqrs-in-practice",
+              "minutes": 261
+            },
+            {
+              "completionDate": "2020-10-09",
+              "title": "Modern Software Architecture: Domain Models, CQRS, and Event Sourcing",
+              "url": "https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing",
+              "minutes": 265
+            }
+          ],
+          "GraphQL": [
+            {
+              "completionDate": "2021-02-13",
+              "title": "Event Driven Updates with Apollo Subscriptions",
+              "url": "https://www.pluralsight.com/courses/apollo-subscriptions-event-driven-updates",
+              "minutes": 65
+            }
+          ],
+          "NodeJS": [
+            {
+              "completionDate": "2020-06-01",
+              "title": "Node.js: Introduction to Node.js, Events, and Streams",
+              "url": "https://www.pluralsight.com/interactive-courses/node-js-introduction-events-streams",
+              "minutes": 65
+            }
+          ]
+        },
+
         "Testing": {
           "JavaScript": [
             {
@@ -768,6 +783,13 @@
         "Build Tools": {
           "TypeScript": [
             {
+              "title": "Ulysses",
+              "url": "https://github.com/giancosta86/ulysses",
+              "kind": "GitHub",
+              "minutes": 1080
+            },
+
+            {
               "completionDate": "2020-05-30",
               "title": "Configuring, Compiling, and Debugging TypeScript Projects",
               "url": "https://www.pluralsight.com/courses/typescript-projects-configuring-compiling-debugging",
@@ -784,6 +806,13 @@
             }
           ],
           "NodeJS": [
+            {
+              "title": "Ulysses",
+              "url": "https://github.com/giancosta86/ulysses",
+              "kind": "GitHub",
+              "minutes": 360
+            },
+
             {
               "completionDate": "2020-06-14",
               "title": "Automating Node.js with NPM Scripts",
@@ -926,6 +955,14 @@
             "title": "Networking Concepts and Protocols",
             "url": "https://www.pluralsight.com/courses/comptia-network-plus-networking-concepts",
             "minutes": 325
+          }
+        ],
+        "WebSockets": [
+          {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 960
           }
         ],
         "Amazon Web Services": {
@@ -1087,6 +1124,13 @@
         ],
         "React": [
           {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+
+          {
             "completionDate": "2020-07-16",
             "title": "Server Rendering React Components",
             "url": "https://www.pluralsight.com/courses/server-rendering-react-components",
@@ -1185,14 +1229,17 @@
           ]
         },
 
-        "Chrome": [
-          {
-            "completionDate": "2020-12-24",
-            "title": "Debugging Sites Using Chrome DevTools",
-            "url": "https://www.pluralsight.com/courses/debugging-sites-chrome-devtools",
-            "minutes": 106
-          }
-        ],
+        "Browser": {
+          "Chrome": [
+            {
+              "completionDate": "2020-12-24",
+              "title": "Debugging Sites Using Chrome DevTools",
+              "url": "https://www.pluralsight.com/courses/debugging-sites-chrome-devtools",
+              "minutes": 106
+            }
+          ]
+        },
+
         "Blazor": [
           {
             "completionDate": "2020-12-06",
@@ -1202,6 +1249,13 @@
           }
         ],
         "Webpack": [
+          {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+
           {
             "completionDate": "2020-11-26",
             "title": "Webpack 5 Fundamentals",
@@ -1273,6 +1327,12 @@
           }
         ],
         "NodeJS": [
+          {
+            "title": "Ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "kind": "GitHub",
+            "minutes": 480
+          },
           {
             "completionDate": "2020-07-14",
             "title": "Building a Full Stack App with React and Express",
