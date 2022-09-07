@@ -16,6 +16,10 @@ h1 {
   margin-bottom: 1mm;
 }
 
+.motto {
+  font-style: italic;
+}
+
 a {
   &:link,
   &:visited {
@@ -34,7 +38,8 @@ strong {
   font-weight: bold;
 }
 
-em {
+em,
+i {
   font-style: italic;
 }
 
@@ -65,7 +70,7 @@ body {
 
 header {
   text-align: center;
-  margin-bottom: 4mm;
+  margin-bottom: 2mm;
 
   .infoBox {
     display: flex;
@@ -146,12 +151,24 @@ header {
       margin-bottom: 2.5mm;
     }
 
-    @include li-spacing(2.5mm);
+    @include li-spacing(1.7mm);
   }
 
-  .gitHubBox {
+  ul {
     li {
-      font-size: 95%;
+      ul {
+        @include li-spacing(0.5mm);
+
+        li {
+          &:first-child {
+            margin-top: 0.5mm;
+          }
+
+          list-style-type: circle;
+          list-style-position: outside;
+          margin-left: 5mm;
+        }
+      }
     }
   }
 
@@ -170,7 +187,9 @@ header {
 
   .latestUpdateBox {
     border: none;
-    font-size: 70%;
+    font-size: 75%;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .learningBox {
