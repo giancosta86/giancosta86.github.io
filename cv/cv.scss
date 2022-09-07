@@ -138,6 +138,10 @@ header {
 
   margin: 0 1mm;
 
+  &.left {
+    @include li-spacing(1.2mm);
+  }
+
   & > section,
   & > div {
     padding: 2mm;
