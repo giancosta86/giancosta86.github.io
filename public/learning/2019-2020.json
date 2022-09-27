@@ -2421,6 +2421,16 @@
 
     "Art": {
       "Visual": {
+        "Computer Graphics": {
+          "Inkscape": [
+            {
+              "title": "OmniCourse",
+              "url": "https://github.com/giancosta86/OmniCourse",
+              "kind": "GitHub",
+              "minutes": 120
+            }
+          ]
+        },
         "Color Theory": [
           {
             "title": "Color Theory for Today's Creative Professionals",

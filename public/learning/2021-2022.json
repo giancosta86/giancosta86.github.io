@@ -1490,6 +1490,43 @@
       ]
     },
 
+    "Art": {
+      "Visual": {
+        "Computer Graphics": {
+          "Inkscape": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 120
+            },
+
+            {
+              "title": "Eos-core",
+              "url": "https://github.com/giancosta86/Eos-core",
+              "kind": "GitHub",
+              "minutes": 45
+            },
+
+            {
+              "title": "WikiPrism",
+              "url": "https://github.com/giancosta86/WikiPrism",
+              "kind": "GitHub",
+              "minutes": 80
+            }
+          ],
+          "Gimp": [
+            {
+              "title": "Jardinero",
+              "url": "https://github.com/giancosta86/Jardinero",
+              "kind": "GitHub",
+              "minutes": 60
+            }
+          ]
+        }
+      }
+    },
+
     "Philosophy": [
       {
         "completionDate": "2022-02-04",

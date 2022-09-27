@@ -324,7 +324,13 @@
 
     "Art": {
       "Visual": {
-        "Computer Graphics": [],
+        "Computer Graphics": {
+          "Inkscape": [],
+          "Gimp": []
+        },
+        "Diagrams": {
+          "Dia": []
+        },
         "Design": [],
         "Color Theory": []
       },

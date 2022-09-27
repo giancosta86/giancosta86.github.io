@@ -18,18 +18,23 @@
             "kind": "GitHub",
             "minutes": 2280
           },
-
           {
             "title": "CervantesJS",
             "url": "https://github.com/giancosta86/CervantesJS",
             "kind": "GitHub",
-            "minutes": 960
+            "minutes": 1200
+          },
+          {
+            "title": "RayonJS",
+            "url": "https://github.com/giancosta86/RayonJS",
+            "kind": "GitHub",
+            "minutes": 1920
           },
           {
             "title": "JardineroJS-SDK",
             "url": "https://github.com/giancosta86/JardineroJS-sdk",
             "kind": "GitHub",
-            "minutes": 480
+            "minutes": 2400
           },
           {
             "title": "typed-env",
@@ -49,14 +54,14 @@
             "title": "sqlite-writable",
             "url": "https://github.com/giancosta86/sqlite-writable",
             "kind": "GitHub",
-            "minutes": 480
+            "minutes": 540
           },
 
           {
             "title": "format-error",
             "url": "https://github.com/giancosta86/format-error",
             "kind": "GitHub",
-            "minutes": 960
+            "minutes": 1200
           },
 
           {
@@ -187,10 +192,16 @@
           "MongoDB": [],
           "NodeJS": [
             {
+              "completionDate": "2022-09-09",
+              "title": "The complete NestJS developer. Enterprise Node.js framework",
+              "url": "https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/",
+              "minutes": 199
+            },
+            {
               "title": "JardineroJS",
               "url": "https://github.com/giancosta86/JardineroJS",
               "kind": "GitHub",
-              "minutes": 1440
+              "minutes": 1680
             },
             {
               "title": "CervantesJS",
@@ -303,6 +314,12 @@
               "url": "https://github.com/giancosta86/worker-transform",
               "kind": "GitHub",
               "minutes": 1440
+            },
+            {
+              "title": "stream-utils",
+              "url": "https://github.com/giancosta86/stream-utils",
+              "kind": "GitHub",
+              "minutes": 480
             }
           ]
         },
@@ -417,13 +434,13 @@
             "title": "JardineroJS",
             "url": "https://github.com/giancosta86/JardineroJS",
             "kind": "GitHub",
-            "minutes": 480
+            "minutes": 720
           },
           {
             "title": "Jardinero - Frontend",
             "url": "https://github.com/giancosta86/Jardinero - Frontend",
             "kind": "GitHub",
-            "minutes": 480
+            "minutes": 720
           }
         ],
         "Amazon Web Services": {
@@ -700,7 +717,7 @@
               "title": "sqlite-writable",
               "url": "https://github.com/giancosta86/sqlite-writable",
               "kind": "GitHub",
-              "minutes": 2400
+              "minutes": 2460
             }
           ]
         },
@@ -793,7 +810,38 @@
 
     "Art": {
       "Visual": {
-        "Computer Graphics": [],
+        "Computer Graphics": {
+          "Inkscape": [
+            {
+              "title": "JardineroJS",
+              "url": "https://github.com/giancosta86/JardineroJS",
+              "kind": "GitHub",
+              "minutes": 140
+            },
+            {
+              "title": "RayonJS",
+              "url": "https://github.com/giancosta86/JardineroJS",
+              "kind": "GitHub",
+              "minutes": 80
+            }
+          ],
+          "Gimp": [
+            {
+              "title": "Gimp for GitHub projects",
+              "kind": "GitHub",
+              "minutes": 90
+            }
+          ]
+        },
+        "Diagrams": {
+          "Dia": [
+            {
+              "title": "Dia for GitHub projects",
+              "kind": "GitHub",
+              "minutes": 240
+            }
+          ]
+        },
         "Design": [],
         "Color Theory": []
       },
@@ -864,10 +912,39 @@
       "Portuguese": [],
       "Spanish": [
         {
+          "completionDate": "2022-09-27",
+          "title": "Spagnolo - Frasi idiomatiche",
+          "url": "https://www.libri.it/spagnolo-frasi-idiomatiche/",
+          "minutes": 300
+        },
+
+        {
+          "completionDate": "2022-09-24",
+          "title": "Spagnolo - Frasario",
+          "url": "https://www.libri.it/varia/a-prima-vista/a-prima-vista-Spagnolo-frasario",
+          "minutes": 240
+        },
+
+        {
+          "completionDate": "2022-09-22",
+          "title": "Spagnolo - Perífrasis verbali",
+          "url": "https://www.libri.it/varia/a-prima-vista/spagnolo-perifrasi-verbali",
+          "minutes": 150
+        },
+
+        {
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
           "minutes": 575
+        },
+
+        {
+          "completionDate": "2022-09-21",
+          "title": "Dizionario visuale bilingue. Spagnolo-italiano",
+          "url": "https://www.google.it/books/edition/Dizionario_visuale_bilingue_Spagnolo_ita/TFG0nAEACAAJ",
+          "kind": "Book",
+          "minutes": 2040
         },
 
         {
