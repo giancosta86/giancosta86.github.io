@@ -1,22 +1,16 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "15.4.5",
-  "private": true,
+  "version": "15.4.6",
   "description": "Personal website",
-  "website": {
-    "title": "Gianluca Costa's Creations",
-    "domain": "gianlucacosta.info",
-    "description": "Gianluca Costa's personal website"
+  "homepage": "https://gianlucacosta.info/",
+  "bugs": "https://github.com/giancosta86/giancosta86.github.io/issues",
+  "license": "CC-BY-NC-ND-3.0",
+  "author": {
+    "name": "Gianluca Costa",
+    "email": "gianluca@gianlucacosta.info",
+    "url": "https://gianlucacosta.info/"
   },
-  "watch": {
-    "build-cv-css": "cv/cv.scss",
-    "build-cv-pdf": {
-      "patterns": [
-        "cv"
-      ],
-      "extensions": "html,css"
-    }
-  },
+  "repository": "giancosta86/giancosta86.github.io",
   "scripts": {
     "clean": "rimraf .next out cv/cv.css public/cv_costa_en.pdf",
     "clean:all": "yarn clean && rimraf node_modules",
@@ -34,23 +28,6 @@
     "prod": "next start",
     "export": "next export",
     "rebuild": "yarn clean && yarn build && yarn export"
-  },
-  "author": {
-    "name": "Gianluca Costa",
-    "url": "https://gianlucacosta.info/",
-    "email": "gianluca@gianlucacosta.info"
-  },
-  "license": "CC-BY-NC-ND-3.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/giancosta86/giancosta86.github.io"
-  },
-  "homepage": "https://gianlucacosta.info/",
-  "bugs": {
-    "url": "https://github.com/giancosta86/giancosta86.github.io/issues"
-  },
-  "engines": {
-    "node": ">=17.1.0"
   },
   "dependencies": {
     "@giancosta86/omnicourse": "^2.3.0",
@@ -75,5 +52,23 @@
     "sass": "^1.52.0",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.4"
+  },
+  "engines": {
+    "node": ">=17.1.0"
+  },
+  "private": true,
+  "watch": {
+    "build-cv-css": "cv/cv.scss",
+    "build-cv-pdf": {
+      "patterns": [
+        "cv"
+      ],
+      "extensions": "html,css"
+    }
+  },
+  "website": {
+    "title": "Gianluca Costa's Creations",
+    "domain": "gianlucacosta.info",
+    "description": "Gianluca Costa's personal website"
   }
 }
