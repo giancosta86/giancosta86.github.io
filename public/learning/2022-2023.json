@@ -912,6 +912,13 @@
       "Portuguese": [],
       "Spanish": [
         {
+          "title": "Gramática española - Niveles A1-C2",
+          "url": "http://www.utetuniversita.it/catalogo/lingue-e-letterature/gram%C3%A1tica-espa%C3%B1ola-3521",
+          "kind": "Book",
+          "minutes": 6120
+        },
+
+        {
           "completionDate": "2022-09-27",
           "title": "Spagnolo - Frasi idiomatiche",
           "url": "https://www.libri.it/spagnolo-frasi-idiomatiche/",
@@ -927,8 +934,8 @@
 
         {
           "completionDate": "2022-09-22",
-          "title": "Spagnolo - Perífrasis verbali",
-          "url": "https://www.libri.it/varia/a-prima-vista/spagnolo-perifrasi-verbali",
+          "title": "Spagnolo - Perifrasi verbali",
+          "url": "https://www.libri.it/spagnolo-perifrasi-verbali",
           "minutes": 150
         },
 
@@ -936,7 +943,7 @@
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 575
+          "minutes": 620
         },
 
         {
@@ -951,7 +958,7 @@
           "title": "Duolingo - Spanish",
           "url": "https://www.duolingo.com",
           "kind": "App",
-          "minutes": 2543
+          "minutes": 2794
         },
 
         {
