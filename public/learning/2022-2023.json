@@ -922,6 +922,7 @@
           "completionDate": "2022-09-27",
           "title": "Spagnolo - Frasi idiomatiche",
           "url": "https://www.libri.it/spagnolo-frasi-idiomatiche/",
+          "kind": "Book",
           "minutes": 300
         },
 
@@ -929,6 +930,7 @@
           "completionDate": "2022-09-24",
           "title": "Spagnolo - Frasario",
           "url": "https://www.libri.it/varia/a-prima-vista/a-prima-vista-Spagnolo-frasario",
+          "kind": "Book",
           "minutes": 240
         },
 
@@ -936,6 +938,7 @@
           "completionDate": "2022-09-22",
           "title": "Spagnolo - Perifrasi verbali",
           "url": "https://www.libri.it/spagnolo-perifrasi-verbali",
+          "kind": "Book",
           "minutes": 150
         },
 
