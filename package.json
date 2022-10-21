@@ -30,7 +30,7 @@
     "rebuild": "yarn clean && yarn build && yarn export"
   },
   "dependencies": {
-    "@giancosta86/omnicourse": "^2.3.0",
+    "@giancosta86/omnicourse": "^2.3.1",
     "classnames": "^2.3.1",
     "next": "^12.1.6",
     "prop-types": "^15.8.1",

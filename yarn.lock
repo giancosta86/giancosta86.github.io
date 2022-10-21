@@ -44,11 +44,17 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@giancosta86/omnicourse@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.3.0.tgz#37df3f1cad3ffa5b3dd02e5f02c44a269e68ed1c"
-  integrity sha512-pL1iI7Sj903L9EjZ9XAZewzWs13WSvzqeIV7h2GInslG5AKQ/1o2cSg2f9x6IHGtOWKV1yA3sq2JNyDx3h6s2w==
+"@giancosta86/omnicourse-core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse-core/-/omnicourse-core-1.0.0.tgz#9b29587c1b9dc0baf536125aa147ef9697a927bf"
+  integrity sha512-ybvS/KQyAD2JoMzNaDT74UA1nsDR/iT8bOmInlEf4qBNq7VLDrivPKdVWHDjcsj6zLo2gtT+U1Vr82qoY7b9rA==
+
+"@giancosta86/omnicourse@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@giancosta86/omnicourse/-/omnicourse-2.3.1.tgz#e2dc2eea69cacb2166adef697571ecd434117561"
+  integrity sha512-/FvysFZmJi3WY0NSiDJxWTMcpzrQvOi8B64WjOcZPZ8Qsxp3nfvYzK9x3HDyvBxm5q9xKCmp3cIthKROhfAjKw==
   dependencies:
+    "@giancosta86/omnicourse-core" "^1.0.0"
     classnames "^2.3.1"
     html2canvas "^1.4.1"
     uuid "^8.3.2"
