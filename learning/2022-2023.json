@@ -19,6 +19,12 @@
             "minutes": 2280
           },
           {
+            "title": "OmniCourse-core",
+            "url": "https://github.com/giancosta86/OmniCourse-core",
+            "kind": "GitHub",
+            "minutes": 360
+          },
+          {
             "title": "CervantesJS",
             "url": "https://github.com/giancosta86/CervantesJS",
             "kind": "GitHub",
@@ -870,6 +876,14 @@
     "Languages": {
       "English": [
         {
+          "completionDate": "2022-11-01",
+          "title": "Spanish to the Point: A1/A2",
+          "url": "https://books.google.it/books/about/Spanish_To_The_Point.html?id=srSPzgEACAAJ",
+          "kind": "Book",
+          "minutes": 360
+        },
+
+        {
           "completionDate": "2022-07-09",
           "title": "Grammatica inglese",
           "url": "https://www.vallardi.it/catalogo/scheda/inglese-facile-grammatica-libro.html",
@@ -912,10 +926,35 @@
       "Portuguese": [],
       "Spanish": [
         {
+          "completionDate": "2022-11-13",
           "title": "Gramática española - Niveles A1-C2",
           "url": "http://www.utetuniversita.it/catalogo/lingue-e-letterature/gram%C3%A1tica-espa%C3%B1ola-3521",
           "kind": "Book",
-          "minutes": 6120
+          "minutes": 7920
+        },
+
+        {
+          "completionDate": "2022-10-31",
+          "title": "Assimil - Perfezionamento Spagnolo C1",
+          "url": "https://www.assimil.it/-561-perfezionamento-dello-spagnolo-mp3",
+          "kind": "Multimedia",
+          "minutes": 720
+        },
+
+        {
+          "completionDate": "2022-10-26",
+          "title": "Spagnolo - Frasi idiomatiche",
+          "url": "https://www.libri.it/spagnolo-frasi-idiomatiche/",
+          "kind": "Book",
+          "minutes": 270
+        },
+
+        {
+          "completionDate": "2022-10-21",
+          "title": "Spagnolo - Frasario",
+          "url": "https://www.libri.it/varia/a-prima-vista/a-prima-vista-Spagnolo-frasario",
+          "kind": "Book",
+          "minutes": 240
         },
 
         {
@@ -946,7 +985,7 @@
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 620
+          "minutes": 630
         },
 
         {
@@ -955,6 +994,14 @@
           "url": "https://www.google.it/books/edition/Dizionario_visuale_bilingue_Spagnolo_ita/TFG0nAEACAAJ",
           "kind": "Book",
           "minutes": 2040
+        },
+
+        {
+          "completionDate": "2022-11-01",
+          "title": "Spanish to the Point: A1/A2",
+          "url": "https://books.google.it/books/about/Spanish_To_The_Point.html?id=srSPzgEACAAJ",
+          "kind": "Book",
+          "minutes": 360
         },
 
         {
