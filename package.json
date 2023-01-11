@@ -15,7 +15,7 @@
     "clean": "rimraf .next out cv/cv.css public/cv_costa_en.pdf",
     "clean:all": "yarn clean && rimraf node_modules",
     "format": "prettier --write .",
-    "check-all": "yarn check-format",
+    "check-all": "yarn check-format && yarn lint",
     "check-format": "prettier --check .",
     "lint": "next lint",
     "build": "yarn check-all && yarn build-cv && next build",
@@ -24,7 +24,7 @@
     "build-cv-css": "yarn sass --no-source-map cv:cv",
     "watch": "npm-watch",
     "start": "concurrently \"yarn dev\" \"yarn watch\"",
-    "dev": "next dev",
+    "dev": "next dev -- -H 0.0.0.0",
     "prod": "next start",
     "export": "next export",
     "rebuild": "yarn clean && yarn build && yarn export"
