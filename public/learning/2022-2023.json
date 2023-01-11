@@ -926,19 +926,99 @@
       "Portuguese": [],
       "Spanish": [
         {
+          "completionDate": "2023-01-11",
+          "title": "Assimil - Perfezionamento Spagnolo C1",
+          "url": "https://www.assimil.it/-561-perfezionamento-dello-spagnolo-mp3",
+          "kind": "Multimedia",
+          "minutes": 1260
+        },
+
+        {
+          "completionDate": "2023-01-10",
+          "title": "Español avanzado - Preposiciones",
+          "url": "https://www.google.it/books/edition/Espa%C3%B1ol_avanzado/MuyxzgEACAAJ",
+          "kind": "Exercise Book",
+          "minutes": 225
+        },
+
+        {
+          "completionDate": "2023-01-10",
+          "title": "Español avanzado - Ser o Estar",
+          "url": "https://www.google.it/books/edition/Espa%C3%B1ol_avanzado/QCW6zgEACAAJ",
+          "kind": "Exercise Book",
+          "minutes": 210
+        },
+
+        {
+          "completionDate": "2023-01-07",
+          "title": "Aprende gramática y vocabulario - Libro 4",
+          "url": "https://www.google.it/books/edition/Aprende_gram%C3%A1tica_y_vocabulario/F72HJwAACAAJ",
+          "kind": "Exercise Book",
+          "minutes": 1530
+        },
+
+        {
+          "completionDate": "2022-12-05",
+          "title": "Assimil - Spagnolo - B2",
+          "url": "https://www.assimil.it/-653-lo-spagnolo-collana-senza-sforzo-mp3",
+          "kind": "Multimedia",
+          "minutes": 2700
+        },
+
+        {
+          "completionDate": "2022-11-30",
+          "title": "Assimil - Spagnolo - Intermedi",
+          "url": "https://www.assimil.it/-578-quaderno-di-esercizi-spagnolo-intermedi",
+          "kind": "Exercise Book",
+          "minutes": 690
+        },
+
+        {
+          "completionDate": "2022-11-23",
+          "title": "Assimil - Spagnolo - Principianti",
+          "url": "https://www.assimil.it/-577-quaderno-di-esercizi-spagnolo-principianti",
+          "kind": "Exercise Book",
+          "minutes": 570
+        },
+
+        {
+          "completionDate": "2022-11-19",
+          "title": "Spagnolo - Esercizi",
+          "url": "https://www.vallardi.it/catalogo/scheda/spagnolo-esercizi-libro.html",
+          "kind": "Exercise Book",
+          "minutes": 1110
+        },
+
+        {
+          "completionDate": "2022-12-12",
+          "title": "Don Quijote",
+          "url": "https://www.blackcat-cideb.com/it/libri/don-quijote-de-la-mancha-nueva-edicion",
+          "kind": "Multimedia",
+          "minutes": 390
+        },
+
+        {
+          "completionDate": "2022-12-02",
+          "title": "Spagnolo - Grammatica",
+          "url": "https://www.libri.it/varia/a-prima-vista/a-prima-vista-grammatica-spagnolo",
+          "kind": "Book",
+          "minutes": 210
+        },
+
+        {
+          "completionDate": "2022-12-08",
+          "title": "Spagnolo - Frasario",
+          "url": "https://www.libri.it/logosedizioni/a-prima-vista/a-prima-vista-spagnolo-frasario",
+          "kind": "Book",
+          "minutes": 120
+        },
+
+        {
           "completionDate": "2022-11-13",
           "title": "Gramática española - Niveles A1-C2",
           "url": "http://www.utetuniversita.it/catalogo/lingue-e-letterature/gram%C3%A1tica-espa%C3%B1ola-3521",
           "kind": "Book",
-          "minutes": 7920
-        },
-
-        {
-          "completionDate": "2022-10-31",
-          "title": "Assimil - Perfezionamento Spagnolo C1",
-          "url": "https://www.assimil.it/-561-perfezionamento-dello-spagnolo-mp3",
-          "kind": "Multimedia",
-          "minutes": 720
+          "minutes": 8050
         },
 
         {
@@ -985,7 +1065,7 @@
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 630
+          "minutes": 660
         },
 
         {
@@ -997,9 +1077,32 @@
         },
 
         {
+          "completionDate": "2022-12-07",
+          "title": "Spanish to the Point: C1/C2",
+          "kind": "Book",
+          "minutes": 960
+        },
+
+        {
+          "completionDate": "2022-11-26",
+          "title": "Spanish to the Point: B2",
+          "url": "https://www.google.it/books/edition/Spanish_To_The_Point/9l2nzgEACAAJ",
+          "kind": "Book",
+          "minutes": 690
+        },
+
+        {
+          "completionDate": "2022-11-17",
+          "title": "Spanish to the Point: B1",
+          "url": "https://www.google.it/books/edition/Spanish_To_The_Point/6_yZzgEACAAJ",
+          "kind": "Book",
+          "minutes": 660
+        },
+
+        {
           "completionDate": "2022-11-01",
           "title": "Spanish to the Point: A1/A2",
-          "url": "https://books.google.it/books/about/Spanish_To_The_Point.html?id=srSPzgEACAAJ",
+          "url": "https://www.google.it/books/edition/Spanish_To_The_Point/srSPzgEACAAJ",
           "kind": "Book",
           "minutes": 360
         },
@@ -1008,7 +1111,8 @@
           "title": "Duolingo - Spanish",
           "url": "https://www.duolingo.com",
           "kind": "App",
-          "minutes": 3032
+          "completionDate": "2022-12-28",
+          "minutes": 3295
         },
 
         {
