@@ -876,6 +876,29 @@
     "Languages": {
       "English": [
         {
+          "completionDate": "2022-12-07",
+          "title": "Spanish to the Point: C1/C2",
+          "kind": "Book",
+          "minutes": 480
+        },
+
+        {
+          "completionDate": "2022-11-26",
+          "title": "Spanish to the Point: B2",
+          "url": "https://www.google.it/books/edition/Spanish_To_The_Point/9l2nzgEACAAJ",
+          "kind": "Book",
+          "minutes": 345
+        },
+
+        {
+          "completionDate": "2022-11-17",
+          "title": "Spanish to the Point: B1",
+          "url": "https://www.google.it/books/edition/Spanish_To_The_Point/6_yZzgEACAAJ",
+          "kind": "Book",
+          "minutes": 330
+        },
+
+        {
           "completionDate": "2022-11-01",
           "title": "Spanish to the Point: A1/A2",
           "url": "https://books.google.it/books/about/Spanish_To_The_Point.html?id=srSPzgEACAAJ",
@@ -1080,7 +1103,7 @@
           "completionDate": "2022-12-07",
           "title": "Spanish to the Point: C1/C2",
           "kind": "Book",
-          "minutes": 960
+          "minutes": 480
         },
 
         {
@@ -1088,7 +1111,7 @@
           "title": "Spanish to the Point: B2",
           "url": "https://www.google.it/books/edition/Spanish_To_The_Point/9l2nzgEACAAJ",
           "kind": "Book",
-          "minutes": 690
+          "minutes": 345
         },
 
         {
@@ -1096,7 +1119,7 @@
           "title": "Spanish to the Point: B1",
           "url": "https://www.google.it/books/edition/Spanish_To_The_Point/6_yZzgEACAAJ",
           "kind": "Book",
-          "minutes": 660
+          "minutes": 330
         },
 
         {
