@@ -15,7 +15,7 @@ const humanismMarkdown = `
 
 * 💭 Fond of **Philosophy** as the fine art of *thinking*
 
-* 🌹 Around **B2** in *Spanish*
+* 🌹 Around **C1** in *Spanish*
 
 * 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 
