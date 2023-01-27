@@ -15,7 +15,7 @@ const humanismMarkdown = `
 
 * 💭 Fond of **Philosophy** as the fine art of *thinking*
 
-* 🌹 Around **C1** in *Spanish*
+* 🌹 **C1** level in *Spanish* (SIELE)
 
 * 🏳️‍🌈 Proudly supporting **human** rights and **equality**
 
