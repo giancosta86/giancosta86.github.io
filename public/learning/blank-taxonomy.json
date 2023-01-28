@@ -266,13 +266,13 @@
         "NoSQL": {
           "MongoDB": [],
           "Redis": []
-        }
-      },
+        },
 
-      "Amazon Web Services": {
-        "Databases": {
-          "Principles": [],
-          "DynamoDB": []
+        "Amazon Web Services": {
+          "Databases": {
+            "Principles": [],
+            "DynamoDB": []
+          }
         }
       },
 
@@ -349,7 +349,9 @@
       "Portuguese": [],
       "Spanish": [],
       "Russian": [],
-      "Hindi": []
+      "Hindi": [],
+      "Arabic": [],
+      "Chinese": []
     },
     "Law": {
       "National Laws": [],
