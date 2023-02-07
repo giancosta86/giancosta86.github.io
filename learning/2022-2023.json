@@ -13,6 +13,13 @@
         "JavaScript": [],
         "TypeScript": [
           {
+            "title": "create-marp-slides",
+            "url": "https://github.com/giancosta86/create-marp-slides",
+            "kind": "GitHub",
+            "minutes": 1200
+          },
+
+          {
             "title": "OmniCourse",
             "url": "https://github.com/giancosta86/OmniCourse",
             "kind": "GitHub",
@@ -82,6 +89,13 @@
             "url": "https://github.com/giancosta86/worker-transform",
             "kind": "GitHub",
             "minutes": 480
+          },
+
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 960
           }
         ],
         "Regular Expressions": [
@@ -103,7 +117,15 @@
         "R": [],
         "Ruby": [],
         "Flutter": [],
-        "Markdown": []
+        "Markdown": [
+          {
+            "completionDate": "2023-01-27",
+            "title": "Marcadores discursivos en español",
+            "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+            "minutes": 60,
+            "kind": "Slides"
+          }
+        ]
       },
 
       "Mobile Development": {
@@ -369,6 +391,20 @@
         "Build Tools": {
           "TypeScript": [
             {
+              "title": "create-marp-slides",
+              "url": "https://github.com/giancosta86/create-marp-slides",
+              "kind": "GitHub",
+              "minutes": 240
+            },
+
+            {
+              "completionDate": "2023-01-27",
+              "title": "Marcadores discursivos en español",
+              "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+              "minutes": 720,
+              "kind": "Slides"
+            },
+            {
               "title": "Ulysses",
               "url": "https://github.com/giancosta86/ulysses",
               "kind": "GitHub",
@@ -390,6 +426,13 @@
             {
               "title": "typed-env",
               "url": "https://github.com/giancosta86/typed-env",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
               "kind": "GitHub",
               "minutes": 480
             }
@@ -508,6 +551,13 @@
         "jQuery": [],
         "CSS": {
           "Standard": [
+            {
+              "completionDate": "2023-01-27",
+              "title": "Marcadores discursivos en español",
+              "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+              "minutes": 960,
+              "kind": "Slides"
+            },
             {
               "title": "Jardinero - Frontend",
               "url": "https://github.com/giancosta86/Jardinero - Frontend",
@@ -876,6 +926,14 @@
     "Languages": {
       "English": [
         {
+          "completionDate": "2023-02-01",
+          "title": "Assimil - Inglese - B2",
+          "url": "https://www.assimil.it/-611-l-inglese-collana-senza-sforzo-libro",
+          "kind": "Multimedia",
+          "minutes": 840
+        },
+
+        {
           "completionDate": "2022-12-07",
           "title": "Spanish to the Point: C1/C2",
           "kind": "Book",
@@ -949,6 +1007,22 @@
       "Portuguese": [],
       "Spanish": [
         {
+          "completionDate": "2023-02-07",
+          "title": "Dizionario Spagnolo Plus",
+          "url": "https://www.vallardi.it/catalogo/scheda/dizionario-spagnolo-plus-libro_3.html",
+          "minutes": 1950,
+          "kind": "Book"
+        },
+
+        {
+          "completionDate": "2023-01-27",
+          "title": "Marcadores discursivos en español",
+          "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+          "minutes": 1890,
+          "kind": "Slides"
+        },
+
+        {
           "completionDate": "2023-01-11",
           "title": "Assimil - Perfezionamento Spagnolo C1",
           "url": "https://www.assimil.it/-561-perfezionamento-dello-spagnolo-mp3",
@@ -978,6 +1052,21 @@
           "url": "https://www.google.it/books/edition/Aprende_gram%C3%A1tica_y_vocabulario/F72HJwAACAAJ",
           "kind": "Exercise Book",
           "minutes": 1530
+        },
+
+        {
+          "completionDate": "2022-12-15",
+          "title": "SIELE: Guía de Ejercicios",
+          "url": "https://www.google.it/books/edition/SIELE_Gu%C3%ADa_de_Ejercicios/DroxEAAAQBAJ",
+          "kind": "Book",
+          "minutes": 460
+        },
+
+        {
+          "completionDate": "2022-12-11",
+          "title": "Mooc para candidatos del SIELE",
+          "url": "https://siele.org/web/curso-para-candidatos-del-siele",
+          "minutes": 210
         },
 
         {
@@ -1225,7 +1314,32 @@
         {
           "title": "Imparare l'alfabeto Hindi",
           "kind": "Book",
-          "minutes": 270
+          "minutes": 670
+        }
+      ],
+
+      "Arabic": [
+        {
+          "title": "Arabo - Quaderno di scrittura",
+          "url": "https://www.assimil.it/-566-quaderno-di-scrittura-arabo-le-basi",
+          "kind": "Exercise Book",
+          "minutes": 480
+        }
+      ],
+
+      "Chinese": [
+        {
+          "title": "Cinese - Quaderno di scrittura",
+          "url": "https://www.assimil.it/-567-quaderno-di-scrittura-cinese-le-basi",
+          "kind": "Exercise Book",
+          "minutes": 720
+        },
+
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 215
         }
       ]
     },
