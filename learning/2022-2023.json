@@ -13,23 +13,28 @@
         "JavaScript": [],
         "TypeScript": [
           {
-            "title": "create-marp-slides",
-            "url": "https://github.com/giancosta86/create-marp-slides",
+            "title": "Upcoming GitHub projects",
+            "url": "https://github.com/giancosta86",
             "kind": "GitHub",
-            "minutes": 1200
+            "minutes": 2760
           },
-
           {
-            "title": "OmniCourse",
-            "url": "https://github.com/giancosta86/OmniCourse",
+            "title": "Introduction to Redux with TypeScript",
+            "url": "https://github.com/giancosta86/intro-to-redux",
+            "minutes": 60,
+            "kind": "Slides"
+          },
+          {
+            "title": "time-utils",
+            "url": "https://github.com/giancosta86/time-utils",
             "kind": "GitHub",
-            "minutes": 2280
+            "minutes": 480
           },
           {
             "title": "OmniCourse-core",
             "url": "https://github.com/giancosta86/OmniCourse-core",
             "kind": "GitHub",
-            "minutes": 360
+            "minutes": 5280
           },
           {
             "title": "CervantesJS",
@@ -42,12 +47,6 @@
             "url": "https://github.com/giancosta86/RayonJS",
             "kind": "GitHub",
             "minutes": 1920
-          },
-          {
-            "title": "JardineroJS-SDK",
-            "url": "https://github.com/giancosta86/JardineroJS-sdk",
-            "kind": "GitHub",
-            "minutes": 2400
           },
           {
             "title": "typed-env",
@@ -95,7 +94,7 @@
             "title": "Gianluca Costa's Creations",
             "url": "https://github.com/giancosta86/giancosta86.github.io",
             "kind": "GitHub",
-            "minutes": 960
+            "minutes": 1020
           }
         ],
         "Regular Expressions": [
@@ -106,7 +105,14 @@
             "minutes": 1440
           }
         ],
-        "Bash": [],
+        "Bash": [
+          {
+            "title": "Extract a range of lines from a huge text file via 'less' and 'sed'",
+            "url": "https://gist.github.com/giancosta86/c1e85553a77b4ff079d1a997d77385f9",
+            "kind": "GitHub Gist",
+            "minutes": 240
+          }
+        ],
         "Elm": [],
         "Rust": [],
         "Elixir": [],
@@ -119,9 +125,15 @@
         "Flutter": [],
         "Markdown": [
           {
+            "title": "Introduction to Redux with TypeScript",
+            "url": "https://github.com/giancosta86/intro-to-redux",
+            "minutes": 180,
+            "kind": "Slides"
+          },
+          {
             "completionDate": "2023-01-27",
             "title": "Marcadores discursivos en español",
-            "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+            "url": "https://github.com/giancosta86/marcadores-discursivos",
             "minutes": 60,
             "kind": "Slides"
           }
@@ -137,6 +149,20 @@
           "Principles": [],
           "C#": [],
           "Python": [],
+          "TypeScript": [
+            {
+              "title": "Upcoming GitHub projects",
+              "url": "https://github.com/giancosta86",
+              "kind": "GitHub",
+              "minutes": 3000
+            },
+            {
+              "title": "JardineroJS-SDK",
+              "url": "https://github.com/giancosta86/JardineroJS-sdk",
+              "kind": "GitHub",
+              "minutes": 2400
+            }
+          ],
           "React": [],
           "C++": []
         },
@@ -199,10 +225,44 @@
         "Functional Programming": {
           "Principles": [],
           "JavaScript": [],
+          "TypeScript": [
+            {
+              "title": "Rimbu",
+              "url": "https://github.com/rimbu-org/rimbu",
+              "minutes": 2880
+            },
+
+            {
+              "title": "Rimbu library - Analysis",
+              "url": "https://rimbu.org/",
+              "minutes": 720
+            },
+
+            {
+              "title": "more-immutable",
+              "url": "https://github.com/giancosta86/more-immutable",
+              "kind": "GitHub",
+              "minutes": 1440
+            },
+
+            {
+              "title": "ImmutableJS",
+              "url": "https://github.com/immutable-js/immutable-js",
+              "kind": "GitHub",
+              "minutes": 480
+            }
+          ],
           "Python": [],
           "Go": [],
           "RxJS": [],
-          "Redux": [],
+          "Redux": [
+            {
+              "title": "Introduction to Redux with TypeScript",
+              "url": "https://github.com/giancosta86/intro-to-redux",
+              "minutes": 120,
+              "kind": "Slides"
+            }
+          ],
           "C#": [],
           "Java": []
         },
@@ -306,6 +366,12 @@
         "Streaming": {
           "NodeJS": [
             {
+              "title": "Rimbu library - Analysis",
+              "url": "https://rimbu.org/",
+              "minutes": 720
+            },
+
+            {
               "title": "JardineroJS",
               "url": "https://github.com/giancosta86/JardineroJS",
               "kind": "GitHub",
@@ -360,6 +426,28 @@
           },
           "Gherkin": [],
           "C#": [],
+          "TypeScript": [
+            {
+              "title": "more-jest",
+              "url": "https://github.com/giancosta86/more-jest",
+              "kind": "GitHub",
+              "minutes": 960
+            },
+
+            {
+              "title": "more-jest-io",
+              "url": "https://github.com/giancosta86/more-jest-io",
+              "kind": "GitHub",
+              "minutes": 1500
+            },
+
+            {
+              "title": "Extending Jest's expect() in TypeScript",
+              "url": "https://gist.github.com/giancosta86/9c5d5a3c3778ee126c0ce40a294ae333",
+              "kind": "GitHub Gist",
+              "minutes": 240
+            }
+          ],
           "JavaScript": [],
           "Python": [],
           "C++": [],
@@ -391,16 +479,20 @@
         "Build Tools": {
           "TypeScript": [
             {
-              "title": "create-marp-slides",
-              "url": "https://github.com/giancosta86/create-marp-slides",
+              "title": "Platonic",
+              "url": "https://github.com/giancosta86/platonic",
               "kind": "GitHub",
-              "minutes": 240
+              "minutes": 1680
             },
-
             {
-              "completionDate": "2023-01-27",
+              "title": "Introduction to Redux with TypeScript",
+              "url": "https://github.com/giancosta86/intro-to-redux",
+              "minutes": 240,
+              "kind": "Slides"
+            },
+            {
               "title": "Marcadores discursivos en español",
-              "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+              "url": "https://github.com/giancosta86/marcadores-discursivos",
               "minutes": 720,
               "kind": "Slides"
             },
@@ -429,7 +521,6 @@
               "kind": "GitHub",
               "minutes": 480
             },
-
             {
               "title": "Gianluca Costa's Creations",
               "url": "https://github.com/giancosta86/giancosta86.github.io",
@@ -443,6 +534,12 @@
           "React": [],
           "React Native": [],
           "NodeJS": [
+            {
+              "title": "create-marp-slides",
+              "url": "https://github.com/giancosta86/create-marp-slides",
+              "kind": "GitHub",
+              "minutes": 2160
+            },
             {
               "title": "JardineroJS-SDK",
               "url": "https://github.com/giancosta86/JardineroJS-sdk",
@@ -526,10 +623,24 @@
         "Principles": [],
         "React": [
           {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 960
+          },
+
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 1020
+          },
+
+          {
             "title": "OmniCourse",
             "url": "https://github.com/giancosta86/OmniCourse",
             "kind": "GitHub",
-            "minutes": 3480
+            "minutes": 2520
           },
 
           {
@@ -542,7 +653,7 @@
             "title": "Jardinero - Frontend",
             "url": "https://github.com/giancosta86/Jardinero - Frontend",
             "kind": "GitHub",
-            "minutes": 240
+            "minutes": 600
           }
         ],
         "Vue": [],
@@ -552,9 +663,21 @@
         "CSS": {
           "Standard": [
             {
+              "title": "Introduction to Redux with TypeScript",
+              "url": "https://github.com/giancosta86/intro-to-redux",
+              "minutes": 120,
+              "kind": "Slides"
+            },
+            {
+              "title": "Gianluca Costa's Creations",
+              "url": "https://github.com/giancosta86/giancosta86.github.io",
+              "kind": "GitHub",
+              "minutes": 480
+            },
+            {
               "completionDate": "2023-01-27",
               "title": "Marcadores discursivos en español",
-              "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+              "url": "https://github.com/giancosta86/marcadores-discursivos",
               "minutes": 960,
               "kind": "Slides"
             },
@@ -822,8 +945,14 @@
         "Microsoft Office": []
       }
     },
+    "Mathematics": [
+      {
+        "title": "Math problems - Custom solutions",
+        "url": "https://www.youtube.com/@ZahlenRMD",
+        "minutes": 900
+      }
+    ],
     "Further Domains": {
-      "Mathematics": [],
       "Physics": [],
       "Electronics": {
         "Principles": [],
@@ -894,7 +1023,7 @@
             {
               "title": "Dia for GitHub projects",
               "kind": "GitHub",
-              "minutes": 240
+              "minutes": 300
             }
           ]
         },
@@ -902,6 +1031,23 @@
         "Color Theory": []
       },
       "Music": [],
+      "Poetry": {
+        "Arcadia": [
+          {
+            "title": "Il drago e la farfalla",
+            "url": "https://gianlucacosta.info/Arcadia/drago-farfalla",
+            "kind": "Poem",
+            "minutes": 2280
+          },
+
+          {
+            "title": "Lo gnomo e il furetto",
+            "url": "https://gianlucacosta.info/Arcadia/gnomo-furetto",
+            "kind": "Poem",
+            "minutes": 480
+          }
+        ]
+      },
       "Literature": {
         "Dante": [],
         "Victor Hugo": [],
@@ -926,9 +1072,71 @@
     "Languages": {
       "English": [
         {
+          "title": "Vocabulary.com",
+          "url": "https://www.vocabulary.com/",
+          "kind": "App",
+          "minutes": 30
+        },
+
+        {
+          "title": "Learnish",
+          "url": "https://play.google.com/store/apps/details?id=com.milinix.learnenglish",
+          "kind": "App",
+          "minutes": 600
+        },
+
+        {
+          "completionDate": "2023-05-04",
+          "title": "Cuaderno de ejercicios - Intermedios",
+          "url": "https://www.assimil.it/-743-cuaderno-de-ejercicios-ingles-intermedio",
+          "kind": "Book",
+          "minutes": 600
+        },
+
+        {
+          "completionDate": "2023-03-26",
+          "title": "Cuaderno de ejercicios",
+          "url": "https://www.assimil.it/-742-cuaderno-de-ejercicios-ingles-falsos-principiantes",
+          "kind": "Book",
+          "minutes": 400
+        },
+
+        {
+          "completionDate": "2023-04-15",
+          "title": "Dizionario Inglese Plus",
+          "url": "https://www.vallardi.it/catalogo/scheda/dizionario-inglese-plus-libro.html",
+          "kind": "Book",
+          "minutes": 2400
+        },
+
+        {
+          "completionDate": "2023-04-03",
+          "title": "Lo slang americano",
+          "url": "https://www.assimil.it/-532-lo-slang-americano",
+          "kind": "Book",
+          "minutes": 285
+        },
+
+        {
+          "completionDate": "2023-03-24",
+          "title": "Lo slang inglese",
+          "url": "https://www.assimil.it/-531-lo-slang-inglese",
+          "kind": "Book",
+          "minutes": 260
+        },
+
+        {
+          "completionDate": "2023-03-15",
+          "title": "Assimil - Inglese - C1",
+          "url": "https://www.assimil.it/-1138-perfezionamento-dellinglese-mp3",
+          "kind": "Multimedia",
+          "minutes": 1770
+        },
+
+        {
           "completionDate": "2023-02-01",
           "title": "Assimil - Inglese - B2",
-          "url": "https://www.assimil.it/-611-l-inglese-collana-senza-sforzo-libro",
+          "url": "https://www.assimil.it/-613-l-inglese-collana-senza-sforzo-mp3",
           "kind": "Multimedia",
           "minutes": 840
         },
@@ -1001,11 +1209,51 @@
           "url": "https://www.duolingo.com",
           "kind": "App",
           "minutes": 185
+        },
+
+        {
+          "completionDate": "2023-03-25",
+          "title": "Master the Mandarin Chinese HSK 1 Characters",
+          "url": "https://www.goodreads.com/book/show/58454092-master-the-mandarin-chinese-hsk-1-characters-a-handwriting-practice-wor",
+          "kind": "Book",
+          "minutes": 170
         }
       ],
       "French": [],
       "Portuguese": [],
       "Spanish": [
+        {
+          "completionDate": "2023-05-04",
+          "title": "Cuaderno de ejercicios - Intermedios",
+          "url": "https://www.assimil.it/-743-cuaderno-de-ejercicios-ingles-intermedio",
+          "kind": "Book",
+          "minutes": 600
+        },
+
+        {
+          "completionDate": "2023-03-26",
+          "title": "Cuaderno de ejercicios",
+          "url": "https://www.assimil.it/-742-cuaderno-de-ejercicios-ingles-falsos-principiantes",
+          "kind": "Book",
+          "minutes": 400
+        },
+
+        {
+          "completionDate": "2023-04-02",
+          "title": "Assimil - Perfezionamento Spagnolo C1",
+          "url": "https://www.assimil.it/-561-perfezionamento-dello-spagnolo-mp3",
+          "kind": "Multimedia",
+          "minutes": 285
+        },
+
+        {
+          "completionDate": "2023-03-20",
+          "title": "Assimil - Spagnolo - B2",
+          "url": "https://www.assimil.it/-653-lo-spagnolo-collana-senza-sforzo-mp3",
+          "kind": "Multimedia",
+          "minutes": 240
+        },
+
         {
           "completionDate": "2023-02-07",
           "title": "Dizionario Spagnolo Plus",
@@ -1017,7 +1265,7 @@
         {
           "completionDate": "2023-01-27",
           "title": "Marcadores discursivos en español",
-          "url": "https://speakerdeck.com/giancosta86/marcadores-discursivos-en-espanol",
+          "url": "https://github.com/giancosta86/marcadores-discursivos",
           "minutes": 1890,
           "kind": "Slides"
         },
@@ -1177,7 +1425,7 @@
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 660
+          "minutes": 750
         },
 
         {
@@ -1262,7 +1510,7 @@
           "title": "Italiano-Spagnolo: 9000 vocaboli",
           "url": "https://tpbooks.com/product/italy_span_9000/",
           "kind": "Book",
-          "minutes": 3840
+          "minutes": 3360
         },
 
         {
@@ -1323,23 +1571,112 @@
           "title": "Arabo - Quaderno di scrittura",
           "url": "https://www.assimil.it/-566-quaderno-di-scrittura-arabo-le-basi",
           "kind": "Exercise Book",
-          "minutes": 480
+          "minutes": 705
         }
       ],
 
       "Chinese": [
         {
+          "completionDate": "2023-05-03",
+          "title": "Capire e scrivere il Cinese",
+          "url": "http://www.utetuniversita.it/catalogo/lingue-e-letterature/capire-e-scrivere-il-cinese-3689",
+          "kind": "Book",
+          "minutes": 660
+        },
+
+        {
+          "completionDate": "2023-04-16",
+          "title": "Fonologia cinese",
+          "url": "http://www.utetuniversita.it/catalogo/lingue-e-letterature/fonologia-cinese-3690",
+          "kind": "Book",
+          "minutes": 630
+        },
+
+        {
+          "title": "Reading and Writing Chinese (radicals)",
+          "url": "https://www.tuttlepublishing.com/language-books/mandarin-chinese/self-study-books/chinese/character-books/reading-and-writing-chinese",
+          "kind": "Book",
+          "minutes": 840
+        },
+
+        {
+          "title": "Duolingo - Chinese",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 60
+        },
+
+        {
+          "completionDate": "2023-03-25",
+          "title": "Master the Mandarin Chinese HSK 1 Characters",
+          "url": "https://www.goodreads.com/book/show/58454092-master-the-mandarin-chinese-hsk-1-characters-a-handwriting-practice-wor",
+          "kind": "Book",
+          "minutes": 700
+        },
+
+        {
+          "title": "Chinese Writer",
+          "url": "https://www.trainchinese.com/v2/writer.php",
+          "kind": "App",
+          "minutes": 900
+        },
+
+        {
+          "completionDate": "2023-04-19",
+          "title": "Il libro dei caratteri cinesi",
+          "url": "https://www.deagostinilibri.it/libri/il-libro-dei-caratteri-cinesi",
+          "kind": "Book",
+          "minutes": 1200
+        },
+
+        {
+          "title": "Chineasy",
+          "url": "https://www.chineasy.com/",
+          "kind": "App",
+          "minutes": 10
+        },
+
+        {
+          "completionDate": "2023-02-24",
           "title": "Cinese - Quaderno di scrittura",
           "url": "https://www.assimil.it/-567-quaderno-di-scrittura-cinese-le-basi",
           "kind": "Exercise Book",
-          "minutes": 720
+          "minutes": 1830
+        },
+
+        {
+          "title": "Reading and Writing Chinese",
+          "url": "https://www.tuttlepublishing.com/language-books/mandarin-chinese/self-study-books/chinese/character-books/reading-and-writing-chinese",
+          "kind": "Book",
+          "minutes": 15
         },
 
         {
           "title": "SuperChinese",
           "url": "https://www.superchinese.com/",
           "kind": "App",
-          "minutes": 215
+          "minutes": 4103
+        },
+
+        {
+          "title": "SuperTest",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 57
+        },
+
+        {
+          "title": "Pinyin Master",
+          "url": "https://play.google.com/store/apps/details?id=com.majestechllc.chineseear",
+          "kind": "App",
+          "minutes": 15
+        },
+
+        {
+          "title": "Learn Pinyin",
+          "url": "https://play.google.com/store/apps/details?id=air.com.unik.pinyin",
+          "kind": "App",
+          "minutes": 20
         }
       ]
     },

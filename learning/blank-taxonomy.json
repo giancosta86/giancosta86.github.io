@@ -36,6 +36,7 @@
           "Principles": [],
           "C#": [],
           "Python": [],
+          "TypeScript": [],
           "React": [],
           "C++": []
         },
@@ -56,6 +57,7 @@
         "Functional Programming": {
           "Principles": [],
           "JavaScript": [],
+          "TypeScript": [],
           "Python": [],
           "Go": [],
           "RxJS": [],
@@ -106,6 +108,7 @@
           },
           "Gherkin": [],
           "C#": [],
+          "TypeScript": [],
           "JavaScript": [],
           "Python": [],
           "C++": [],
@@ -280,9 +283,10 @@
         "Microsoft Office": []
       }
     },
+    "Mathematics": [],
+    "Physics": [],
+    "Astronomy": [],
     "Further Domains": {
-      "Mathematics": [],
-      "Physics": [],
       "Electronics": {
         "Principles": [],
         "Arduino": [],
@@ -290,7 +294,6 @@
       },
       "Ecology": [],
       "Biology": [],
-      "Astronomy": [],
       "Crafts": [],
       "Marketing": [],
       "Management": [],
@@ -335,6 +338,9 @@
         "Color Theory": []
       },
       "Music": [],
+      "Poetry": {
+        "Arcadia": []
+      },
       "Literature": {
         "Dante": [],
         "Victor Hugo": [],
