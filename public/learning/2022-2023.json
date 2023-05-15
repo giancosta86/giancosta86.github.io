@@ -2,15 +2,7 @@
   "Science": {
     "Information Technology": {
       "Ecosystems": {
-        ".NET": {
-          "C#": [],
-          "F#": [],
-          "Platform": []
-        },
-        "Java": [],
-        "Scala": [],
-        "Groovy": [],
-        "JavaScript": [],
+        ".NET": {},
         "TypeScript": [
           {
             "title": "Upcoming GitHub projects",
@@ -113,16 +105,6 @@
             "minutes": 240
           }
         ],
-        "Elm": [],
-        "Rust": [],
-        "Elixir": [],
-        "C": [],
-        "C++": [],
-        "Go": [],
-        "Python": [],
-        "R": [],
-        "Ruby": [],
-        "Flutter": [],
         "Markdown": [
           {
             "title": "Introduction to Redux with TypeScript",
@@ -140,15 +122,8 @@
         ]
       },
 
-      "Mobile Development": {
-        "Ionic": [],
-        "React Native": []
-      },
       "Software Design": {
         "Clean Code": {
-          "Principles": [],
-          "C#": [],
-          "Python": [],
           "TypeScript": [
             {
               "title": "Upcoming GitHub projects",
@@ -162,18 +137,7 @@
               "kind": "GitHub",
               "minutes": 2400
             }
-          ],
-          "React": [],
-          "C++": []
-        },
-        "Fault tolerance": {
-          "Principles": [],
-          "C#": []
-        },
-        "Domain-Driven Design": [],
-        "Design Patterns": {
-          "Principles": [],
-          "C#": []
+          ]
         },
         "Microservices": {
           "Principles": [
@@ -218,13 +182,9 @@
               "url": "https://www.pluralsight.com/courses/building-microservices",
               "minutes": 165
             }
-          ],
-          ".NET": [],
-          "Go": []
+          ]
         },
         "Functional Programming": {
-          "Principles": [],
-          "JavaScript": [],
           "TypeScript": [
             {
               "title": "Rimbu",
@@ -252,9 +212,6 @@
               "minutes": 480
             }
           ],
-          "Python": [],
-          "Go": [],
-          "RxJS": [],
           "Redux": [
             {
               "title": "Introduction to Redux with TypeScript",
@@ -262,13 +219,9 @@
               "minutes": 120,
               "kind": "Slides"
             }
-          ],
-          "C#": [],
-          "Java": []
+          ]
         },
         "Performance": {
-          "React": [],
-          "C++": [],
           "GraphQL": [
             {
               "completionDate": "2022-06-20",
@@ -277,7 +230,6 @@
               "minutes": 201
             }
           ],
-          "MongoDB": [],
           "NodeJS": [
             {
               "completionDate": "2022-09-09",
@@ -309,7 +261,6 @@
         },
 
         "Concurrency": {
-          ".NET": [],
           "NodeJS": [
             {
               "title": "worker-transform",
@@ -325,12 +276,6 @@
               "minutes": 2160
             }
           ],
-          "Java": [],
-          "JavaScript": [],
-          "TypeScript": [],
-          "Python": [],
-          "Go": [],
-          "React": [],
           "Browser": [
             {
               "title": "OmniCourse",
@@ -350,9 +295,6 @@
               "minutes": 240
             }
           ],
-          ".NET": [],
-          "RabbitMQ": [],
-          "CQRS": [],
           "GraphQL": [
             {
               "completionDate": "2022-06-18",
@@ -419,13 +361,6 @@
         },
 
         "Testing": {
-          "Principles": [],
-          "Frontend": {
-            "Browser Automation": [],
-            "React": []
-          },
-          "Gherkin": [],
-          "C#": [],
           "TypeScript": [
             {
               "title": "more-jest",
@@ -448,11 +383,6 @@
               "minutes": 240
             }
           ],
-          "JavaScript": [],
-          "Python": [],
-          "C++": [],
-          "Go": [],
-          "Load testing": [],
           "GraphQL": [
             {
               "completionDate": "2022-06-20",
@@ -460,22 +390,11 @@
               "url": "https://www.pluralsight.com/courses/apollo-testing",
               "minutes": 115
             }
-          ],
-          "Tools": []
-        },
-        "Game development": {
-          "Unity": []
+          ]
         }
       },
 
       "CI / CD": {
-        "Principles": [],
-
-        "Source Control": {
-          "Git": [],
-          "GitHub": []
-        },
-
         "Build Tools": {
           "TypeScript": [
             {
@@ -528,11 +447,6 @@
               "minutes": 480
             }
           ],
-          "JavaScript": [],
-          "Python": [],
-          "Go": [],
-          "React": [],
-          "React Native": [],
           "NodeJS": [
             {
               "title": "create-marp-slides",
@@ -552,10 +466,7 @@
               "kind": "GitHub",
               "minutes": 960
             }
-          ],
-          "Docker": [],
-          "Java": [],
-          ".NET": []
+          ]
         },
 
         "Microservices": [
@@ -565,16 +476,10 @@
             "url": "https://www.pluralsight.com/courses/microservices-devops",
             "minutes": 68
           }
-        ],
-
-        "GitHub Actions": [],
-        "Jenkins": [],
-        "Octopus": [],
-        "IDEs & editors": []
+        ]
       },
 
       "Cloud & Virtualization": {
-        "Network Principles": [],
         "WebSockets": [
           {
             "title": "JardineroJS",
@@ -588,39 +493,10 @@
             "kind": "GitHub",
             "minutes": 720
           }
-        ],
-        "Amazon Web Services": {
-          "Principles": [],
-          "Serverless": [],
-          "Cost Analysis": [],
-          "File Storage": [],
-          "Virtual Machines": [],
-          "Containers": [],
-          "API Gateway": [],
-          "DNS": [],
-          "Load Balancing": [],
-          "Optimization": []
-        },
-        "Azure": {
-          "Principles": [],
-          "Serverless": [],
-          "Cost Analysis": [],
-          "File Storage": [],
-          "Virtual Machines": [],
-          "Containers": []
-        },
-        "Docker": [],
-        "Kubernetes": [],
-        "IoT": [],
-        "Operating Systems": {
-          "Linux": [],
-          "Windows": []
-        },
-        "Telemetry": []
+        ]
       },
 
       "Frontend": {
-        "Principles": [],
         "React": [
           {
             "title": "Arcadia",
@@ -656,10 +532,6 @@
             "minutes": 600
           }
         ],
-        "Vue": [],
-        "Angular": [],
-        "AngularJS": [],
-        "jQuery": [],
         "CSS": {
           "Standard": [
             {
@@ -694,7 +566,6 @@
               "minutes": 40
             }
           ],
-          "Less": [],
           "Sass": [
             {
               "completionDate": "2022-06-23",
@@ -709,17 +580,8 @@
               "url": "https://www.udemy.com/course/sass-for-the-beginners/",
               "minutes": 49
             }
-          ],
-          "Bulma": [],
-          "Bootstrap": []
+          ]
         },
-        "User Experience": [],
-
-        "Browser": {
-          "Plugins": [],
-          "Chrome": []
-        },
-        "Blazor": [],
         "Webpack": [
           {
             "title": "Jardinero - Frontend",
@@ -728,13 +590,6 @@
             "minutes": 480
           }
         ],
-        "Progressive Web Apps": [],
-        "WebAssembly": [],
-        "Rendering": [],
-        "Accessibility": [],
-        "Desktop Apps": {
-          "Electron": []
-        },
         "GraphQL": [
           {
             "completionDate": "2022-06-18",
@@ -746,12 +601,6 @@
       },
 
       "Backend": {
-        "Generic": [],
-        ".NET": [],
-        "Java": [],
-        "Scala": [],
-        "Ruby": [],
-        "Python": [],
         "GraphQL": [
           {
             "completionDate": "2022-06-04",
@@ -798,14 +647,10 @@
             "url": "https://www.pluralsight.com/courses/nodejs-advanced",
             "minutes": 225
           }
-        ],
-        "Go": []
+        ]
       },
 
       "Security": {
-        "Principles": [],
-        "Network Security": [],
-        "Cryptography": [],
         "Microservices": [
           {
             "completionDate": "2022-07-06",
@@ -814,12 +659,6 @@
             "minutes": 186
           }
         ],
-        "Blockchain": [],
-        "Frontend": [],
-        "Amazon Web Services": [],
-        "Azure": [],
-        "NodeJS": [],
-        "Python": [],
         "GraphQL": [
           {
             "completionDate": "2022-06-19",
@@ -842,25 +681,11 @@
             "url": "https://university.mongodb.com/courses/M150/about",
             "minutes": 210
           }
-        ],
-        "Docker": []
+        ]
       },
 
       "Data Science": {
-        "Principles": [],
-        "Quantum Computing": [],
-        "Hadoop": [],
-        "Spark": [],
-        "Machine Learning": [],
-
-        "TensorFlow": [],
-        "Pandas": [],
-        "NumPy": [],
-
         "Relational DBMS": {
-          "Principles": [],
-          "Java": [],
-          "SQL Server": [],
           "PostgreSQL": [
             {
               "completionDate": "2022-06-23",
@@ -929,20 +754,8 @@
               "url": "https://university.mongodb.com/courses/M121/about",
               "minutes": 510
             }
-          ],
-          "Redis": []
+          ]
         }
-      },
-
-      "Amazon Web Services": {
-        "Databases": {
-          "Principles": [],
-          "DynamoDB": []
-        }
-      },
-
-      "Applications": {
-        "Microsoft Office": []
       }
     },
     "Mathematics": [
@@ -951,48 +764,9 @@
         "url": "https://www.youtube.com/@ZahlenRMD",
         "minutes": 900
       }
-    ],
-    "Further Domains": {
-      "Physics": [],
-      "Electronics": {
-        "Principles": [],
-        "Arduino": [],
-        "Robotics": []
-      },
-      "Ecology": [],
-      "Biology": [],
-      "Astronomy": [],
-      "Crafts": [],
-      "Marketing": [],
-      "Management": [],
-      "Economy & Finance": [],
-      "Quality Assurance": [],
-      "Safety Protocols": []
-    }
+    ]
   },
   "Humanism": {
-    "Personal Development": [],
-    "Learning & teaching": [],
-    "Innovation": [],
-    "Human Interactions": {
-      "Principles": [],
-      "Remote work": [],
-      "Leadership": [],
-      "Listening": [],
-      "Speaking": [],
-      "Protocols": [],
-      "Diversity & Inclusion": [],
-      "Politics": [],
-      "Negotiation": []
-    },
-    "Agile": {
-      "Principles": [],
-      "Scrum": [],
-      "Kanban": []
-    },
-
-    "Enterprise HR": [],
-
     "Art": {
       "Visual": {
         "Computer Graphics": {
@@ -1026,11 +800,8 @@
               "minutes": 300
             }
           ]
-        },
-        "Design": [],
-        "Color Theory": []
+        }
       },
-      "Music": [],
       "Poetry": {
         "Arcadia": [
           {
@@ -1047,12 +818,6 @@
             "minutes": 480
           }
         ]
-      },
-      "Literature": {
-        "Dante": [],
-        "Victor Hugo": [],
-        "Pierre Corneille": [],
-        "Hellenism": []
       }
     },
     "Philosophy": [
@@ -1219,8 +984,6 @@
           "minutes": 170
         }
       ],
-      "French": [],
-      "Portuguese": [],
       "Spanish": [
         {
           "completionDate": "2023-05-04",
@@ -1679,10 +1442,6 @@
           "minutes": 20
         }
       ]
-    },
-    "Law": {
-      "National Laws": [],
-      "International Agreements": []
     }
   }
 }
