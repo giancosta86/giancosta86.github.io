@@ -1,0 +1,1280 @@
+{
+  "Science": {
+    "Information Technology": {
+      "Ecosystems": {
+        ".NET": {
+          "C#": [],
+          "F#": [],
+          "Platform": []
+        },
+        "Java": [],
+        "Scala": [],
+        "Groovy": [],
+        "JavaScript": [],
+        "TypeScript": [
+          {
+            "title": "OmniCourse-core",
+            "url": "https://github.com/giancosta86/OmniCourse-core",
+            "kind": "GitHub",
+            "minutes": 3240
+          },
+
+          {
+            "title": "swan-lake",
+            "url": "https://github.com/giancosta86/swan-lake",
+            "kind": "GitHub",
+            "minutes": 300
+          },
+
+          {
+            "title": "time-utils",
+            "url": "https://github.com/giancosta86/time-utils",
+            "kind": "GitHub",
+            "minutes": 540
+          },
+
+          {
+            "title": "Rimbu",
+            "url": "https://rimbu.org/",
+            "minutes": 660
+          },
+
+          {
+            "title": "Platonic",
+            "url": "https://github.com/giancosta86/platonic",
+            "kind": "GitHub",
+            "minutes": 60
+          },
+
+          {
+            "title": "hermes",
+            "url": "https://github.com/giancosta86/hermes",
+            "kind": "GitHub",
+            "minutes": 1730
+          }
+        ],
+        "Regular Expressions": [],
+        "Bash": [],
+        "Elm": [],
+        "Rust": [
+          {
+            "completionDate": "2023-11-02",
+            "title": "Rust: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/rust-big-picture",
+            "minutes": 115
+          },
+
+          {
+            "completionDate": "2023-11-12",
+            "title": "Rust 2021 Fundamentals",
+            "url": "https://www.pluralsight.com/courses/rust-2021-fundamentals",
+            "minutes": 172
+          },
+
+          {
+            "completionDate": "2023-11-14",
+            "title": "Memory Ownership and Borrowing in Rust 2021",
+            "url": "https://www.pluralsight.com/courses/rust-2021-memory-ownership-borrowing",
+            "minutes": 70
+          }
+        ],
+        "Elixir": [],
+        "C": [],
+        "C++": [],
+        "Go": [],
+        "Python": [
+          {
+            "completionDate": "2023-10-21",
+            "title": "Python 3: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/python-3-big-picture",
+            "minutes": 51
+          },
+
+          {
+            "completionDate": "2023-10-21",
+            "title": "Python 3 Fundamentals",
+            "url": "https://www.pluralsight.com/courses/python-3-fundamentals",
+            "minutes": 175
+          },
+
+          {
+            "completionDate": "2023-10-22",
+            "title": "Python 3 Regex Playbook",
+            "url": "https://www.pluralsight.com/courses/python-3-regex-playbook",
+            "minutes": 81
+          },
+
+          {
+            "completionDate": "2023-10-22",
+            "title": "Classes and Object-oriented Programming in Python 3",
+            "url": "https://www.pluralsight.com/courses/python-3-classes-object-oriented-programming",
+            "minutes": 146
+          },
+
+          {
+            "completionDate": "2023-10-25",
+            "title": "Development Environments and Package Management in Python 3",
+            "url": "https://www.pluralsight.com/courses/python-3-development-environments-package-management",
+            "minutes": 100
+          },
+
+          {
+            "completionDate": "2023-10-23",
+            "title": "Working with Files in Python 3",
+            "url": "https://www.pluralsight.com/courses/python-3-working-files",
+            "minutes": 79
+          }
+        ],
+        "R": [],
+        "Ruby": [],
+        "Flutter": [],
+        "Markdown": []
+      },
+
+      "Mobile Development": {
+        "Ionic": [],
+        "React Native": []
+      },
+      "Software Design": {
+        "Clean Code": {
+          "Principles": [],
+          "C#": [],
+          "Python": [],
+          "TypeScript": [],
+          "React": [],
+          "C++": []
+        },
+        "Fault tolerance": {
+          "Principles": [],
+          "C#": []
+        },
+        "Domain-Driven Design": [],
+        "Design Patterns": {
+          "Principles": [],
+          "C#": []
+        },
+        "Microservices": {
+          "Principles": [],
+          ".NET": [],
+          "Go": []
+        },
+        "Functional Programming": {
+          "Principles": [],
+          "JavaScript": [],
+          "TypeScript": [],
+          "Python": [],
+          "Go": [],
+          "RxJS": [],
+          "Redux": [],
+          "C#": [],
+          "Java": []
+        },
+        "Performance": {
+          "React": [],
+          "Python": [],
+          "C++": [],
+          "GraphQL": [],
+          "MongoDB": [],
+          "NodeJS": [],
+          "SAX": []
+        },
+
+        "Concurrency": {
+          ".NET": [],
+          "NodeJS": [],
+          "Java": [],
+          "JavaScript": [],
+          "TypeScript": [
+            {
+              "title": "sync-tools",
+              "url": "https://github.com/giancosta86/sync-tools",
+              "kind": "GitHub",
+              "minutes": 240
+            }
+          ],
+          "Python": [],
+          "Go": [],
+          "React": [],
+          "Browser": []
+        },
+
+        "Event-driven": {
+          "NodeJS": [],
+          "Python": [],
+          ".NET": [],
+          "RabbitMQ": [],
+          "CQRS": [],
+          "GraphQL": []
+        },
+
+        "Streaming": {
+          "NodeJS": [
+            {
+              "title": "stream-utils",
+              "url": "https://github.com/giancosta86/stream-utils",
+              "kind": "GitHub",
+              "minutes": 300
+            }
+          ]
+        },
+
+        "Testing": {
+          "Principles": [],
+          "Frontend": {
+            "Browser Automation": [
+              {
+                "completionDate": "2023-10-19",
+                "title": "Selenium 4: The Big Picture",
+                "url": "https://www.pluralsight.com/courses/selenium-4-big-picture",
+                "minutes": 47
+              },
+
+              {
+                "completionDate": "2023-10-19",
+                "title": "Automated Testing All the Things with Cypress",
+                "url": "https://www.pluralsight.com/courses/js-friends-session-02",
+                "minutes": 50
+              },
+
+              {
+                "completionDate": "2023-10-20",
+                "title": "Cypress 9 Fundamentals",
+                "url": "https://www.pluralsight.com/courses/cypress-9-fundamentals",
+                "minutes": 119
+              },
+
+              {
+                "completionDate": "2023-10-12",
+                "title": "Testing Progressive Web Apps",
+                "url": "https://www.pluralsight.com/courses/progressive-web-apps-testing",
+                "minutes": 98
+              }
+            ],
+            "React": []
+          },
+          "Gherkin": [],
+          "C#": [],
+          "TypeScript": [
+            {
+              "title": "OmniCourse-core",
+              "url": "https://github.com/giancosta86/OmniCourse-core",
+              "kind": "GitHub",
+              "minutes": 3240
+            },
+
+            {
+              "title": "hermes",
+              "url": "https://github.com/giancosta86/hermes",
+              "kind": "GitHub",
+              "minutes": 1730
+            },
+
+            {
+              "title": "more-jest",
+              "url": "https://github.com/giancosta86/more-jest",
+              "kind": "GitHub",
+              "minutes": 1860
+            },
+
+            {
+              "title": "more-jest-io",
+              "url": "https://github.com/giancosta86/more-jest-io",
+              "kind": "GitHub",
+              "minutes": 780
+            },
+
+            {
+              "title": "Vitest",
+              "url": "https://vitest.dev/",
+              "minutes": 240
+            }
+          ],
+          "JavaScript": [],
+          "Python": [],
+          "C++": [],
+          "Go": [],
+          "Load testing": [],
+          "GraphQL": [],
+          "Tools": []
+        },
+        "Game development": {
+          "Unity": []
+        }
+      },
+
+      "CI / CD": {
+        "Principles": [],
+
+        "Source Control": {
+          "Git": [],
+          "GitHub": []
+        },
+
+        "Build Tools": {
+          "TypeScript": [
+            {
+              "title": "Yarn pipeline tests",
+              "url": "https://yarnpkg.com/",
+              "minutes": 300
+            }
+          ],
+          "JavaScript": [],
+          "Python": [],
+          "Go": [],
+          "React": [],
+          "React Native": [],
+          "NodeJS": [
+            {
+              "title": "create-marp-slides",
+              "url": "https://github.com/giancosta86/create-marp-slides",
+              "kind": "GitHub",
+              "minutes": 60
+            }
+          ],
+          "Docker": [],
+          "Java": [],
+          ".NET": [],
+          "Elm": []
+        },
+
+        "Microservices": [],
+
+        "GitHub Actions": [],
+        "Jenkins": [],
+        "Octopus": [],
+        "Travis": [],
+        "IDEs & editors": []
+      },
+
+      "Cloud & Virtualization": {
+        "Network Principles": [],
+        "WebSockets": [],
+        "Amazon Web Services": {
+          "Principles": [],
+          "Serverless": [],
+          "Cost Analysis": [],
+          "File Storage": [],
+          "Virtual Machines": [],
+          "Containers": [],
+          "API Gateway": [],
+          "DNS": [],
+          "Load Balancing": [],
+          "Optimization": []
+        },
+        "Azure": {
+          "Principles": [],
+          "Serverless": [],
+          "Cost Analysis": [],
+          "File Storage": [],
+          "Virtual Machines": [],
+          "Containers": []
+        },
+        "Docker": [],
+        "Kubernetes": [],
+        "IoT": [],
+        "Operating Systems": {
+          "Linux": [],
+          "Windows": []
+        },
+        "Telemetry": []
+      },
+
+      "Frontend": {
+        "Principles": [
+          {
+            "completionDate": "2023-10-09",
+            "title": "Deep Dive into Web Push Notifications",
+            "url": "https://www.pluralsight.com/courses/web-push-notifications-deep-dive",
+            "minutes": 84
+          },
+
+          {
+            "title": "marinero",
+            "url": "https://github.com/giancosta86/marinero",
+            "kind": "GitHub",
+            "minutes": 120
+          }
+        ],
+        "React": [
+          {
+            "title": "OmniCourse",
+            "url": "https://github.com/giancosta86/OmniCourse",
+            "kind": "GitHub",
+            "minutes": 2760
+          },
+
+          {
+            "title": "captain-hook",
+            "url": "https://github.com/giancosta86/captain-hook",
+            "kind": "GitHub",
+            "minutes": 1440
+          },
+
+          {
+            "title": "hermes-react",
+            "url": "https://github.com/giancosta86/hermes-react",
+            "kind": "GitHub",
+            "minutes": 1680
+          },
+
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "kind": "GitHub",
+            "minutes": 660
+          },
+
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "kind": "GitHub",
+            "minutes": 900
+          }
+        ],
+        "Vue": [],
+        "Angular": [],
+        "AngularJS": [],
+        "jQuery": [],
+        "CSS": {
+          "Standard": [],
+          "Less": [],
+          "Sass": [],
+          "Bulma": [],
+          "Bootstrap": []
+        },
+        "User Experience": [],
+        "Browser": {
+          "Plugins": [],
+          "Chrome": []
+        },
+        "Blazor": [],
+        "Webpack": [
+          {
+            "title": "OmniCourse",
+            "url": "https://github.com/giancosta86/OmniCourse",
+            "kind": "GitHub",
+            "minutes": 180
+          }
+        ],
+        "Progressive Web Apps": [
+          {
+            "title": "Solvenius",
+            "url": "https://github.com/giancosta86/solvenius",
+            "kind": "GitHub",
+            "minutes": 360
+          },
+
+          {
+            "completionDate": "2023-10-02",
+            "title": "Progressive Web Apps: The Big Picture",
+            "url": "https://www.pluralsight.com/courses/progressive-web-apps-big-picture",
+            "minutes": 100
+          },
+
+          {
+            "completionDate": "2023-10-06",
+            "title": "Getting Started with Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/web-apps-progressive-getting-started",
+            "minutes": 117
+          },
+
+          {
+            "completionDate": "2023-10-06",
+            "title": "Designing Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/designing-progressive-web-apps",
+            "minutes": 123
+          },
+
+          {
+            "completionDate": "2023-10-07",
+            "title": "Advanced Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/advanced-progressive-web-apps",
+            "minutes": 137
+          },
+
+          {
+            "completionDate": "2023-10-08",
+            "title": "Service Workers: Deep Dive",
+            "url": "https://www.pluralsight.com/courses/service-workers-deep-dive",
+            "minutes": 186
+          },
+
+          {
+            "completionDate": "2023-10-08",
+            "title": "Web Performance for Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/web-performance-progressive-web-apps",
+            "minutes": 112
+          },
+
+          {
+            "completionDate": "2023-10-10",
+            "title": "Publishing Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/publishing-progressive-web-apps",
+            "minutes": 117
+          },
+
+          {
+            "completionDate": "2023-10-10",
+            "title": "Debugging Progressive Web Apps",
+            "url": "https://www.pluralsight.com/courses/debugging-progressive-web-apps",
+            "minutes": 85
+          }
+        ],
+        "WebAssembly": [],
+        "Rendering": [],
+        "Accessibility": [],
+        "Desktop Apps": {
+          "Electron": []
+        },
+        "GraphQL": [],
+        "HTML": [],
+        "NextJS": []
+      },
+
+      "Backend": {
+        "Generic": [],
+        ".NET": [],
+        "Java": [],
+        "Scala": [],
+        "Ruby": [],
+        "Python": [],
+        "GraphQL": [],
+        "NodeJS": [],
+        "Go": []
+      },
+
+      "Security": {
+        "Principles": [],
+        "Network Security": [],
+        "Cryptography": [],
+        "Microservices": [],
+        "Blockchain": [],
+        "Frontend": [],
+        "Amazon Web Services": [],
+        "Azure": [],
+        "NodeJS": [],
+        "Python": [],
+        "GraphQL": [],
+        "MongoDB": [],
+        "Docker": []
+      },
+
+      "Data Science": {
+        "Principles": [
+          {
+            "completionDate": "2023-10-12",
+            "title": "Introduction to SQL",
+            "url": "https://www.pluralsight.com/courses/introduction-to-sql",
+            "minutes": 181
+          }
+        ],
+        "Quantum Computing": [],
+        "Hadoop": [],
+        "Spark": [],
+        "Machine Learning": [],
+
+        "TensorFlow": [],
+        "Pandas": [],
+        "NumPy": [],
+
+        "Relational DBMS": {
+          "Principles": [],
+          "Java": [],
+          "SQL Server": [],
+          "PostgreSQL": [],
+          "SQLite": [],
+          "MySQL": [
+            {
+              "completionDate": "2023-10-13",
+              "title": "MySQL Fundamentals",
+              "url": "https://www.pluralsight.com/courses/mysql-fundamentals-part1",
+              "minutes": 157
+            },
+
+            {
+              "completionDate": "2023-10-15",
+              "title": "MySQL Fundamentals Part 2",
+              "url": "https://www.pluralsight.com/courses/mysql-fundamentals-part2",
+              "minutes": 163
+            },
+
+            {
+              "completionDate": "2023-10-16",
+              "title": "MySQL Workbench Guided Tour",
+              "url": "https://www.pluralsight.com/courses/mysql-workbench-guided-tour",
+              "minutes": 112
+            },
+
+            {
+              "completionDate": "2023-10-16",
+              "title": "MySQL Backup and Recovery Fundamentals",
+              "url": "https://www.pluralsight.com/courses/mysql-backup-recovery-fundamentals",
+              "minutes": 75
+            },
+
+            {
+              "completionDate": "2023-10-18",
+              "title": "MySQL Indexing for Performance",
+              "url": "https://www.pluralsight.com/courses/mysql-indexing-performance",
+              "minutes": 99
+            },
+
+            {
+              "completionDate": "2023-10-18",
+              "title": "MySQL Query Optimization and Performance Tuning",
+              "url": "https://www.pluralsight.com/courses/mysql-query-optimization-performance-tuning",
+              "minutes": 111
+            },
+
+            {
+              "completionDate": "2023-10-18",
+              "title": "phpMyAdmin Fundamentals",
+              "url": "https://www.pluralsight.com/courses/phpmyadmin-fundamentals",
+              "minutes": 100
+            }
+          ]
+        },
+
+        "NoSQL": {
+          "MongoDB": [],
+          "Redis": []
+        },
+
+        "Amazon Web Services": {
+          "Databases": {
+            "Principles": [],
+            "DynamoDB": []
+          }
+        }
+      },
+
+      "Applications": {
+        "Microsoft Office": []
+      }
+    },
+    "Mathematics": [
+      {
+        "title": "Math problems - Custom solutions",
+        "url": "https://www.youtube.com/@ZahlenRMD",
+        "minutes": 1740
+      }
+    ],
+    "Physics": [],
+    "Astronomy": [],
+    "Further Domains": {
+      "Electronics": {
+        "Principles": [],
+        "Arduino": [],
+        "Robotics": []
+      },
+      "Ecology": [],
+      "Biology": [],
+      "Crafts": [],
+      "Marketing": [],
+      "Management": [],
+      "Economy & Finance": [],
+      "Quality Assurance": [],
+      "Safety Protocols": []
+    }
+  },
+  "Humanism": {
+    "Personal Development": [
+      {
+        "completionDate": "2023-10-12",
+        "title": "Knowing Yourself and Others Through the Big Five Personality Traits",
+        "url": "https://www.pluralsight.com/courses/big-five-personality-traits",
+        "minutes": 78
+      },
+
+      {
+        "completionDate": "2023-10-14",
+        "title": "Introduction to Emotional Intelligence",
+        "url": "https://www.pluralsight.com/courses/introduction-emotional-intelligence",
+        "minutes": 87
+      },
+
+      {
+        "completionDate": "2023-10-15",
+        "title": "Self-assessing Your Emotional Intelligence",
+        "url": "https://www.pluralsight.com/courses/self-assessing-emotional-intelligence",
+        "minutes": 50
+      },
+
+      {
+        "completionDate": "2023-11-05",
+        "title": "How to Recognize, Prevent, and Manage Burnout",
+        "url": "https://www.pluralsight.com/courses/recognize-prevent-manage-burn-out",
+        "minutes": 116
+      },
+
+      {
+        "completionDate": "2023-11-05",
+        "title": "Personality Tests: How Employers Use Them",
+        "url": "https://www.pluralsight.com/courses/personality-tests-employers-use",
+        "minutes": 76
+      },
+
+      {
+        "completionDate": "2023-10-19",
+        "title": "Work Life Balance: A New Perspective",
+        "url": "https://www.pluralsight.com/courses/work-life-balance",
+        "minutes": 63
+      },
+
+      {
+        "completionDate": "2023-10-28",
+        "title": "Dealing with Stress and Anxiety in the Workplace",
+        "url": "https://www.pluralsight.com/courses/workplace-stress-anxiety",
+        "minutes": 86
+      },
+
+      {
+        "completionDate": "2023-11-11",
+        "title": "Cultivate Your Personal Strengths Using Gallup Tools",
+        "url": "https://www.pluralsight.com/courses/gallup-tools-cultivate-personal-strengths",
+        "minutes": 95
+      }
+    ],
+    "Learning & teaching": [],
+    "Innovation": [
+      {
+        "completionDate": "2023-11-12",
+        "title": "Boost Productivity Through Employee Happiness",
+        "url": "https://www.pluralsight.com/courses/boost-productivity-employee-happiness",
+        "minutes": 116
+      },
+
+      {
+        "completionDate": "2023-10-20",
+        "title": "Embracing Change: Staying Agile in the Midst of Change",
+        "url": "https://www.pluralsight.com/courses/embracing-change-agile",
+        "minutes": 56
+      }
+    ],
+    "Human Interactions": {
+      "Principles": [
+        {
+          "completionDate": "2023-11-07",
+          "title": "Conflict Resolution in the Workplace",
+          "url": "https://www.pluralsight.com/courses/conflict-resolution-workplace",
+          "minutes": 101
+        },
+
+        {
+          "completionDate": "2023-10-27",
+          "title": "Building Healthy Interpersonal Relationships at Work",
+          "url": "https://www.pluralsight.com/courses/building-healthy-interpersonal-relationships-work",
+          "minutes": 137
+        },
+
+        {
+          "completionDate": "2023-11-02",
+          "title": "Creating an Emotionally Intelligent Workplace Culture",
+          "url": "https://www.pluralsight.com/courses/creating-emotionally-intelligent-workplace-culture",
+          "minutes": 88
+        },
+
+        {
+          "completionDate": "2023-10-25",
+          "title": "Recognizing and Surviving an Emotionally Toxic Workplace",
+          "url": "https://www.pluralsight.com/courses/recognizing-surviving-emotionally-toxic-workplace",
+          "minutes": 83
+        },
+
+        {
+          "completionDate": "2023-10-23",
+          "title": "Managing Your Emotions in the Workplace",
+          "url": "https://www.pluralsight.com/courses/managing-emotions-workplace",
+          "minutes": 61
+        },
+
+        {
+          "completionDate": "2023-10-26",
+          "title": "Managing Anger and Frustration in the Workplace",
+          "url": "https://www.pluralsight.com/courses/managing-anger-frustration-workplace",
+          "minutes": 79
+        },
+
+        {
+          "completionDate": "2023-11-12",
+          "title": "Working and Communicating with Different Personalities",
+          "url": "https://www.pluralsight.com/courses/working-communicating-with-different-personalities",
+          "minutes": 114
+        }
+      ],
+      "Remote work": [],
+      "Leadership": [
+        {
+          "completionDate": "2023-10-21",
+          "title": "Leading with Emotional Intelligence",
+          "url": "https://www.pluralsight.com/courses/leading-emotional-intelligence",
+          "minutes": 72
+        }
+      ],
+      "Listening": [],
+      "Speaking": [],
+      "Protocols": [],
+      "Diversity & Inclusion": [
+        {
+          "completionDate": "2023-10-22",
+          "title": "Understanding and Counteracting Conscious and Unconscious Bias",
+          "url": "https://www.pluralsight.com/courses/understanding-counteracting-bias",
+          "minutes": 59
+        },
+
+        {
+          "completionDate": "2023-11-10",
+          "title": "Dealing with a New Company Culture",
+          "url": "https://www.pluralsight.com/courses/dealing-with-new-company-culture",
+          "minutes": 68
+        }
+      ],
+      "Politics": [],
+      "Negotiation": []
+    },
+    "Agile": {
+      "Principles": [],
+      "Scrum": [
+        {
+          "completionDate": "2023-10-29",
+          "title": "Introducing Scrum",
+          "url": "https://www.pluralsight.com/courses/scrum-introducing",
+          "minutes": 51
+        },
+
+        {
+          "completionDate": "2023-10-30",
+          "title": "Introducing Scrum Events",
+          "url": "https://www.pluralsight.com/courses/scrum-events-introducing",
+          "minutes": 45
+        },
+
+        {
+          "completionDate": "2023-10-30",
+          "title": "Introducing Scrum Accountabilities (Roles)",
+          "url": "https://www.pluralsight.com/courses/scrum-accountabilities-responsibilities",
+          "minutes": 33
+        },
+
+        {
+          "completionDate": "2023-10-30",
+          "title": "Introducing Scrum Artifacts and the Commitments",
+          "url": "https://www.pluralsight.com/courses/definition-done-scrum-artifacts",
+          "minutes": 1
+        },
+
+        {
+          "completionDate": "2023-10-30",
+          "title": "Introducing the Product Backlog",
+          "url": "https://www.pluralsight.com/courses/introducing-product-backlog",
+          "minutes": 45
+        },
+
+        {
+          "completionDate": "2023-10-30",
+          "title": "Implementing Scrum and Avoiding Scrum Anti-Patterns",
+          "url": "https://www.pluralsight.com/courses/implementing-scrum-avoiding-scrum-anti-patterns",
+          "minutes": 34
+        }
+      ],
+      "Kanban": []
+    },
+
+    "Enterprise HR": [],
+
+    "Art": {
+      "Visual": {
+        "Computer Graphics": {
+          "Inkscape": [],
+          "Gimp": [
+            {
+              "title": "Guarda che luna, guarda che drago",
+              "url": "https://youtu.be/vgB9GMAVH2Y",
+              "kind": "Song video",
+              "minutes": 240
+            }
+          ]
+        },
+        "Diagrams": {
+          "Dia": []
+        },
+        "Design": [],
+        "Color Theory": []
+      },
+      "Music": [
+        {
+          "title": "Guarda che luna, guarda che drago",
+          "url": "https://youtu.be/vgB9GMAVH2Y",
+          "kind": "Song video",
+          "minutes": 120
+        }
+      ],
+      "Video": [
+        {
+          "title": "Guarda che luna, guarda che drago",
+          "url": "https://youtu.be/vgB9GMAVH2Y",
+          "kind": "Song video",
+          "minutes": 90
+        }
+      ],
+      "Poetry": {
+        "Arcadia": [
+          {
+            "title": "Un regno al tramonto",
+            "url": "https://gianlucacosta.info/Arcadia/regno-tramonto",
+            "kind": "Poem",
+            "minutes": 1920
+          },
+
+          {
+            "title": "Sir Lancibbaffo",
+            "url": "https://gianlucacosta.info/Arcadia/sir-lancibbaffo",
+            "kind": "Poem",
+            "minutes": 1800
+          },
+
+          {
+            "title": "Apocalissi scimmiesca",
+            "url": "https://gianlucacosta.info/Arcadia/apocalissi-scimmiesca",
+            "kind": "Poem",
+            "minutes": 1300
+          },
+
+          {
+            "title": "Il re di fiori",
+            "url": "https://gianlucacosta.info/Arcadia/re-fiori",
+            "kind": "Poem",
+            "minutes": 1700
+          },
+
+          {
+            "title": "La canzone del panda",
+            "url": "https://gianlucacosta.info/Arcadia/canzone-panda",
+            "kind": "Poem",
+            "minutes": 840
+          },
+
+          {
+            "title": "Guarda che luna, guarda che drago",
+            "url": "https://youtu.be/vgB9GMAVH2Y",
+            "kind": "Song video",
+            "minutes": 180
+          }
+        ]
+      },
+      "Literature": {
+        "Dante": [],
+        "Victor Hugo": [],
+        "Pierre Corneille": [],
+        "Hellenism": []
+      }
+    },
+    "Philosophy": [],
+    "Languages": {
+      "English": [
+        {
+          "completionDate": "2023-05-23",
+          "title": "Assimil - Inglese - B2",
+          "url": "https://www.assimil.it/-613-l-inglese-collana-senza-sforzo-mp3",
+          "kind": "Multimedia",
+          "minutes": 400
+        },
+
+        {
+          "completionDate": "2023-06-02",
+          "title": "Assimil - Inglese - C1",
+          "url": "https://www.assimil.it/-1138-perfezionamento-dellinglese-mp3",
+          "kind": "Multimedia",
+          "minutes": 480
+        },
+
+        {
+          "completionDate": "2023-11-07",
+          "title": "Practical English Usage",
+          "url": "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/practical_english_usage_4th_edition",
+          "kind": "Book",
+          "minutes": 1560
+        }
+      ],
+      "French": [
+        {
+          "completionDate": "2023-07-20",
+          "title": "Grammathèque",
+          "url": "https://deascuola.it/docenti/secondaria-di-secondo-grado/lingue-straniere/francese/francese-grammatica/grammatheque-10136/",
+          "kind": "Book",
+          "minutes": 1800
+        },
+
+        {
+          "completionDate": "2023-06-26",
+          "title": "Vocabolario Italiano-Francese - 9000 parole",
+          "url": "https://www.amazon.it/dp/B00DRCBQNI?ref_=cm_sw_r_cp_ud_dp_TXXSJK22Q55EJQXBT6MA",
+          "kind": "Book",
+          "minutes": 2420
+        },
+
+        {
+          "completionDate": "2023-08-08",
+          "title": "Assimil - Francese - C1",
+          "url": "https://www.assimil.it/-1119-il-francese-collana-senza-sforzo-mp3-cd",
+          "kind": "Multimedia",
+          "minutes": 2460
+        },
+
+        {
+          "completionDate": "2023-08-30",
+          "title": "Assimil - Francés - Falsos principiantes",
+          "url": "https://www.assimil.it/-741-cuaderno-de-ejercicios-frances-falsos-principiantes",
+          "kind": "Exercise Book",
+          "minutes": 310
+        },
+
+        {
+          "completionDate": "2023-07-31",
+          "title": "La conjugaison pour tous",
+          "url": "https://www.bescherelle.com/livre/bescherelle-la-conjugaison-pour-tous-9782218951985/",
+          "kind": "Book",
+          "minutes": 570
+        },
+
+        {
+          "completionDate": "2023-09-20",
+          "title": "Espagnol: le vocabulaire",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-le-vocabulaire-9782218926242/",
+          "kind": "Book",
+          "minutes": 350
+        },
+
+        {
+          "completionDate": "2023-09-22",
+          "title": "Espagnol: la grammaire",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-la-grammaire-9782218926211/",
+          "kind": "Book",
+          "minutes": 250
+        },
+
+        {
+          "completionDate": "2023-09-30",
+          "title": "Espagnol: les verbes",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-les-verbes-9782218926174/",
+          "kind": "Book",
+          "minutes": 60
+        }
+      ],
+      "Portuguese": [],
+      "Spanish": [
+        {
+          "title": "SuperChinese (in Spanish)",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 600
+        },
+
+        {
+          "title": "ConjuGato",
+          "url": "https://qotoqot.com/conjugato/",
+          "kind": "App",
+          "minutes": 415
+        },
+
+        {
+          "completionDate": "2023-08-26",
+          "title": "Lo slang spagnolo",
+          "url": "https://www.assimil.it/-543-lo-slang-spagnolo",
+          "kind": "Book",
+          "minutes": 240
+        },
+
+        {
+          "completionDate": "2023-08-30",
+          "title": "Assimil - Francés - Falsos principiantes",
+          "url": "https://www.assimil.it/-741-cuaderno-de-ejercicios-frances-falsos-principiantes",
+          "kind": "Exercise Book",
+          "minutes": 200
+        },
+
+        {
+          "completionDate": "2023-09-20",
+          "title": "Espagnol: le vocabulaire",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-le-vocabulaire-9782218926242/",
+          "kind": "Book",
+          "minutes": 2590
+        },
+
+        {
+          "completionDate": "2023-09-22",
+          "title": "Espagnol: la grammaire",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-la-grammaire-9782218926211/",
+          "kind": "Book",
+          "minutes": 1040
+        },
+
+        {
+          "completionDate": "2023-09-30",
+          "title": "Espagnol: les verbes",
+          "url": "https://www.bescherelle.com/livre/bescherelle-espagnol-les-verbes-9782218926174/",
+          "kind": "Book",
+          "minutes": 450
+        }
+      ],
+      "Russian": [
+        {
+          "completionDate": "2023-07-30",
+          "title": "Russo - Quaderno di scrittura",
+          "url": "https://www.assimil.it/-576-quaderno-di-scrittura-russo-le-basi",
+          "kind": "Exercise Book",
+          "minutes": 780
+        }
+      ],
+      "Hindi": [
+        {
+          "title": "Hindi - Cahier d'écriture",
+          "url": "https://www.assimil.it/-277-cahier-d-ecriture-hindi-les-bases-du-devanagari",
+          "kind": "Exercise Book",
+          "minutes": 245
+        }
+      ],
+      "Arabic": [],
+      "Chinese": [
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 6056
+        },
+
+        {
+          "title": "SuperTest",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 643
+        },
+
+        {
+          "title": "Chinese Writer",
+          "url": "https://www.trainchinese.com/v2/writer.php",
+          "kind": "App",
+          "minutes": 305
+        },
+
+        {
+          "completionDate": "2023-05-30",
+          "title": "Grammatica cinese di base",
+          "url": "https://www.utetuniversita.it/catalogo/lingue-e-letterature/grammatica-cinese-di-base-3787",
+          "kind": "Book",
+          "minutes": 1200
+        },
+
+        {
+          "completionDate": "2023-06-06",
+          "title": "Grammatica cinese",
+          "url": "https://www.vallardi.it/catalogo/scheda/cinese-facile-grammatica-libro.html",
+          "kind": "Book",
+          "minutes": 420
+        },
+
+        {
+          "completionDate": "2023-09-26",
+          "title": "Assimil - Cinese - Principianti",
+          "url": "https://www.assimil.it/-568-quaderno-di-esercizi-cinese-principianti",
+          "kind": "Exercise Book",
+          "minutes": 700
+        },
+
+        {
+          "completionDate": "2023-06-21",
+          "title": "La pronuncia del cinese",
+          "url": "https://www.hoeplieditore.it/universita/articolo/la-pronuncia-del-cinese-emanuele-raini/9788836004218/2515",
+          "kind": "Book",
+          "minutes": 750
+        },
+
+        {
+          "completionDate": "2023-06-07",
+          "title": "Chinesimple - HSK1",
+          "url": "https://play.google.com/store/apps/details?id=es.hskfree.ap",
+          "kind": "App",
+          "minutes": 260
+        },
+
+        {
+          "completionDate": "2023-08-13",
+          "title": "Grammatica della lingua cinese",
+          "url": "https://www.utetuniversita.it/catalogo/lingue-e-letterature/grammatica-della-lingua-cinese-3768",
+          "kind": "Book",
+          "minutes": 1800
+        },
+
+        {
+          "completionDate": "2023-06-12",
+          "title": "Mariposas HSK 1",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 900
+        },
+
+        {
+          "completionDate": "2023-07-20",
+          "title": "Mariposas HSK 2",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 720
+        },
+
+        {
+          "completionDate": "2023-10-01",
+          "title": "Mariposas HSK 2 - Season 2",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 1493
+        },
+
+        {
+          "completionDate": "2023-11-12",
+          "title": "Mariposas HSK 2 - Season 3",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 2082
+        },
+
+        {
+          "completionDate": "2023-11-10",
+          "title": "Reading and Writing Chinese [HSK 2]",
+          "url": "https://www.tuttlepublishing.com/language-books/mandarin-chinese/self-study-books/chinese/character-books/reading-and-writing-chinese",
+          "kind": "Book",
+          "minutes": 120
+        },
+
+        {
+          "completionDate": "2023-06-09",
+          "title": "Reading and Writing Chinese [HSK 1]",
+          "url": "https://www.tuttlepublishing.com/language-books/mandarin-chinese/self-study-books/chinese/character-books/reading-and-writing-chinese",
+          "kind": "Book",
+          "minutes": 110
+        }
+      ],
+      "Hebrew": [
+        {
+          "completionDate": "2023-09-23",
+          "title": "Ebraico - Quaderno di scrittura",
+          "url": "https://www.assimil.it/-569-quaderno-di-scrittura-ebraico-le-basi",
+          "kind": "Exercise Book",
+          "minutes": 2400
+        }
+      ],
+      "Korean": [
+        {
+          "completionDate": "2023-08-27",
+          "title": "Coreano - Quaderno di scrittura",
+          "url": "https://www.assimil.it/-1123-quaderno-di-scrittura-coreano-le-basi",
+          "kind": "Exercise Book",
+          "minutes": 2520
+        }
+      ]
+    },
+    "Law": {
+      "National Laws": [],
+      "International Agreements": []
+    }
+  }
+}
