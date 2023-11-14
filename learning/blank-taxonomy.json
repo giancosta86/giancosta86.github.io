@@ -263,7 +263,8 @@
           "Java": [],
           "SQL Server": [],
           "PostgreSQL": [],
-          "SQLite": []
+          "SQLite": [],
+          "MySQL": []
         },
 
         "NoSQL": {
@@ -338,6 +339,7 @@
         "Color Theory": []
       },
       "Music": [],
+      "Video": [],
       "Poetry": {
         "Arcadia": []
       },
@@ -357,7 +359,9 @@
       "Russian": [],
       "Hindi": [],
       "Arabic": [],
-      "Chinese": []
+      "Chinese": [],
+      "Hebrew": [],
+      "Korean": []
     },
     "Law": {
       "National Laws": [],
