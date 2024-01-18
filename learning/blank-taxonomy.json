@@ -63,7 +63,8 @@
           "RxJS": [],
           "Redux": [],
           "C#": [],
-          "Java": []
+          "Java": [],
+          "Rust": []
         },
         "Performance": {
           "React": [],
@@ -115,7 +116,8 @@
           "Go": [],
           "Load testing": [],
           "GraphQL": [],
-          "Tools": []
+          "Tools": [],
+          "Rust": []
         },
         "Game development": {
           "Unity": []
@@ -216,7 +218,8 @@
         },
         "GraphQL": [],
         "HTML": [],
-        "NextJS": []
+        "NextJS": [],
+        "DOM": []
       },
 
       "Backend": {
