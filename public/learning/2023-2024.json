@@ -72,6 +72,14 @@
         "Elm": [],
         "Rust": [
           {
+            "completionDate": "2024-01-26",
+            "title": "Rust lang: The complete beginner's guide",
+            "url": "https://www.udemy.com/course/rustaceans/",
+            "certificateUrl": "https://www.udemy.com/certificate/UC-ae8dde9f-1105-4487-ad2c-df77cf151a17/",
+            "minutes": 480
+          },
+
+          {
             "completionDate": "2023-11-02",
             "title": "Rust: The Big Picture",
             "url": "https://www.pluralsight.com/courses/rust-big-picture",
@@ -272,6 +280,13 @@
           "Principles": [],
           "Frontend": {
             "Browser Automation": [
+              {
+                "completionDate": "2024-02-02",
+                "title": "Cypress 4: End-to-end JavaScript Testing",
+                "url": "https://www.pluralsight.com/courses/cypress-end-to-end-javascript-testing",
+                "minutes": 129
+              },
+
               {
                 "completionDate": "2023-10-19",
                 "title": "Selenium 4: The Big Picture",
@@ -475,6 +490,13 @@
           },
 
           {
+            "completionDate": "2024-01-29",
+            "title": "Building Websites with HTML, CSS, and JavaScript: Getting Started",
+            "url": "https://www.pluralsight.com/courses/html-css-javascript-getting-started-building-websites",
+            "minutes": 231
+          },
+
+          {
             "completionDate": "2024-01-01",
             "title": "HTML, CSS, and JavaScript: The Big Picture",
             "url": "https://www.pluralsight.com/courses/html-css-javascript-big-picture",
@@ -588,6 +610,34 @@
         "CSS": {
           "Standard": [
             {
+              "completionDate": "2024-01-28",
+              "title": "Creating Responsive Pages with CSS FlexBox",
+              "url": "https://www.pluralsight.com/courses/css-flexbox-creating-responsive-pages",
+              "minutes": 81
+            },
+
+            {
+              "completionDate": "2024-02-04",
+              "title": "Creating Layouts with CSS Grid",
+              "url": "https://www.pluralsight.com/courses/css-grid-creating-layouts",
+              "minutes": 102
+            },
+
+            {
+              "completionDate": "2024-01-21",
+              "title": "Styling Websites with CSS",
+              "url": "https://www.pluralsight.com/courses/styling-websites-css",
+              "minutes": 92
+            },
+
+            {
+              "completionDate": "2024-01-23",
+              "title": "Working with Colors and Images in CSS",
+              "url": "https://www.pluralsight.com/courses/working-colors-images-css",
+              "minutes": 98
+            },
+
+            {
               "completionDate": "2024-01-14",
               "title": "All The Way CSS - The Complete CSS Adventure",
               "url": "https://www.udemy.com/course/all-the-way-css-the-complete-css-adventure/",
@@ -686,6 +736,13 @@
         },
         "GraphQL": [],
         "HTML": [
+          {
+            "completionDate": "2024-02-05",
+            "title": "Building Websites with HTML 5",
+            "url": "https://www.pluralsight.com/courses/building-websites-html",
+            "minutes": 180
+          },
+
           {
             "completionDate": "2024-01-05",
             "title": "Creating Forms in HTML",
@@ -1223,6 +1280,13 @@
             "url": "https://gianlucacosta.info/Arcadia/mummia-infernale",
             "kind": "Poem",
             "minutes": 1560
+          },
+
+          {
+            "title": "I baffi più castani del West",
+            "url": "https://gianlucacosta.info/Arcadia/baffi-west",
+            "kind": "Poem",
+            "minutes": 1260
           }
         ]
       },
