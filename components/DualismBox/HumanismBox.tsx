@@ -9,17 +9,17 @@ const humanismMarkdown = `
 
 * 🌼 **C1** level in *English* (CAE, BEC Higher)
 
+* 🌹 **C1** level in *Spanish* (SIELE)
+
 * 🌷 **C1** level in *French* (DALF)
+
+* 🌸 **HSK 2** in *Chinese*
 
 * 🌐 Constantly exploring **Linguistics** and *new languages*
 
 * 💭 Fond of **Philosophy** as the fine art of *thinking*
 
-* 🌹 **C1** level in *Spanish* (SIELE)
-
-* 🏳️‍🌈 Proudly supporting **human** rights and **equality**
-
-* 🎶 [YouTube channel](https://www.youtube.com/channel/UCsPuMOLKfBokZxr21PivQaw), with my amateur **music** performances
+* 🎶 [YouTube channel](https://www.youtube.com/@giancosta86), with my amateur **music** performances
 
 * 🏺 Award in national competition of **Latin translation**, in 2003
 `;
