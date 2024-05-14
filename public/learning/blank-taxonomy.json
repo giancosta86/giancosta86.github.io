@@ -1,290 +1,308 @@
 {
   "Science": {
     "Information Technology": {
-      "Ecosystems": {
-        ".NET": {
-          "C#": [],
-          "F#": [],
-          "Platform": []
-        },
-        "Java": [],
-        "Scala": [],
-        "Groovy": [],
-        "JavaScript": [],
-        "TypeScript": [],
-        "Regular Expressions": [],
-        "Bash": [],
-        "Elm": [],
+      "GitHub projects": {
         "Rust": [],
-        "Elixir": [],
-        "C": [],
-        "C++": [],
-        "Go": [],
-        "Python": [],
-        "R": [],
-        "Ruby": [],
-        "Flutter": [],
-        "Markdown": []
-      },
-
-      "Mobile Development": {
-        "Ionic": [],
-        "React Native": []
-      },
-      "Software Design": {
-        "Clean Code": {
-          "Principles": [],
-          "C#": [],
-          "Python": [],
-          "TypeScript": [],
-          "React": [],
-          "C++": []
-        },
-        "Fault tolerance": {
-          "Principles": [],
-          "C#": []
-        },
-        "Domain-Driven Design": [],
-        "Design Patterns": {
-          "Principles": [],
-          "C#": []
-        },
-        "Microservices": {
-          "Principles": [],
-          ".NET": [],
-          "Go": []
-        },
-        "Functional Programming": {
-          "Principles": [],
-          "JavaScript": [],
-          "TypeScript": [],
-          "Python": [],
-          "Go": [],
-          "RxJS": [],
-          "Redux": [],
-          "C#": [],
-          "Java": [],
-          "Rust": []
-        },
-        "Performance": {
-          "React": [],
-          "Python": [],
-          "C++": [],
-          "GraphQL": [],
-          "MongoDB": [],
-          "NodeJS": [],
-          "SAX": []
-        },
-
-        "Concurrency": {
-          ".NET": [],
-          "NodeJS": [],
-          "Java": [],
-          "JavaScript": [],
-          "TypeScript": [],
-          "Python": [],
-          "Go": [],
-          "React": [],
-          "Browser": []
-        },
-
-        "Event-driven": {
-          "NodeJS": [],
-          "Python": [],
-          ".NET": [],
-          "RabbitMQ": [],
-          "CQRS": [],
-          "GraphQL": []
-        },
-
-        "Streaming": {
-          "NodeJS": []
-        },
-
-        "Testing": {
-          "Principles": [],
-          "Frontend": {
-            "Browser Automation": [],
-            "React": []
-          },
-          "Gherkin": [],
-          "C#": [],
-          "TypeScript": [],
-          "JavaScript": [],
-          "Python": [],
-          "C++": [],
-          "Go": [],
-          "Load testing": [],
-          "GraphQL": [],
-          "Tools": [],
-          "Rust": []
-        },
-        "Game development": {
-          "Unity": []
-        }
-      },
-
-      "CI / CD": {
-        "Principles": [],
-
-        "Source Control": {
-          "Git": [],
-          "GitHub": []
-        },
-
-        "Build Tools": {
-          "TypeScript": [],
-          "JavaScript": [],
-          "Python": [],
-          "Go": [],
-          "React": [],
-          "React Native": [],
-          "NodeJS": [],
-          "Docker": [],
-          "Java": [],
-          ".NET": [],
-          "Elm": []
-        },
-
-        "Microservices": [],
-
-        "GitHub Actions": [],
-        "Jenkins": [],
-        "Octopus": [],
-        "Travis": [],
-        "IDEs & editors": []
-      },
-
-      "Cloud & Virtualization": {
-        "Network Principles": [],
-        "WebSockets": [],
-        "Amazon Web Services": {
-          "Principles": [],
-          "Serverless": [],
-          "Cost Analysis": [],
-          "File Storage": [],
-          "Virtual Machines": [],
-          "Containers": [],
-          "API Gateway": [],
-          "DNS": [],
-          "Load Balancing": [],
-          "Optimization": []
-        },
-        "Azure": {
-          "Principles": [],
-          "Serverless": [],
-          "Cost Analysis": [],
-          "File Storage": [],
-          "Virtual Machines": [],
-          "Containers": []
-        },
-        "Docker": [],
-        "Kubernetes": [],
-        "IoT": [],
-        "Operating Systems": {
-          "Linux": [],
-          "Windows": []
-        },
-        "Telemetry": []
-      },
-
-      "Frontend": {
-        "Principles": [],
+        "TypeScript": [],
         "React": [],
-        "Vue": [],
-        "Angular": [],
-        "AngularJS": [],
-        "jQuery": [],
-        "CSS": {
-          "Standard": [],
-          "Less": [],
-          "Sass": [],
-          "Bulma": [],
-          "Bootstrap": []
-        },
-        "User Experience": [],
-        "Browser": {
-          "Plugins": [],
-          "Chrome": []
-        },
-        "Blazor": [],
-        "Webpack": [],
-        "Progressive Web Apps": [],
-        "WebAssembly": [],
-        "Rendering": [],
-        "Accessibility": [],
-        "Desktop Apps": {
-          "Electron": []
-        },
-        "GraphQL": [],
-        "HTML": [],
-        "NextJS": [],
-        "DOM": []
+        "DOM": [],
+        "Elm": []
       },
 
-      "Backend": {
-        "Generic": [],
-        ".NET": [],
-        "Java": [],
-        "Scala": [],
-        "Ruby": [],
-        "Python": [],
-        "GraphQL": [],
-        "NodeJS": [],
-        "Go": []
-      },
-
-      "Security": {
-        "Principles": [],
-        "Network Security": [],
-        "Cryptography": [],
-        "Microservices": [],
-        "Blockchain": [],
-        "Frontend": [],
-        "Amazon Web Services": [],
-        "Azure": [],
-        "NodeJS": [],
-        "Python": [],
-        "GraphQL": [],
-        "MongoDB": [],
-        "Docker": []
-      },
-
-      "Data Science": {
-        "Principles": [],
-        "Quantum Computing": [],
-        "Hadoop": [],
-        "Spark": [],
-        "Machine Learning": [],
-
-        "TensorFlow": [],
-        "Pandas": [],
-        "NumPy": [],
-
-        "Relational DBMS": {
-          "Principles": [],
+      "Educational": {
+        "Ecosystems": {
+          ".NET": {
+            "C#": [],
+            "F#": [],
+            "Platform": []
+          },
           "Java": [],
-          "SQL Server": [],
-          "PostgreSQL": [],
-          "SQLite": [],
-          "MySQL": []
+          "Scala": [],
+          "Groovy": [],
+          "JavaScript": [],
+          "TypeScript": [],
+          "Regular Expressions": [],
+          "Bash": [],
+          "Elm": [],
+          "Rust": [],
+          "Elixir": [],
+          "C": [],
+          "C++": [],
+          "Go": [],
+          "Python": [],
+          "R": [],
+          "Ruby": [],
+          "Flutter": [],
+          "Markdown": []
         },
 
-        "NoSQL": {
-          "MongoDB": [],
-          "Redis": []
+        "Mobile Development": {
+          "Ionic": [],
+          "React Native": []
         },
-
-        "Amazon Web Services": {
-          "Databases": {
+        "Software Design": {
+          "Clean Code": {
             "Principles": [],
-            "DynamoDB": []
-          }
-        }
-      },
+            "C#": [],
+            "Python": [],
+            "TypeScript": [],
+            "React": [],
+            "C++": [],
+            "Rust": [],
+            "Progressive Web Apps": []
+          },
+          "Fault tolerance": {
+            "Principles": [],
+            "C#": []
+          },
+          "Domain-Driven Design": [],
+          "Design Patterns": {
+            "Principles": [],
+            "C#": []
+          },
+          "Microservices": {
+            "Principles": [],
+            ".NET": [],
+            "Go": []
+          },
+          "Functional Programming": {
+            "Principles": [],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [],
+            "RxJS": [],
+            "Redux": [],
+            "C#": [],
+            "Java": [],
+            "Rust": []
+          },
+          "Performance": {
+            "React": [],
+            "Python": [],
+            "C++": [],
+            "GraphQL": [],
+            "MongoDB": [],
+            "NodeJS": [],
+            "SAX": [],
+            "Web": []
+          },
 
-      "Applications": {
-        "Microsoft Office": []
+          "Concurrency": {
+            ".NET": [],
+            "NodeJS": [],
+            "Java": [],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [],
+            "React": [],
+            "Browser": [],
+            "Rust": []
+          },
+
+          "Event-driven": {
+            "NodeJS": [],
+            "Python": [],
+            ".NET": [],
+            "RabbitMQ": [],
+            "CQRS": [],
+            "GraphQL": []
+          },
+
+          "Streaming": {
+            "NodeJS": []
+          },
+
+          "Testing": {
+            "Principles": [],
+            "Frontend": {
+              "Browser Automation": [],
+              "React": []
+            },
+            "Gherkin": [],
+            "C#": [],
+            "TypeScript": [],
+            "JavaScript": [],
+            "Python": [],
+            "C++": [],
+            "Go": [],
+            "Load testing": [],
+            "GraphQL": [],
+            "Tools": [],
+            "Rust": []
+          },
+          "Game development": {
+            "Unity": []
+          }
+        },
+
+        "CI / CD": {
+          "Principles": [],
+
+          "Source Control": {
+            "Git": [],
+            "GitHub": []
+          },
+
+          "Build Tools": {
+            "TypeScript": [],
+            "JavaScript": [],
+            "Python": [],
+            "Go": [],
+            "React": [],
+            "React Native": [],
+            "NodeJS": [],
+            "Docker": [],
+            "Java": [],
+            ".NET": [],
+            "Elm": [],
+            "Rust": []
+          },
+
+          "Microservices": [],
+
+          "Progressive Web Apps": [],
+
+          "GitHub Actions": [],
+          "Jenkins": [],
+          "Octopus": [],
+          "Travis": [],
+          "IDEs & editors": []
+        },
+
+        "Cloud & Virtualization": {
+          "Network Principles": [],
+          "WebSockets": [],
+          "Amazon Web Services": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": [],
+            "API Gateway": [],
+            "DNS": [],
+            "Load Balancing": [],
+            "Optimization": []
+          },
+          "Azure": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": []
+          },
+          "Docker": [],
+          "Kubernetes": [],
+          "IoT": [],
+          "Operating Systems": {
+            "Linux": [],
+            "Windows": []
+          },
+          "Telemetry": []
+        },
+
+        "Frontend": {
+          "Principles": [],
+          "React": [],
+          "Vue": [],
+          "Angular": [],
+          "AngularJS": [],
+          "jQuery": [],
+          "CSS": {
+            "Standard": [],
+            "Less": [],
+            "Sass": [],
+            "Bulma": [],
+            "Bootstrap": []
+          },
+          "User Experience": [],
+          "Browser": {
+            "Plugins": [],
+            "Chrome": []
+          },
+          "Blazor": [],
+          "Webpack": [],
+          "Progressive Web Apps": [],
+          "WebAssembly": [],
+          "Rendering": [],
+          "Accessibility": [],
+          "Desktop Apps": {
+            "Electron": []
+          },
+          "GraphQL": [],
+          "HTML": [],
+          "NextJS": [],
+          "DOM": []
+        },
+
+        "Backend": {
+          "Generic": [],
+          ".NET": [],
+          "Java": [],
+          "Scala": [],
+          "Ruby": [],
+          "Python": [],
+          "GraphQL": [],
+          "NodeJS": [],
+          "Deno": [],
+          "Go": [],
+          "Rust": []
+        },
+
+        "Security": {
+          "Principles": [],
+          "Network Security": [],
+          "Cryptography": [],
+          "Microservices": [],
+          "Blockchain": [],
+          "Frontend": [],
+          "Amazon Web Services": [],
+          "Azure": [],
+          "NodeJS": [],
+          "Python": [],
+          "GraphQL": [],
+          "MongoDB": [],
+          "Docker": []
+        },
+
+        "Data Science": {
+          "Principles": [],
+          "Quantum Computing": [],
+          "Hadoop": [],
+          "Spark": [],
+          "Machine Learning": [],
+
+          "TensorFlow": [],
+          "Pandas": [],
+          "NumPy": [],
+
+          "Relational DBMS": {
+            "Principles": [],
+            "SQL Server": [],
+            "PostgreSQL": [],
+            "SQLite": [],
+            "MySQL": []
+          },
+
+          "NoSQL": {
+            "MongoDB": [],
+            "Redis": []
+          },
+
+          "Amazon Web Services": {
+            "Databases": {
+              "Principles": [],
+              "DynamoDB": []
+            }
+          }
+        },
+
+        "Applications": {
+          "Microsoft Office": []
+        }
       }
     },
     "Mathematics": [],
@@ -336,7 +354,8 @@
           "Gimp": []
         },
         "Diagrams": {
-          "Dia": []
+          "Dia": [],
+          "Draw.io": []
         },
         "Design": [],
         "Color Theory": []
