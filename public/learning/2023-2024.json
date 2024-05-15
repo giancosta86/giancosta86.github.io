@@ -33,13 +33,11 @@
             "url": "https://github.com/giancosta86/more-jest",
             "minutes": 1950
           },
-
           {
             "title": "more-jest-io",
             "url": "https://github.com/giancosta86/more-jest-io",
             "minutes": 780
           },
-
           {
             "title": "sync-tools",
             "url": "https://github.com/giancosta86/sync-tools",
@@ -50,25 +48,21 @@
             "url": "https://github.com/giancosta86/stream-utils",
             "minutes": 300
           },
-
           {
             "title": "create-marp-slides",
             "url": "https://github.com/giancosta86/create-marp-slides",
             "minutes": 60
           },
-
           {
             "title": "OmniCourse-core",
             "url": "https://github.com/giancosta86/OmniCourse-core",
             "minutes": 7960
           },
-
           {
             "title": "swan-lake",
             "url": "https://github.com/giancosta86/swan-lake",
             "minutes": 300
           },
-
           {
             "title": "time-utils",
             "url": "https://github.com/giancosta86/time-utils",
@@ -84,7 +78,6 @@
             "url": "https://github.com/giancosta86/platonic",
             "minutes": 60
           },
-
           {
             "title": "hermes",
             "url": "https://github.com/giancosta86/hermes",
@@ -101,25 +94,21 @@
             "url": "https://github.com/giancosta86/OmniCourse",
             "minutes": 3612
           },
-
           {
             "title": "captain-hook",
             "url": "https://github.com/giancosta86/captain-hook",
             "minutes": 1440
           },
-
           {
             "title": "hermes-react",
             "url": "https://github.com/giancosta86/hermes-react",
             "minutes": 2174
           },
-
           {
             "title": "Arcadia",
             "url": "https://github.com/giancosta86/Arcadia",
             "minutes": 1196
           },
-
           {
             "title": "Gianluca Costa's Creations",
             "url": "https://github.com/giancosta86/giancosta86.github.io",
@@ -168,50 +157,38 @@
                 "url": "https://www.pluralsight.com/courses/c-sharp-big-picture",
                 "minutes": 63
               },
-
               {
                 "completionDate": "2024-05-05",
                 "title": "C# Fundamentals",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-fundamentals",
                 "minutes": 539
               },
-
               {
                 "completionDate": "2024-05-08",
                 "title": "What's New in C# 10",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-whats-new",
                 "minutes": 49
               },
-
               {
                 "completionDate": "2024-05-10",
                 "title": "Building a Real-world C# Application",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-building-real-world-application",
                 "minutes": 219
               },
-
               {
                 "completionDate": "2024-05-12",
                 "title": "Error Handling in C# 10",
                 "url": "https://www.pluralsight.com/courses/error-handling-c-sharp-10",
                 "minutes": 104
               },
-
               {
                 "completionDate": "2024-05-07",
                 "title": "Object-oriented Programming in C#",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-object-oriented-programming",
                 "minutes": 264
               }
-            ],
-            "F#": [],
-            "Platform": []
+            ]
           },
-          "Java": [],
-          "Scala": [],
-          "Groovy": [],
-          "JavaScript": [],
-          "TypeScript": [],
           "Regular Expressions": [
             {
               "completionDate": "2024-01-14",
@@ -219,7 +196,6 @@
               "url": "https://www.pluralsight.com/courses/javascript-strings-regular-expressions",
               "minutes": 112
             },
-
             {
               "completionDate": "2023-10-22",
               "title": "Python 3 Regex Playbook",
@@ -227,8 +203,6 @@
               "minutes": 81
             }
           ],
-          "Bash": [],
-          "Elm": [],
           "Rust": [
             {
               "completionDate": "2024-02-27",
@@ -237,7 +211,6 @@
               "minutes": 690,
               "certificateUrl": "https://www.udemy.com/certificate/UC-d1022a29-d701-428f-ae60-8619137d9346/"
             },
-
             {
               "completionDate": "2024-01-26",
               "title": "Rust lang: The complete beginner's guide",
@@ -245,49 +218,42 @@
               "certificateUrl": "https://www.udemy.com/certificate/UC-ae8dde9f-1105-4487-ad2c-df77cf151a17/",
               "minutes": 480
             },
-
             {
               "completionDate": "2023-11-02",
               "title": "Rust: The Big Picture",
               "url": "https://www.pluralsight.com/courses/rust-big-picture",
               "minutes": 115
             },
-
             {
               "completionDate": "2023-11-12",
               "title": "Rust 2021 Fundamentals",
               "url": "https://www.pluralsight.com/courses/rust-2021-fundamentals",
               "minutes": 172
             },
-
             {
               "completionDate": "2023-11-14",
               "title": "Memory Ownership and Borrowing in Rust 2021",
               "url": "https://www.pluralsight.com/courses/rust-2021-memory-ownership-borrowing",
               "minutes": 70
             },
-
             {
               "completionDate": "2023-11-16",
               "title": "Generics and Traits in Rust 2021",
               "url": "https://www.pluralsight.com/courses/rust-2021-generics-traits",
               "minutes": 62
             },
-
             {
               "completionDate": "2023-11-20",
               "title": "Object-oriented Programming in Rust 2021",
               "url": "https://www.pluralsight.com/courses/rust-2021-object-oriented-programming",
               "minutes": 84
             },
-
             {
               "completionDate": "2023-11-24",
               "title": "Collections in Rust 2021",
               "url": "https://www.pluralsight.com/courses/rust-2021-collections",
               "minutes": 92
             },
-
             {
               "completionDate": "2023-11-26",
               "title": "Rust Fundamentals",
@@ -295,10 +261,6 @@
               "minutes": 214
             }
           ],
-          "Elixir": [],
-          "C": [],
-          "C++": [],
-          "Go": [],
           "Python": [
             {
               "completionDate": "2024-03-15",
@@ -306,77 +268,59 @@
               "url": "https://www.pluralsight.com/courses/python-3-decorators",
               "minutes": 85
             },
-
             {
               "completionDate": "2024-03-20",
               "title": "Python Requests Playbook",
               "url": "https://www.pluralsight.com/courses/python-requests-playbook",
               "minutes": 102
             },
-
             {
               "completionDate": "2024-04-03",
               "title": "Working with Files in Python 3",
               "url": "https://www.pluralsight.com/courses/python-3-working-files",
               "minutes": 79
             },
-
             {
               "completionDate": "2024-04-05",
               "title": "Working with Databases in Python 3",
               "url": "https://www.pluralsight.com/courses/python-3-working-databases",
               "minutes": 163
             },
-
             {
               "completionDate": "2024-04-09",
               "title": "Python Collections",
               "url": "https://www.pluralsight.com/courses/python-collections",
               "minutes": 116
             },
-
             {
               "completionDate": "2023-10-21",
               "title": "Python 3: The Big Picture",
               "url": "https://www.pluralsight.com/courses/python-3-big-picture",
               "minutes": 51
             },
-
             {
               "completionDate": "2023-10-21",
               "title": "Python 3 Fundamentals",
               "url": "https://www.pluralsight.com/courses/python-3-fundamentals",
               "minutes": 175
             },
-
             {
               "completionDate": "2023-10-22",
               "title": "Classes and Object-oriented Programming in Python 3",
               "url": "https://www.pluralsight.com/courses/python-3-classes-object-oriented-programming",
               "minutes": 146
             },
-
             {
               "completionDate": "2023-10-23",
               "title": "Working with Files in Python 3",
               "url": "https://www.pluralsight.com/courses/python-3-working-files",
               "minutes": 79
             }
-          ],
-          "R": [],
-          "Ruby": [],
-          "Flutter": [],
-          "Markdown": []
+          ]
         },
 
-        "Mobile Development": {
-          "Ionic": [],
-          "React Native": []
-        },
         "Software Design": {
           "Clean Code": {
-            "Principles": [],
-            "C#": [],
             "Python": [
               {
                 "completionDate": "2024-04-23",
@@ -384,7 +328,6 @@
                 "url": "https://www.pluralsight.com/courses/python-3-design-patterns",
                 "minutes": 281
               },
-
               {
                 "completionDate": "2024-04-01",
                 "title": "Python 3 Best Practices",
@@ -392,7 +335,6 @@
                 "minutes": 104
               }
             ],
-            "TypeScript": [],
             "React": [
               {
                 "completionDate": "2023-12-16",
@@ -401,7 +343,6 @@
                 "minutes": 202
               }
             ],
-            "C++": [],
             "Rust": [
               {
                 "title": "Rust API Guidelines",
@@ -409,7 +350,6 @@
                 "kind": "Website",
                 "minutes": 120
               },
-
               {
                 "title": "The rustdoc book",
                 "url": "https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html",
@@ -426,20 +366,6 @@
               }
             ]
           },
-          "Fault tolerance": {
-            "Principles": [],
-            "C#": []
-          },
-          "Domain-Driven Design": [],
-          "Design Patterns": {
-            "Principles": [],
-            "C#": []
-          },
-          "Microservices": {
-            "Principles": [],
-            ".NET": [],
-            "Go": []
-          },
           "Functional Programming": {
             "Principles": [
               {
@@ -449,14 +375,6 @@
                 "minutes": 72
               }
             ],
-            "JavaScript": [],
-            "TypeScript": [],
-            "Python": [],
-            "Go": [],
-            "RxJS": [],
-            "Redux": [],
-            "C#": [],
-            "Java": [],
             "Rust": [
               {
                 "completionDate": "2023-11-19",
@@ -467,7 +385,6 @@
             ]
           },
           "Performance": {
-            "React": [],
             "Python": [
               {
                 "completionDate": "2024-04-13",
@@ -476,11 +393,6 @@
                 "minutes": 178
               }
             ],
-            "C++": [],
-            "GraphQL": [],
-            "MongoDB": [],
-            "NodeJS": [],
-            "SAX": [],
             "Web": [
               {
                 "completionDate": "2024-02-09",
@@ -500,15 +412,6 @@
           },
 
           "Concurrency": {
-            ".NET": [],
-            "NodeJS": [],
-            "Java": [],
-            "JavaScript": [],
-            "TypeScript": [],
-            "Python": [],
-            "Go": [],
-            "React": [],
-            "Browser": [],
             "Rust": [
               {
                 "completionDate": "2024-03-12",
@@ -519,21 +422,7 @@
             ]
           },
 
-          "Event-driven": {
-            "NodeJS": [],
-            "Python": [],
-            ".NET": [],
-            "RabbitMQ": [],
-            "CQRS": [],
-            "GraphQL": []
-          },
-
-          "Streaming": {
-            "NodeJS": []
-          },
-
           "Testing": {
-            "Principles": [],
             "Frontend": {
               "Browser Automation": [
                 {
@@ -542,28 +431,24 @@
                   "url": "https://www.pluralsight.com/courses/cypress-end-to-end-javascript-testing",
                   "minutes": 129
                 },
-
                 {
                   "completionDate": "2023-10-19",
                   "title": "Selenium 4: The Big Picture",
                   "url": "https://www.pluralsight.com/courses/selenium-4-big-picture",
                   "minutes": 47
                 },
-
                 {
                   "completionDate": "2023-10-19",
                   "title": "Automated Testing All the Things with Cypress",
                   "url": "https://www.pluralsight.com/courses/js-friends-session-02",
                   "minutes": 50
                 },
-
                 {
                   "completionDate": "2023-10-20",
                   "title": "Cypress 9 Fundamentals",
                   "url": "https://www.pluralsight.com/courses/cypress-9-fundamentals",
                   "minutes": 119
                 },
-
                 {
                   "completionDate": "2023-10-12",
                   "title": "Testing Progressive Web Apps",
@@ -578,7 +463,6 @@
                   "url": "https://www.pluralsight.com/courses/react-18-testing",
                   "minutes": 124
                 },
-
                 {
                   "completionDate": "2023-12-23",
                   "title": "React 18 Debugging Playbook",
@@ -587,7 +471,6 @@
                 }
               ]
             },
-            "Gherkin": [],
             "C#": [
               {
                 "completionDate": "2024-05-06",
@@ -618,7 +501,6 @@
                 "url": "https://www.pluralsight.com/courses/python-3-testing",
                 "minutes": 185
               },
-
               {
                 "completionDate": "2024-04-09",
                 "title": "Debugging in Python",
@@ -626,11 +508,6 @@
                 "minutes": 122
               }
             ],
-            "C++": [],
-            "Go": [],
-            "Load testing": [],
-            "GraphQL": [],
-            "Tools": [],
             "Rust": [
               {
                 "completionDate": "2024-03-11",
@@ -652,20 +529,10 @@
                 "completionDate": "2024-02-19"
               }
             ]
-          },
-          "Game development": {
-            "Unity": []
           }
         },
 
         "CI / CD": {
-          "Principles": [],
-
-          "Source Control": {
-            "Git": [],
-            "GitHub": []
-          },
-
           "Build Tools": {
             "TypeScript": [
               {
@@ -674,7 +541,6 @@
                 "minutes": 300
               }
             ],
-            "JavaScript": [],
             "Python": [
               {
                 "completionDate": "2023-10-25",
@@ -683,7 +549,6 @@
                 "minutes": 100
               }
             ],
-            "Go": [],
             "React": [
               {
                 "completionDate": "2023-12-14",
@@ -692,10 +557,6 @@
                 "minutes": 53
               }
             ],
-            "React Native": [],
-            "NodeJS": [],
-            "Docker": [],
-            "Java": [],
             ".NET": [
               {
                 "completionDate": "2024-05-12",
@@ -704,7 +565,6 @@
                 "minutes": 144
               }
             ],
-            "Elm": [],
             "Rust": [
               {
                 "title": "Cargo Guide",
@@ -720,8 +580,6 @@
               }
             ]
           },
-
-          "Microservices": [],
           "Progressive Web Apps": [
             {
               "completionDate": "2023-10-10",
@@ -729,45 +587,10 @@
               "url": "https://www.pluralsight.com/courses/publishing-progressive-web-apps",
               "minutes": 117
             }
-          ],
-
-          "GitHub Actions": [],
-          "Jenkins": [],
-          "Octopus": [],
-          "Travis": [],
-          "IDEs & editors": []
+          ]
         },
 
         "Cloud & Virtualization": {
-          "Network Principles": [],
-          "WebSockets": [],
-          "Amazon Web Services": {
-            "Principles": [],
-            "Serverless": [],
-            "Cost Analysis": [],
-            "File Storage": [],
-            "Virtual Machines": [],
-            "Containers": [],
-            "API Gateway": [],
-            "DNS": [],
-            "Load Balancing": [],
-            "Optimization": []
-          },
-          "Azure": {
-            "Principles": [],
-            "Serverless": [],
-            "Cost Analysis": [],
-            "File Storage": [],
-            "Virtual Machines": [],
-            "Containers": []
-          },
-          "Docker": [],
-          "Kubernetes": [],
-          "IoT": [],
-          "Operating Systems": {
-            "Linux": [],
-            "Windows": []
-          },
           "Telemetry": [
             {
               "completionDate": "2024-01-18",
@@ -786,21 +609,18 @@
               "url": "https://www.pluralsight.com/courses/web-push-notifications-deep-dive",
               "minutes": 84
             },
-
             {
               "completionDate": "2024-01-29",
               "title": "Building Websites with HTML, CSS, and JavaScript: Getting Started",
               "url": "https://www.pluralsight.com/courses/html-css-javascript-getting-started-building-websites",
               "minutes": 231
             },
-
             {
               "completionDate": "2024-01-01",
               "title": "HTML, CSS, and JavaScript: The Big Picture",
               "url": "https://www.pluralsight.com/courses/html-css-javascript-big-picture",
               "minutes": 88
             },
-
             {
               "completionDate": "2024-01-05",
               "title": "HTML 5 and CSS 3: Overview of Tag, Attribute and Selector Additions",
@@ -822,35 +642,30 @@
               "url": "https://www.pluralsight.com/courses/react-18-fundamentals",
               "minutes": 166
             },
-
             {
               "completionDate": "2023-12-11",
               "title": "What Is React?",
               "url": "https://www.pluralsight.com/courses/react-what-is",
               "minutes": 80
             },
-
             {
               "completionDate": "2023-12-12",
               "title": "React 18: The Big Picture",
               "url": "https://www.pluralsight.com/courses/react-18-big-picture",
               "minutes": 66
             },
-
             {
               "completionDate": "2023-12-18",
               "title": "Managing State in React 18",
               "url": "https://www.pluralsight.com/courses/react-18-managing-state",
               "minutes": 267
             },
-
             {
               "completionDate": "2023-12-14",
               "title": "Styling Apps in React 18",
               "url": "https://www.pluralsight.com/courses/react-18-styling-apps",
               "minutes": 80
             },
-
             {
               "completionDate": "2023-12-18",
               "title": "Using Hooks in React 18",
@@ -858,10 +673,6 @@
               "minutes": 214
             }
           ],
-          "Vue": [],
-          "Angular": [],
-          "AngularJS": [],
-          "jQuery": [],
           "CSS": {
             "Standard": [
               {
@@ -870,35 +681,30 @@
                 "url": "https://www.pluralsight.com/courses/css-creating-page-layouts",
                 "minutes": 135
               },
-
               {
                 "completionDate": "2024-01-28",
                 "title": "Creating Responsive Pages with CSS FlexBox",
                 "url": "https://www.pluralsight.com/courses/css-flexbox-creating-responsive-pages",
                 "minutes": 81
               },
-
               {
                 "completionDate": "2024-02-04",
                 "title": "Creating Layouts with CSS Grid",
                 "url": "https://www.pluralsight.com/courses/css-grid-creating-layouts",
                 "minutes": 102
               },
-
               {
                 "completionDate": "2024-01-21",
                 "title": "Styling Websites with CSS",
                 "url": "https://www.pluralsight.com/courses/styling-websites-css",
                 "minutes": 92
               },
-
               {
                 "completionDate": "2024-01-23",
                 "title": "Working with Colors and Images in CSS",
                 "url": "https://www.pluralsight.com/courses/working-colors-images-css",
                 "minutes": 98
               },
-
               {
                 "completionDate": "2024-01-14",
                 "title": "All The Way CSS - The Complete CSS Adventure",
@@ -906,19 +712,8 @@
                 "certificateUrl": "https://www.udemy.com/certificate/UC-1fb9d7cb-66b6-4a63-95cd-299e800cd0b3/",
                 "minutes": 327
               }
-            ],
-            "Less": [],
-            "Sass": [],
-            "Bulma": [],
-            "Bootstrap": []
+            ]
           },
-          "User Experience": [],
-          "Browser": {
-            "Plugins": [],
-            "Chrome": []
-          },
-          "Blazor": [],
-          "Webpack": [],
           "Progressive Web Apps": [
             {
               "completionDate": "2023-10-02",
@@ -926,21 +721,18 @@
               "url": "https://www.pluralsight.com/courses/progressive-web-apps-big-picture",
               "minutes": 100
             },
-
             {
               "completionDate": "2023-10-06",
               "title": "Getting Started with Progressive Web Apps",
               "url": "https://www.pluralsight.com/courses/web-apps-progressive-getting-started",
               "minutes": 117
             },
-
             {
               "completionDate": "2023-10-07",
               "title": "Advanced Progressive Web Apps",
               "url": "https://www.pluralsight.com/courses/advanced-progressive-web-apps",
               "minutes": 137
             },
-
             {
               "completionDate": "2023-10-08",
               "title": "Service Workers: Deep Dive",
@@ -962,12 +754,6 @@
               "minutes": 140
             }
           ],
-          "Rendering": [],
-          "Accessibility": [],
-          "Desktop Apps": {
-            "Electron": []
-          },
-          "GraphQL": [],
           "HTML": [
             {
               "completionDate": "2024-02-05",
@@ -975,49 +761,42 @@
               "url": "https://www.pluralsight.com/courses/building-websites-html",
               "minutes": 180
             },
-
             {
               "completionDate": "2024-01-05",
               "title": "Creating Forms in HTML",
               "url": "https://www.pluralsight.com/courses/html-forms-creating",
               "minutes": 76
             },
-
             {
               "completionDate": "2024-01-04",
               "title": "Semantic HTML",
               "url": "https://www.pluralsight.com/courses/semantic-html",
               "minutes": 82
             },
-
             {
               "completionDate": "2024-01-04",
               "title": "HTML Fundamentals",
               "url": "https://www.pluralsight.com/courses/html-fundamentals",
               "minutes": 139
             },
-
             {
               "completionDate": "2024-01-14",
               "title": "Working with Geolocation in HTML5",
               "url": "https://www.pluralsight.com/courses/working-geolocation-html",
               "minutes": 96
             },
-
             {
               "completionDate": "2024-01-17",
               "title": "Working with Audio and Video in Web Pages",
               "url": "https://www.pluralsight.com/courses/audio-video-in-web-pages",
               "minutes": 61
             },
-
             {
               "completionDate": "2024-01-11",
               "title": "Storing Data in HTML",
               "url": "https://www.pluralsight.com/courses/html-storing-data",
               "minutes": 33
             },
-
             {
               "completionDate": "2024-01-10",
               "title": "Working with Text and Lists in HTML 5",
@@ -1032,7 +811,6 @@
               "url": "https://www.pluralsight.com/courses/react-18-nextjs-playbook",
               "minutes": 107
             },
-
             {
               "completionDate": "2023-12-25",
               "title": "Server Component Fundamentals in React 18",
@@ -1051,11 +829,6 @@
         },
 
         "Backend": {
-          "Generic": [],
-          ".NET": [],
-          "Java": [],
-          "Scala": [],
-          "Ruby": [],
           "Python": [
             {
               "completionDate": "2024-04-02",
@@ -1064,7 +837,6 @@
               "minutes": 85
             }
           ],
-          "GraphQL": [],
           "NodeJS": [
             {
               "completionDate": "2024-01-07",
@@ -1081,7 +853,6 @@
               "minutes": 105
             }
           ],
-          "Go": [],
           "Rust": [
             {
               "completionDate": "2024-03-13",
@@ -1093,11 +864,6 @@
         },
 
         "Security": {
-          "Principles": [],
-          "Network Security": [],
-          "Cryptography": [],
-          "Microservices": [],
-          "Blockchain": [],
           "Frontend": [
             {
               "completionDate": "2023-12-23",
@@ -1105,14 +871,7 @@
               "url": "https://www.pluralsight.com/courses/react-18-secure-coding-owasp",
               "minutes": 67
             }
-          ],
-          "Amazon Web Services": [],
-          "Azure": [],
-          "NodeJS": [],
-          "Python": [],
-          "GraphQL": [],
-          "MongoDB": [],
-          "Docker": []
+          ]
         },
 
         "Data Science": {
@@ -1124,21 +883,7 @@
               "minutes": 181
             }
           ],
-          "Quantum Computing": [],
-          "Hadoop": [],
-          "Spark": [],
-          "Machine Learning": [],
-
-          "TensorFlow": [],
-          "Pandas": [],
-          "NumPy": [],
-
           "Relational DBMS": {
-            "Principles": [],
-            "Java": [],
-            "SQL Server": [],
-            "PostgreSQL": [],
-            "SQLite": [],
             "MySQL": [
               {
                 "completionDate": "2023-10-13",
@@ -1146,42 +891,36 @@
                 "url": "https://www.pluralsight.com/courses/mysql-fundamentals-part1",
                 "minutes": 157
               },
-
               {
                 "completionDate": "2023-10-15",
                 "title": "MySQL Fundamentals Part 2",
                 "url": "https://www.pluralsight.com/courses/mysql-fundamentals-part2",
                 "minutes": 163
               },
-
               {
                 "completionDate": "2023-10-16",
                 "title": "MySQL Workbench Guided Tour",
                 "url": "https://www.pluralsight.com/courses/mysql-workbench-guided-tour",
                 "minutes": 112
               },
-
               {
                 "completionDate": "2023-10-16",
                 "title": "MySQL Backup and Recovery Fundamentals",
                 "url": "https://www.pluralsight.com/courses/mysql-backup-recovery-fundamentals",
                 "minutes": 75
               },
-
               {
                 "completionDate": "2023-10-18",
                 "title": "MySQL Indexing for Performance",
                 "url": "https://www.pluralsight.com/courses/mysql-indexing-performance",
                 "minutes": 99
               },
-
               {
                 "completionDate": "2023-10-18",
                 "title": "MySQL Query Optimization and Performance Tuning",
                 "url": "https://www.pluralsight.com/courses/mysql-query-optimization-performance-tuning",
                 "minutes": 111
               },
-
               {
                 "completionDate": "2023-10-18",
                 "title": "phpMyAdmin Fundamentals",
@@ -1189,23 +928,7 @@
                 "minutes": 100
               }
             ]
-          },
-
-          "NoSQL": {
-            "MongoDB": [],
-            "Redis": []
-          },
-
-          "Amazon Web Services": {
-            "Databases": {
-              "Principles": [],
-              "DynamoDB": []
-            }
           }
-        },
-
-        "Applications": {
-          "Microsoft Office": []
         }
       }
     },
@@ -1215,25 +938,9 @@
         "url": "https://www.youtube.com/@ZahlenRMD",
         "minutes": 1740
       }
-    ],
-    "Physics": [],
-    "Astronomy": [],
-    "Further Domains": {
-      "Electronics": {
-        "Principles": [],
-        "Arduino": [],
-        "Robotics": []
-      },
-      "Ecology": [],
-      "Biology": [],
-      "Crafts": [],
-      "Marketing": [],
-      "Management": [],
-      "Economy & Finance": [],
-      "Quality Assurance": [],
-      "Safety Protocols": []
-    }
+    ]
   },
+
   "Humanism": {
     "Personal Development": [
       {
@@ -1242,49 +949,42 @@
         "url": "https://www.pluralsight.com/courses/big-five-personality-traits",
         "minutes": 78
       },
-
       {
         "completionDate": "2023-10-14",
         "title": "Introduction to Emotional Intelligence",
         "url": "https://www.pluralsight.com/courses/introduction-emotional-intelligence",
         "minutes": 87
       },
-
       {
         "completionDate": "2023-10-15",
         "title": "Self-assessing Your Emotional Intelligence",
         "url": "https://www.pluralsight.com/courses/self-assessing-emotional-intelligence",
         "minutes": 50
       },
-
       {
         "completionDate": "2023-11-05",
         "title": "How to Recognize, Prevent, and Manage Burnout",
         "url": "https://www.pluralsight.com/courses/recognize-prevent-manage-burn-out",
         "minutes": 116
       },
-
       {
         "completionDate": "2023-11-05",
         "title": "Personality Tests: How Employers Use Them",
         "url": "https://www.pluralsight.com/courses/personality-tests-employers-use",
         "minutes": 76
       },
-
       {
         "completionDate": "2023-10-19",
         "title": "Work Life Balance: A New Perspective",
         "url": "https://www.pluralsight.com/courses/work-life-balance",
         "minutes": 63
       },
-
       {
         "completionDate": "2023-10-28",
         "title": "Dealing with Stress and Anxiety in the Workplace",
         "url": "https://www.pluralsight.com/courses/workplace-stress-anxiety",
         "minutes": 86
       },
-
       {
         "completionDate": "2023-11-11",
         "title": "Cultivate Your Personal Strengths Using Gallup Tools",
@@ -1292,7 +992,6 @@
         "minutes": 95
       }
     ],
-    "Learning & teaching": [],
     "Innovation": [
       {
         "completionDate": "2023-11-12",
@@ -1300,7 +999,6 @@
         "url": "https://www.pluralsight.com/courses/boost-productivity-employee-happiness",
         "minutes": 116
       },
-
       {
         "completionDate": "2023-10-20",
         "title": "Embracing Change: Staying Agile in the Midst of Change",
@@ -1316,42 +1014,36 @@
           "url": "https://www.pluralsight.com/courses/conflict-resolution-workplace",
           "minutes": 101
         },
-
         {
           "completionDate": "2023-10-27",
           "title": "Building Healthy Interpersonal Relationships at Work",
           "url": "https://www.pluralsight.com/courses/building-healthy-interpersonal-relationships-work",
           "minutes": 137
         },
-
         {
           "completionDate": "2023-11-02",
           "title": "Creating an Emotionally Intelligent Workplace Culture",
           "url": "https://www.pluralsight.com/courses/creating-emotionally-intelligent-workplace-culture",
           "minutes": 88
         },
-
         {
           "completionDate": "2023-10-25",
           "title": "Recognizing and Surviving an Emotionally Toxic Workplace",
           "url": "https://www.pluralsight.com/courses/recognizing-surviving-emotionally-toxic-workplace",
           "minutes": 83
         },
-
         {
           "completionDate": "2023-10-23",
           "title": "Managing Your Emotions in the Workplace",
           "url": "https://www.pluralsight.com/courses/managing-emotions-workplace",
           "minutes": 61
         },
-
         {
           "completionDate": "2023-10-26",
           "title": "Managing Anger and Frustration in the Workplace",
           "url": "https://www.pluralsight.com/courses/managing-anger-frustration-workplace",
           "minutes": 79
         },
-
         {
           "completionDate": "2023-11-12",
           "title": "Working and Communicating with Different Personalities",
@@ -1359,7 +1051,6 @@
           "minutes": 114
         }
       ],
-      "Remote work": [],
       "Leadership": [
         {
           "completionDate": "2023-10-21",
@@ -1367,7 +1058,6 @@
           "url": "https://www.pluralsight.com/courses/leading-emotional-intelligence",
           "minutes": 72
         },
-
         {
           "completionDate": "2024-01-09",
           "title": "Management Course: Difficult Conversations and Friendlier Workplaces",
@@ -1375,9 +1065,6 @@
           "minutes": 365
         }
       ],
-      "Listening": [],
-      "Speaking": [],
-      "Protocols": [],
       "Diversity & Inclusion": [
         {
           "completionDate": "2023-10-22",
@@ -1385,19 +1072,15 @@
           "url": "https://www.pluralsight.com/courses/understanding-counteracting-bias",
           "minutes": 59
         },
-
         {
           "completionDate": "2023-11-10",
           "title": "Dealing with a New Company Culture",
           "url": "https://www.pluralsight.com/courses/dealing-with-new-company-culture",
           "minutes": 68
         }
-      ],
-      "Politics": [],
-      "Negotiation": []
+      ]
     },
     "Agile": {
-      "Principles": [],
       "Scrum": [
         {
           "completionDate": "2023-10-29",
@@ -1405,46 +1088,38 @@
           "url": "https://www.pluralsight.com/courses/scrum-introducing",
           "minutes": 51
         },
-
         {
           "completionDate": "2023-10-30",
           "title": "Introducing Scrum Events",
           "url": "https://www.pluralsight.com/courses/scrum-events-introducing",
           "minutes": 45
         },
-
         {
           "completionDate": "2023-10-30",
           "title": "Introducing Scrum Accountabilities (Roles)",
           "url": "https://www.pluralsight.com/courses/scrum-accountabilities-responsibilities",
           "minutes": 33
         },
-
         {
           "completionDate": "2023-10-30",
           "title": "Introducing Scrum Artifacts and the Commitments",
           "url": "https://www.pluralsight.com/courses/definition-done-scrum-artifacts",
           "minutes": 1
         },
-
         {
           "completionDate": "2023-10-30",
           "title": "Introducing the Product Backlog",
           "url": "https://www.pluralsight.com/courses/introducing-product-backlog",
           "minutes": 45
         },
-
         {
           "completionDate": "2023-10-30",
           "title": "Implementing Scrum and Avoiding Scrum Anti-Patterns",
           "url": "https://www.pluralsight.com/courses/implementing-scrum-avoiding-scrum-anti-patterns",
           "minutes": 34
         }
-      ],
-      "Kanban": []
+      ]
     },
-
-    "Enterprise HR": [],
 
     "Art": {
       "Visual": {
@@ -1469,16 +1144,13 @@
           ]
         },
         "Diagrams": {
-          "Dia": [],
           "Draw.io": [
             {
               "title": "Miscellaneous",
               "minutes": 103
             }
           ]
-        },
-        "Design": [],
-        "Color Theory": []
+        }
       },
       "Music": [
         {
@@ -1504,56 +1176,48 @@
             "kind": "Poem",
             "minutes": 1320
           },
-
           {
             "title": "Un regno al tramonto",
             "url": "https://gianlucacosta.info/Arcadia/regno-tramonto",
             "kind": "Poem",
             "minutes": 1920
           },
-
           {
             "title": "Sir Lancibbaffo",
             "url": "https://gianlucacosta.info/Arcadia/sir-lancibbaffo",
             "kind": "Poem",
             "minutes": 1800
           },
-
           {
             "title": "Apocalissi scimmiesca",
             "url": "https://gianlucacosta.info/Arcadia/apocalissi-scimmiesca",
             "kind": "Poem",
             "minutes": 1300
           },
-
           {
             "title": "Il re di fiori",
             "url": "https://gianlucacosta.info/Arcadia/re-fiori",
             "kind": "Poem",
             "minutes": 1700
           },
-
           {
             "title": "La canzone del panda",
             "url": "https://gianlucacosta.info/Arcadia/canzone-panda",
             "kind": "Poem",
             "minutes": 840
           },
-
           {
             "title": "Guarda che luna, guarda che drago",
             "url": "https://youtu.be/vgB9GMAVH2Y",
             "kind": "Song video",
             "minutes": 180
           },
-
           {
             "title": "La mummia infernale",
             "url": "https://gianlucacosta.info/Arcadia/mummia-infernale",
             "kind": "Poem",
             "minutes": 1560
           },
-
           {
             "title": "I baffi più castani del West",
             "url": "https://gianlucacosta.info/Arcadia/baffi-west",
@@ -1561,15 +1225,8 @@
             "minutes": 1260
           }
         ]
-      },
-      "Literature": {
-        "Dante": [],
-        "Victor Hugo": [],
-        "Pierre Corneille": [],
-        "Hellenism": []
       }
     },
-    "Philosophy": [],
     "Languages": {
       "English": [
         {
@@ -1579,7 +1236,6 @@
           "kind": "Multimedia",
           "minutes": 540
         },
-
         {
           "completionDate": "2023-12-06",
           "title": "100 CAE key word transformation exercise",
@@ -1587,14 +1243,12 @@
           "kind": "Book",
           "minutes": 240
         },
-
         {
           "title": "Bescherelle Anglais : le vocabulaire",
           "url": "https://www.bescherelle.com/livre/bescherelle-anglais-le-vocabulaire-9782218926228/",
           "kind": "Audio",
           "minutes": 92
         },
-
         {
           "completionDate": "2023-11-26",
           "title": "Bescherelle Anglais : le vocabulaire",
@@ -1602,7 +1256,6 @@
           "kind": "Book",
           "minutes": 1700
         },
-
         {
           "completionDate": "2023-12-07",
           "title": "Bescherelle Anglais : la grammaire",
@@ -1610,7 +1263,6 @@
           "kind": "Book",
           "minutes": 940
         },
-
         {
           "completionDate": "2023-11-18",
           "title": "Bescherelle Anglais : les verbes",
@@ -1618,7 +1270,6 @@
           "kind": "Book",
           "minutes": 360
         },
-
         {
           "completionDate": "2023-12-19",
           "title": "Assimil - Inglese - C1",
@@ -1626,7 +1277,6 @@
           "kind": "Book",
           "minutes": 190
         },
-
         {
           "completionDate": "2023-12-15",
           "title": "Assimil - Inglese - B2",
@@ -1634,7 +1284,6 @@
           "kind": "Book",
           "minutes": 220
         },
-
         {
           "completionDate": "2023-12-09",
           "title": "Assimil - Inglese - C1",
@@ -1642,7 +1291,6 @@
           "kind": "Audio",
           "minutes": 207
         },
-
         {
           "completionDate": "2023-12-05",
           "title": "Assimil - Inglese - B2",
@@ -1650,7 +1298,6 @@
           "kind": "Audio",
           "minutes": 120
         },
-
         {
           "completionDate": "2023-11-30",
           "title": "Assimil - Inglese - C1",
@@ -1658,7 +1305,6 @@
           "kind": "Audio",
           "minutes": 207
         },
-
         {
           "completionDate": "2023-11-20",
           "title": "Assimil - Inglese - B2",
@@ -1666,7 +1312,6 @@
           "kind": "Audio",
           "minutes": 120
         },
-
         {
           "completionDate": "2023-11-25",
           "title": "Complete Advanced 2nd Edition - Workbook",
@@ -1681,7 +1326,6 @@
           "kind": "Multimedia",
           "minutes": 400
         },
-
         {
           "completionDate": "2023-06-02",
           "title": "Assimil - Inglese - C1",
@@ -1689,7 +1333,6 @@
           "kind": "Multimedia",
           "minutes": 480
         },
-
         {
           "completionDate": "2023-11-07",
           "title": "Practical English Usage",
@@ -1706,7 +1349,6 @@
           "kind": "Book",
           "minutes": 260
         },
-
         {
           "completionDate": "2023-12-07",
           "title": "Bescherelle Anglais : la grammaire",
@@ -1714,7 +1356,6 @@
           "kind": "Book",
           "minutes": 250
         },
-
         {
           "completionDate": "2023-11-18",
           "title": "Bescherelle Anglais : les verbes",
@@ -1722,7 +1363,6 @@
           "kind": "Book",
           "minutes": 60
         },
-
         {
           "completionDate": "2023-07-20",
           "title": "Grammathèque",
@@ -1730,7 +1370,6 @@
           "kind": "Book",
           "minutes": 1800
         },
-
         {
           "completionDate": "2023-06-26",
           "title": "Vocabolario Italiano-Francese - 9000 parole",
@@ -1738,7 +1377,6 @@
           "kind": "Book",
           "minutes": 2420
         },
-
         {
           "completionDate": "2023-08-08",
           "title": "Assimil - Francese - C1",
@@ -1746,7 +1384,6 @@
           "kind": "Multimedia",
           "minutes": 2460
         },
-
         {
           "completionDate": "2023-08-30",
           "title": "Assimil - Francés - Falsos principiantes",
@@ -1754,7 +1391,6 @@
           "kind": "Exercise Book",
           "minutes": 310
         },
-
         {
           "completionDate": "2023-07-31",
           "title": "La conjugaison pour tous",
@@ -1762,7 +1398,6 @@
           "kind": "Book",
           "minutes": 570
         },
-
         {
           "completionDate": "2023-09-20",
           "title": "Espagnol: le vocabulaire",
@@ -1770,7 +1405,6 @@
           "kind": "Book",
           "minutes": 350
         },
-
         {
           "completionDate": "2023-09-22",
           "title": "Espagnol: la grammaire",
@@ -1778,7 +1412,6 @@
           "kind": "Book",
           "minutes": 250
         },
-
         {
           "completionDate": "2023-09-30",
           "title": "Espagnol: les verbes",
@@ -1787,7 +1420,6 @@
           "minutes": 60
         }
       ],
-      "Portuguese": [],
       "Spanish": [
         {
           "title": "La Biblia Latinoamérica",
@@ -1801,7 +1433,6 @@
           "kind": "Book",
           "minutes": 448
         },
-
         {
           "completionDate": "2024-03-07",
           "title": "Aprende gramática y vocabulario 4",
@@ -1809,7 +1440,6 @@
           "kind": "Book",
           "minutes": 2134
         },
-
         {
           "completionDate": "2024-02-17",
           "title": "Aprende gramática y vocabulario 3",
@@ -1817,7 +1447,6 @@
           "kind": "Book",
           "minutes": 2050
         },
-
         {
           "completionDate": "2024-01-28",
           "title": "Aprende gramática y vocabulario 2",
@@ -1825,7 +1454,6 @@
           "kind": "Book",
           "minutes": 1694
         },
-
         {
           "completionDate": "2024-01-14",
           "title": "Aprende gramática y vocabulario 1",
@@ -1833,7 +1461,6 @@
           "kind": "Book",
           "minutes": 1044
         },
-
         {
           "completionDate": "2023-12-23",
           "title": "Assimil - Spagnolo - B2",
@@ -1841,14 +1468,12 @@
           "kind": "Audio",
           "minutes": 182
         },
-
         {
           "title": "Quaderno di esercizi della lingua spagnola",
           "url": "https://clueb.it/libreria/contesti-linguistici/quaderno-esercizi-della-lingua-spagnola/",
           "kind": "Book",
           "minutes": 670
         },
-
         {
           "completionDate": "2024-01-05",
           "title": "Contrastiva. Grammatica della lingua spagnola",
@@ -1856,21 +1481,18 @@
           "kind": "Book",
           "minutes": 1130
         },
-
         {
           "title": "SuperChinese (in Spanish)",
           "url": "https://www.superchinese.com/",
           "kind": "App",
           "minutes": 600
         },
-
         {
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
           "minutes": 793
         },
-
         {
           "completionDate": "2023-08-26",
           "title": "Lo slang spagnolo",
@@ -1878,7 +1500,6 @@
           "kind": "Book",
           "minutes": 240
         },
-
         {
           "completionDate": "2023-08-30",
           "title": "Assimil - Francés - Falsos principiantes",
@@ -1886,7 +1507,6 @@
           "kind": "Exercise Book",
           "minutes": 200
         },
-
         {
           "completionDate": "2023-09-20",
           "title": "Espagnol: le vocabulaire",
@@ -1894,7 +1514,6 @@
           "kind": "Book",
           "minutes": 2590
         },
-
         {
           "completionDate": "2023-09-22",
           "title": "Espagnol: la grammaire",
@@ -1902,7 +1521,6 @@
           "kind": "Book",
           "minutes": 1040
         },
-
         {
           "completionDate": "2023-09-30",
           "title": "Espagnol: les verbes",
@@ -1962,28 +1580,24 @@
           "kind": "App",
           "minutes": 1116
         },
-
         {
           "title": "Grammatica d’uso della lingua cinese",
           "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-duso-della-lingua-cinese-chiara-romagnoli/9788820368067/0943",
           "kind": "Book",
           "minutes": 504
         },
-
         {
           "title": "Pinyin Trainer",
           "url": "https://play.google.com/store/apps/details?id=com.molatra.pinyintrainer",
           "kind": "App",
           "minutes": 682
         },
-
         {
           "title": "Chinese Writer",
           "url": "https://play.google.com/store/apps/details?id=com.molatra.chinesewriterlite",
           "kind": "App",
           "minutes": 1234
         },
-
         {
           "completionDate": "2024-05-13",
           "title": "Learn Chinese Radicals",
@@ -1991,7 +1605,6 @@
           "kind": "Book",
           "minutes": 1640
         },
-
         {
           "completionDate": "2024-04-15",
           "title": "Impariamo a pronunciare il Cinese",
@@ -1999,14 +1612,12 @@
           "kind": "Book",
           "minutes": 1664
         },
-
         {
           "title": "HSK 5000 - Volume 1",
           "url": "https://blcup.com/enPInfo/index/258",
           "kind": "Book",
           "minutes": 5913
         },
-
         {
           "completionDate": "2024-01-09",
           "title": "Mariposas HSK 3",
@@ -2014,56 +1625,48 @@
           "kind": "Book",
           "minutes": 1751
         },
-
         {
           "title": "Chinese: HSK 2 Vocabulary - Useful Chinese",
           "url": "https://youtu.be/wb6_hInSe3Y",
           "kind": "Video",
           "minutes": 195
         },
-
         {
           "title": "Chinese: HSK 1 Vocabulary - Useful Chinese",
           "url": "https://youtu.be/ScBJVaxL-RA",
           "kind": "Video",
           "minutes": 90
         },
-
         {
           "title": "HSK 2 Vocabulary List - HSK Academy",
           "url": "https://youtu.be/3NpEMFgNCnQ",
           "kind": "Video",
           "minutes": 20
         },
-
         {
           "title": "HSK 1 Vocabulary List - HSK Academy",
           "url": "https://youtu.be/JJHE_2vIqNQ",
           "kind": "Video",
           "minutes": 10
         },
-
         {
           "title": "SuperTest - HSK 2",
           "url": "https://www.hskonline.com/",
           "kind": "App",
           "minutes": 1346
         },
-
         {
           "title": "SuperChinese",
           "url": "https://www.superchinese.com/",
           "kind": "App",
           "minutes": 13763
         },
-
         {
           "title": "SuperTest - HSK 1",
           "url": "https://www.hskonline.com/",
           "kind": "App",
           "minutes": 1701
         },
-
         {
           "completionDate": "2023-05-30",
           "title": "Grammatica cinese di base",
@@ -2071,7 +1674,6 @@
           "kind": "Book",
           "minutes": 1200
         },
-
         {
           "completionDate": "2023-06-06",
           "title": "Grammatica cinese",
@@ -2079,7 +1681,6 @@
           "kind": "Book",
           "minutes": 420
         },
-
         {
           "completionDate": "2023-09-26",
           "title": "Assimil - Cinese - Principianti",
@@ -2087,7 +1688,6 @@
           "kind": "Exercise Book",
           "minutes": 700
         },
-
         {
           "completionDate": "2023-06-21",
           "title": "La pronuncia del cinese",
@@ -2095,7 +1695,6 @@
           "kind": "Book",
           "minutes": 750
         },
-
         {
           "completionDate": "2023-06-07",
           "title": "Chinesimple - HSK1",
@@ -2103,7 +1702,6 @@
           "kind": "App",
           "minutes": 260
         },
-
         {
           "completionDate": "2023-08-13",
           "title": "Grammatica della lingua cinese",
@@ -2111,7 +1709,6 @@
           "kind": "Book",
           "minutes": 1830
         },
-
         {
           "completionDate": "2023-06-12",
           "title": "Mariposas HSK 1",
@@ -2119,7 +1716,6 @@
           "kind": "Book",
           "minutes": 900
         },
-
         {
           "completionDate": "2023-07-20",
           "title": "Mariposas HSK 2",
@@ -2127,7 +1723,6 @@
           "kind": "Book",
           "minutes": 720
         },
-
         {
           "completionDate": "2023-10-01",
           "title": "Mariposas HSK 2 - Season 2",
@@ -2135,7 +1730,6 @@
           "kind": "Book",
           "minutes": 1493
         },
-
         {
           "completionDate": "2023-11-12",
           "title": "Mariposas HSK 2 - Season 3",
@@ -2143,7 +1737,6 @@
           "kind": "Book",
           "minutes": 2082
         },
-
         {
           "completionDate": "2023-11-10",
           "title": "Reading and Writing Chinese [HSK 2]",
@@ -2151,7 +1744,6 @@
           "kind": "Book",
           "minutes": 120
         },
-
         {
           "completionDate": "2023-06-09",
           "title": "Reading and Writing Chinese [HSK 1]",
@@ -2178,10 +1770,6 @@
           "minutes": 2520
         }
       ]
-    },
-    "Law": {
-      "National Laws": [],
-      "International Agreements": []
     }
   }
 }
