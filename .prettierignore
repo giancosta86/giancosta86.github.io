@@ -2,3 +2,4 @@
 /out/
 /node_modules/
 cv/cv.css
+/pnpm-lock.yaml

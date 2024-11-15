@@ -9,10 +9,6 @@ const enforceModuleResolution = (webpackConfig, moduleName) => {
 };
 
 module.exports = {
-  future: {
-    webpack5: true
-  },
-
   webpack: config => {
     ["react", "react-dom"].forEach(moduleName =>
       enforceModuleResolution(config, moduleName)
