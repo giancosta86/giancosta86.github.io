@@ -4,11 +4,13 @@
       "GitHub projects": {
         "Rust": [
           {
-            "title": "<COMING-SOON PROJECT 2>",
+            "title": "drago",
+            "url": "https://github.com/giancosta86/drago",
             "minutes": 600
           },
           {
-            "title": "<COMING-SOON PROJECT>",
+            "title": "chinese-rand",
+            "url": "https://github.com/giancosta86/chinese-rand",
             "minutes": 3386
           },
           {

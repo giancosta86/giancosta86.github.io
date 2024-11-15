@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "15.4.7",
+  "version": "15.5.0",
   "description": "Personal website",
   "homepage": "https://gianlucacosta.info/",
   "bugs": "https://github.com/giancosta86/giancosta86.github.io/issues",
@@ -13,21 +13,21 @@
   "repository": "giancosta86/giancosta86.github.io",
   "scripts": {
     "clean": "rimraf .next out cv/cv.css public/cv_costa_en.pdf",
-    "clean:all": "yarn clean && rimraf node_modules",
+    "clean:all": "pnpm clean && rimraf node_modules",
     "format": "prettier --write .",
-    "check-all": "yarn check-format && yarn lint",
+    "check-all": "pnpm check-format && pnpm lint",
     "check-format": "prettier --check .",
     "lint": "next lint",
-    "build": "yarn check-all && yarn build-cv && next build",
-    "build-cv": "yarn build-cv-css && yarn build-cv-pdf",
+    "build": "pnpm check-all && pnpm build-cv && next build",
+    "build-cv": "pnpm build-cv-css && pnpm build-cv-pdf",
     "build-cv-pdf": "ts-node cv/build_cv.ts",
-    "build-cv-css": "yarn sass --no-source-map cv:cv",
+    "build-cv-css": "pnpm sass --no-source-map cv:cv",
     "watch": "npm-watch",
-    "start": "concurrently \"yarn dev\" \"yarn watch\"",
+    "start": "concurrently \"pnpm dev\" \"pnpm watch\"",
     "dev": "next dev -- -H 0.0.0.0",
     "prod": "next start",
     "export": "next export",
-    "rebuild": "yarn clean && yarn build && yarn export"
+    "rebuild": "pnpm clean && pnpm build && pnpm export"
   },
   "dependencies": {
     "@giancosta86/omnicourse": "^2.3.1",

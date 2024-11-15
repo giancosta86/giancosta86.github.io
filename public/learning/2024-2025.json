@@ -1,0 +1,1510 @@
+{
+  "Science": {
+    "Information Technology": {
+      "GitHub projects": {
+        "Rust": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 1384
+          },
+
+          {
+            "title": "drago",
+            "url": "https://github.com/giancosta86/drago",
+            "minutes": 2707
+          },
+          {
+            "title": "chinese-rand",
+            "url": "https://github.com/giancosta86/chinese-rand",
+            "minutes": 1467
+          },
+          {
+            "title": "chinese-format",
+            "url": "https://github.com/giancosta86/chinese-format",
+            "minutes": 1382
+          },
+          {
+            "title": "digit-sequence",
+            "url": "https://github.com/giancosta86/digit-sequence",
+            "minutes": 1186
+          },
+          {
+            "title": "dyn-error",
+            "url": "https://github.com/giancosta86/dyn-error",
+            "minutes": 595
+          }
+        ],
+        "TypeScript": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 1384
+          },
+
+          {
+            "title": "aurora-ts",
+            "url": "https://github.com/giancosta86/aurora-ts",
+            "minutes": 4549
+          },
+
+          {
+            "title": "prismatic",
+            "url": "https://github.com/giancosta86/prismatic",
+            "minutes": 152
+          },
+
+          {
+            "title": "rigoletto",
+            "url": "https://github.com/giancosta86/rigoletto",
+            "minutes": 4124
+          },
+
+          {
+            "title": "beatrice",
+            "url": "https://github.com/giancosta86/beatrice",
+            "minutes": 733
+          }
+        ],
+        "React": [
+          {
+            "title": "<COMING-SOON PROJECT>",
+            "minutes": 1559
+          },
+
+          {
+            "title": "aurora-react",
+            "url": "https://github.com/giancosta86/aurora-react",
+            "minutes": 866
+          },
+
+          {
+            "title": "captain-hook",
+            "url": "https://github.com/giancosta86/captain-hook",
+            "minutes": 1010
+          },
+
+          {
+            "title": "Arcadia",
+            "url": "https://github.com/giancosta86/Arcadia",
+            "minutes": 278
+          },
+
+          {
+            "title": "Gianluca Costa's Creations",
+            "url": "https://github.com/giancosta86/giancosta86.github.io",
+            "minutes": 305
+          }
+        ],
+        "DOM": [],
+        "Elm": [],
+        "Bash": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 5537
+          }
+        ],
+        "GitHub Actions": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 5537
+          }
+        ],
+        "Java": [
+          {
+            "title": "Revising my GitHub Java/Scala projects",
+            "url": "https://github.com/giancosta86",
+            "minutes": 1106
+          }
+        ],
+        "NodeJS": [
+          {
+            "title": "prismatic",
+            "url": "https://github.com/giancosta86/prismatic",
+            "minutes": 152
+          },
+
+          {
+            "title": "aurora-ts",
+            "url": "https://github.com/giancosta86/aurora-ts",
+            "minutes": 4549
+          },
+
+          {
+            "title": "aurora-react",
+            "url": "https://github.com/giancosta86/aurora-react",
+            "minutes": 966
+          }
+        ]
+      },
+
+      "Educational": {
+        "Ecosystems": {
+          ".NET": {
+            "C#": [
+              {
+                "completionDate": "2024-05-19",
+                "title": "String Manipulation and Regex in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-string-manipulation-regex",
+                "minutes": 297
+              },
+
+              {
+                "completionDate": "2024-05-23",
+                "title": "Working with Files in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-working-files",
+                "minutes": 225
+              }
+            ],
+            "F#": [],
+            "Platform": []
+          },
+          "Java": [
+            {
+              "completionDate": "2024-09-25",
+              "title": "What's New in Java 21",
+              "url": "https://www.pluralsight.com/courses/whats-new-java-21",
+              "minutes": 69
+            },
+
+            {
+              "completionDate": "2024-08-31",
+              "title": "Java 8 Fundamentals: Input/Output",
+              "url": "https://www.pluralsight.com/courses/java-fundamentals-input-output",
+              "minutes": 236
+            },
+
+            {
+              "completionDate": "2024-08-27",
+              "title": "Working with Java I/O API in Java SE Applications (Java SE 11 Developer Certification 1Z0-819)",
+              "url": "https://www.pluralsight.com/courses/java-io-api-java-se-applications-java-se-11-developer-certification-1z0-819",
+              "minutes": 137
+            },
+
+            {
+              "completionDate": "2024-08-25",
+              "title": "Java Playbook",
+              "url": "https://www.pluralsight.com/courses/java-se-17-playbook",
+              "minutes": 255
+            },
+            {
+              "completionDate": "2024-08-01",
+              "title": "Java SE: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/java-se-17-big-picture",
+              "minutes": 91
+            },
+
+            {
+              "completionDate": "2024-09-24",
+              "title": "What's New in Java SE 18 & 19",
+              "url": "https://www.pluralsight.com/courses/java-se-18-whats-new",
+              "minutes": 66
+            },
+
+            {
+              "completionDate": "2024-09-23",
+              "title": "What's New in Java 16",
+              "url": "https://www.pluralsight.com/courses/java-16-whats-new",
+              "minutes": 86
+            },
+
+            {
+              "completionDate": "2024-09-21",
+              "title": "What's New in Java 15",
+              "url": "https://www.pluralsight.com/courses/java-15-whats-new",
+              "minutes": 68
+            },
+
+            {
+              "completionDate": "2024-09-20",
+              "title": "What's New in Java 14",
+              "url": "https://www.pluralsight.com/courses/java-14-whats-new",
+              "minutes": 68
+            },
+
+            {
+              "completionDate": "2024-09-19",
+              "title": "What’s New in Java 13",
+              "url": "https://www.pluralsight.com/courses/whats-new-in-java-13",
+              "minutes": 46
+            },
+
+            {
+              "completionDate": "2024-09-16",
+              "title": "What's New in Java 12",
+              "url": "https://www.pluralsight.com/courses/java-12-whats-new",
+              "minutes": 67
+            },
+
+            {
+              "completionDate": "2024-09-16",
+              "title": "What’s New in Java 11: Long-term Support",
+              "url": "https://www.pluralsight.com/courses/java-11-whats-new",
+              "minutes": 70
+            },
+
+            {
+              "completionDate": "2024-09-15",
+              "title": "What's New in Java 10: Local-variable Type Inference",
+              "url": "https://www.pluralsight.com/courses/whats-new-java-10-local-variable-type-inference",
+              "minutes": 60
+            },
+
+            {
+              "completionDate": "2024-09-14",
+              "title": "What's New in Java 9",
+              "url": "https://www.pluralsight.com/courses/java-9-whats-new",
+              "minutes": 213
+            },
+
+            {
+              "completionDate": "2024-09-07",
+              "title": "What's New in Java 8",
+              "url": "https://www.pluralsight.com/courses/java-8-whats-new",
+              "minutes": 255
+            },
+
+            {
+              "completionDate": "2024-08-22",
+              "title": "Using the Java NIO API",
+              "url": "https://www.pluralsight.com/courses/files-java-nio-api",
+              "minutes": 54
+            },
+
+            {
+              "completionDate": "2024-08-22",
+              "title": "Java 8 Fundamentals: NIO and NIO2",
+              "url": "https://www.pluralsight.com/courses/java-fundamentals-nio-nio2",
+              "minutes": 193
+            },
+
+            {
+              "completionDate": "2024-08-15",
+              "title": "Building an Application Using Java SE",
+              "url": "https://www.pluralsight.com/courses/java-se-17-building-application",
+              "minutes": 186
+            },
+
+            {
+              "completionDate": "2024-08-16",
+              "title": "Collections in Java SE 17",
+              "url": "https://www.pluralsight.com/courses/java-se-17-collections",
+              "minutes": 209
+            },
+
+            {
+              "completionDate": "2024-08-04",
+              "title": "Java SE Fundamentals",
+              "url": "https://www.pluralsight.com/courses/java-se-17-fundamentals",
+              "minutes": 420
+            },
+
+            {
+              "completionDate": "2024-08-08",
+              "title": "Exception Handling in Java SE",
+              "url": "https://www.pluralsight.com/courses/java-se-17-exception-handling",
+              "minutes": 105
+            },
+
+            {
+              "completionDate": "2024-08-11",
+              "title": "Java SE Advanced Language Features",
+              "url": "https://www.pluralsight.com/courses/java-se-17-advanced-language-features",
+              "minutes": 360
+            },
+
+            {
+              "completionDate": "2024-08-17",
+              "title": "Logging and Management in Java SE",
+              "url": "https://www.pluralsight.com/courses/java-se-17-logging-management",
+              "minutes": 70
+            }
+          ],
+          "Scala": [
+            {
+              "completionDate": "2024-09-26",
+              "title": "Scala Language: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/scala-language-big-picture",
+              "minutes": 40
+            },
+
+            {
+              "completionDate": "2024-09-26",
+              "title": "Scala 2 Language: Getting Started",
+              "url": "https://www.pluralsight.com/courses/scala-language-getting-started",
+              "minutes": 123
+            },
+
+            {
+              "completionDate": "2024-09-26",
+              "title": "Scala 2 Classes and Objects",
+              "url": "https://www.pluralsight.com/courses/scala-classes-objects",
+              "minutes": 64
+            },
+
+            {
+              "completionDate": "2024-10-02",
+              "title": "Scala Type Classes and Parameterization",
+              "url": "https://www.pluralsight.com/courses/scala-type-classes-parameterization",
+              "minutes": 90
+            },
+
+            {
+              "completionDate": "2024-10-04",
+              "title": "Scala Collections",
+              "url": "https://www.pluralsight.com/courses/scala-collections",
+              "minutes": 119
+            },
+
+            {
+              "completionDate": "2024-10-06",
+              "title": "Scala Fundamentals: The Type System",
+              "url": "https://www.pluralsight.com/courses/scala-fundamentals-type-system",
+              "minutes": 126
+            }
+          ],
+          "Kotlin": [
+            {
+              "completionDate": "2024-11-04",
+              "title": "Kotlin Reflection",
+              "url": "https://www.pluralsight.com/courses/kotlin-reflection",
+              "minutes": 61
+            },
+            {
+              "completionDate": "2024-10-25",
+              "title": "Error Handling in Kotlin",
+              "url": "https://www.pluralsight.com/courses/kotlin-error-handling",
+              "minutes": 114
+            },
+
+            {
+              "completionDate": "2024-10-26",
+              "title": "Kotlin for Java Developers",
+              "url": "https://www.pluralsight.com/courses/kotlin-java-developers",
+              "minutes": 141
+            },
+            {
+              "completionDate": "2024-10-11",
+              "title": "Kotlin: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/kotlin-big-picture",
+              "minutes": 55
+            },
+
+            {
+              "completionDate": "2024-10-15",
+              "title": "Kotlin Fundamentals",
+              "url": "https://www.pluralsight.com/courses/fundamentals-kotlin",
+              "minutes": 305
+            }
+          ],
+          "Groovy": [],
+          "JavaScript": [],
+          "TypeScript": [],
+          "Regular Expressions": [],
+          "Bash": [
+            {
+              "completionDate": "2024-07-25",
+              "title": "Getting Started with Bash and Z Shell",
+              "url": "https://www.pluralsight.com/courses/bash-zshell-getting-started",
+              "minutes": 77
+            },
+
+            {
+              "completionDate": "2024-07-26",
+              "title": "Managing Files Using Bash and Z Shell",
+              "url": "https://www.pluralsight.com/courses/managing-files-using-bash-z-shell",
+              "minutes": 125
+            },
+
+            {
+              "completionDate": "2024-07-27",
+              "title": "Managing Jobs and Processes with Bash and Z Shell",
+              "url": "https://www.pluralsight.com/courses/managing-jobs-processes-bash-z-shell",
+              "minutes": 69
+            },
+
+            {
+              "completionDate": "2024-07-29",
+              "title": "Processing and Filtering Text Data with Bash and Z Shell",
+              "url": "https://www.pluralsight.com/courses/processing-filtering-text-data-bash-z-shell",
+              "minutes": 109
+            },
+
+            {
+              "completionDate": "2024-07-30",
+              "title": "Getting Started with Shell Scripting for Bash and Z Shell",
+              "url": "https://www.pluralsight.com/courses/shell-scripting-bash-zshell-getting-started",
+              "minutes": 64
+            },
+
+            {
+              "completionDate": "2024-07-30",
+              "title": "Mastering Bash and Z Shell Scripting Syntax",
+              "url": "https://www.pluralsight.com/courses/mastering-bash-z-shell-scripting-syntax",
+              "minutes": 163
+            },
+
+            {
+              "completionDate": "2024-07-31",
+              "title": "Operationalizing Bash and Z Shell Scripts",
+              "url": "https://www.pluralsight.com/courses/operationalizing-bash-z-shell-scripts",
+              "minutes": 181
+            }
+          ],
+          "Elm": [],
+          "Rust": [
+            {
+              "completionDate": "2024-05-30",
+              "title": "Rust & WebAssembly with JS (TS) - The Practical Guide",
+              "url": "https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide",
+              "minutes": 405,
+              "certificateUrl": "https://www.udemy.com/certificate/UC-a6fdb67e-d609-4569-aff6-68c2a95bcd19/"
+            }
+          ],
+          "Elixir": [],
+          "C": [],
+          "C++": [],
+          "Go": [],
+          "Python": [],
+          "R": [],
+          "Ruby": [],
+          "Flutter": [],
+          "Markdown": []
+        },
+
+        "Mobile Development": {
+          "Ionic": [],
+          "React Native": []
+        },
+        "Software Design": {
+          "Clean Code": {
+            "Principles": [],
+            "C#": [],
+            "Python": [],
+            "TypeScript": [],
+            "React": [],
+            "C++": [],
+            "Rust": [],
+            "Progressive Web Apps": [],
+            "Java": [
+              {
+                "completionDate": "2024-08-26",
+                "title": "Refactoring to SOLID Java",
+                "url": "https://www.pluralsight.com/courses/java-se-17-refactoring-solid-code",
+                "minutes": 117
+              },
+
+              {
+                "completionDate": "2024-08-28",
+                "title": "Java Best Practices",
+                "url": "https://www.pluralsight.com/courses/java-se-17-best-practices",
+                "minutes": 194
+              },
+
+              {
+                "completionDate": "2024-08-12",
+                "title": "Working with the Java Module System (Java SE 11 Developer Certification 1Z0-819)",
+                "url": "https://www.pluralsight.com/courses/java-module-system-java-se-11-developer-certification-1z0-819",
+                "minutes": 142
+              }
+            ]
+          },
+          "Fault tolerance": {
+            "Principles": [],
+            "C#": []
+          },
+          "Domain-Driven Design": [],
+          "Design Patterns": {
+            "Principles": [],
+            "C#": [],
+            "Java": [
+              {
+                "completionDate": "2024-09-03",
+                "title": "Design Patterns in Java: Behavioral",
+                "url": "https://www.pluralsight.com/courses/design-patterns-java-behavioral",
+                "minutes": 262
+              },
+
+              {
+                "completionDate": "2024-08-31",
+                "title": "Design Patterns in Java: Structural",
+                "url": "https://www.pluralsight.com/courses/design-patterns-java-structural",
+                "minutes": 172
+              },
+
+              {
+                "completionDate": "2024-08-27",
+                "title": "Design Patterns in Java: Creational",
+                "url": "https://www.pluralsight.com/courses/java-se-17-creational-design-patterns",
+                "minutes": 124
+              },
+
+              {
+                "completionDate": "2024-08-06",
+                "title": "Object-oriented Programming in Java",
+                "url": "https://www.pluralsight.com/courses/java-se-17-object-oriented-programming",
+                "minutes": 226
+              }
+            ],
+            "Scala": [
+              {
+                "completionDate": "2024-10-06",
+                "title": "Scala Design Patterns",
+                "url": "https://www.pluralsight.com/courses/scala-design-patterns",
+                "minutes": 94
+              }
+            ],
+            "Kotlin": [
+              {
+                "completionDate": "2024-11-05",
+                "title": "Building DSLs in Kotlin",
+                "url": "https://www.pluralsight.com/courses/kotlin-building-dsls",
+                "minutes": 92
+              },
+              {
+                "completionDate": "2024-10-22",
+                "title": "Object-Oriented Programming in Kotlin",
+                "url": "https://www.pluralsight.com/courses/kotlin-object-oriented-programming",
+                "minutes": 371
+              }
+            ]
+          },
+          "Microservices": {
+            "Principles": [],
+            ".NET": [],
+            "Go": []
+          },
+          "Functional Programming": {
+            "Principles": [],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [],
+            "RxJS": [],
+            "Redux": [],
+            "C#": [],
+            "Java": [
+              {
+                "completionDate": "2024-08-17",
+                "title": "Lambda Expressions in Java",
+                "url": "https://www.pluralsight.com/courses/lambda-expressions-java",
+                "minutes": 178
+              },
+
+              {
+                "completionDate": "2024-09-05",
+                "title": "Implementing Design Patterns Using Java 8 Lambda",
+                "url": "https://www.pluralsight.com/courses/implementing-design-patterns-java-8-lambda-expression",
+                "minutes": 189
+              },
+
+              {
+                "completionDate": "2024-08-16",
+                "title": "Working with Streams and Lambda Expressions in Java (Java SE 11 Developer Certification 1Z0-819)",
+                "url": "https://www.pluralsight.com/courses/streams-lambda-expressions-java-se-11-developer-certification-1z0-819",
+                "minutes": 147
+              }
+            ],
+            "Rust": [],
+            "Scala": [
+              {
+                "completionDate": "2024-10-01",
+                "title": "Scala 2 Methods and Functions",
+                "url": "https://www.pluralsight.com/courses/scala-methods-functions",
+                "minutes": 196
+              }
+            ],
+            "Kotlin": []
+          },
+          "Performance": {
+            "React": [],
+            "Python": [],
+            "C++": [],
+            "GraphQL": [],
+            "MongoDB": [],
+            "NodeJS": [],
+            "SAX": [],
+            "Web": [],
+            "Java": [
+              {
+                "completionDate": "2024-08-31",
+                "title": "Java SE Performance with JMeter",
+                "url": "https://www.pluralsight.com/courses/java-se-17-jmeter-performance",
+                "minutes": 195
+              }
+            ]
+          },
+
+          "Concurrency": {
+            ".NET": [],
+            "NodeJS": [],
+            "Java": [
+              {
+                "completionDate": "2024-08-24",
+                "title": "Asynchronous Programming in Java",
+                "url": "https://www.pluralsight.com/courses/java-se-17-asynchronous-programming",
+                "minutes": 118
+              },
+
+              {
+                "completionDate": "2024-08-31",
+                "title": "Concurrent Programming in Java with Virtual Threads",
+                "url": "https://www.pluralsight.com/courses/java-concurrent-programming-virtual-threads",
+                "minutes": 161
+              },
+
+              {
+                "completionDate": "2024-08-19",
+                "title": "Implementing Concurrency in Java (Java SE 11 Developer Certification 1Z0-819)",
+                "url": "https://www.pluralsight.com/courses/java-concurrency-implementing-certification-1z0-819",
+                "minutes": 147
+              },
+
+              {
+                "completionDate": "2024-08-20",
+                "title": "Applying Concurrency and Multi-threading to Common Java 8 Patterns",
+                "url": "https://www.pluralsight.com/courses/java-patterns-concurrency-multi-threading",
+                "minutes": 160
+              },
+
+              {
+                "completionDate": "2024-08-21",
+                "title": "Advanced Java 8 Concurrent Patterns",
+                "url": "https://www.pluralsight.com/courses/java-concurrent-patterns-advanced",
+                "minutes": 208
+              }
+            ],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [],
+            "React": [],
+            "Browser": [],
+            "Rust": [],
+            "Scala": [
+              {
+                "completionDate": "2024-10-10",
+                "title": "Scala Asynchronous Programming",
+                "url": "https://www.pluralsight.com/courses/scala-asynchronous-programming",
+                "minutes": 88
+              }
+            ],
+            "Kotlin": [
+              {
+                "completionDate": "2024-11-01",
+                "title": "Kotlin Coroutines",
+                "url": "https://www.pluralsight.com/courses/kotlin-coroutines",
+                "minutes": 303
+              }
+            ]
+          },
+
+          "Event-driven": {
+            "NodeJS": [],
+            "Python": [],
+            ".NET": [],
+            "RabbitMQ": [],
+            "CQRS": [],
+            "GraphQL": []
+          },
+
+          "Streaming": {
+            "NodeJS": []
+          },
+
+          "Testing": {
+            "Principles": [],
+            "Frontend": {
+              "Browser Automation": [],
+              "React": []
+            },
+            "Gherkin": [],
+            "C#": [
+              {
+                "completionDate": "2024-05-15",
+                "title": "C# Unit Testing",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-unit-testing",
+                "minutes": 136
+              }
+            ],
+            "TypeScript": [],
+            "JavaScript": [],
+            "Python": [],
+            "C++": [],
+            "Go": [],
+            "Load testing": [],
+            "GraphQL": [],
+            "Tools": [],
+            "Rust": [],
+            "Java": [
+              {
+                "completionDate": "2024-08-08",
+                "title": "Debugging Java",
+                "url": "https://www.pluralsight.com/courses/java-se-17-debugging",
+                "minutes": 74
+              },
+
+              {
+                "completionDate": "2024-08-23",
+                "title": "TDD in Java",
+                "url": "https://www.pluralsight.com/courses/java-se-17-tdd",
+                "minutes": 110
+              },
+
+              {
+                "completionDate": "2024-08-13",
+                "title": "Java SE Unit Testing with JUnit",
+                "url": "https://www.pluralsight.com/courses/java-se-17-junit-unit-testing",
+                "minutes": 117
+              }
+            ],
+            "Scala": [
+              {
+                "completionDate": "2024-10-09",
+                "title": "Unit Testing in Scala 3",
+                "url": "https://www.pluralsight.com/courses/unit-testing-scala",
+                "minutes": 145
+              }
+            ],
+            "Kotlin": [
+              {
+                "completionDate": "2024-11-03",
+                "title": "Kotlin Unit Testing with JUnit",
+                "url": "https://www.pluralsight.com/courses/kotlin-unit-testing-junit",
+                "minutes": 207
+              }
+            ]
+          },
+          "Game development": {
+            "Unity": []
+          }
+        },
+
+        "CI / CD": {
+          "Principles": [],
+
+          "Source Control": {
+            "Git": [],
+            "GitHub": [
+              {
+                "completionDate": "2024-07-17",
+                "title": "GitHub Fundamentals",
+                "url": "https://www.pluralsight.com/courses/fundamentals-github",
+                "minutes": 266
+              },
+
+              {
+                "completionDate": "2024-07-17",
+                "title": "Getting Started with GitHub Desktop",
+                "url": "https://www.pluralsight.com/courses/getting-started-github-desktop",
+                "minutes": 68
+              },
+
+              {
+                "completionDate": "2024-07-19",
+                "title": "Open Source Your GitHub Project",
+                "url": "https://www.pluralsight.com/courses/open-source-your-github-project",
+                "minutes": 125
+              },
+
+              {
+                "completionDate": "2024-07-20",
+                "title": "Contributing to an Open Source Project on GitHub",
+                "url": "https://www.pluralsight.com/courses/contributing-open-source-project-github",
+                "minutes": 108
+              },
+
+              {
+                "completionDate": "2024-07-21",
+                "title": "GitHub Foundations: Adopting an InnerSource Culture with GitHub",
+                "url": "https://www.pluralsight.com/courses/adopting-innersource-culture-github",
+                "minutes": 102
+              },
+
+              {
+                "completionDate": "2024-07-21",
+                "title": "GitHub Pull Requests from Start to Finish",
+                "url": "https://www.pluralsight.com/courses/github-pull-requests-from-start-finish",
+                "minutes": 91
+              }
+            ]
+          },
+
+          "Build Tools": {
+            "TypeScript": [],
+            "JavaScript": [],
+            "Python": [],
+            "Go": [],
+            "React": [],
+            "React Native": [],
+            "NodeJS": [
+              {
+                "title": "ESM vs CommonJS in your Node Projects",
+                "url": "https://youtu.be/I3DrifH-rJE",
+                "kind": "Video",
+                "minutes": 13
+              }
+            ],
+            "Docker": [],
+            "Java": [],
+            ".NET": [],
+            "Elm": [],
+            "Rust": [],
+            "Maven": [
+              {
+                "completionDate": "2024-07-23",
+                "title": "Maven Fundamentals",
+                "url": "https://www.pluralsight.com/courses/fundamentals-maven",
+                "minutes": 154
+              }
+            ],
+            "Gradle": [
+              {
+                "completionDate": "2024-07-24",
+                "title": "Gradle 7 Build Tool Fundamentals",
+                "url": "https://www.pluralsight.com/courses/gradle-build-tool-fundamentals",
+                "minutes": 150
+              }
+            ],
+            "SBT": [
+              {
+                "completionDate": "2024-09-30",
+                "title": "Scala 1 Build Tool: Getting Started",
+                "url": "https://www.pluralsight.com/courses/scala-build-tool-getting-started",
+                "minutes": 98
+              }
+            ],
+            "Gulp.js": [
+              {
+                "title": "Gulp.js",
+                "url": "https://gulpjs.com/",
+                "kind": "Website",
+                "minutes": 151
+              },
+
+              {
+                "completionDate": "2024-08-25",
+                "title": "Gulp - Build a Web Developer Starter Kit",
+                "url": "https://www.udemy.com/course/build-a-web-developer-starter-kit/",
+                "minutes": 99
+              }
+            ]
+          },
+
+          "Microservices": [],
+
+          "Progressive Web Apps": [],
+
+          "GitHub Actions": [
+            {
+              "completionDate": "2024-07-10",
+              "title": "GitHub Actions: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/github-actions-big-picture",
+              "minutes": 42
+            },
+            {
+              "completionDate": "2024-07-13",
+              "title": "Getting Started with GitHub Actions",
+              "url": "https://www.pluralsight.com/courses/github-actions-getting-started",
+              "minutes": 95
+            },
+
+            {
+              "completionDate": "2024-07-14",
+              "title": "Building Custom GitHub Actions",
+              "url": "https://www.pluralsight.com/courses/building-custom-github-actions",
+              "minutes": 130
+            }
+          ],
+          "Jenkins": [],
+          "Octopus": [],
+          "Travis": [],
+          "IDEs & editors": []
+        },
+
+        "Cloud & Virtualization": {
+          "Network Principles": [],
+          "WebSockets": [],
+          "Amazon Web Services": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": [],
+            "API Gateway": [],
+            "DNS": [],
+            "Load Balancing": [],
+            "Optimization": []
+          },
+          "Azure": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": []
+          },
+          "Docker": [],
+          "Kubernetes": [],
+          "IoT": [],
+          "Operating Systems": {
+            "Linux": [
+              {
+                "title": "Linux maintenance",
+                "minutes": 575
+              }
+            ],
+            "Windows": []
+          },
+          "Telemetry": []
+        },
+
+        "Frontend": {
+          "Principles": [],
+          "React": [],
+          "Vue": [],
+          "Angular": [],
+          "AngularJS": [],
+          "jQuery": [],
+          "CSS": {
+            "Standard": [],
+            "Less": [],
+            "Sass": [],
+            "Bulma": [],
+            "Bootstrap": []
+          },
+          "User Experience": [],
+          "Browser": {
+            "Plugins": [],
+            "Chrome": []
+          },
+          "Blazor": [],
+          "Webpack": [],
+          "Progressive Web Apps": [],
+          "WebAssembly": [
+            {
+              "completionDate": "2024-05-30",
+              "title": "Rust & WebAssembly with JS (TS) - The Practical Guide",
+              "url": "https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide",
+              "minutes": 405,
+              "certificateUrl": "https://www.udemy.com/certificate/UC-a6fdb67e-d609-4569-aff6-68c2a95bcd19/"
+            }
+          ],
+          "Rendering": [],
+          "Accessibility": [],
+          "Desktop Apps": {
+            "Electron": []
+          },
+          "GraphQL": [],
+          "HTML": [],
+          "NextJS": [],
+          "DOM": []
+        },
+
+        "Backend": {
+          "Generic": [],
+          ".NET": [],
+          "Java": [],
+          "Scala": [],
+          "Ruby": [],
+          "Python": [],
+          "GraphQL": [],
+          "NodeJS": [],
+          "Deno": [],
+          "Go": [],
+          "Rust": [],
+          "Kotlin": [
+            {
+              "completionDate": "2024-11-10",
+              "title": "Building an HTTP Application with Ktor",
+              "url": "https://www.pluralsight.com/courses/building-http-application-ktor",
+              "minutes": 213
+            }
+          ]
+        },
+
+        "Security": {
+          "Principles": [],
+          "Network Security": [],
+          "Cryptography": [],
+          "Microservices": [],
+          "Blockchain": [],
+          "Frontend": [],
+          "Amazon Web Services": [],
+          "Azure": [],
+          "NodeJS": [],
+          "Python": [],
+          "GraphQL": [],
+          "MongoDB": [],
+          "Docker": [],
+          "GitHub": [
+            {
+              "completionDate": "2024-07-12",
+              "title": "Securing Your GitHub Project",
+              "url": "https://www.pluralsight.com/courses/github-project-securing",
+              "minutes": 92
+            },
+
+            {
+              "completionDate": "2024-07-21",
+              "title": "Supercharging Your GitHub Workflow",
+              "url": "https://www.pluralsight.com/courses/supercharging-git-workflow",
+              "minutes": 92
+            }
+          ],
+          "Java": [
+            {
+              "completionDate": "2024-08-29",
+              "title": "Secure Coding in Java",
+              "url": "https://www.pluralsight.com/courses/java-secure-coding-owasp",
+              "minutes": 168
+            }
+          ]
+        },
+
+        "Data Science": {
+          "Principles": [],
+          "Quantum Computing": [],
+          "Hadoop": [],
+          "Spark": [],
+          "Machine Learning": [],
+
+          "TensorFlow": [],
+          "Pandas": [],
+          "NumPy": [],
+
+          "Relational DBMS": {
+            "Principles": [],
+            "SQL Server": [],
+            "PostgreSQL": [],
+            "SQLite": [],
+            "MySQL": []
+          },
+
+          "NoSQL": {
+            "MongoDB": [],
+            "Redis": []
+          },
+
+          "Amazon Web Services": {
+            "Databases": {
+              "Principles": [],
+              "DynamoDB": []
+            }
+          }
+        },
+
+        "Applications": {
+          "Microsoft Office": []
+        },
+
+        "Data Access": {
+          "Java": [
+            {
+              "completionDate": "2024-08-08",
+              "title": "Data Access in Java SE 21 Fundamentals",
+              "url": "https://www.pluralsight.com/courses/java-se-17-data-access-fundamentals",
+              "minutes": 105
+            }
+          ],
+          "Kotlin": [
+            {
+              "completionDate": "2024-11-11",
+              "title": "Data Access with Exposed in Kotlin",
+              "url": "https://www.pluralsight.com/courses/kotlin-data-access-exposed",
+              "minutes": 122
+            }
+          ]
+        }
+      }
+    },
+    "Mathematics": [],
+    "Physics": [],
+    "Astronomy": [],
+    "Further Domains": {
+      "Electronics": {
+        "Principles": [],
+        "Arduino": [],
+        "Robotics": []
+      },
+      "Ecology": [],
+      "Biology": [],
+      "Crafts": [],
+      "Marketing": [],
+      "Management": [],
+      "Economy & Finance": [],
+      "Quality Assurance": [],
+      "Safety Protocols": []
+    }
+  },
+  "Humanism": {
+    "Personal Development": [],
+    "Learning & teaching": [],
+    "Innovation": [],
+    "Human Interactions": {
+      "Principles": [],
+      "Remote work": [],
+      "Leadership": [],
+      "Listening": [],
+      "Speaking": [],
+      "Protocols": [],
+      "Diversity & Inclusion": [],
+      "Politics": [],
+      "Negotiation": []
+    },
+    "Agile": {
+      "Principles": [],
+      "Scrum": [],
+      "Kanban": []
+    },
+
+    "Enterprise HR": [],
+
+    "Art": {
+      "Visual": {
+        "Computer Graphics": {
+          "Inkscape": [],
+          "Gimp": [
+            {
+              "title": "Miscellaneous",
+              "minutes": 176
+            }
+          ]
+        },
+        "Diagrams": {
+          "Dia": [],
+          "Draw.io": [
+            {
+              "title": "Miscellaneous",
+              "minutes": 300
+            }
+          ]
+        },
+        "Design": [],
+        "Color Theory": [],
+        "Pencil Drawing": [
+          {
+            "title": "Miscellaneous",
+            "minutes": 170
+          }
+        ]
+      },
+      "Music": [],
+      "Video": [],
+      "Poetry": {
+        "Arcadia": [
+          {
+            "title": "L'ingegner pecorone",
+            "url": "https://gianlucacosta.info/Arcadia/ingegner-pecorone",
+            "kind": "Poem",
+            "minutes": 1440
+          }
+        ]
+      },
+      "Literature": {
+        "Dante": [
+          {
+            "title": "Dante - Inferno (Analisi)",
+            "completionDate": "2024-08-28",
+            "url": "https://www.oscarmondadori.it/libri/commedia-vol-i-inferno-dante-alighieri/",
+            "kind": "Book",
+            "minutes": 257
+          }
+        ],
+        "Victor Hugo": [],
+        "Pierre Corneille": [],
+        "Hellenism": []
+      }
+    },
+    "Philosophy": [],
+    "Languages": {
+      "English": [
+        {
+          "title": "Duolingo - Russian",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 226
+        }
+      ],
+      "French": [
+        {
+          "title": "Russe - Cahier d'exercices. Débutants",
+          "completionDate": "2024-11-10",
+          "url": "https://www.assimil.it/-300-russe-cahier-d-exercices-debutants-",
+          "kind": "Book",
+          "minutes": 338
+        }
+      ],
+      "Portuguese": [],
+      "Spanish": [
+        {
+          "title": "Contrastiva - Esercizi",
+          "completionDate": "2024-08-28",
+          "url": "https://clueb.it/libreria/contesti-linguistici/quaderno-esercizi-della-lingua-spagnola/",
+          "kind": "Book",
+          "minutes": 1969
+        },
+
+        {
+          "title": "La Biblia Latinoamérica",
+          "url": "https://verbodivino.es/Libro/25/la-biblia-latinoamerica-letra-grande-rustica",
+          "kind": "Book",
+          "minutes": 562
+        },
+
+        {
+          "title": "ConjuGato",
+          "url": "https://qotoqot.com/conjugato/",
+          "kind": "App",
+          "minutes": 154
+        },
+
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 459
+        }
+      ],
+      "Russian": [
+        {
+          "title": "Grammatica d'uso della lingua russa - A1",
+          "completionDate": "2024-10-22",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-duso-della-lingua-russa-a1-natalia-nikitina/9788820381905/1290",
+          "kind": "Book",
+          "minutes": 5482
+        },
+
+        {
+          "title": "Duolingo - Russian",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 4300
+        },
+
+        {
+          "title": "Russe - Cahier d'exercices. Débutants",
+          "completionDate": "2024-11-10",
+          "url": "https://www.assimil.it/-300-russe-cahier-d-exercices-debutants-",
+          "kind": "Book",
+          "minutes": 3042
+        },
+
+        {
+          "title": "Lexicon for TORFL A1",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Website",
+          "minutes": 180
+        },
+
+        {
+          "title": "Russo - Le basi. Quaderno di scrittura",
+          "completionDate": "2024-09-28",
+          "url": "https://www.assimil.it/-576-quaderno-di-scrittura-russo-le-basi",
+          "kind": "Book",
+          "minutes": 1111
+        },
+
+        {
+          "title": "Grammatica russa - Zip",
+          "completionDate": "2024-09-01",
+          "url": "https://www.google.it/books/edition/Grammatica_russa/u5TtsWpOhvQC",
+          "kind": "Book",
+          "minutes": 357
+        },
+
+        {
+          "title": "Bcë tak!",
+          "url": "https://www.hoeplieditore.it/universita/articolo/vse-tak-grammatica-e-lessico-della-lingua-russa-daniela-bonciani/9788820385699/1854",
+          "kind": "Book",
+          "minutes": 322
+        },
+
+        {
+          "title": "Wlingua - Russian",
+          "url": "https://russian.wlingua.com/",
+          "kind": "App",
+          "minutes": 203
+        }
+      ],
+      "Hindi": [],
+      "Arabic": [],
+      "Chinese": [
+        {
+          "title": "Mariposas HSK 4",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 9821
+        },
+        {
+          "title": "Mariposas HSK 3",
+          "completionDate": "2024-06-21",
+          "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
+          "kind": "Book",
+          "minutes": 7561
+        },
+        {
+          "title": "Immersive Chinese",
+          "url": "https://www.immersivechinese.com/",
+          "kind": "App",
+          "minutes": 1372
+        },
+        {
+          "title": "Cracking Chinese radicals",
+          "completionDate": "2024-06-30",
+          "url": "https://www.amazon.it/Cracking-Chinese-Radicals-illustrations-memorization/dp/B0CZTFJWLJ",
+          "kind": "Book",
+          "minutes": 1134
+        },
+        {
+          "title": "Hanping Flashcards for HSK 3",
+          "completionDate": "2024-06-21",
+          "url": "https://hanpingchinese.com/",
+          "kind": "App",
+          "minutes": 925
+        },
+        {
+          "title": "HSK 5000 - Volume 1 (Audio)",
+          "url": "https://blcup.com/enPInfo/index/258",
+          "kind": "Audio",
+          "minutes": 883
+        },
+
+        {
+          "title": "Linguistica Cinese",
+          "completionDate": "2024-07-16",
+          "url": "https://patroneditore.eu/volumi/9788855533454/linguistica-cinese",
+          "kind": "Book",
+          "minutes": 809
+        },
+
+        {
+          "title": "HSK 5000 - Volume 1",
+          "url": "https://blcup.com/enPInfo/index/258",
+          "kind": "Book",
+          "minutes": 665
+        },
+
+        {
+          "title": "SuperChinese - Vocabulary review",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 637
+        },
+
+        {
+          "title": "Chinese Writer",
+          "url": "https://play.google.com/store/apps/details?id=com.molatra.chinesewriterlite",
+          "kind": "App",
+          "minutes": 527
+        },
+
+        {
+          "title": "La scrittura cinese nei secoli",
+          "completionDate": "2024-07-26",
+          "url": "https://www.carocci.it/prodotto/la-scrittura-cinese-nei-secoli",
+          "kind": "Book",
+          "minutes": 498
+        },
+
+        {
+          "title": "Pinyin Trainer",
+          "url": "https://play.google.com/store/apps/details?id=com.molatra.pinyintrainer",
+          "kind": "App",
+          "minutes": 360
+        },
+
+        {
+          "title": "Pleco Flashcards for HSK 3",
+          "url": "https://www.pleco.com/",
+          "kind": "App",
+          "minutes": 347
+        },
+
+        {
+          "title": "ChineSimple for HSK 3",
+          "url": "https://khanjischool.com/",
+          "kind": "App",
+          "minutes": 343
+        },
+
+        {
+          "title": "La scrittura cinese - Assimil",
+          "completionDate": "2024-06-08",
+          "url": "https://www.assimil.it/-884-il-cinese-scrittura",
+          "kind": "Book",
+          "minutes": 430
+        },
+
+        {
+          "title": "SuperChinese - Grammar review",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 627
+        },
+
+        {
+          "title": "Hanzi for HSK 1-3",
+          "url": "https://www.google.it/books/edition/Hanzi_for_HSK_1_3/R5rsEAAAQBAJ",
+          "kind": "Book",
+          "minutes": 540
+        },
+
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 8719
+        },
+
+        {
+          "title": "SuperTest - HSK 3",
+          "completionDate": "2024-06-21",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 3980
+        },
+
+        {
+          "title": "SuperTest - Grammar review for HSK 3",
+          "completionDate": "2024-06-10",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 480
+        },
+
+        {
+          "title": "SuperTest - Vocabulary review for HSK 3",
+          "completionDate": "2024-06-14",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 720
+        },
+
+        {
+          "title": "SuperChinese - Grammar review for HSK 3",
+          "completionDate": "2024-06-16",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 750
+        },
+
+        {
+          "title": "SuperTest - HSK 4",
+          "url": "https://www.hskonline.com/",
+          "kind": "App",
+          "minutes": 3844
+        }
+      ],
+      "Hebrew": [],
+      "Korean": []
+    },
+    "Law": {
+      "National Laws": [],
+      "International Agreements": []
+    }
+  }
+}

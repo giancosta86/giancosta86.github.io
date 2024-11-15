@@ -6,7 +6,11 @@
         "TypeScript": [],
         "React": [],
         "DOM": [],
-        "Elm": []
+        "Elm": [],
+        "Bash": [],
+        "GitHub Actions": [],
+        "Java": [],
+        "NodeJS": []
       },
 
       "Educational": {
@@ -49,7 +53,8 @@
             "React": [],
             "C++": [],
             "Rust": [],
-            "Progressive Web Apps": []
+            "Progressive Web Apps": [],
+            "Java": []
           },
           "Fault tolerance": {
             "Principles": [],
@@ -58,7 +63,10 @@
           "Domain-Driven Design": [],
           "Design Patterns": {
             "Principles": [],
-            "C#": []
+            "C#": [],
+            "Java": [],
+            "Scala": [],
+            "Kotlin": []
           },
           "Microservices": {
             "Principles": [],
@@ -75,7 +83,9 @@
             "Redux": [],
             "C#": [],
             "Java": [],
-            "Rust": []
+            "Rust": [],
+            "Scala": [],
+            "Kotlin": []
           },
           "Performance": {
             "React": [],
@@ -85,7 +95,8 @@
             "MongoDB": [],
             "NodeJS": [],
             "SAX": [],
-            "Web": []
+            "Web": [],
+            "Java": []
           },
 
           "Concurrency": {
@@ -98,7 +109,9 @@
             "Go": [],
             "React": [],
             "Browser": [],
-            "Rust": []
+            "Rust": [],
+            "Scala": [],
+            "Kotlin": []
           },
 
           "Event-driven": {
@@ -130,7 +143,10 @@
             "Load testing": [],
             "GraphQL": [],
             "Tools": [],
-            "Rust": []
+            "Rust": [],
+            "Java": [],
+            "Scala": [],
+            "Kotlin": []
           },
           "Game development": {
             "Unity": []
@@ -157,7 +173,11 @@
             "Java": [],
             ".NET": [],
             "Elm": [],
-            "Rust": []
+            "Rust": [],
+            "Maven": [],
+            "Gradle": [],
+            "SBT": [],
+            "Gulp.js": []
           },
 
           "Microservices": [],
@@ -249,7 +269,8 @@
           "NodeJS": [],
           "Deno": [],
           "Go": [],
-          "Rust": []
+          "Rust": [],
+          "Kotlin": []
         },
 
         "Security": {
@@ -265,7 +286,9 @@
           "Python": [],
           "GraphQL": [],
           "MongoDB": [],
-          "Docker": []
+          "Docker": [],
+          "GitHub": [],
+          "Java": []
         },
 
         "Data Science": {
@@ -297,6 +320,11 @@
               "Principles": [],
               "DynamoDB": []
             }
+          },
+
+          "Data Access": {
+            "Java": [],
+            "Kotlin": []
           }
         },
 
@@ -358,7 +386,8 @@
           "Draw.io": []
         },
         "Design": [],
-        "Color Theory": []
+        "Color Theory": [],
+        "Pencil Drawing": []
       },
       "Music": [],
       "Video": [],
