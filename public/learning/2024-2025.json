@@ -6,7 +6,7 @@
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 1384
+            "minutes": 1100
           },
 
           {
@@ -39,13 +39,13 @@
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 1384
+            "minutes": 1160
           },
 
           {
-            "title": "aurora-ts",
-            "url": "https://github.com/giancosta86/aurora-ts",
-            "minutes": 4549
+            "title": "aurora-typescript",
+            "url": "https://github.com/giancosta86/aurora-typescript",
+            "minutes": 3109
           },
 
           {
@@ -57,13 +57,37 @@
           {
             "title": "rigoletto",
             "url": "https://github.com/giancosta86/rigoletto",
-            "minutes": 4124
+            "minutes": 8201
+          },
+
+          {
+            "title": "typedoc-readonly",
+            "url": "https://github.com/giancosta86/typedoc-readonly",
+            "minutes": 2144
+          },
+
+          {
+            "title": "ulysses",
+            "url": "https://github.com/giancosta86/ulysses",
+            "minutes": 65
+          },
+
+          {
+            "title": "omnicourse-core",
+            "url": "https://github.com/giancosta86/omnicourse-core",
+            "minutes": 1624
           },
 
           {
             "title": "beatrice",
             "url": "https://github.com/giancosta86/beatrice",
             "minutes": 733
+          },
+
+          {
+            "title": "minerva",
+            "url": "https://github.com/giancosta86/minerva",
+            "minutes": 93
           }
         ],
         "React": [
@@ -87,7 +111,7 @@
           {
             "title": "Arcadia",
             "url": "https://github.com/giancosta86/Arcadia",
-            "minutes": 278
+            "minutes": 426
           },
 
           {
@@ -102,21 +126,46 @@
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 5537
+            "minutes": 8981
+          },
+
+          {
+            "title": "aurora-bash",
+            "url": "https://github.com/giancosta86/aurora-bash",
+            "minutes": 1080
+          }
+        ],
+        "Elvish": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 7803
+          },
+
+          {
+            "title": "aurora-elvish",
+            "url": "https://github.com/giancosta86/aurora-elvish",
+            "minutes": 1425
+          },
+
+          {
+            "title": "aurora-typescript",
+            "url": "https://github.com/giancosta86/aurora-typescript",
+            "minutes": 2100
           }
         ],
         "GitHub Actions": [
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 5537
+            "minutes": 13009
           }
         ],
         "Java": [
           {
             "title": "Revising my GitHub Java/Scala projects",
             "url": "https://github.com/giancosta86",
-            "minutes": 1106
+            "minutes": 1214
           }
         ],
         "NodeJS": [
@@ -156,6 +205,146 @@
                 "title": "Working with Files in C#",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-working-files",
                 "minutes": 225
+              },
+
+              {
+                "completionDate": "2025-02-05",
+                "title": "C#: The Big Picture",
+                "url": "https://www.pluralsight.com/courses/c-sharp-big-picture",
+                "minutes": 63
+              },
+
+              {
+                "completionDate": "2025-02-25",
+                "title": "C# Fundamentals",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-fundamentals",
+                "minutes": 540
+              },
+
+              {
+                "completionDate": "2025-02-27",
+                "title": "Debugging C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-debugging",
+                "minutes": 161
+              },
+
+              {
+                "completionDate": "2025-03-09",
+                "title": "Building a Real-world C# Application",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-building-real-world-application",
+                "minutes": 219
+              },
+
+              {
+                "completionDate": "2025-05-06",
+                "title": "What’s New in C# 8.0 and .NET Core 3.0",
+                "url": "https://www.pluralsight.com/courses/csharp-8-dotnet-core-3-whats-new",
+                "minutes": 108
+              },
+
+              {
+                "completionDate": "2025-05-06",
+                "title": "What's New in C# 9.0",
+                "url": "https://www.pluralsight.com/courses/whats-new-c-sharp-nine",
+                "minutes": 43
+              },
+
+              {
+                "completionDate": "2025-05-06",
+                "title": "What's New in C# 10",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-whats-new",
+                "minutes": 49
+              },
+
+              {
+                "completionDate": "2025-05-07",
+                "title": "What's New in C# 11",
+                "url": "https://www.pluralsight.com/courses/c-sharp-11-whats-new",
+                "minutes": 38
+              },
+
+              {
+                "completionDate": "2025-05-07",
+                "title": "What's New in C# 12",
+                "url": "https://www.pluralsight.com/courses/c-sharp-12-whats-new",
+                "minutes": 25
+              },
+
+              {
+                "completionDate": "2025-05-07",
+                "title": "What's New in C# 13",
+                "url": "https://www.pluralsight.com/courses/c-sharp-13-whats-new",
+                "minutes": 17
+              },
+
+              {
+                "completionDate": "2025-05-10",
+                "title": "Developing Source Generators in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-developing-source-generators",
+                "minutes": 232
+              },
+
+              {
+                "completionDate": "2025-03-17",
+                "title": "C# Playbook",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-playbook",
+                "minutes": 468
+              },
+
+              {
+                "completionDate": "2025-03-22",
+                "title": "String Manipulation and Regex in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-string-manipulation-regex",
+                "minutes": 297
+              },
+
+              {
+                "completionDate": "2025-04-17",
+                "title": "Collections and Generics in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-collections-generics",
+                "minutes": 283
+              },
+
+              {
+                "completionDate": "2025-04-20",
+                "title": "C# Events, Delegates, and Lambdas",
+                "url": "https://www.pluralsight.com/courses/c-sharp-events-delegates-lambdas",
+                "minutes": 98
+              },
+
+              {
+                "completionDate": "2025-04-24",
+                "title": "C# Reflection",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-reflection",
+                "minutes": 144
+              },
+
+              {
+                "completionDate": "2025-04-25",
+                "title": "C# Dependency Injection",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-dependency-injection",
+                "minutes": 163
+              },
+
+              {
+                "completionDate": "2025-05-01",
+                "title": "C# Advanced Language Features",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-language-features-advanced",
+                "minutes": 403
+              },
+
+              {
+                "completionDate": "2025-05-02",
+                "title": "C# Best Practices",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-best-practices",
+                "minutes": 185
+              },
+
+              {
+                "completionDate": "2025-05-04",
+                "title": "Expression Trees in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-expression-trees",
+                "minutes": 104
               }
             ],
             "F#": [],
@@ -453,6 +642,21 @@
               "minutes": 181
             }
           ],
+          "Elvish": [
+            {
+              "title": "Elvish documentation",
+              "url": "https://elv.sh/",
+              "kind": "Website",
+              "minutes": 1885
+            }
+          ],
+          "Nushell": [
+            {
+              "title": "Nushell documentation",
+              "url": "https://www.nushell.sh/",
+              "minutes": 120
+            }
+          ],
           "Elm": [],
           "Rust": [
             {
@@ -461,6 +665,55 @@
               "url": "https://www.udemy.com/course/rust-webassembly-with-js-ts-the-practical-guide",
               "minutes": 405,
               "certificateUrl": "https://www.udemy.com/certificate/UC-a6fdb67e-d609-4569-aff6-68c2a95bcd19/"
+            },
+
+            {
+              "completionDate": "2025-05-14",
+              "title": "Macros and Metaprogramming in Rust",
+              "url": "https://www.pluralsight.com/courses/rust-macros-metaprogramming",
+              "minutes": 83
+            },
+
+            {
+              "completionDate": "2025-05-10",
+              "title": "Rust: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/rust-big-picture",
+              "minutes": 116
+            },
+
+            {
+              "completionDate": "2025-05-11",
+              "title": "Rust 2021 Fundamentals",
+              "url": "https://www.pluralsight.com/courses/rust-2021-fundamentals",
+              "minutes": 172
+            },
+
+            {
+              "completionDate": "2025-05-11",
+              "title": "Debugging Rust 2021 Applications",
+              "url": "https://www.pluralsight.com/courses/rust-2021-debugging-applications",
+              "minutes": 84
+            },
+
+            {
+              "completionDate": "2025-05-11",
+              "title": "Memory Ownership and Borrowing in Rust 2021",
+              "url": "https://www.pluralsight.com/courses/rust-2021-memory-ownership-borrowing",
+              "minutes": 70
+            },
+
+            {
+              "completionDate": "2025-05-11",
+              "title": "Generics and Traits in Rust 2021",
+              "url": "https://www.pluralsight.com/courses/rust-2021-generics-traits",
+              "minutes": 62
+            },
+
+            {
+              "completionDate": "2025-05-12",
+              "title": "Object-oriented Programming in Rust 2021",
+              "url": "https://www.pluralsight.com/courses/rust-2021-object-oriented-programming",
+              "minutes": 85
             }
           ],
           "Elixir": [],
@@ -513,12 +766,47 @@
           },
           "Fault tolerance": {
             "Principles": [],
-            "C#": []
+            "C#": [
+              {
+                "completionDate": "2025-03-05",
+                "title": "Error Handling in C#",
+                "url": "https://www.pluralsight.com/courses/error-handling-c-sharp-10",
+                "minutes": 102
+              }
+            ]
           },
           "Domain-Driven Design": [],
           "Design Patterns": {
             "Principles": [],
-            "C#": [],
+            "C#": [
+              {
+                "completionDate": "2025-05-09",
+                "title": "C# Design Patterns",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-design-patterns",
+                "minutes": 514
+              },
+
+              {
+                "completionDate": "2025-04-18",
+                "title": "Refactoring to SOLID C# Code",
+                "url": "https://www.pluralsight.com/courses/refactoring-solid-c-sharp-code",
+                "minutes": 153
+              },
+
+              {
+                "completionDate": "2025-03-03",
+                "title": "Object-oriented Programming in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-object-oriented-programming",
+                "minutes": 264
+              },
+
+              {
+                "completionDate": "2025-04-23",
+                "title": "Object-oriented Design with C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-object-oriented-design",
+                "minutes": 220
+              }
+            ],
             "Java": [
               {
                 "completionDate": "2024-09-03",
@@ -568,6 +856,27 @@
                 "title": "Object-Oriented Programming in Kotlin",
                 "url": "https://www.pluralsight.com/courses/kotlin-object-oriented-programming",
                 "minutes": 371
+              },
+
+              {
+                "completionDate": "2024-11-18",
+                "title": "Creational Design Patterns in Kotlin",
+                "url": "https://www.pluralsight.com/courses/kotlin-creational-design-patterns",
+                "minutes": 100
+              },
+
+              {
+                "completionDate": "2024-11-22",
+                "title": "Structural Design Patterns in Kotlin",
+                "url": "https://www.pluralsight.com/courses/kotlin-structural-design-patterns",
+                "minutes": 158
+              },
+
+              {
+                "completionDate": "2024-11-30",
+                "title": "Behavioral Design Patterns in Kotlin",
+                "url": "https://www.pluralsight.com/courses/kotlin-behavioral-design-patterns",
+                "minutes": 268
               }
             ]
           },
@@ -584,7 +893,14 @@
             "Go": [],
             "RxJS": [],
             "Redux": [],
-            "C#": [],
+            "C#": [
+              {
+                "completionDate": "2025-03-07",
+                "title": "LINQ Fundamentals in C#",
+                "url": "https://www.pluralsight.com/courses/linq-fundamentals-csharp-10",
+                "minutes": 230
+              }
+            ],
             "Java": [
               {
                 "completionDate": "2024-08-17",
@@ -607,7 +923,14 @@
                 "minutes": 147
               }
             ],
-            "Rust": [],
+            "Rust": [
+              {
+                "completionDate": "2025-05-12",
+                "title": "Functional Programming in Rust 2021",
+                "url": "https://www.pluralsight.com/courses/rust-2021-functional-programming",
+                "minutes": 74
+              }
+            ],
             "Scala": [
               {
                 "completionDate": "2024-10-01",
@@ -634,11 +957,33 @@
                 "url": "https://www.pluralsight.com/courses/java-se-17-jmeter-performance",
                 "minutes": 195
               }
+            ],
+            "C#": [
+              {
+                "completionDate": "2025-04-04",
+                "title": "C# Benchmarking and Profiling",
+                "url": "https://www.pluralsight.com/courses/c-sharp-benchmarking-profiling",
+                "minutes": 151
+              },
+
+              {
+                "completionDate": "2025-05-04",
+                "title": "C# Performance Playbook",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-performance-playbook",
+                "minutes": 109
+              }
             ]
           },
 
           "Concurrency": {
-            ".NET": [],
+            ".NET": [
+              {
+                "completionDate": "2025-03-31",
+                "title": "Asynchronous Programming in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-asynchronous-programming",
+                "minutes": 301
+              }
+            ],
             "NodeJS": [],
             "Java": [
               {
@@ -682,7 +1027,21 @@
             "Go": [],
             "React": [],
             "Browser": [],
-            "Rust": [],
+            "Rust": [
+              {
+                "completionDate": "2025-05-13",
+                "title": "Implementing Concurrency in Rust",
+                "url": "https://www.pluralsight.com/courses/rust-implementing-concurrency",
+                "minutes": 64
+              },
+
+              {
+                "completionDate": "2025-05-14",
+                "title": "Building Asynchronous Applications in Rust with Tokio",
+                "url": "https://www.pluralsight.com/courses/rust-building-asynchronous-applications-tokio",
+                "minutes": 56
+              }
+            ],
             "Scala": [
               {
                 "completionDate": "2024-10-10",
@@ -697,6 +1056,13 @@
                 "title": "Kotlin Coroutines",
                 "url": "https://www.pluralsight.com/courses/kotlin-coroutines",
                 "minutes": 303
+              },
+
+              {
+                "completionDate": "2024-11-17",
+                "title": "Kotlin Coroutines Deep Dive",
+                "url": "https://www.pluralsight.com/courses/kotlin-coroutines-deep-dive",
+                "minutes": 336
               }
             ]
           },
@@ -723,6 +1089,13 @@
             "Gherkin": [],
             "C#": [
               {
+                "completionDate": "2025-03-18",
+                "title": "C# Unit Testing",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-unit-testing",
+                "minutes": 136
+              },
+
+              {
                 "completionDate": "2024-05-15",
                 "title": "C# Unit Testing",
                 "url": "https://www.pluralsight.com/courses/c-sharp-10-unit-testing",
@@ -737,7 +1110,14 @@
             "Load testing": [],
             "GraphQL": [],
             "Tools": [],
-            "Rust": [],
+            "Rust": [
+              {
+                "completionDate": "2025-05-13",
+                "title": "Testing Rust 2021 Applications",
+                "url": "https://www.pluralsight.com/courses/rust-testing-applications",
+                "minutes": 68
+              }
+            ],
             "Java": [
               {
                 "completionDate": "2024-08-08",
@@ -786,7 +1166,91 @@
           "Principles": [],
 
           "Source Control": {
-            "Git": [],
+            "Git": [
+              {
+                "completionDate": "2024-12-26",
+                "title": "Git: The Big Picture",
+                "url": "https://www.pluralsight.com/courses/git-big-picture",
+                "minutes": 67
+              },
+
+              {
+                "completionDate": "2024-12-28",
+                "title": "Git Fundamentals",
+                "url": "https://www.pluralsight.com/courses/fundamentals-git",
+                "minutes": 141
+              },
+
+              {
+                "completionDate": "2024-12-30",
+                "title": "How Git Works",
+                "url": "https://www.pluralsight.com/courses/how-git-works",
+                "minutes": 116
+              },
+
+              {
+                "completionDate": "2024-12-31",
+                "title": "Git Configuration and Attributes",
+                "url": "https://www.pluralsight.com/courses/git-configuration-attributes",
+                "minutes": 43
+              },
+
+              {
+                "completionDate": "2025-01-01",
+                "title": "Git Hooks",
+                "url": "https://www.pluralsight.com/courses/git-hooks",
+                "minutes": 29
+              },
+
+              {
+                "completionDate": "2025-01-04",
+                "title": "Working with Git Branches",
+                "url": "https://www.pluralsight.com/courses/git-branches-working",
+                "minutes": 145
+              },
+
+              {
+                "completionDate": "2025-01-10",
+                "title": "Git Tips and Tricks",
+                "url": "https://www.pluralsight.com/courses/git-tips-tricks",
+                "minutes": 143
+              },
+
+              {
+                "completionDate": "2025-01-12",
+                "title": "Git Deep Dive",
+                "url": "https://www.pluralsight.com/courses/git-deep-dive",
+                "minutes": 133
+              },
+
+              {
+                "completionDate": "2025-01-13",
+                "title": "Git Administration",
+                "url": "https://www.pluralsight.com/courses/administration-git",
+                "minutes": 43
+              },
+
+              {
+                "completionDate": "2025-01-14",
+                "title": "Rewriting Git History",
+                "url": "https://www.pluralsight.com/courses/git-rewriting-history",
+                "minutes": 35
+              },
+
+              {
+                "completionDate": "2025-01-15",
+                "title": "Git Debugging Techniques",
+                "url": "https://www.pluralsight.com/courses/git-debugging-techniques",
+                "minutes": 26
+              },
+
+              {
+                "completionDate": "2025-11-16",
+                "title": "Git Workflow Patterns",
+                "url": "https://www.pluralsight.com/courses/git-workflow-patterns",
+                "minutes": 86
+              }
+            ],
             "GitHub": [
               {
                 "completionDate": "2024-07-17",
@@ -849,9 +1313,23 @@
             ],
             "Docker": [],
             "Java": [],
-            ".NET": [],
+            ".NET": [
+              {
+                "completionDate": "2025-03-10",
+                "title": "Class Libraries in C#",
+                "url": "https://www.pluralsight.com/courses/c-sharp-10-class-libraries",
+                "minutes": 144
+              }
+            ],
             "Elm": [],
-            "Rust": [],
+            "Rust": [
+              {
+                "completionDate": "2025-05-12",
+                "title": "Packages, Crates, and Modules in Rust",
+                "url": "https://www.pluralsight.com/courses/rust-packages-crates-modules",
+                "minutes": 88
+              }
+            ],
             "Maven": [
               {
                 "completionDate": "2024-07-23",
@@ -889,6 +1367,29 @@
                 "title": "Gulp - Build a Web Developer Starter Kit",
                 "url": "https://www.udemy.com/course/build-a-web-developer-starter-kit/",
                 "minutes": 99
+              }
+            ],
+            "Webpack": [
+              {
+                "completionDate": "2024-12-18",
+                "title": "Webpack 5 and Vite: A New Way to Learn - Active Thinking",
+                "url": "https://www.udemy.com/course/webpack-5-vite",
+                "minutes": 145
+              }
+            ],
+            "Vite": [
+              {
+                "completionDate": "2024-12-18",
+                "title": "Webpack 5 and Vite: A New Way to Learn - Active Thinking",
+                "url": "https://www.udemy.com/course/webpack-5-vite",
+                "minutes": 145
+              }
+            ],
+            "PDM": [
+              {
+                "title": "PDM documentation",
+                "url": "https://pdm-project.org",
+                "minutes": 90
               }
             ]
           },
@@ -983,6 +1484,7 @@
           },
           "Blazor": [],
           "Webpack": [],
+          "Vite": [],
           "Progressive Web Apps": [],
           "WebAssembly": [
             {
@@ -1015,7 +1517,14 @@
           "NodeJS": [],
           "Deno": [],
           "Go": [],
-          "Rust": [],
+          "Rust": [
+            {
+              "completionDate": "2025-05-14",
+              "title": "Building REST APIs in Rust 2021 with Actix Web",
+              "url": "https://www.pluralsight.com/courses/rust-2021-building-rest-apis-actix-web",
+              "minutes": 80
+            }
+          ],
           "Kotlin": [
             {
               "completionDate": "2024-11-10",
@@ -1061,6 +1570,14 @@
               "title": "Secure Coding in Java",
               "url": "https://www.pluralsight.com/courses/java-secure-coding-owasp",
               "minutes": 168
+            }
+          ],
+          "C#": [
+            {
+              "completionDate": "2025-04-06",
+              "title": "Secure Coding with C#",
+              "url": "https://www.pluralsight.com/courses/c-sharp-10-owasp-secure-coding",
+              "minutes": 212
             }
           ]
         },
@@ -1117,11 +1634,60 @@
               "url": "https://www.pluralsight.com/courses/kotlin-data-access-exposed",
               "minutes": 122
             }
+          ],
+          "C#": [
+            {
+              "completionDate": "2025-03-25",
+              "title": "Working with Files in C#",
+              "url": "https://www.pluralsight.com/courses/c-sharp-10-working-files",
+              "minutes": 225
+            },
+
+            {
+              "completionDate": "2025-04-02",
+              "title": "Data Access in C# Fundamentals",
+              "url": "https://www.pluralsight.com/courses/c-sharp-10-data-access-fundamentals",
+              "minutes": 258
+            }
           ]
         }
       }
     },
-    "Mathematics": [],
+    "Mathematics": [
+      {
+        "title": "Che cos'è la matematica?",
+        "url": "https://www.google.it/books/edition/Che_cos_%C3%A8_la_matematica/mlc6DwAAQBAJ",
+        "kind": "Book",
+        "minutes": 17956
+      },
+
+      {
+        "title": "Math problems and puzzles",
+        "kind": "Exercises",
+        "minutes": 1126
+      },
+
+      {
+        "completionDate": "2024-12-10",
+        "title": "Math For Programmers",
+        "url": "https://www.pluralsight.com/courses/math-for-programmers",
+        "minutes": 316
+      },
+
+      {
+        "completionDate": "2025-01-27",
+        "title": "Algorithms and Data Structures - Part 1",
+        "url": "https://www.pluralsight.com/courses/algorithms-data-structures-part-one",
+        "minutes": 146
+      },
+
+      {
+        "completionDate": "2025-02-04",
+        "title": "Algorithms and Data Structures - Part 2",
+        "url": "https://www.pluralsight.com/courses/algorithms-data-structures-part-two",
+        "minutes": 168
+      }
+    ],
     "Physics": [],
     "Astronomy": [],
     "Further Domains": {
@@ -1170,7 +1736,7 @@
           "Gimp": [
             {
               "title": "Miscellaneous",
-              "minutes": 176
+              "minutes": 518
             }
           ]
         },
@@ -1179,7 +1745,7 @@
           "Draw.io": [
             {
               "title": "Miscellaneous",
-              "minutes": 300
+              "minutes": 481
             }
           ]
         },
@@ -1201,6 +1767,27 @@
             "url": "https://gianlucacosta.info/Arcadia/ingegner-pecorone",
             "kind": "Poem",
             "minutes": 1440
+          },
+
+          {
+            "title": "Cinquanta sfumature di drago",
+            "url": "https://gianlucacosta.info/arcadia/sfumature-drago",
+            "kind": "Poem",
+            "minutes": 1320
+          },
+
+          {
+            "title": "Il tortino della discordia",
+            "url": "https://gianlucacosta.info/arcadia/tortino-discordia",
+            "kind": "Poem",
+            "minutes": 1440
+          },
+
+          {
+            "title": "Ti amo, castano",
+            "url": "https://youtu.be/27UZGWEAS44",
+            "kind": "Song video",
+            "minutes": 1620
           }
         ]
       },
@@ -1223,6 +1810,20 @@
     "Languages": {
       "English": [
         {
+          "title": "Wlingua - Russian",
+          "url": "https://russian.wlingua.com/",
+          "kind": "App",
+          "minutes": 126
+        },
+
+        {
+          "title": "Wlingua - Spanish",
+          "url": "https://spanish.wlingua.com/",
+          "kind": "App",
+          "minutes": 130
+        },
+
+        {
           "title": "Duolingo - Russian",
           "url": "https://www.duolingo.com",
           "kind": "App",
@@ -1235,11 +1836,32 @@
           "completionDate": "2024-11-10",
           "url": "https://www.assimil.it/-300-russe-cahier-d-exercices-debutants-",
           "kind": "Book",
-          "minutes": 338
+          "minutes": 360
         }
       ],
       "Portuguese": [],
       "Spanish": [
+        {
+          "title": "Wlingua - Spanish",
+          "url": "https://spanish.wlingua.com/",
+          "kind": "App",
+          "minutes": 8100
+        },
+
+        {
+          "completionDate": "2025-03-27",
+          "title": "La Biblia - Genesis",
+          "url": "https://www.jw.org/es/biblioteca/biblia/biblia-estudio/libros/G%C3%A9nesis/",
+          "kind": "Audio",
+          "minutes": 270
+        },
+
+        {
+          "title": "Ruso Artístico",
+          "kind": "Book",
+          "minutes": 200
+        },
+
         {
           "title": "Contrastiva - Esercizi",
           "completionDate": "2024-08-28",
@@ -1252,14 +1874,14 @@
           "title": "La Biblia Latinoamérica",
           "url": "https://verbodivino.es/Libro/25/la-biblia-latinoamerica-letra-grande-rustica",
           "kind": "Book",
-          "minutes": 562
+          "minutes": 841
         },
 
         {
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 154
+          "minutes": 185
         },
 
         {
@@ -1270,6 +1892,55 @@
         }
       ],
       "Russian": [
+        {
+          "title": "TORFL vocabulary - B1",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 4857
+        },
+
+        {
+          "title": "TORFL vocabulary - A1",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 4683
+        },
+
+        {
+          "title": "TORFL vocabulary - A2",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 3356
+        },
+
+        {
+          "title": "Ruso Artístico",
+          "kind": "Book",
+          "minutes": 2640
+        },
+
+        {
+          "completionDate": "2025-04-11",
+          "title": "Parliamo russo",
+          "url": "https://clueb.it/libreria/contesti-linguistici/parliamo-russo/",
+          "kind": "Multimedia",
+          "minutes": 1152
+        },
+
+        {
+          "title": "Russo - 9000 parole",
+          "url": "https://tpbooks.com/product/italy_rus_9000/",
+          "kind": "Book",
+          "minutes": 1590
+        },
+
+        {
+          "title": "Wlingua - Russian",
+          "url": "https://russian.wlingua.com/",
+          "kind": "App",
+          "minutes": 12240
+        },
+
         {
           "title": "Grammatica d'uso della lingua russa - A1",
           "completionDate": "2024-10-22",
@@ -1282,7 +1953,12 @@
           "title": "Duolingo - Russian",
           "url": "https://www.duolingo.com",
           "kind": "App",
-          "minutes": 4300
+          "minutes": 2785
+        },
+
+        {
+          "title": "Mariposas Rusas",
+          "minutes": 540
         },
 
         {
@@ -1291,13 +1967,6 @@
           "url": "https://www.assimil.it/-300-russe-cahier-d-exercices-debutants-",
           "kind": "Book",
           "minutes": 3042
-        },
-
-        {
-          "title": "Lexicon for TORFL A1",
-          "url": "https://www.ros-edu.ru/basic-dictionary",
-          "kind": "Website",
-          "minutes": 180
         },
 
         {
@@ -1320,14 +1989,7 @@
           "title": "Bcë tak!",
           "url": "https://www.hoeplieditore.it/universita/articolo/vse-tak-grammatica-e-lessico-della-lingua-russa-daniela-bonciani/9788820385699/1854",
           "kind": "Book",
-          "minutes": 322
-        },
-
-        {
-          "title": "Wlingua - Russian",
-          "url": "https://russian.wlingua.com/",
-          "kind": "App",
-          "minutes": 203
+          "minutes": 692
         }
       ],
       "Hindi": [],
@@ -1337,7 +1999,7 @@
           "title": "Mariposas HSK 4",
           "url": "https://www.google.it/books/edition/Cracking_Chinese_Characters_HSK_1_2_3_4/EbiStAEACAAJ",
           "kind": "Book",
-          "minutes": 9821
+          "minutes": 9850
         },
         {
           "title": "Mariposas HSK 3",
@@ -1350,7 +2012,7 @@
           "title": "Immersive Chinese",
           "url": "https://www.immersivechinese.com/",
           "kind": "App",
-          "minutes": 1372
+          "minutes": 3159
         },
         {
           "title": "Cracking Chinese radicals",
@@ -1414,14 +2076,14 @@
           "title": "Pinyin Trainer",
           "url": "https://play.google.com/store/apps/details?id=com.molatra.pinyintrainer",
           "kind": "App",
-          "minutes": 360
+          "minutes": 594
         },
 
         {
-          "title": "Pleco Flashcards for HSK 3",
+          "title": "Pleco Flashcards for HSK 1-3",
           "url": "https://www.pleco.com/",
           "kind": "App",
-          "minutes": 347
+          "minutes": 656
         },
 
         {
@@ -1443,7 +2105,7 @@
           "title": "SuperChinese - Grammar review",
           "url": "https://www.superchinese.com/",
           "kind": "App",
-          "minutes": 627
+          "minutes": 820
         },
 
         {
@@ -1457,7 +2119,7 @@
           "title": "SuperChinese",
           "url": "https://www.superchinese.com/",
           "kind": "App",
-          "minutes": 8719
+          "minutes": 11935
         },
 
         {
@@ -1496,7 +2158,7 @@
           "title": "SuperTest - HSK 4",
           "url": "https://www.hskonline.com/",
           "kind": "App",
-          "minutes": 3844
+          "minutes": 4559
         }
       ],
       "Hebrew": [],

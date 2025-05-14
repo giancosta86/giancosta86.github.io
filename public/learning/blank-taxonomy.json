@@ -8,6 +8,7 @@
         "DOM": [],
         "Elm": [],
         "Bash": [],
+        "Elvish": [],
         "GitHub Actions": [],
         "Java": [],
         "NodeJS": []
@@ -27,6 +28,8 @@
           "TypeScript": [],
           "Regular Expressions": [],
           "Bash": [],
+          "Elvish": [],
+          "Nushell": [],
           "Elm": [],
           "Rust": [],
           "Elixir": [],
@@ -96,7 +99,8 @@
             "NodeJS": [],
             "SAX": [],
             "Web": [],
-            "Java": []
+            "Java": [],
+            "C#": []
           },
 
           "Concurrency": {
@@ -177,7 +181,10 @@
             "Maven": [],
             "Gradle": [],
             "SBT": [],
-            "Gulp.js": []
+            "Gulp.js": [],
+            "Webpack": [],
+            "Vite": [],
+            "PDM": []
           },
 
           "Microservices": [],
@@ -288,7 +295,8 @@
           "MongoDB": [],
           "Docker": [],
           "GitHub": [],
-          "Java": []
+          "Java": [],
+          "C#": []
         },
 
         "Data Science": {
@@ -324,7 +332,8 @@
 
           "Data Access": {
             "Java": [],
-            "Kotlin": []
+            "Kotlin": [],
+            "C#": []
           }
         },
 
