@@ -18,7 +18,7 @@
     "check-all": "pnpm check-format && pnpm lint",
     "check-format": "prettier --check .",
     "lint": "next lint",
-    "build": "pnpm check-all && pnpm build-cv && next build && pnpm export && mv out dist",
+    "build": "pnpm check-all && next build && pnpm export && mv out dist",
     "build-cv": "pnpm build-cv-css && pnpm build-cv-pdf",
     "build-cv-pdf": "ts-node cv/build_cv.ts",
     "build-cv-css": "pnpm sass --no-source-map cv:cv",
