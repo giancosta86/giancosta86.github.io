@@ -7,7 +7,7 @@ const humanismMarkdown = `
 
 * 💡 Curious **learner**, passionate **teacher**
 
-* 🌼 **C1** level in *English* (CAE, BEC Higher)
+* 🌼 **C2** level in *English* (CAE, BEC Higher)
 
 * 🌹 **C1** level in *Spanish* (SIELE)
 
