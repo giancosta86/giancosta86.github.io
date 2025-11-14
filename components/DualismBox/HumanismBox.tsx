@@ -13,7 +13,7 @@ const humanismMarkdown = `
 
 * 🌷 **C1** level in *French* (DALF)
 
-* 🌸 **HSK 2** in *Chinese*
+* 🌸 **HSK 3** in *Chinese*
 
 * 🌐 Constantly exploring **Linguistics** and *new languages*
 
