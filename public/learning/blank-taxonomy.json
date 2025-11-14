@@ -38,6 +38,7 @@
           "Go": [],
           "Python": [],
           "R": [],
+          "PHP": [],
           "Ruby": [],
           "Flutter": [],
           "Markdown": []
@@ -88,10 +89,12 @@
             "Java": [],
             "Rust": [],
             "Scala": [],
-            "Kotlin": []
+            "Kotlin": [],
+            "Angular": []
           },
           "Performance": {
             "React": [],
+            "Angular": [],
             "Python": [],
             "C++": [],
             "GraphQL": [],
@@ -100,7 +103,8 @@
             "SAX": [],
             "Web": [],
             "Java": [],
-            "C#": []
+            "C#": [],
+            "Go": []
           },
 
           "Concurrency": {
@@ -135,7 +139,8 @@
             "Principles": [],
             "Frontend": {
               "Browser Automation": [],
-              "React": []
+              "React": [],
+              "Angular": []
             },
             "Gherkin": [],
             "C#": [],
@@ -172,6 +177,7 @@
             "Go": [],
             "React": [],
             "React Native": [],
+            "Angular": [],
             "NodeJS": [],
             "Docker": [],
             "Java": [],
@@ -201,6 +207,7 @@
         "Cloud & Virtualization": {
           "Network Principles": [],
           "WebSockets": [],
+          "Protocol Buffers": [],
           "Amazon Web Services": {
             "Principles": [],
             "Serverless": [],
@@ -277,7 +284,8 @@
           "Deno": [],
           "Go": [],
           "Rust": [],
-          "Kotlin": []
+          "Kotlin": [],
+          "Nginx": []
         },
 
         "Security": {
@@ -286,7 +294,21 @@
           "Cryptography": [],
           "Microservices": [],
           "Blockchain": [],
-          "Frontend": [],
+          "Frontend": [
+            {
+              "completionDate": "2025-06-30",
+              "title": "Secure Coding in Angular",
+              "url": "https://www.pluralsight.com/courses/angular-owasp-secure-coding",
+              "minutes": 176
+            },
+
+            {
+              "completionDate": "2025-07-05",
+              "title": "Authentication and Authorization in Angular",
+              "url": "https://www.pluralsight.com/courses/authentication-authorization-angular",
+              "minutes": 134
+            }
+          ],
           "Amazon Web Services": [],
           "Azure": [],
           "NodeJS": [],
@@ -296,7 +318,8 @@
           "Docker": [],
           "GitHub": [],
           "Java": [],
-          "C#": []
+          "C#": [],
+          "Go": []
         },
 
         "Data Science": {
@@ -333,7 +356,9 @@
           "Data Access": {
             "Java": [],
             "Kotlin": [],
-            "C#": []
+            "C#": [],
+            "PHP": [],
+            "Go": []
           }
         },
 
@@ -342,7 +367,16 @@
         }
       }
     },
-    "Mathematics": [],
+    "Mathematics": {
+      "Principles": [],
+      "Logic": {
+        "Puzzles": [],
+        "Chess": []
+      },
+      "Algebra": [],
+      "Geometry": [],
+      "Cryptography": []
+    },
     "Physics": [],
     "Astronomy": [],
     "Further Domains": {
@@ -421,7 +455,8 @@
       "Arabic": [],
       "Chinese": [],
       "Hebrew": [],
-      "Korean": []
+      "Korean": [],
+      "Hungarian": []
     },
     "Law": {
       "National Laws": [],

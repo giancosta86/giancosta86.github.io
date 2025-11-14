@@ -1,0 +1,1280 @@
+{
+  "Science": {
+    "Information Technology": {
+      "GitHub projects": {
+        "Rust": [],
+        "TypeScript": [
+          {
+            "title": "omnicourse-core",
+            "url": "https://github.com/giancosta86/omnicourse-core",
+            "minutes": 164
+          }
+        ],
+        "React": [],
+        "DOM": [],
+        "Elm": [],
+        "Bash": [],
+        "Elvish": [
+          {
+            "title": "velvet",
+            "url": "https://github.com/giancosta86/velvet",
+            "minutes": 11639
+          },
+
+          {
+            "title": "ethereal",
+            "url": "https://github.com/giancosta86/ethereal",
+            "minutes": 9877
+          },
+
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 5200
+          },
+
+          {
+            "title": "epm-plus",
+            "url": "https://github.com/giancosta86/epm-plus",
+            "minutes": 940
+          }
+        ],
+        "GitHub Actions": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 2057
+          }
+        ],
+        "Java": [],
+        "NodeJS": []
+      },
+
+      "Educational": {
+        "Ecosystems": {
+          ".NET": {
+            "C#": [],
+            "F#": [],
+            "Platform": []
+          },
+          "Java": [],
+          "Scala": [],
+          "Groovy": [],
+          "JavaScript": [],
+          "TypeScript": [
+            {
+              "completionDate": "2025-09-23",
+              "title": "TypeScript 5 Crash Course for JavaScript Developers",
+              "url": "https://www.pluralsight.com/courses/typescript-5-javascript-developers-crash-course",
+              "minutes": 132
+            },
+
+            {
+              "completionDate": "2025-09-24",
+              "title": "Creating and Using Decorators in TypeScript 5",
+              "url": "https://www.pluralsight.com/courses/typescript-creating-using-decorators",
+              "minutes": 115
+            },
+
+            {
+              "completionDate": "2025-09-26",
+              "title": "TypeScript 5 Deep Dive",
+              "url": "https://www.pluralsight.com/courses/typescript-5-deep-dive",
+              "minutes": 100
+            },
+
+            {
+              "completionDate": "2025-09-28",
+              "title": "TypeScript Best Practices",
+              "url": "https://www.pluralsight.com/courses/typescript-best-practices",
+              "minutes": 139
+            },
+
+            {
+              "completionDate": "2025-09-15",
+              "title": "TypeScript 5 Fundamentals",
+              "url": "https://www.pluralsight.com/courses/typescript-5-fundamentals",
+              "minutes": 241
+            },
+
+            {
+              "completionDate": "2025-09-17",
+              "title": "Debugging in TypeScript 5",
+              "url": "https://www.pluralsight.com/courses/typescript-5-debugging",
+              "minutes": 48
+            },
+
+            {
+              "completionDate": "2025-09-17",
+              "title": "Using Arrays and Collections in TypeScript 5",
+              "url": "https://www.pluralsight.com/courses/typescript-5-arrays-collections",
+              "minutes": 76
+            },
+
+            {
+              "completionDate": "2025-09-17",
+              "title": "Creating a Type Declaration File in TypeScript",
+              "url": "https://www.pluralsight.com/courses/typescript-creating-type-declaration-file",
+              "minutes": 60
+            },
+
+            {
+              "completionDate": "2025-09-18",
+              "title": "DOM Manipulation with TypeScript",
+              "url": "https://www.pluralsight.com/courses/typescript-dom-manipulation",
+              "minutes": 154
+            },
+
+            {
+              "completionDate": "2025-09-22",
+              "title": "Consuming Web APIs with TypeScript 5",
+              "url": "https://www.pluralsight.com/courses/typescript-consuming-web-apis",
+              "minutes": 218
+            }
+          ],
+          "Regular Expressions": [],
+          "Bash": [],
+          "Elvish": [
+            {
+              "title": "Elvish documentation",
+              "url": "https://elv.sh/",
+              "kind": "Website",
+              "minutes": 91
+            }
+          ],
+          "Nushell": [],
+          "Elm": [],
+          "Rust": [],
+          "Elixir": [],
+          "C": [],
+          "C++": [],
+          "Go": [
+            {
+              "completionDate": "2025-09-29",
+              "title": "Go: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/go-big-picture",
+              "minutes": 107
+            },
+
+            {
+              "completionDate": "2025-09-30",
+              "title": "Go Fundamentals",
+              "url": "https://www.pluralsight.com/courses/go-language-fundamentals",
+              "minutes": 167
+            },
+
+            {
+              "completionDate": "2025-10-05",
+              "title": "Managing Errors in Go",
+              "url": "https://www.pluralsight.com/courses/go-managing-errors",
+              "minutes": 46
+            },
+
+            {
+              "completionDate": "2025-10-07",
+              "title": "Managing Errors in Go",
+              "url": "https://www.pluralsight.com/courses/go-managing-errors",
+              "minutes": 46
+            },
+
+            {
+              "completionDate": "2025-10-08",
+              "title": "Go for Object-oriented Developers",
+              "url": "https://www.pluralsight.com/courses/go-object-oriented-developers",
+              "minutes": 127
+            },
+
+            {
+              "completionDate": "2025-10-01",
+              "title": "Debugging in Go",
+              "url": "https://www.pluralsight.com/courses/go-debugging",
+              "minutes": 72
+            },
+
+            {
+              "completionDate": "2025-10-27",
+              "title": "Go Fundamentals",
+              "url": "https://www.pluralsight.com/courses/fundamentals-go",
+              "minutes": 445
+            },
+
+            {
+              "completionDate": "2025-10-28",
+              "title": "Exploring Go Modules",
+              "url": "https://www.pluralsight.com/courses/exploring-go-modules",
+              "minutes": 111
+            },
+
+            {
+              "completionDate": "2025-11-08",
+              "title": "The Go Standard Library",
+              "url": "https://www.pluralsight.com/courses/go-standard-library",
+              "minutes": 147
+            },
+
+            {
+              "completionDate": "2025-11-09",
+              "title": "Debugging Go Applications with Delve",
+              "url": "https://www.pluralsight.com/courses/go-delve-debugging-applications",
+              "minutes": 125
+            }
+          ],
+          "Python": [],
+          "R": [],
+          "PHP": [
+            {
+              "completionDate": "2025-09-07",
+              "title": "PHP Fundamentals",
+              "url": "https://www.pluralsight.com/courses/fundamentals-php",
+              "minutes": 192
+            },
+
+            {
+              "completionDate": "2025-09-07",
+              "title": "Object-Oriented PHP",
+              "url": "https://www.pluralsight.com/courses/php-object-oriented",
+              "minutes": 73
+            }
+          ],
+          "Ruby": [],
+          "Flutter": [],
+          "Markdown": []
+        },
+
+        "Mobile Development": {
+          "Ionic": [],
+          "React Native": []
+        },
+        "Software Design": {
+          "Clean Code": {
+            "Principles": [],
+            "C#": [],
+            "Python": [],
+            "TypeScript": [],
+            "React": [],
+            "C++": [],
+            "Rust": [],
+            "Progressive Web Apps": [],
+            "Java": []
+          },
+          "Fault tolerance": {
+            "Principles": [],
+            "C#": []
+          },
+          "Domain-Driven Design": [],
+          "Design Patterns": {
+            "Principles": [],
+            "C#": [],
+            "Java": [],
+            "Scala": [],
+            "Kotlin": []
+          },
+          "Microservices": {
+            "Principles": [],
+            ".NET": [],
+            "Go": []
+          },
+          "Functional Programming": {
+            "Principles": [],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [],
+            "RxJS": [
+              {
+                "completionDate": "2025-05-29",
+                "title": "RxJS and Angular Signals Fundamentals",
+                "url": "https://www.pluralsight.com/courses/rxjs-angular-signals-fundamentals",
+                "minutes": 373
+              }
+            ],
+            "Redux": [],
+            "C#": [],
+            "Java": [],
+            "Rust": [],
+            "Scala": [],
+            "Kotlin": [],
+            "Angular": [
+              {
+                "completionDate": "2025-06-28",
+                "title": "NgRx Fundamentals",
+                "url": "https://www.pluralsight.com/courses/ngrx-fundamentals",
+                "minutes": 175
+              },
+
+              {
+                "completionDate": "2025-07-09",
+                "title": "Angular: Signals",
+                "url": "https://www.pluralsight.com/courses/angular-signals",
+                "minutes": 82
+              }
+            ]
+          },
+          "Performance": {
+            "React": [],
+            "Angular": [
+              {
+                "completionDate": "2025-09-05",
+                "title": "Angular Performance Playbook",
+                "url": "https://www.pluralsight.com/courses/angular-performance-playbook",
+                "minutes": 158
+              }
+            ],
+            "Python": [],
+            "C++": [],
+            "GraphQL": [],
+            "MongoDB": [],
+            "NodeJS": [],
+            "SAX": [],
+            "Web": [],
+            "Java": [],
+            "C#": [],
+            "Go": [
+              {
+                "completionDate": "2025-10-17",
+                "title": "Profiling Go Applications",
+                "url": "https://www.pluralsight.com/courses/go-profiling-applications",
+                "minutes": 90
+              }
+            ]
+          },
+
+          "Concurrency": {
+            ".NET": [],
+            "NodeJS": [],
+            "Java": [],
+            "JavaScript": [],
+            "TypeScript": [],
+            "Python": [],
+            "Go": [
+              {
+                "completionDate": "2025-10-06",
+                "title": "Concurrent Programming in Go",
+                "url": "https://www.pluralsight.com/courses/go-programming-concurrent",
+                "minutes": 162
+              }
+            ],
+            "React": [],
+            "Browser": [],
+            "Rust": [],
+            "Scala": [],
+            "Kotlin": []
+          },
+
+          "Event-driven": {
+            "NodeJS": [],
+            "Python": [],
+            ".NET": [],
+            "RabbitMQ": [],
+            "CQRS": [],
+            "GraphQL": []
+          },
+
+          "Streaming": {
+            "NodeJS": []
+          },
+
+          "Testing": {
+            "Principles": [],
+            "Frontend": {
+              "Browser Automation": [],
+              "React": [],
+              "Angular": [
+                {
+                  "completionDate": "2025-06-16",
+                  "title": "Angular Unit Testing",
+                  "url": "https://www.pluralsight.com/courses/angular--unit-testing",
+                  "minutes": 205
+                }
+              ]
+            },
+            "Gherkin": [],
+            "C#": [],
+            "TypeScript": [
+              {
+                "completionDate": "2025-09-19",
+                "title": "Building TypeScript 5 Unit Tests with Jest",
+                "url": "https://www.pluralsight.com/courses/typescript-5-building-unit-tests-jest",
+                "minutes": 45
+              }
+            ],
+            "JavaScript": [],
+            "Python": [],
+            "C++": [],
+            "Go": [
+              {
+                "completionDate": "2025-10-13",
+                "title": "Testing in Go",
+                "url": "https://www.pluralsight.com/courses/go-testing",
+                "minutes": 171
+              }
+            ],
+            "Load testing": [],
+            "GraphQL": [],
+            "Tools": [],
+            "Rust": [],
+            "Java": [],
+            "Scala": [],
+            "Kotlin": [],
+            "PHP": [
+              {
+                "completionDate": "2025-09-12",
+                "title": "PHP Unit Testing",
+                "url": "https://www.pluralsight.com/courses/php-unit-testing",
+                "minutes": 193
+              }
+            ]
+          },
+          "Game development": {
+            "Unity": []
+          }
+        },
+
+        "CI / CD": {
+          "Principles": [],
+
+          "Source Control": {
+            "Git": [],
+            "GitHub": []
+          },
+
+          "Build Tools": {
+            "TypeScript": [
+              {
+                "completionDate": "2025-09-16",
+                "title": "Configuring and Compiling TypeScript 5 Projects",
+                "url": "https://www.pluralsight.com/courses/typescript-5-projects-configuring-compiling",
+                "minutes": 98
+              }
+            ],
+            "JavaScript": [],
+            "Python": [],
+            "Go": [
+              {
+                "completionDate": "2025-10-02",
+                "title": "Managing Go Projects",
+                "url": "https://www.pluralsight.com/courses/go-managing-projects",
+                "minutes": 95
+              },
+
+              {
+                "completionDate": "2025-10-04",
+                "title": "The Go CLI Playbook",
+                "url": "https://www.pluralsight.com/courses/go-cli-playbook",
+                "minutes": 128
+              },
+
+              {
+                "completionDate": "2025-10-04",
+                "title": "Go CLI Playbook",
+                "url": "https://www.pluralsight.com/courses/go-playbook-cli",
+                "minutes": 94
+              },
+
+              {
+                "completionDate": "2025-10-16",
+                "title": "Code Generation in Go",
+                "url": "https://www.pluralsight.com/courses/go-code-generation",
+                "minutes": 72
+              }
+            ],
+            "React": [],
+            "React Native": [],
+            "Angular": [
+              {
+                "completionDate": "2025-05-20",
+                "title": "Angular CLI Playbook",
+                "url": "https://www.pluralsight.com/courses/angular-cli-playbook",
+                "minutes": 60
+              },
+
+              {
+                "completionDate": "2025-06-18",
+                "title": "Angular Monorepos with Nx",
+                "url": "https://www.pluralsight.com/courses/angular-monorepos-nx",
+                "minutes": 138
+              }
+            ],
+            "NodeJS": [
+              {
+                "completionDate": "2025-09-06",
+                "title": "Node.js: Deploying Applications",
+                "url": "https://www.pluralsight.com/courses/node-js-deploying-applications",
+                "minutes": 32
+              }
+            ],
+            "Docker": [],
+            "Java": [],
+            ".NET": [],
+            "Elm": [],
+            "Rust": [],
+            "Maven": [],
+            "Gradle": [],
+            "SBT": [],
+            "Gulp.js": [],
+            "Webpack": [],
+            "Vite": [],
+            "PDM": []
+          },
+
+          "Microservices": [],
+
+          "Progressive Web Apps": [],
+
+          "GitHub Actions": [],
+          "Jenkins": [],
+          "Octopus": [],
+          "Travis": [],
+          "IDEs & editors": []
+        },
+
+        "Cloud & Virtualization": {
+          "Network Principles": [],
+          "WebSockets": [],
+          "Protocol Buffers": [
+            {
+              "completionDate": "2025-11-12",
+              "title": "Protocol Buffer Fundamentals",
+              "url": "https://www.pluralsight.com/courses/protocol-buffer-fundamentals",
+              "minutes": 133
+            },
+
+            {
+              "completionDate": "2025-11-13",
+              "title": "gRPC Fundamentals",
+              "url": "https://www.pluralsight.com/courses/grpc-fundamentals",
+              "minutes": 121
+            }
+          ],
+          "Amazon Web Services": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": [],
+            "API Gateway": [],
+            "DNS": [],
+            "Load Balancing": [],
+            "Optimization": []
+          },
+          "Azure": {
+            "Principles": [],
+            "Serverless": [],
+            "Cost Analysis": [],
+            "File Storage": [],
+            "Virtual Machines": [],
+            "Containers": []
+          },
+          "Docker": [],
+          "Kubernetes": [],
+          "IoT": [],
+          "Operating Systems": {
+            "Linux": [
+              {
+                "title": "Linux maintenance",
+                "minutes": 67
+              }
+            ],
+            "Windows": []
+          },
+          "Telemetry": []
+        },
+
+        "Frontend": {
+          "Principles": [],
+          "React": [],
+          "Vue": [],
+          "Angular": [
+            {
+              "completionDate": "2025-05-15",
+              "title": "What Is Angular?",
+              "url": "https://www.pluralsight.com/courses/what-is-angular",
+              "minutes": 33
+            },
+
+            {
+              "completionDate": "2025-05-17",
+              "title": "Angular: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/big-picture-angular",
+              "minutes": 74
+            },
+
+            {
+              "completionDate": "2025-05-19",
+              "title": "Angular Fundamentals",
+              "url": "https://www.pluralsight.com/courses/fundamentals-angular",
+              "minutes": 293
+            },
+
+            {
+              "completionDate": "2025-05-25",
+              "title": "Angular Services",
+              "url": "https://www.pluralsight.com/courses/services-angular",
+              "minutes": 175
+            },
+
+            {
+              "completionDate": "2025-06-05",
+              "title": "Angular HTTP Playbook",
+              "url": "https://www.pluralsight.com/courses/angular-http-playbook",
+              "minutes": 75
+            },
+
+            {
+              "completionDate": "2025-06-08",
+              "title": "Angular Routing and Navigation Playbook",
+              "url": "https://www.pluralsight.com/courses/angular-routing-navigation-playbook",
+              "minutes": 163
+            },
+
+            {
+              "completionDate": "2025-06-10",
+              "title": "Angular Template-driven Forms",
+              "url": "https://www.pluralsight.com/courses/angular-template-driven-forms",
+              "minutes": 157
+            },
+
+            {
+              "completionDate": "2025-06-12",
+              "title": "Angular Reactive Forms",
+              "url": "https://www.pluralsight.com/courses/angular-2-reactive-forms",
+              "minutes": 232
+            },
+
+            {
+              "completionDate": "2025-06-12",
+              "title": "Internationalization in Angular",
+              "url": "https://www.pluralsight.com/courses/angular-internationalization",
+              "minutes": 63
+            },
+
+            {
+              "completionDate": "2025-06-23",
+              "title": "Angular State Management Playbook",
+              "url": "https://www.pluralsight.com/courses/angular-state-management-playbook",
+              "minutes": 122
+            },
+
+            {
+              "completionDate": "2025-07-06",
+              "title": "Angular Architecture Playbook",
+              "url": "https://www.pluralsight.com/courses/angular-architecture-playbook",
+              "minutes": 52
+            },
+
+            {
+              "completionDate": "2025-07-07",
+              "title": "Angular Best Practices",
+              "url": "https://www.pluralsight.com/courses/best-angular-practices",
+              "minutes": 128
+            },
+
+            {
+              "completionDate": "2025-07-24",
+              "title": "Angular: Getting Started",
+              "url": "https://www.pluralsight.com/courses/angular-2-getting-started-update",
+              "minutes": 352
+            },
+
+            {
+              "completionDate": "2025-08-01",
+              "title": "Angular Reactive Forms",
+              "url": "https://www.pluralsight.com/courses/angular-2-reactive-forms",
+              "minutes": 232
+            },
+
+            {
+              "completionDate": "2025-09-04",
+              "title": "Angular Routing",
+              "url": "https://www.pluralsight.com/courses/angular-routing",
+              "minutes": 289
+            },
+
+            {
+              "completionDate": "2025-05-21",
+              "title": "Styling Angular Applications",
+              "url": "https://www.pluralsight.com/courses/angular-styling-applications",
+              "minutes": 112
+            },
+
+            {
+              "completionDate": "2025-06-21",
+              "title": "Accessibility in Angular",
+              "url": "https://www.pluralsight.com/courses/angular-accessibility",
+              "minutes": 143
+            }
+          ],
+          "AngularJS": [],
+          "jQuery": [],
+          "CSS": {
+            "Standard": [],
+            "Less": [],
+            "Sass": [],
+            "Bulma": [],
+            "Bootstrap": []
+          },
+          "User Experience": [],
+          "Browser": {
+            "Plugins": [],
+            "Chrome": []
+          },
+          "Blazor": [],
+          "Webpack": [],
+          "Progressive Web Apps": [],
+          "WebAssembly": [],
+          "Rendering": [],
+          "Accessibility": [],
+          "Desktop Apps": {
+            "Electron": []
+          },
+          "GraphQL": [],
+          "HTML": [],
+          "NextJS": [],
+          "DOM": []
+        },
+
+        "Backend": {
+          "Generic": [],
+          ".NET": [],
+          "Java": [],
+          "Scala": [],
+          "Ruby": [],
+          "Python": [],
+          "GraphQL": [],
+          "NodeJS": [],
+          "Deno": [],
+          "Go": [
+            {
+              "completionDate": "2025-10-12",
+              "title": "Building Go Web Services and Applications",
+              "url": "https://www.pluralsight.com/courses/go-building-web-services-applications",
+              "minutes": 192
+            },
+
+            {
+              "completionDate": "2025-11-04",
+              "title": "Creating Web Applications with Go",
+              "url": "https://www.pluralsight.com/courses/creating-web-applications-go-update",
+              "minutes": 288
+            },
+
+            {
+              "completionDate": "2025-11-06",
+              "title": "Gin: A Website Application Framework for Go",
+              "url": "https://www.pluralsight.com/courses/gin-go-web-app-framework",
+              "minutes": 155
+            },
+
+            {
+              "completionDate": "2025-11-08",
+              "title": "Gin 1 Fundamentals",
+              "url": "https://www.pluralsight.com/courses/gin-1-fundamentals",
+              "minutes": 184
+            },
+
+            {
+              "completionDate": "2025-11-10",
+              "title": "Building Microservices in Go",
+              "url": "https://www.pluralsight.com/courses/go-building-microservices",
+              "minutes": 236
+            }
+          ],
+          "Rust": [],
+          "Kotlin": [],
+          "Nginx": [
+            {
+              "completionDate": "2025-09-06",
+              "title": "Getting Started with NGINX",
+              "url": "https://www.pluralsight.com/courses/nginx-getting-started",
+              "minutes": 124
+            }
+          ]
+        },
+
+        "Security": {
+          "Principles": [],
+          "Network Security": [],
+          "Cryptography": [],
+          "Microservices": [],
+          "Blockchain": [],
+          "Frontend": [],
+          "Amazon Web Services": [],
+          "Azure": [],
+          "NodeJS": [],
+          "Python": [],
+          "GraphQL": [],
+          "MongoDB": [],
+          "Docker": [],
+          "GitHub": [],
+          "Java": [],
+          "C#": [],
+          "Go": [
+            {
+              "completionDate": "2025-10-18",
+              "title": "User Input Validation for Go Applications",
+              "url": "https://www.pluralsight.com/courses/user-input-validation-go-applications",
+              "minutes": 48
+            },
+
+            {
+              "completionDate": "2025-10-18",
+              "title": "Secure Authorization for Go Applications",
+              "url": "https://www.pluralsight.com/courses/secure-authorization-go-applications",
+              "minutes": 30
+            },
+
+            {
+              "completionDate": "2025-10-18",
+              "title": "Secret Management for Go Applications",
+              "url": "https://www.pluralsight.com/courses/secret-mgmt-go-applications",
+              "minutes": 54
+            },
+
+            {
+              "completionDate": "2025-10-18",
+              "title": "Secure Authentication for Go Applications",
+              "url": "https://www.pluralsight.com/courses/secure-authentication-go-apps",
+              "minutes": 85
+            },
+
+            {
+              "completionDate": "2025-10-20",
+              "title": "Secure Authentication Flow for Go Applications",
+              "url": "https://www.pluralsight.com/courses/secure-authentication-flow-go-apps",
+              "minutes": 63
+            },
+
+            {
+              "completionDate": "2025-10-21",
+              "title": "Build and Deploy Secure Code for Go Applications",
+              "url": "https://www.pluralsight.com/courses/build-deploy-secure-code-go-apps",
+              "minutes": 47
+            },
+
+            {
+              "completionDate": "2025-10-22",
+              "title": "Data Input Validation for Go Applications",
+              "url": "https://www.pluralsight.com/courses/data-input-validation-go-apps",
+              "minutes": 39
+            },
+
+            {
+              "completionDate": "2025-11-09",
+              "title": "Secure Business Logic for Go Applications",
+              "url": "https://www.pluralsight.com/courses/secure-business-logic-go-apps",
+              "minutes": 48
+            },
+
+            {
+              "completionDate": "2025-11-14",
+              "title": "Secure Coding in Go",
+              "url": "https://www.pluralsight.com/courses/go-secure-coding-owasp",
+              "minutes": 253
+            }
+          ]
+        },
+
+        "Data Science": {
+          "Principles": [],
+          "Quantum Computing": [],
+          "Hadoop": [],
+          "Spark": [],
+          "Machine Learning": [],
+
+          "TensorFlow": [],
+          "Pandas": [],
+          "NumPy": [],
+
+          "Relational DBMS": {
+            "Principles": [],
+            "SQL Server": [],
+            "PostgreSQL": [],
+            "SQLite": [],
+            "MySQL": []
+          },
+
+          "NoSQL": {
+            "MongoDB": [],
+            "Redis": []
+          },
+
+          "Amazon Web Services": {
+            "Databases": {
+              "Principles": [],
+              "DynamoDB": []
+            }
+          },
+
+          "Data Access": {
+            "Java": [],
+            "Kotlin": [],
+            "C#": [],
+            "PHP": [
+              {
+                "completionDate": "2025-09-08",
+                "title": "Databases and Sessions in PHP",
+                "url": "https://www.pluralsight.com/courses/databases-sessions-php",
+                "minutes": 76
+              }
+            ],
+            "Go": [
+              {
+                "completionDate": "2025-10-14",
+                "title": "Accessing Relational Databases in Go",
+                "url": "https://www.pluralsight.com/courses/go-accessing-relational-databases",
+                "minutes": 64
+              },
+
+              {
+                "completionDate": "2025-10-15",
+                "title": "Accessing Non-relational Databases in Go",
+                "url": "https://www.pluralsight.com/courses/go-accessing-non-relational-databases",
+                "minutes": 47
+              }
+            ]
+          }
+        },
+
+        "Applications": {
+          "Microsoft Office": []
+        }
+      }
+    },
+    "Mathematics": {
+      "Principles": [
+        {
+          "title": "Che cos'è la matematica?",
+          "url": "https://www.google.it/books/edition/Che_cos_%C3%A8_la_matematica/mlc6DwAAQBAJ",
+          "kind": "Book",
+          "minutes": 7404
+        }
+      ],
+      "Logic": {
+        "Puzzles": [
+          {
+            "title": "Math problems and puzzles",
+            "kind": "Exercises",
+            "minutes": 3086
+          }
+        ],
+        "Chess": [
+          {
+            "title": "Duolingo - Chess",
+            "url": "https://www.duolingo.com",
+            "kind": "App",
+            "minutes": 12
+          }
+        ]
+      },
+      "Algebra": [
+        {
+          "title": "Algebra - Edizione 1963",
+          "completionDate": "2025-10-14",
+          "kind": "Book",
+          "minutes": 1536
+        }
+      ],
+      "Geometry": [
+        {
+          "title": "Geometria 2 - Zanichelli - Edizione 2000",
+          "completionDate": "2025-08-31",
+          "kind": "Book",
+          "minutes": 643
+        },
+
+        {
+          "title": "Geometria 1 - Zanichelli - Edizione 2000",
+          "completionDate": "2025-08-29",
+          "kind": "Book",
+          "minutes": 417
+        }
+      ],
+      "Cryptography": [
+        {
+          "title": "De/cifrare. Come funzionano i più grandi codici della storia",
+          "completionDate": "2025-11-12",
+          "kind": "Book",
+          "minutes": 365,
+          "url": "https://www.google.it/books/edition/De_cifrare_Come_funzionano_i_più_grandi/96BpwgEACAAJ"
+        }
+      ]
+    },
+    "Physics": [],
+    "Astronomy": [],
+    "Further Domains": {
+      "Electronics": {
+        "Principles": [],
+        "Arduino": [],
+        "Robotics": []
+      },
+      "Ecology": [],
+      "Biology": [],
+      "Crafts": [
+        {
+          "title": "Marble balls circuit",
+          "completionDate": "2025-09-19",
+          "kind": "Wooden construction puzzle",
+          "minutes": 884
+        },
+
+        {
+          "title": "Flying car",
+          "completionDate": "2025-09-28",
+          "kind": "Wooden construction puzzle",
+          "minutes": 433
+        },
+
+        {
+          "title": "Perpetual calendar",
+          "completionDate": "2025-09-25",
+          "kind": "Wooden construction puzzle",
+          "minutes": 97
+        }
+      ],
+      "Marketing": [],
+      "Management": [],
+      "Economy & Finance": [],
+      "Quality Assurance": [],
+      "Safety Protocols": []
+    }
+  },
+  "Humanism": {
+    "Personal Development": [],
+    "Learning & teaching": [],
+    "Innovation": [],
+    "Human Interactions": {
+      "Principles": [],
+      "Remote work": [],
+      "Leadership": [],
+      "Listening": [],
+      "Speaking": [],
+      "Protocols": [],
+      "Diversity & Inclusion": [],
+      "Politics": [],
+      "Negotiation": []
+    },
+    "Agile": {
+      "Principles": [],
+      "Scrum": [],
+      "Kanban": []
+    },
+
+    "Enterprise HR": [],
+
+    "Art": {
+      "Visual": {
+        "Computer Graphics": {
+          "Inkscape": [],
+          "Gimp": [
+            {
+              "title": "Miscellaneous",
+              "minutes": 79
+            }
+          ]
+        },
+        "Diagrams": {
+          "Dia": [],
+          "Draw.io": []
+        },
+        "Design": [],
+        "Color Theory": [],
+        "Pencil Drawing": []
+      },
+      "Music": [
+        {
+          "title": "ABC Musica",
+          "url": "https://www.rugginenti.it/website/it/edizioni/item/3724-abc-musica-manuale-di-teoria-musicale",
+          "kind": "Book",
+          "minutes": 238
+        }
+      ],
+      "Video": [],
+      "Poetry": {
+        "Arcadia": [
+          {
+            "title": "La strega Ùrsula",
+            "url": "https://gianlucacosta.info/arcadia/strega-ursula",
+            "kind": "Poem",
+            "minutes": 2077
+          },
+
+          {
+            "title": "Celeste drago",
+            "completionDate": "2025-07-31",
+            "url": "https://youtu.be/DvND40TFdZQ",
+            "kind": "Song video",
+            "minutes": 1511
+          },
+
+          {
+            "title": "I giornazisti",
+            "url": "https://gianlucacosta.info/arcadia/giornazisti",
+            "kind": "Poem",
+            "minutes": 949
+          }
+        ]
+      },
+      "Literature": {
+        "Dante": [],
+        "Victor Hugo": [],
+        "Pierre Corneille": [],
+        "Hellenism": []
+      }
+    },
+    "Philosophy": [],
+    "Languages": {
+      "English": [],
+      "French": [],
+      "Portuguese": [],
+      "Spanish": [
+        {
+          "title": "Ruso Artístico",
+          "kind": "Book",
+          "minutes": 1825
+        },
+
+        {
+          "title": "Wlingua - Spanish",
+          "completionDate": "2025-08-18",
+          "url": "https://spanish.wlingua.com/",
+          "kind": "App",
+          "minutes": 4598
+        },
+
+        {
+          "title": "ConjuGato",
+          "url": "https://qotoqot.com/conjugato/",
+          "kind": "App",
+          "minutes": 40
+        }
+      ],
+      "Russian": [
+        {
+          "title": "Ruso Artístico",
+          "kind": "Book",
+          "minutes": 17000
+        },
+
+        {
+          "title": "Wlingua - Russian",
+          "completionDate": "2025-08-28",
+          "url": "https://russian.wlingua.com/",
+          "kind": "App",
+          "minutes": 9908
+        },
+
+        {
+          "title": "Bcë tak!",
+          "url": "https://www.hoeplieditore.it/universita/articolo/vse-tak-grammatica-e-lessico-della-lingua-russa-daniela-bonciani/9788820385699/1854",
+          "kind": "Book",
+          "minutes": 4351
+        },
+
+        {
+          "title": "TORFL vocabulary - B2",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 2809
+        },
+
+        {
+          "title": "Russe - Cahier d'exercices. Faux Débutants",
+          "completionDate": "2025-09-08",
+          "url": "https://www.assimil.it/-297-cahier-d-exercices-russe-faux-debutants",
+          "kind": "Book",
+          "minutes": 1819
+        },
+
+        {
+          "title": "Russo - 9000 parole",
+          "url": "https://tpbooks.com/product/italy_rus_9000/",
+          "kind": "Book",
+          "minutes": 870
+        },
+
+        {
+          "title": "TORFL vocabulary - A1",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 752
+        },
+
+        {
+          "title": "Assimil - Russo - B2",
+          "url": "https://www.assimil.it/-648-il-russo-collana-senza-sforzo-mp3",
+          "kind": "Book",
+          "minutes": 570
+        },
+
+        {
+          "title": "Duolingo - Russian",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 838
+        },
+
+        {
+          "title": "TORFL vocabulary - A2",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 232
+        },
+
+        {
+          "title": "Russe - Cahier d'exercices. Débutants",
+          "completionDate": "2024-11-10",
+          "url": "https://www.assimil.it/-300-russe-cahier-d-exercices-debutants-",
+          "kind": "Book",
+          "minutes": 243
+        }
+      ],
+      "Hindi": [],
+      "Arabic": [],
+      "Chinese": [
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 1543
+        },
+
+        {
+          "title": "Immersive Chinese",
+          "completionDate": "2025-07-15",
+          "url": "https://www.immersivechinese.com/",
+          "kind": "App",
+          "minutes": 1197
+        },
+
+        {
+          "title": "Pinyin Trainer",
+          "url": "https://play.google.com/store/apps/details?id=com.molatra.pinyintrainer",
+          "kind": "App",
+          "minutes": 45
+        }
+      ],
+      "Hebrew": [],
+      "Korean": [],
+      "Hungarian": [
+        {
+          "title": "Duolingo - Hungarian",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 741
+        },
+
+        {
+          "title": "Grammatica ungherese di base",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-ungherese-di-base-alexandra-foresto/9788820375423/1096",
+          "kind": "Book",
+          "minutes": 467
+        }
+      ]
+    },
+    "Law": {
+      "National Laws": [],
+      "International Agreements": []
+    }
+  }
+}
