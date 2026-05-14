@@ -18,36 +18,61 @@
           {
             "title": "velvet",
             "url": "https://github.com/giancosta86/velvet",
-            "minutes": 11639
+            "minutes": 19851
           },
 
           {
             "title": "ethereal",
             "url": "https://github.com/giancosta86/ethereal",
-            "minutes": 9877
+            "minutes": 16545
           },
 
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 5200
+            "minutes": 900
           },
 
           {
             "title": "epm-plus",
             "url": "https://github.com/giancosta86/epm-plus",
-            "minutes": 940
+            "minutes": 2583
+          },
+
+          {
+            "title": "primrose",
+            "url": "https://github.com/giancosta86/primrose",
+            "minutes": 2691
+          },
+
+          {
+            "title": "astral-bridge",
+            "url": "https://github.com/giancosta86/astral-bridge",
+            "minutes": 1561
+          },
+
+          {
+            "title": "elvish-icons",
+            "url": "https://github.com/giancosta86/elvish-icons",
+            "minutes": 291
           }
         ],
         "GitHub Actions": [
           {
             "title": "aurora-github",
             "url": "https://github.com/giancosta86/aurora-github",
-            "minutes": 2057
+            "minutes": 6357
           }
         ],
         "Java": [],
-        "NodeJS": []
+        "NodeJS": [],
+        "HTML": [
+          {
+            "title": "Elvish website",
+            "url": "https://github.com/elves/elvish",
+            "minutes": 82
+          }
+        ]
       },
 
       "Educational": {
@@ -503,7 +528,42 @@
                 "minutes": 32
               }
             ],
-            "Docker": [],
+            "Docker": [
+              {
+                "completionDate": "2026-11-27",
+                "title": "Getting Started with Docker",
+                "url": "https://www.pluralsight.com/courses/docker-getting-started-2023",
+                "minutes": 98
+              },
+
+              {
+                "completionDate": "2026-11-28",
+                "title": "Building and Running Your First Docker App",
+                "url": "https://www.pluralsight.com/courses/docker-building-running-first-app",
+                "minutes": 129
+              },
+
+              {
+                "completionDate": "2026-11-29",
+                "title": "Building and Orchestrating Containers with Docker Compose",
+                "url": "https://www.pluralsight.com/courses/docker-compose-building-orchestrating-containers",
+                "minutes": 98
+              },
+
+              {
+                "completionDate": "2026-11-30",
+                "title": "Developing Docker Apps: Core Principles",
+                "url": "https://www.pluralsight.com/courses/docker-apps-developing-core-principles-2023",
+                "minutes": 168
+              },
+
+              {
+                "completionDate": "2026-12-04",
+                "title": "Deploying Containerized Applications",
+                "url": "https://www.pluralsight.com/courses/deploying-containerized-applications",
+                "minutes": 178
+              }
+            ],
             "Java": [],
             ".NET": [],
             "Elm": [],
@@ -521,7 +581,42 @@
 
           "Progressive Web Apps": [],
 
-          "GitHub Actions": [],
+          "GitHub Actions": [
+            {
+              "completionDate": "2026-11-16",
+              "title": "GitHub Actions: The Big Picture",
+              "url": "https://www.pluralsight.com/courses/github-actions-big-picture",
+              "minutes": 42
+            },
+
+            {
+              "completionDate": "2026-11-18",
+              "title": "Authoring and Maintaining GitHub Actions Workflows",
+              "url": "https://www.pluralsight.com/courses/github-actions-authoring-maintaining-workflows",
+              "minutes": 123
+            },
+
+            {
+              "completionDate": "2026-11-23",
+              "title": "Consuming GitHub Actions Workflows",
+              "url": "https://www.pluralsight.com/courses/consuming-github-actions-workflows",
+              "minutes": 107
+            },
+
+            {
+              "completionDate": "2026-11-24",
+              "title": "Authoring and Maintaining GitHub Actions",
+              "url": "https://www.pluralsight.com/courses/authoring-maintaining-github-actions",
+              "minutes": 94
+            },
+
+            {
+              "completionDate": "2026-11-25",
+              "title": "Managing GitHub Actions",
+              "url": "https://www.pluralsight.com/courses/managing-github-actions",
+              "minutes": 78
+            }
+          ],
           "Jenkins": [],
           "Octopus": [],
           "Travis": [],
@@ -573,7 +668,7 @@
             "Linux": [
               {
                 "title": "Linux maintenance",
-                "minutes": 67
+                "minutes": 262
               }
             ],
             "Windows": []
@@ -583,8 +678,22 @@
 
         "Frontend": {
           "Principles": [],
-          "React": [],
-          "Vue": [],
+          "React": [
+            {
+              "completionDate": "2026-05-13",
+              "title": "Learn React JS - Full Beginner’s Tutorial & Practice Projects",
+              "url": "https://youtu.be/x4rFhThSX04",
+              "minutes": 940
+            }
+          ],
+          "Vue": [
+            {
+              "completionDate": "2026-03-19",
+              "title": "Curso de Vue 3 profesional",
+              "url": "https://youtube.com/playlist?list=PLDllzmccetSNgykILXnHMeuO-y-gRcF-i",
+              "minutes": 2845
+            }
+          ],
           "Angular": [
             {
               "completionDate": "2025-05-15",
@@ -728,7 +837,14 @@
           "Desktop Apps": {
             "Electron": []
           },
-          "GraphQL": [],
+          "GraphQL": [
+            {
+              "completionDate": "2026-02-25",
+              "title": "Dominando GraphQL: Curso Completo Para Desarrolladores",
+              "url": "https://youtu.be/Y-KDpO24RC4",
+              "minutes": 241
+            }
+          ],
           "HTML": [],
           "NextJS": [],
           "DOM": []
@@ -947,7 +1063,7 @@
           "title": "Che cos'è la matematica?",
           "url": "https://www.google.it/books/edition/Che_cos_%C3%A8_la_matematica/mlc6DwAAQBAJ",
           "kind": "Book",
-          "minutes": 7404
+          "minutes": 8585
         }
       ],
       "Logic": {
@@ -955,7 +1071,7 @@
           {
             "title": "Math problems and puzzles",
             "kind": "Exercises",
-            "minutes": 3086
+            "minutes": 4085
           }
         ],
         "Chess": [
@@ -963,7 +1079,14 @@
             "title": "Duolingo - Chess",
             "url": "https://www.duolingo.com",
             "kind": "App",
-            "minutes": 12
+            "minutes": 990
+          },
+
+          {
+            "title": "Checkmate",
+            "url": "https://www.duolingo.com",
+            "kind": "App",
+            "minutes": 248
           }
         ]
       },
@@ -1002,6 +1125,105 @@
     },
     "Physics": [],
     "Astronomy": [],
+    "Crafting": {
+      "Woodcraft": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 1414
+        }
+      ],
+
+      "Fuse beads 2.6mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 3343
+        }
+      ],
+
+      "Fuse beads 5mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 2384
+        }
+      ],
+
+      "Crochet": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 840
+        }
+      ],
+
+      "Knitting needles": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 450
+        }
+      ],
+
+      "Knitting looms": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 2023
+        }
+      ],
+
+      "Embroidery": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 675
+        }
+      ],
+
+      "Sewing": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 445
+        }
+      ],
+
+      "Macramé": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 1392
+        }
+      ],
+
+      "Elastic bracelets": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 650
+        }
+      ],
+
+      "Kumihimo bracelets": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 248
+        }
+      ],
+
+      "Quilling": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 778
+        }
+      ],
+
+      "Construction blocks": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 4180
+        }
+      ],
+
+      "Puzzles": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 1258
+        }
+      ]
+    },
     "Further Domains": {
       "Electronics": {
         "Principles": [],
@@ -1010,28 +1232,7 @@
       },
       "Ecology": [],
       "Biology": [],
-      "Crafts": [
-        {
-          "title": "Marble balls circuit",
-          "completionDate": "2025-09-19",
-          "kind": "Wooden construction puzzle",
-          "minutes": 884
-        },
-
-        {
-          "title": "Flying car",
-          "completionDate": "2025-09-28",
-          "kind": "Wooden construction puzzle",
-          "minutes": 433
-        },
-
-        {
-          "title": "Perpetual calendar",
-          "completionDate": "2025-09-25",
-          "kind": "Wooden construction puzzle",
-          "minutes": 97
-        }
-      ],
+      "Crafts": [],
       "Marketing": [],
       "Management": [],
       "Economy & Finance": [],
@@ -1069,7 +1270,7 @@
           "Gimp": [
             {
               "title": "Miscellaneous",
-              "minutes": 79
+              "minutes": 199
             }
           ]
         },
@@ -1087,11 +1288,48 @@
           "url": "https://www.rugginenti.it/website/it/edizioni/item/3724-abc-musica-manuale-di-teoria-musicale",
           "kind": "Book",
           "minutes": 238
+        },
+
+        {
+          "title": "Duolingo - Music",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 86
         }
       ],
-      "Video": [],
+      "Video": [
+        {
+          "title": "È il sublime un castano drago",
+          "completionDate": "2026-02-13",
+          "url": "https://youtu.be/qyC-ht9UfoU",
+          "kind": "Song video",
+          "minutes": 2040
+        },
+
+        {
+          "title": "Celeste drago",
+          "completionDate": "2025-07-31",
+          "url": "https://youtu.be/DvND40TFdZQ",
+          "kind": "Song video",
+          "minutes": 1511
+        }
+      ],
       "Poetry": {
         "Arcadia": [
+          {
+            "title": "Il discorso dell'orribile mummia",
+            "url": "https://gianlucacosta.info/arcadia/discorso-mummia",
+            "kind": "Poem",
+            "minutes": 1750
+          },
+
+          {
+            "title": "La coalizione dei depravati",
+            "url": "https://gianlucacosta.info/arcadia/coalizione-depravati",
+            "kind": "Poem",
+            "minutes": 1710
+          },
+
           {
             "title": "La strega Ùrsula",
             "url": "https://gianlucacosta.info/arcadia/strega-ursula",
@@ -1100,18 +1338,25 @@
           },
 
           {
-            "title": "Celeste drago",
-            "completionDate": "2025-07-31",
-            "url": "https://youtu.be/DvND40TFdZQ",
-            "kind": "Song video",
-            "minutes": 1511
-          },
-
-          {
             "title": "I giornazisti",
             "url": "https://gianlucacosta.info/arcadia/giornazisti",
             "kind": "Poem",
             "minutes": 949
+          }
+        ],
+        "Dante": [
+          {
+            "title": "Inferno",
+            "url": "https://www.mondadoristore.it/la-divina-commedia-inferno-libro-dante-alighieri/p/9788804671657",
+            "kind": "Poem",
+            "minutes": 4440
+          },
+
+          {
+            "title": "Purgatorio",
+            "url": "https://www.mondadoristore.it/la-divina-commedia-purgatorio-libro-dante-alighieri/p/9788804671640",
+            "kind": "Poem",
+            "minutes": 2280
           }
         ]
       },
@@ -1131,7 +1376,7 @@
         {
           "title": "Ruso Artístico",
           "kind": "Book",
-          "minutes": 1825
+          "minutes": 1125
         },
 
         {
@@ -1146,14 +1391,61 @@
           "title": "ConjuGato",
           "url": "https://qotoqot.com/conjugato/",
           "kind": "App",
-          "minutes": 40
+          "minutes": 48
         }
       ],
       "Russian": [
         {
+          "title": "Grammatica russa - Zip",
+          "completionDate": "2025-12-31",
+          "url": "https://www.google.it/books/edition/Grammatica_russa/u5TtsWpOhvQC",
+          "kind": "Book",
+          "minutes": 410
+        },
+
+        {
+          "title": "Grammatica d'uso della lingua russa - A2",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-duso-della-lingua-russa-a2-natalia-nikitina/9788820388089/1470",
+          "kind": "Book",
+          "minutes": 1428
+        },
+
+        {
+          "title": "Grammatica d'uso della lingua russa - A1",
+          "completionDate": "2026-04-25",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-duso-della-lingua-russa-a1-natalia-nikitina/9788820381905/1290",
+          "kind": "Book",
+          "minutes": 1767
+        },
+
+        {
+          "title": "Assimil - Russo - B2",
+          "completionDate": "2026-04-14",
+          "url": "https://www.assimil.it/-648-il-russo-collana-senza-sforzo-mp3",
+          "kind": "Multimedia",
+          "minutes": 2339
+        },
+
+        {
+          "title": "Ax, kak procto!",
+          "completionDate": "2026-02-27",
+          "url": "https://hoeplieditore.it/universita/articolo/ax-kak-procto-russo-semplice-e-veloce-iuliia-kucherovska/9788820385446/1394",
+          "kind": "Book",
+          "minutes": 5013
+        },
+
+        {
+          "title": "Russe - Cahier d'exercices. Intermédiaire",
+          "completionDate": "2025-12-28",
+          "url": "https://www.assimil.it/-301-cahier-d-exercices-russe-intermediaire",
+          "kind": "Book",
+          "minutes": 1295
+        },
+
+        {
           "title": "Ruso Artístico",
           "kind": "Book",
-          "minutes": 17000
+          "minutes": 20808
         },
 
         {
@@ -1166,16 +1458,17 @@
 
         {
           "title": "Bcë tak!",
+          "completionDate": "2025-12-19",
           "url": "https://www.hoeplieditore.it/universita/articolo/vse-tak-grammatica-e-lessico-della-lingua-russa-daniela-bonciani/9788820385699/1854",
           "kind": "Book",
-          "minutes": 4351
+          "minutes": 8717
         },
 
         {
           "title": "TORFL vocabulary - B2",
           "url": "https://www.ros-edu.ru/basic-dictionary",
           "kind": "Multimedia",
-          "minutes": 2809
+          "minutes": 7623
         },
 
         {
@@ -1190,14 +1483,14 @@
           "title": "Russo - 9000 parole",
           "url": "https://tpbooks.com/product/italy_rus_9000/",
           "kind": "Book",
-          "minutes": 870
+          "minutes": 3780
         },
 
         {
           "title": "TORFL vocabulary - A1",
           "url": "https://www.ros-edu.ru/basic-dictionary",
           "kind": "Multimedia",
-          "minutes": 752
+          "minutes": 782
         },
 
         {
@@ -1211,7 +1504,7 @@
           "title": "Duolingo - Russian",
           "url": "https://www.duolingo.com",
           "kind": "App",
-          "minutes": 838
+          "minutes": 1289
         },
 
         {
@@ -1236,39 +1529,45 @@
           "title": "SuperChinese",
           "url": "https://www.superchinese.com/",
           "kind": "App",
-          "minutes": 1543
+          "minutes": 3190
         },
 
         {
           "title": "Immersive Chinese",
-          "completionDate": "2025-07-15",
           "url": "https://www.immersivechinese.com/",
           "kind": "App",
-          "minutes": 1197
+          "minutes": 2745
         },
 
         {
           "title": "Pinyin Trainer",
           "url": "https://play.google.com/store/apps/details?id=com.molatra.pinyintrainer",
           "kind": "App",
-          "minutes": 45
+          "minutes": 52
         }
       ],
       "Hebrew": [],
       "Korean": [],
       "Hungarian": [
         {
+          "title": "Assimil - Ungherese - B2",
+          "url": "https://www.assimil.it/-888-l-ungherese-collana-senza-sforzo-mp3",
+          "kind": "Multimedia",
+          "minutes": 664
+        },
+
+        {
           "title": "Duolingo - Hungarian",
           "url": "https://www.duolingo.com",
           "kind": "App",
-          "minutes": 741
+          "minutes": 2552
         },
 
         {
           "title": "Grammatica ungherese di base",
           "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-ungherese-di-base-alexandra-foresto/9788820375423/1096",
           "kind": "Book",
-          "minutes": 467
+          "minutes": 488
         }
       ]
     },

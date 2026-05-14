@@ -11,7 +11,8 @@
         "Elvish": [],
         "GitHub Actions": [],
         "Java": [],
-        "NodeJS": []
+        "NodeJS": [],
+        "HTML": []
       },
 
       "Educational": {
@@ -379,6 +380,22 @@
     },
     "Physics": [],
     "Astronomy": [],
+    "Crafting": {
+      "Woodcraft": [],
+      "Fuse beads 2.6mm": [],
+      "Fuse beads 5mm": [],
+      "Crochet": [],
+      "Knitting needles": [],
+      "Knitting looms": [],
+      "Embroidery": [],
+      "Sewing": [],
+      "Macramé": [],
+      "Elastic bracelets": [],
+      "Kumihimo bracelets": [],
+      "Quilling": [],
+      "Construction blocks": [],
+      "Puzzles": []
+    },
     "Further Domains": {
       "Electronics": {
         "Principles": [],
@@ -387,7 +404,6 @@
       },
       "Ecology": [],
       "Biology": [],
-      "Crafts": [],
       "Marketing": [],
       "Management": [],
       "Economy & Finance": [],
