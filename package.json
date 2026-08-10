@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/gcwebsite",
-  "version": "15.5.0",
+  "version": "15.6.0",
   "description": "Personal website",
   "homepage": "https://gianlucacosta.info/",
   "bugs": "https://github.com/giancosta86/giancosta86.github.io/issues",
@@ -54,8 +54,9 @@
     "typescript": "^4.6.4"
   },
   "engines": {
-    "node": ">=24.15.0"
+    "node": "26.2.0"
   },
+  "packageManager": "pnpm@10.22.0",
   "private": true,
   "watch": {
     "build-cv-css": "cv/cv.scss",
