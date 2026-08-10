@@ -10,6 +10,9 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v7
 
