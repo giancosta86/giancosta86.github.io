@@ -14,5 +14,3 @@ jobs:
       - uses: actions/checkout@v7
 
       - uses: giancosta86/aurora-github/actions/verify-npm-package@v11
-        with:
-          check-license: false
