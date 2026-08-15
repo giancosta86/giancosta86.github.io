@@ -1,14 +1,13 @@
-name: Publish
+name: Deploy
 
 on:
   pull_request:
-    types: [closed]
+    types: closed
     branches: main
 
-  workflow_dispatch:
-
 jobs:
-  publish:
+  publish-website:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-24.04
     permissions:
       pages: write
