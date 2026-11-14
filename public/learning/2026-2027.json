@@ -7,12 +7,166 @@
         "React": [],
         "DOM": [],
         "Elm": [],
-        "Bash": [],
-        "Elvish": [],
-        "GitHub Actions": [],
+        "Bash": [
+          {
+            "title": "sdkman-cli",
+            "url": "https://github.com/sdkman/sdkman-cli",
+            "minutes": 153
+          }
+        ],
+        "Elvish": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 4050
+          },
+
+          {
+            "title": "ethereal",
+            "url": "https://github.com/giancosta86/ethereal",
+            "minutes": 6010
+          },
+
+          {
+            "title": "gauntlet",
+            "url": "https://github.com/giancosta86/gauntlet",
+            "minutes": 2075
+          },
+
+          {
+            "title": "astral-bridge",
+            "url": "https://github.com/giancosta86/astral-bridge",
+            "minutes": 1793
+          },
+
+          {
+            "title": "velvet",
+            "url": "https://github.com/giancosta86/velvet",
+            "minutes": 1774
+          },
+
+          {
+            "title": "epm-plus",
+            "url": "https://github.com/giancosta86/epm-plus",
+            "minutes": 286
+          },
+
+          {
+            "title": "starlight",
+            "url": "https://github.com/giancosta86/starlight",
+            "minutes": 218
+          },
+
+          {
+            "title": "primrose",
+            "url": "https://github.com/giancosta86/primrose",
+            "minutes": 103
+          }
+        ],
+        "GitHub Actions": [
+          {
+            "title": "aurora-github",
+            "url": "https://github.com/giancosta86/aurora-github",
+            "minutes": 7272
+          }
+        ],
         "Java": [],
+        "Groovy": [],
+        "Scala": [
+          {
+            "title": "eighth-bridge",
+            "url": "https://github.com/giancosta86/eighth-bridge",
+            "minutes": 13756
+          },
+
+          {
+            "title": "graphsj-scenarios",
+            "url": "https://github.com/giancosta86/graphsj-scenarios",
+            "minutes": 4061
+          },
+
+          {
+            "title": "knapscal",
+            "url": "https://github.com/giancosta86/knapscal",
+            "minutes": 1700
+          },
+
+          {
+            "title": "graphsj",
+            "url": "https://github.com/giancosta86/graphsj",
+            "minutes": 310
+          },
+
+          {
+            "title": "graphsj-sdk",
+            "url": "https://github.com/giancosta86/graphsj-sdk",
+            "minutes": 278
+          },
+
+          {
+            "title": "omni-editor",
+            "url": "https://github.com/giancosta86/omni-editor",
+            "minutes": 63
+          },
+
+          {
+            "title": "helios-core",
+            "url": "https://github.com/giancosta86/helios-core",
+            "minutes": 35
+          },
+
+          {
+            "title": "helios-fx",
+            "url": "https://github.com/giancosta86/helios-fx",
+            "minutes": 11
+          }
+        ],
+        "Maven": [
+          {
+            "title": "aurora",
+            "url": "https://github.com/giancosta86/aurora",
+            "minutes": 1916
+          }
+        ],
         "NodeJS": [],
-        "HTML": []
+        "HTML": [],
+        "Python": [
+          {
+            "title": "moondeploy",
+            "url": "https://github.com/giancosta86/moondeploy",
+            "minutes": 770
+          },
+
+          {
+            "title": "eos-core",
+            "url": "https://github.com/giancosta86/eos-core",
+            "minutes": 757
+          },
+
+          {
+            "title": "iris",
+            "url": "https://github.com/giancosta86/iris",
+            "minutes": 363
+          },
+
+          {
+            "title": "cervantes",
+            "url": "https://github.com/giancosta86/cervantes",
+            "minutes": 321
+          },
+
+          {
+            "title": "wikiprism",
+            "url": "https://github.com/giancosta86/wikiprism",
+            "minutes": 251
+          },
+
+          {
+            "title": "jardinero",
+            "url": "https://github.com/giancosta86/jardinero",
+            "minutes": 144
+          }
+        ]
       },
 
       "Educational": {
@@ -32,7 +186,14 @@
           "Elvish": [],
           "Nushell": [],
           "Elm": [],
-          "Rust": [],
+          "Rust": [
+            {
+              "completionDate": "2026-07-06",
+              "title": "Learn Rust Programming - Complete Course",
+              "url": "https://youtu.be/BpPEoZW5IiY",
+              "minutes": 839
+            }
+          ],
           "Elixir": [],
           "C": [],
           "C++": [],
@@ -185,7 +346,14 @@
             ".NET": [],
             "Elm": [],
             "Rust": [],
-            "Maven": [],
+            "Maven": [
+              {
+                "completionDate": "2026-09-16",
+                "title": "Maven - Full course",
+                "url": "https://youtu.be/qNNlBT99jjs",
+                "minutes": 294
+              }
+            ],
             "Gradle": [],
             "SBT": [],
             "Gulp.js": [],
@@ -233,7 +401,12 @@
           "Kubernetes": [],
           "IoT": [],
           "Operating Systems": {
-            "Linux": [],
+            "Linux": [
+              {
+                "title": "Linux maintenance",
+                "minutes": 260
+              }
+            ],
             "Windows": []
           },
           "Telemetry": []
@@ -241,7 +414,14 @@
 
         "Frontend": {
           "Principles": [],
-          "React": [],
+          "React": [
+            {
+              "completionDate": "2026-06-13",
+              "title": "React Router 6 – Full Course",
+              "url": "https://youtu.be/nDGA3km5He4",
+              "minutes": 584
+            }
+          ],
           "Vue": [],
           "Angular": [],
           "AngularJS": [],
@@ -265,7 +445,15 @@
           "Rendering": [],
           "Accessibility": [],
           "Desktop Apps": {
-            "Electron": []
+            "Electron": [],
+            "Neutralino": [
+              {
+                "title": "Neutralino - Documentation",
+                "url": "https://neutralino.js.org/",
+                "kind": "Website",
+                "minutes": 73
+              }
+            ]
           },
           "GraphQL": [],
           "HTML": [],
@@ -295,21 +483,7 @@
           "Cryptography": [],
           "Microservices": [],
           "Blockchain": [],
-          "Frontend": [
-            {
-              "completionDate": "2025-06-30",
-              "title": "Secure Coding in Angular",
-              "url": "https://www.pluralsight.com/courses/angular-owasp-secure-coding",
-              "minutes": 176
-            },
-
-            {
-              "completionDate": "2025-07-05",
-              "title": "Authentication and Authorization in Angular",
-              "url": "https://www.pluralsight.com/courses/authentication-authorization-angular",
-              "minutes": 134
-            }
-          ],
+          "Frontend": [],
           "Amazon Web Services": [],
           "Azure": [],
           "NodeJS": [],
@@ -371,35 +545,119 @@
     "Mathematics": {
       "Principles": [],
       "Logic": {
-        "Puzzles": [],
+        "Puzzles": [
+          {
+            "title": "Math problems and puzzles",
+            "kind": "Exercises",
+            "minutes": 2962
+          },
+
+          {
+            "title": "DROD - King Dugan's Dungeon",
+            "url": "https://caravelgames.com/Articles/Games_2/KDD.html",
+            "kind": "App",
+            "minutes": 833
+          }
+        ],
         "Chess": []
       },
       "Algebra": [],
-      "Geometry": [],
+      "Geometry": [
+        {
+          "title": "eighth-bridge",
+          "url": "https://github.com/giancosta86/eighth-bridge",
+          "minutes": 930
+        }
+      ],
       "Cryptography": []
     },
     "Physics": [],
     "Astronomy": [],
     "Crafting": {
       "Woodcraft": [],
-      "Beads 2mm": [],
-      "Fuse beads 2.6mm": [],
-      "Beads 3mm": [],
-      "Beads 4mm": [],
-      "Fuse beads 5mm": [],
-      "Crochet": [],
+      "Beads 2mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 148
+        }
+      ],
+      "Fuse beads 2.6mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 5452
+        }
+      ],
+      "Beads 3mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 548
+        }
+      ],
+      "Beads 4mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 97
+        }
+      ],
+      "Fuse beads 5mm": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 3726
+        }
+      ],
+      "Crochet": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 7265
+        }
+      ],
       "Tunisian crochet": [],
-      "Knitting needles": [],
-      "Knitting looms": [],
+      "Knitting needles": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 1786
+        }
+      ],
+      "Knitting looms": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 5185
+        }
+      ],
       "Frivolité": [],
       "Weaving": [],
       "Embroidery": [],
-      "Sewing": [],
-      "Macramé": [],
-      "Elastic looms": [],
+      "Sewing": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 167
+        }
+      ],
+      "Macramé": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 120
+        }
+      ],
+      "Elastic looms": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 92
+        }
+      ],
       "Kumihimo looms": [],
-      "Quilling": [],
-      "Construction blocks": [],
+      "Quilling": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 103
+        }
+      ],
+      "Construction blocks": [
+        {
+          "title": "Cumulative experience",
+          "minutes": 9033
+        }
+      ],
       "Puzzles": []
     },
     "Further Domains": {
@@ -444,7 +702,12 @@
       "Visual": {
         "Computer Graphics": {
           "Inkscape": [],
-          "Gimp": []
+          "Gimp": [
+            {
+              "title": "Miscellaneous",
+              "minutes": 57
+            }
+          ]
         },
         "Diagrams": {
           "Dia": [],
@@ -457,28 +720,175 @@
       "Music": [],
       "Video": [],
       "Poetry": {
-        "Arcadia": []
+        "Arcadia": [
+          {
+            "title": "Fragole e baffi",
+            "url": "https://gianlucacosta.info/arcadia/fragole-baffi",
+            "kind": "Poem",
+            "minutes": 981
+          }
+        ],
+        "Dante": [
+          {
+            "title": "Inferno",
+            "url": "https://www.mondadoristore.it/la-divina-commedia-inferno-libro-dante-alighieri/p/9788804671657",
+            "kind": "Poem",
+            "minutes": 3060
+          },
+
+          {
+            "title": "Purgatorio",
+            "url": "https://www.mondadoristore.it/la-divina-commedia-purgatorio-libro-dante-alighieri/p/9788804671640",
+            "kind": "Poem",
+            "minutes": 4260
+          },
+
+          {
+            "title": "Paradiso",
+            "url": "https://www.mondadoristore.it/la-divina-commedia-paradiso-libro-dante-alighieri/p/9788804671633",
+            "kind": "Poem",
+            "minutes": 6915
+          }
+        ]
       },
       "Literature": {
-        "Dante": [],
+        "Dante": [
+          {
+            "title": "Dante",
+            "completionDate": "2026-09-01",
+            "url": "https://www.tealibri.it/libri/giampaolo-dossena-dante-9788850258567",
+            "kind": "Book",
+            "minutes": 604
+          },
+
+          {
+            "title": "Dante - Il romanzo della sua vita",
+            "completionDate": "2026-09-11",
+            "url": "https://books.google.it/books/about/Dante.html?id=ihP0mgEACAAJ",
+            "kind": "Book",
+            "minutes": 815
+          }
+        ],
         "Victor Hugo": [],
         "Pierre Corneille": [],
         "Hellenism": []
       }
     },
     "Philosophy": [],
+    "History": [
+      {
+        "title": "Storia antica e medievale - Volume 1",
+        "completionDate": "2026-08-22",
+        "url": "https://www.abebooks.com/9788841630433/Storia-antica-medievale-Scuole-Vol-8841630434/plp",
+        "kind": "Book",
+        "minutes": 1379
+      },
+
+      {
+        "title": "Storia antica e medievale - Volume 2",
+        "completionDate": "2026-09-01",
+        "url": "https://www.abebooks.it/9788841630440/Storia-antica-medievale-Scuole-Vol-8841630442/plp",
+        "kind": "Book",
+        "minutes": 1071
+      },
+
+      {
+        "title": "Gli imperi che non furono",
+        "url": "https://www.amazon.it/Gli-imperi-che-furono-controfattuali-ebook/dp/B0HBKMLVFB",
+        "kind": "Book",
+        "minutes": 851
+      },
+
+      {
+        "title": "Storia d'Europa dalle invasioni al XVI secolo",
+        "url": "https://www.google.it/books/edition/Storia_d_Europa_dalle_invasioni_al_XVI_s/_m4QRAAACAAJ",
+        "kind": "Book",
+        "minutes": 570
+      }
+    ],
     "Languages": {
       "English": [],
       "French": [],
       "Portuguese": [],
-      "Spanish": [],
-      "Russian": [],
+      "Spanish": [
+        {
+          "title": "Duolingo - Spanish",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 87
+        },
+
+        {
+          "title": "Duolingo - Russian (in Spanish)",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 409
+        }
+      ],
+      "Russian": [
+        {
+          "title": "Grammatica d'uso della lingua russa - A2",
+          "completionDate": "2026-07-29",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-duso-della-lingua-russa-a2-natalia-nikitina/9788820388089/1470",
+          "kind": "Book",
+          "minutes": 4182
+        },
+
+        {
+          "title": "Duolingo - Russian (in Spanish)",
+          "url": "https://www.duolingo.com",
+          "kind": "App",
+          "minutes": 1500
+        },
+
+        {
+          "title": "TORFL vocabulary - B2",
+          "url": "https://www.ros-edu.ru/basic-dictionary",
+          "kind": "Multimedia",
+          "minutes": 844
+        },
+
+        {
+          "title": "Grammatica russa - Manuale di teoria",
+          "url": "https://www.hoeplieditore.it/universita/articolo/grammatica-russa-manuale-di-teoria-claudia-cevese/9788820385439/1393",
+          "kind": "Book",
+          "minutes": 587
+        },
+
+        {
+          "title": "Ruso Artístico",
+          "kind": "Book",
+          "minutes": 199
+        }
+      ],
       "Hindi": [],
       "Arabic": [],
-      "Chinese": [],
+      "Chinese": [
+        {
+          "title": "SuperChinese",
+          "url": "https://www.superchinese.com/",
+          "kind": "App",
+          "minutes": 1145
+        },
+
+        {
+          "title": "Immersive Chinese",
+          "url": "https://www.immersivechinese.com/",
+          "kind": "App",
+          "minutes": 1340
+        }
+      ],
       "Hebrew": [],
       "Korean": [],
-      "Hungarian": []
+      "Hungarian": [],
+      "Latin": [
+        {
+          "title": "Domus",
+          "completionDate": "2026-07-21",
+          "kind": "Book",
+          "minutes": 913
+        }
+      ]
     },
     "Law": {
       "National Laws": [],
